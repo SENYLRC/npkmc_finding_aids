@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
+<ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
 
 <!--Header portion of EAD -->
 <eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
@@ -75,8 +75,7 @@
 </frontmatter>
 <archdesc level="collection" relatedencoding="MARC">
   <did>
-    <head>Descriptive Summary</head>
-    <unittitle encodinganalog="245$a" label="title">Scenic Hudson Collection: Records relating to the Storm King Case, 1963-1981</unittitle>
+    <unittitle>Scenic Hudson Collection: Records relating to the Storm King Case, 1963-1981</unittitle>
     <unitdate type="inclusive" encodinganalog="245$f" normal="1963/1981">1963-1981</unitdate>
     <origination encodinganalog="110" label="creator">
       <corpname>Scenic Hudson, Inc.</corpname>

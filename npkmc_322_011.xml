@@ -682,7 +682,7 @@
 					<did>
 						<unitid>1.5</unitid>
 						<unittitle>Willis L.M. Reese</unittitle>
-						<unitdate normal="1938/1942">1902- 1997</unitdate>
+						<unitdate normal="1902/1997">1902- 1997</unitdate>
 						<physdesc>
 							<extent type="boxes">Boxes: 3 - 6</extent>
 							<extent type="folders">Folders: 10 - 32, 1 - 47, 1 - 18, 1 - 30</extent>
@@ -1290,7 +1290,7 @@
 						<did>
 							<unitid>1.5.5</unitid>
 							<unittitle>Clubs and speeches</unittitle>
-							<unitdate normal="2000">1938 - 1970</unitdate>
+							<unitdate normal="1938/1970">1938 - 1970</unitdate>
 							<physdesc>
 								<extent type="boxes">Box: 4</extent>
 								<extent type="folders">Folders: 37 - 47</extent>
@@ -1837,7 +1837,7 @@
 					<did>
 						<unitid>1.6</unitid>
 						<unittitle>Frances Stevens Reese</unittitle>
-						<unitdate normal="2000">1965 - 2003</unitdate>
+						<unitdate normal="1965/2003">1965 - 2003</unitdate>
 						<physdesc>
 							<extent type="boxes">Boxes: 6 - 14</extent>
 							<extent type="folders">Folders: 31 - 47, 1 - 26, 1 - 14, 1 - 18, 1 - 26,
@@ -1855,7 +1855,7 @@
 						<did>
 							<unitid>1.6.1</unitid>
 							<unittitle>Correspondence</unittitle>
-							<unitdate normal="2000">1966 - 2003</unitdate>
+							<unitdate normal="1966/2003">1966 - 2003</unitdate>
 							<physdesc>
 								<extent type="boxes">Boxes: 6 - 7</extent>
 								<extent type="folders">Folders: 31 - 47, 1 -12</extent>
@@ -2174,7 +2174,7 @@
 						<did>
 							<unitid>1.6.3</unitid>
 							<unittitle>Clubs</unittitle>
-							<unitdate normal="2000">1937 - 2002</unitdate>
+							<unitdate normal="1937/2002">1937 - 2002</unitdate>
 							<physdesc>
 								<extent type="boxes">Box: 7</extent>
 								<extent type="folders">Folders: 20 - 26</extent>
@@ -4928,7 +4928,7 @@
 					<did>
 						<unitid>2.2</unitid>
 						<unittitle>Peter Mesier</unittitle>
-						<unitdate normal="2000">1790 - 1819</unitdate>
+						<unitdate normal="1790/1819">1790 - 1819</unitdate>
 						<physdesc>
 							<extent type="boxes">Box: 20</extent>
 							<extent type="folders">Folders: 1 - 8</extent>
@@ -5190,7 +5190,7 @@
 					<did>
 						<unitid>2.4</unitid>
 						<unittitle>Other family members</unittitle>
-						<unitdate normal="2000">1781 - 1884</unitdate>
+						<unitdate normal="1781/1884">1781 - 1884</unitdate>
 						<physdesc>
 							<extent type="boxes">Box: 20</extent>
 							<extent type="folders">Folders: 31 - 44</extent>
@@ -5708,7 +5708,7 @@
 					<did>
 						<unitid>3.1</unitid>
 						<unittitle>Correspondence</unittitle>
-						<unitdate normal="2000">1831 - 1880</unitdate>
+						<unitdate normal="1831/1880">1831 - 1880</unitdate>
 						<physdesc>
 							<extent type="boxes">Boxes: 23</extent>
 							<extent type="folders">Folders: 4 - 20</extent>
@@ -5856,7 +5856,7 @@
 					<did>
 						<unitid>3.2</unitid>
 						<unittitle>Francis Willis</unittitle>
-						<unitdate normal="2000">1861 - 1870</unitdate>
+						<unitdate normal="1861/1870">1861 - 1870</unitdate>
 						<physdesc>
 							<extent type="boxes">Boxes: 23 - 24</extent>
 							<extent type="folders">Folders: 21 - 26, 1 - 10</extent>
@@ -6368,7 +6368,7 @@
 					<did>
 						<unitid>4.2</unitid>
 						<unittitle>4.2: Ebenezer Stevens</unittitle>
-						<unitdate normal="2000">1763 - 1839</unitdate>
+						<unitdate normal="1763/1839">1763 - 1839</unitdate>
 						<physdesc>
 							<extent type="boxes">Boxes: 27</extent>
 							<extent type="folders">Folders: 10 - 62, 1 - 61, 1 - 8</extent>
@@ -6385,7 +6385,7 @@
 						<did>
 							<unitid>4.2.1</unitid>
 							<unittitle>Official Documents</unittitle>
-							<unitdate normal="2000">1791 - 1805</unitdate>
+							<unitdate normal="1791/1805">1791 - 1805</unitdate>
 							<physdesc>
 								<extent type="boxes">Box: 27</extent>
 								<extent type="folders">Folders: 10 - 13</extent>
@@ -8210,7 +8210,7 @@
 						<did>
 							<unitid>4.6.2</unitid>
 							<unittitle>Business and finance</unittitle>
-							<unitdate normal="2000">1857 - 1974</unitdate>
+							<unitdate normal="1857/1974">1857 - 1974</unitdate>
 							<physdesc>
 								<extent type="boxes">Boxes: 32 - 39</extent>
 								<extent type="folders">Folders: 15 - 23, 1 - 23, 1 - 6, 1 - 7, 1 -
@@ -8590,7 +8590,7 @@
 						<did>
 							<unitid>4.6.4</unitid>
 							<unittitle>Miscellany</unittitle>
-							<unitdate normal="2000">1860 - 1916</unitdate>
+							<unitdate normal="1860/1916">1860 - 1916</unitdate>
 							<physdesc>
 								<extent type="boxes">Boxes: 41 - 42</extent>
 								<extent type="folders">Folders: 1 - 12, 1 - 4</extent>
@@ -8740,7 +8740,7 @@
 					<did>
 						<unitid>4.7</unitid>
 						<unittitle>Mary Alleyne Otis Stevens</unittitle>
-						<unitdate normal="2000">1807 - 1919</unitdate>
+						<unitdate normal="1807/1919">1807 - 1919</unitdate>
 						<physdesc>
 							<extent type="boxes">Boxes: 42 - 46</extent>
 							<extent type="folders">Folders: 5 - 17, 1 - 18, 1 - 6, 1 - 19, 1 -
@@ -8758,7 +8758,7 @@
 						<did>
 							<unitid>4.7.1</unitid>
 							<unittitle>Correspondence</unittitle>
-							<unitdate normal="2000">1888 - 1916</unitdate>
+							<unitdate normal="1888/1916">1888 - 1916</unitdate>
 							<physdesc>
 								<extent type="boxes">Boxes: 42 - 43</extent>
 								<extent type="folders">Folders: 5 - 17, 1 - 18</extent>
@@ -9045,7 +9045,7 @@
 						<did>
 							<unitid>4.7.2</unitid>
 							<unittitle>Business and finance</unittitle>
-							<unitdate normal="2000">1857 - 1919</unitdate>
+							<unitdate normal="1857/1919">1857 - 1919</unitdate>
 							<physdesc>
 								<extent type="boxes">Boxes: 44 - 45</extent>
 								<extent type="folders">Folders: 1 - 6, 1 - 4</extent>
@@ -9302,7 +9302,7 @@
 					<did>
 						<unitid>4.8</unitid>
 						<unittitle>Mary (May) Otis Stevens</unittitle>
-						<unitdate normal="2000">1870 - 1950</unitdate>
+						<unitdate normal="1870/1950">1870 - 1950</unitdate>
 						<physdesc>
 							<extent type="boxes">Boxes: 47 - 51</extent>
 							<extent type="folders">Folders: 1 - 20, 1 - 11, 1 - 7, 1 - 2, 1 -
@@ -9678,7 +9678,7 @@
 						<did>
 							<unitid>4.8.3</unitid>
 							<unittitle>Miscellany</unittitle>
-							<unitdate normal="1895/1945">1874 - 1945</unitdate>
+							<unitdate normal="1874/1945">1874 - 1945</unitdate>
 							<physdesc>
 								<extent type="boxes">Box: 51</extent>
 								<extent type="folders">Folders: 1 - 13</extent>
@@ -9800,7 +9800,7 @@
 					<did>
 						<unitid>4.9</unitid>
 						<unittitle>Francis Kerby Stevens</unittitle>
-						<unitdate normal="2000">1885 - 1945</unitdate>
+						<unitdate normal="1885/1945">1885 - 1945</unitdate>
 						<physdesc>
 							<extent type="boxes">Boxes: 51 - 55</extent>
 							<extent type="folders">Folders: 14 - 21, 1 - 25, 1 - 20, 1 - 10 - 17, 1
@@ -10293,7 +10293,7 @@
 						<did>
 							<unitid>4.9.3</unitid>
 							<unittitle>Business Materials</unittitle>
-							<unitdate normal="2000">1908 - 1944</unitdate>
+							<unitdate normal="1908/1944">1908 - 1944</unitdate>
 							<physdesc>
 								<extent type="boxes">Boxes: 53 - 54</extent>
 								<extent type="folders">Folders: 15 - 20, 1 - 4</extent>
@@ -10395,7 +10395,7 @@
 						<did>
 							<unitid>4.9.4</unitid>
 							<unittitle>Newspaper Clippings </unittitle>
-							<unitdate normal="2000">1929 - 1945</unitdate>
+							<unitdate normal="1929/1945">1929 - 1945</unitdate>
 							<physdesc>
 								<extent type="boxes">Box: 54</extent>
 								<extent type="folders">Folders: 5 - 9</extent>
@@ -10452,7 +10452,7 @@
 						<did>
 							<unitid>4.9.5</unitid>
 							<unittitle>Miscellany</unittitle>
-							<unitdate normal="2000">1885 - 1945</unitdate>
+							<unitdate normal="1945/1985">1945 - 1985</unitdate>
 							<physdesc>
 								<extent type="boxes">Boxes: 54 - 55</extent>
 								<extent type="folders">Folders: 10 - 17, 1 - 8</extent>
@@ -10809,7 +10809,7 @@
 				<did>
 					<unitid>6</unitid>
 					<unittitle>The Rathbone Family</unittitle>
-					<unitdate normal="2000">1840 - 1903</unitdate>
+					<unitdate normal="1840/1903">1840 - 1903</unitdate>
 					<physdesc>
 						<extent type="boxes">Boxes: 57 - 58</extent>
 						<extent type="folders">Folders: 1 - 14, 1 -22</extent>
@@ -11168,7 +11168,7 @@
 				<did>
 					<unitid>7</unitid>
 					<unittitle>The Oliver Family</unittitle>
-					<unitdate normal="2000">1839 - 1943</unitdate>
+					<unitdate normal="1839/1943">1839 - 1943</unitdate>
 					<physdesc>
 						<extent type="boxes">Boxes: 59 - 69</extent>
 						<extent type="folders">Folders: 1 - 37, 1 - 9, 1 - 19, 1 - 16, 1 - 23, 1 -
@@ -11186,7 +11186,7 @@
 					<did>
 						<unitid>7.1</unitid>
 						<unittitle>Daniel Augustus Oliver and Elizabeth Shaw Oliver</unittitle>
-						<unitdate normal="2000">1839 - 1850</unitdate>
+						<unitdate normal="1839/1850">1839 - 1850</unitdate>
 						<physdesc>
 							<extent type="boxes">Box: 59</extent>
 							<extent type="folders">Folders: 1 - 21</extent>
@@ -12742,7 +12742,7 @@
 					<did>
 						<unitid>7.4</unitid>
 						<unittitle>John Rathbone Oliver</unittitle>
-						<unitdate normal="2000">1887 - 1943</unitdate>
+						<unitdate normal="1887/1943">1887 - 1943</unitdate>
 						<physdesc>
 							<extent type="boxes">Boxes: 67 - 69</extent>
 							<extent type="folders">Folders: 5 - 16, 1 - 21, 1 - 27</extent>
@@ -13090,7 +13090,7 @@
 						<did>
 							<unitid>7.4.5</unitid>
 							<unittitle>Harvard University</unittitle>
-							<unitdate normal="1888/1889">1888 - 1899</unitdate>
+							<unitdate normal="1888/1899">1888 - 1899</unitdate>
 							<physdesc>
 								<extent type="boxes">Boxes: 68 - 69</extent>
 								<extent type="folders">Folders: 21, 1 - 15</extent>
@@ -13445,7 +13445,7 @@
 					<did>
 						<unitid>8.2</unitid>
 						<unittitle>The Reese Family</unittitle>
-						<unitdate normal="2000">1953 - 1984</unitdate>
+						<unitdate normal="1953/1984">1953 - 1984</unitdate>
 						<physdesc>
 							<extent type="size">About X linear feet</extent>
 							<extent type="boxes">Boxes: 70 - 71</extent>
@@ -15319,7 +15319,7 @@
 					<did>
 						<unitid>8.6</unitid>
 						<unittitle>The Oliver Family</unittitle>
-						<unitdate normal="1973/1930">1873 - 1930</unitdate>
+						<unitdate normal="1930/1973">1930 - 1973</unitdate>
 						<physdesc>
 							<extent type="boxes">Boxes: 73 - 76</extent>
 							<extent type="folders">Folders: 1 - 46, 1 - 35, 1 - 11, 1 - 17</extent>
