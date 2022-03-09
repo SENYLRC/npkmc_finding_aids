@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:isbn:1-931666-22-9" xmlns:ns2="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
+	<!-- Header Portion of EAD -->
+
+	<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+		<eadid countrycode="US" mainagencycode="US-NPkMC" url="http://www.marist.edu">npkmc_222_094</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Alexander Saunders Papers: Records Relating to the Storm King Case,
+					1962-1966</titleproper>
+				<author>Nicholas Gildard <![CDATA[&]]> John Ansley, PhD, 2003; Finding Aid Encoded
+					by: Monish M. Singh, 20XX; Finding Aid Encoding updated by: Abigail Bowen,
+					2022</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Marist College <lb/>Archives and Special Collections </publisher>
+				<address>
+					<addressline>3399 North Road <lb/>Poughkeepsie, NY 12601 <lb/>Phone:
+						845-575-5217 <lb/>Fax: 845-575-3150 <lb/>Email:
+						john.ansley@marist.edu</addressline>
+				</address>
+				<date type="publication" normal="2003">Spring, 2003</date>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Monish M. Singh <date normal="2003">2003</date>
+			</creation>
+			<langusage>Finding aid written in <language langcode="eng" scriptcode="Latn">English</language></langusage>
+			<descrules><abbr>DACS</abbr>Describing Archives: A Content Standard. Chicago: Society of
+				American Archivists, 2013.</descrules>
+		</profiledesc>
+		<revisiondesc>
+			<list>
+				<item>February 2022, EAD updated by Abigail Bowen</item>
+			</list>
+		</revisiondesc>
+	</eadheader>
+
+	<!-- Archival Description portion of EAD -->
+
+	<archdesc level="collection">
+		<did>
+			<head>Descriptive Summary</head>
+			<unittitle>Alexander Saunders Papers: Records Relating to the Storm King Case</unittitle>
+			<unitid countrycode="US" repositorycode="US-NPkMC">NPkMC-222-094</unitid>
+			<unitdate type="inclusive" normal="1962/1966">1962 - 1966</unitdate>
+			<physdesc>
+				<extent type="size">1 Linear Foot</extent>
+			</physdesc>
+			<repository>
+				<corpname>Marist College Archives and Special Collections</corpname>
+			</repository>
+			<origination label="creator"><corpname>Scenic Hudson, Inc.</corpname></origination>
+			<abstract>Scenic Hudson, Inc., formerly Scenic Hudson Preservation Conference, was founded in 1963 to oppose the Consolidated Edison Company’s proposed pumped storage facility at Storm King Mountain, near Cornwall, New York. Alexander Saunders served
+				on the Executive Committee of the Scenic Hudson Preservation Conference as
+				Co-Chairman of the organization. The records consist of legal documents, notes and
+				publicity materials, printed matter, and clippings. </abstract>
+			<langmaterial>
+				<language langcode="eng">Material is in English</language>
+			</langmaterial>
+			<physloc>Please contact the Marist College Archives and Special Collections for
+				information regarding use and access of this collection.</physloc>
+		</did>
+
+		<relatedmaterial>
+			<head>Related Collections</head>
+			<list>
+				<item>Hudson River Environmental Society Collection</item>
+				<item>On the River Documentary</item>
+				<item>The Seymour Collection</item>
+				<item>The HRVC Collection</item>
+			</list>
+		</relatedmaterial>
+		<scopecontent>
+			<head>Collection Overview</head>
+			<p>The Alexander Saunders Collection consists of materials documenting the landmark environmental law case that opposed the Consolidated Edison Company’s proposed pumped storage facility at Storm King Mountain, near Cornwall, NY. The Scenic Hudson Decision, as the case is called in law books, launched the modern environmental movement.The records consist of legal documents, testimony, notes and publicity materials, printed matter, and clippings.</p>
+		</scopecontent>
+
+		<acqinfo>
+			<head>Acquisitions Information</head>
+			<p>Scenic Hudson, Inc presented the records to the Marist College Library in 1982.</p>
+		</acqinfo>
+
+		<bioghist encodinganalog="545">
+			<head>Historical Note</head>
+			<p>In September 1962, the Consolidated Edison Company announced plans to build a pumped
+				storage facility, the largest of its kind in the world, at Storm King Mountain near
+				Cornwall, New York. The initial application for license to construct the plant was
+				filed with the Federal Power Commission in January 1963. On November 8, 1963, a
+				small group of concerned citizens met at the home of Carl Carmer and formed the
+				Scenic Hudson Preservation Conference to fight the pumped storage project on the
+				grounds that it posed a threat to the Cornwall water supply and Hudson River
+				fisheries as well as to scenic and historic Storm King Mountain.</p>
+			<p>Alexander Saunders, of Philipstown, New York, joined the fight against the
+				Consolidated Edison Co. and was an active member of Scenic Hudson’s executive
+				committee. In his testimony before the F.P.C. Mr. Saunders stated the mission and
+				motivating factors that lead him, and many others, to become a part of Scenic
+				Hudson, “When we began, there were not many of us. Today our membership exceeds
+				1,200. This is no special group. We are not simply the affluent. Our membership is
+				from all walks of life and now from all parts of the country. There are many, I dare
+				say, who have not even seen Storm King Mountain…Why then, some may ask, are we here?
+				Your honor, we are here because we love the Hudson. We love this wonderful River and
+				its wonderful hills… We hope that the children of the country will have a chance for
+				that same affection.” (From Alexander Saunders, in testimony before the Federal
+				Power Commission, Series 8, Box 75, Folder, 945, in the Scenic Hudson Collection,
+				Archives and Special Collections, James A. Cannavino Library, Marist College).</p>
+			<p>Working closely with the other members of the organization, as well as the outside
+				community, Mr. Saunders and Scenic Hudson were successful in their attempt to keep
+				the pumped-storage facility from being placed on historic Storm King Mountain,
+				thereby fulfilling his goal of ensuring that the children of the country would have
+				a chance for the same affection he had toward the river.</p>
+			<p>The Storm King case lasted for 17 years. In a negotiated settlement in December 1980,
+				Consolidated Edison agreed to drop the plan for the Storm King facility.</p>
+			<p>The lengthy and controversial case set important precedents in environmental law and
+				is generally credited with spawning the modern environmental movement. Scenic
+				Hudson, Inc. continues to serve as an environmental watchdog in the Hudson
+				Valley.</p>
+		</bioghist>
+
+		<accessrestrict>
+			<head>Restrictions to Access</head>
+			<p>There are no restrictions on this collection</p>
+		</accessrestrict>
+
+		<userestrict>
+			<head>Notice of Copyright</head>
+			<p>Individuals requesting reproductions expressly assume the responsibility for compliance
+				with all pertinent provisions of the Copyright Act, 17 U.S.C. ss101 et seq. Patrons further
+				agree to indemnify and hold harmless the Marist College Archives and Special Collections and
+				its staff in connection with any disputes arising from the Copyright Act, over the
+				reproduction of material at the request of patrons. For more information please visit the
+				following website: http://www.loc.gov/copyright/title17/.</p>
+		</userestrict>
+		<prefercite>
+			<head>Preferred Citation</head>
+			<p>[Description of item, date, location of item in order of series, box number, folder number
+				], in the Alexander Saunders Collection Archives and Special Collections, James A. Cannavino Library,
+				Marist College.</p>
+		</prefercite>
+		<arrangement>
+			<p>Materials are arranged into two series: 1. Legal Materials, and 2. Notes &amp;Publicity Materials, Printed Matter, and Clippings.
+				</p><p>Materials are arranged either by subject or chronologically.
+			</p>
+		</arrangement>
+
+		<dsc type="combined">
+			<c01 level="series">
+				<did>
+					<unitid>1</unitid>
+						<unittitle>Legal Materials</unittitle>
+					<physdesc>
+						<extent type="size">0.7 linear feet</extent>
+						<extent type="boxes">Boxes: 1 - 2</extent>
+						<extent type="folders">Folders: 1 - 17</extent>
+					</physdesc>
+				</did>
+				<scopecontent>
+					<p>Series contains Testimony, Exhibits, Opinions and Intervenors relating to the Storm King Case</p>
+				</scopecontent>
+				<arrangement>
+					<p>Arrangement: By subject areas and roughly chronological</p>
+				</arrangement>
+				<c02 level="file">
+					<did>
+						<container type="folder">1</container>
+						<unittitle>Consolidated Edison Testimony, Transcripts, Appeals</unittitle>
+						<container type="box">1</container>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="folder">2</container>
+						<unittitle>Intervenors Opposes to Con Ed</unittitle>
+						<container type="box">1</container>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="folder">3</container>
+						<unittitle>Intervenors Pro Con Ed</unittitle>
+						<container type="box">1</container>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="folder">4</container>
+						<unittitle>Con Ed - Testimony</unittitle>
+						<container type="box">1</container>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="folder">5</container>
+						<unittitle>Testimony</unittitle>
+						<container type="box">1</container>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="folder">6</container>
+						<unittitle>Project 2338 - Opinion<![CDATA[&]]>Order Issuing License and
+							Reopening and Remanding Proceeding…3/9/65</unittitle>
+						<container type="box">1</container>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="folder">7</container>
+						<unittitle>Project 2338 Opinion<![CDATA[&]]>Order Denying Application for
+							Rehearing and Petition to Reopen Proceedings…5/6/65</unittitle>
+						<container type="box">1</container>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="folder">8</container>
+						<unittitle>Hearings before the Subcommittee on National Parks<![CDATA[&]]>
+							Recreation...H.R. 3012 and Related Bills</unittitle>
+						<container type="box">1</container>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="folder">9</container>
+						<unittitle>Testimony</unittitle>
+						<container type="box">2</container>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="folder">10</container>
+						<unittitle>Testimony</unittitle>
+						<container type="box">2</container>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="folder">11</container>
+						<unittitle>Testimony - Leon H. Keyserling</unittitle>
+						<container type="box">2</container>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="folder">12</container>
+						<unittitle>FPC Hearings and Testimony</unittitle>
+						<container type="box">2</container>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="folder">13</container>
+						<unittitle>Northeast Blackout<![CDATA[&]]>Testimony</unittitle>
+						<container type="box">2</container>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="folder">14</container>
+						<unittitle>Congressional Hearings - Jean Saunders Testimony</unittitle>
+						<container type="box">2</container>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="folder">15</container>
+						<unittitle>Jean Saunders - Testimony and Statements</unittitle>
+						<container type="box">2</container>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="folder">16</container>
+						<unittitle>FPC Hearings</unittitle>
+						<container type="box">2</container>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="folder">17</container>
+						<unittitle>Exhibits Accompanying Testimony of Staff Witness Joseph J.A.
+							Jessel</unittitle>
+						<container type="box">2</container>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unitid>2</unitid>
+						<unittitle>= Notes <![CDATA[&]]> Publicity Materials, Printed Matter, and Clippings</unittitle>
+					<physdesc>
+						<extent type="size">0.3 linear feet</extent>
+						<extent type="boxes">Box: 3</extent>
+						<extent type="folders">Folders: 18 - 25</extent>
+					</physdesc>
+				</did>
+				<scopecontent>
+					<p>Series contains Notes <![CDATA[&]]> Publicity Material, Printed Matter, and Clippings</p>
+				</scopecontent>
+				<arrangement>
+					<p>Arrangement: Chronological</p></arrangement>
+			<c02 level="file">
+				<did>
+					<container type="folder">18</container>
+					<unittitle>Notes and Publicity Materials</unittitle>
+					<container type="box">3</container>
+				</did>
+			</c02>
+			<c02 level="file">
+				<did>
+					<container type="folder">19</container>
+					<unittitle>Printed Material</unittitle>
+					<container type="box">3</container>
+				</did>
+			</c02>
+			<c02 level="file">
+				<did>
+					<container type="folder">20</container>
+					<unittitle>Clippings</unittitle>
+					<container type="box">3</container>
+				</did>
+			</c02>
+			<c02 level="file">
+				<did>
+					<container type="folder">21</container>
+					<unittitle>Clippings</unittitle>
+					<container type="box">3</container>
+				</did>
+			</c02>
+			<c02 level="file">
+				<did>
+					<container type="folder">22</container>
+					<unittitle>Clippings</unittitle>
+					<container type="box">3</container>
+				</did>
+			</c02>
+			<c02 level="file">
+				<did>
+					<container type="folder">23</container>
+					<unittitle>Clippings</unittitle>
+					<container type="box">3</container>
+				</did>
+			</c02>
+			<c02 level="file">
+				<did>
+					<container type="folder">24</container>
+					<unittitle>Clippings</unittitle>
+					<container type="box">3</container>
+				</did>
+			</c02>
+			<c02 level="file">
+				<did>
+					<container type="folder">25</container>
+					<unittitle>Con Ed - Annual Reports, 1962-1965</unittitle>
+					<container type="box">3</container>
+				</did>
+			</c02>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

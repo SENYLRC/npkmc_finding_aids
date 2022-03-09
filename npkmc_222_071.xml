@@ -1,0 +1,1963 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:isbn:1-931666-22-9" xmlns:ns2="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
+	<!-- Header Portion of EAD -->
+
+	<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+		<eadid countrycode="US" mainagencycode="US-NPkMC">npkmc_222_071</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>The Coffin Family Papers</titleproper>
+				<author>Processed by: Ashley Polašèk &amp; John Ansley, PhD 2006; Finding Aid
+					Encoded by: Monish M. Singh, 2006; Finding Aid Encoding updated by: Brian
+					Norberg, 2022</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Marist College <lb/>Archives and Special Collections </publisher>
+				<address>
+					<addressline>3399 North Road <lb/>Poughkeepsie, NY 12601 <lb/>Phone:
+						845-575-5217 <lb/>Fax: 845-575-3150 <lb/>Email:
+						john.ansley@marist.edu</addressline>
+				</address>
+				<date type="publication" normal="2006-12-13">December 13, 2006</date>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Monish M. Sing <date normal="2006-12-13">December 13, 2006</date>
+			</creation>
+			<langusage>Finding aid written in <language langcode="eng" scriptcode="Latn">English</language></langusage>
+			<descrules><abbr>DACS</abbr>Describing Archives: A Content Standard. Chicago: Society of
+				American Archivists, 2013.</descrules>
+		</profiledesc>
+		<revisiondesc>
+			<list>
+				<item>February 2022, EAD updated by Brian Norberg</item>
+			</list>
+		</revisiondesc>
+	</eadheader>
+
+	<!-- Archival Description portion of EAD -->
+
+	<archdesc level="collection">
+		<did>
+			<unittitle>The Coffin Family Papers</unittitle>
+			<unitid countrycode="US" repositorycode="US-NPkMC">NPKMC-222-071</unitid>
+			<unitdate type="inclusive" normal="1810-09-11/1859-01-02">September 11, 1810 – January
+				2, 1859</unitdate>
+			<physdesc>
+				<extent type="size">0.3 linear feet</extent>
+			</physdesc>
+			<repository>
+				<corpname>Marist College Archives and Special Collections</corpname>
+			</repository>
+			<origination label="creator">
+				<corpname>Hudson River Sloop Clearwater, Inc.</corpname>
+			</origination>
+			<abstract>The Coffin Family Papers contains bills, promissory notes, receipts, account
+				ledgers, bonds, deeds and other documents relating to the business and personal
+				transactions of Robert Coffin of Dutchess County, NY.</abstract>
+			<langmaterial>
+				<language langcode="eng">English</language>
+			</langmaterial>
+		</did>
+		<scopecontent>
+			<head>Collection Overview</head>
+			<p>The Coffin Family Papers contains bills, promissory notes, receipts, account ledgers,
+				bonds, deeds and other documents relating to the business and personal transactions
+				of Robert Coffin of Dutchess County, NY. Certain documents reflect the judgments
+				made by Coffin as Justice of the Peace. The collection also contains many important
+				documents relating to the death of Colonel Tabor Bently, father-in-law to his
+				executor Robert Coffin.</p>
+		</scopecontent>
+		<acqinfo>
+			<p>The Coffin Family Papers was donated to the Marist College Archives and Special
+				Collections by Enid Mastrianni of Glens Falls, NY, who purchased the documents
+				privately.</p>
+		</acqinfo>
+		<bioghist encodinganalog="545">
+			<head>Biographical Note</head>
+			<p>The Coffin family can trace their line back to Sir Richard Coffin of Devonshire. He
+				was born circa 1280. The first Coffin to come to America was Tristram Coffin, born
+				January 4th, 1628. He was a direct male descendant and was fourteen generations
+				removed from Richard Coffin. Tristram traveled from Devonshire, England to what was
+				then New York (now part of Massachusetts) in 1642. Tristram was among a group of 9
+				men who bought the island of Nantucket from the Native Americans in 1659 for 30
+				pounds and 2 beaver hats. </p>
+			<p>Abishai Coffin, a fourth generation descendent from Tristram, moved from the family
+				seat in Nantucket and settled in the Hudson Valley as the American Revolution
+				loomed. One of Abishai's sons was Robert Coffin who represented Dutchess County in
+				the New York State Assembly in 1832 and who is the focus of this collection. Robert
+				was born in 1778. He served his county in the capacity of Justice of the Peace and
+				was reportedly a very able and amiable man. He married Magdalene Bently, daughter of
+				Colonel Tabor Bently and left ten children when he died in 1842 at the age of
+				64.</p>
+			<p>The Coffin family is currently spread across the whole of the United States. They
+				figure in politics as well as many other notable facets of American life. Prominent
+				Coffins include Levi Coffin, who was known as the “president” of the Underground
+				Railroad, Lucretia Coffin Mott, a moral reform activist, suffragette and teacher of
+				Daniel Anthony, father of Susan B. Anthony and Professor James Henry Coffin, who
+				made contributions in the fields of astronomy, meteorology and geometry. Dramatist
+				“Tennessee” Williams was the grandson of Isabel Coffin, writer O. Henry has ties to
+				the family and prolific character actor and namesake of the Coffin progenitor,
+				Tristram “Tris” Coffin appeared in countless roles in early television shows from
+				Superman and The Lone Ranger to I Love Lucy and The Beverly Hillbillies. The
+				Coffins, noted Quakers, were avid abolitionists and equal rights activists. The
+				numerous descendents of Tristram Coffin were very successful. In the year 1828
+				alone, 26 of them graduated from New England universities, 15 of those from Harvard.
+				Though many Coffins still live in Nantucket, a large branch of the family is settled
+				in North Carolina and, thanks to Levi Coffin, another branch exists in Indiana. Many
+				of the Coffin line also reside on the West Coast.</p>
+		</bioghist>
+		<accessrestrict>
+			<p>No Restrictions</p>
+		</accessrestrict>
+		<userestrict>
+			<head>Notice of Copyright</head>
+			<p>Individuals requesting reproductions expressly assume the responsibility for
+				compliance with all pertinent provisions of the Copyright Act, 17 U.S.C. ss101 et
+				seq. Patrons further agree to indemnify and hold harmless the Marist College
+				Archives and Special Collections and its staff in connection with any disputes
+				arising from the Copyright Act, over the reproduction of material at the request of
+				patrons. For more information please visit the following website:
+				http://www.loc.gov/copyright/title17/.</p>
+		</userestrict>
+		<prefercite>
+			<head>Preferred Citation</head>
+			<p>[Description of item, date, location of item in order of series, box number, folder
+				number ], in the Coffin Family Documents, Archives and Special Collections, James A.
+				Cannavino Library, Marist College.</p>
+		</prefercite>
+		<arrangement>
+			<p>Collection is arranged into one series with materials being roughly chronological. Each folder is seperated loosly by subject or document type. </p>
+		</arrangement>
+
+		<dsc type="combined">
+			<c01 level="series">
+				<did>
+					<unitid>1</unitid>
+					<unittitle>Coffin Family Documents</unittitle>
+				</did>
+				<c02 level="otherlevel" otherlevel="folder">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>Robert Coffin’s Labor Receipts</unittitle>
+						<unitdate normal="1811/1859">1811-1859</unitdate>
+						<physdesc>
+							<extent type="size">33 linear feet</extent>
+							<extent type="boxes">Boxes: 1</extent>
+							<extent type="folders">Folders: 1-11</extent>
+						</physdesc>
+					</did>
+					<scopecontent>
+						<p>The documents in this collection consist of bills, promissory notes,
+							receipts, account ledgers, bonds, deeds and other documents relating to
+							the business and personal transactions of Robert Coffin of Dutchess
+							County, NY.</p>
+					</scopecontent>
+					<arrangement>
+						<p>Roughly chronological</p>
+					</arrangement>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Receipt of funds from Robert Coffin by William Rozull -
+								February 6th, 1824</unittitle>
+							<container type="box">1</container>
+							<container type="folder">1</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88520" xlink:title="Receipt of funds from Robert Coffin by William Rozull - February 6th, 1824" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Receipt of funds from Robert Coffin by Murinus Pierce for
+								lumber - September 25th, 1830</unittitle>
+							<container type="box">1</container>
+							<container type="folder">1</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88521" xlink:title="Receipt of funds from Robert Coffin by Murinus Pierce for lumber - September 25th, 1830" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>Receipt of funds from Robert Coffin by W.D. Sherman for
+								Freights Issued by John Titus - September 20th, 1811</unittitle>
+							<container type="box">1</container>
+							<container type="folder">1</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88522" xlink:title="Receipt of funds from Robert Coffin by W.D. Sherman for Freights Issued by John Titus - September 20th, 1811" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>Receipt of funds from Robert Coffin by Garrison McCoy -
+								January 26th, 1820</unittitle>
+							<container type="box">1</container>
+							<container type="folder">1</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88523" xlink:title="Receipt of funds from Robert Coffin by Garrison McCoy - January 26th, 1820" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>Receipt of funds from Robert Coffin by Samuel Thorn - January
+								4th, 1819</unittitle>
+							<container type="box">1</container>
+							<container type="folder">1</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88524" xlink:title="Receipt of funds from Robert Coffin by Samuel Thorn - January 4th, 1819" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>Receipt of funds from Robert Coffin by Matthew Collins -
+								February 17th, 1819</unittitle>
+							<container type="box">1</container>
+							<container type="folder">1</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88525" xlink:title="Receipt of funds from Robert Coffin by Matthew Collins - February 17th, 1819" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7</unitid>
+							<unittitle>Ledger of financial transactions between Robert Coffin and
+								Henry D. Davis for shoe and boot repair. - January 2nd, 1839 -
+								December 10th, 1839</unittitle>
+							<container type="box">1</container>
+							<container type="folder">1</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88526" xlink:title="Ledger of financial transactions between Robert Coffin and Henry D. Davis for shoe and boot repair. - January 2nd, 1839 - December 10th, 1839 " xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8</unitid>
+							<unittitle>Stock account of Robert Coffin - 1843</unittitle>
+							<container type="box">1</container>
+							<container type="folder">1</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88527" xlink:title="Stock account of Robert Coffin - 1843" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9</unitid>
+							<unittitle>Promise of funds (payment complete) from Robert Coffin to
+								Gabriel L. Vanderburgh - April 28th, 1829</unittitle>
+							<container type="box">1</container>
+							<container type="folder">1</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88528" xlink:title="Promise of funds (payment complete) from Robert Coffin to Gabriel L. Vanderburgh - April 28th, 1829" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10</unitid>
+							<unittitle>Receipt of funds from Robert Coffin by George Wright -
+								October 11th, 1822</unittitle>
+							<container type="box">1</container>
+							<container type="folder">1</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88529" xlink:title="Receipt of funds from Robert Coffin by George Wright - October 11th, 1822" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>11</unitid>
+							<unittitle>Receipt of funds from Robert Coffin by Isaac Bayce - February
+								28th, 1831</unittitle>
+							<container type="box">1</container>
+							<container type="folder">1</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88530" xlink:title="Receipt of funds from Robert Coffin by Isaac Bayce - February 28th, 1831" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>12</unitid>
+							<unittitle>Receipt of funds from Robert Coffin by Smith Narrick for
+								plaster - May 2nd, 1821</unittitle>
+							<container type="box">1</container>
+							<container type="folder">1</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88531" xlink:title="Receipt of funds from Robert Coffin by Smith Narrick for plaster - May 2nd, 1821" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>13</unitid>
+							<unittitle>Receipt of funds from Robert Coffin by Sahuzher Germond -
+								October 23rd, 1823</unittitle>
+							<container type="box">1</container>
+							<container type="folder">1</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88532" xlink:title="Receipt of funds from Robert Coffin by Sahuzher Germond - October 23rd, 1823" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>14</unitid>
+							<unittitle>Receipt of funds from Robert Coffin by Joseph Wright - May
+								28th, 1833</unittitle>
+							<container type="box">1</container>
+							<container type="folder">1</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88533" xlink:title="Receipt of funds from Robert Coffin by Joseph Wright - May 28th, 1833" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>15</unitid>
+							<unittitle>Receipt of funds from Robert Coffin by Murinus Pierce for
+								lumber - June 22nd, 1833</unittitle>
+							<container type="box">1</container>
+							<container type="folder">1</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88534" xlink:title="Receipt of funds from Robert Coffin by Murinus Pierce for lumber - June 22nd, 1833" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>16</unitid>
+							<unittitle>Ledger and Receipt of funds from Robert Coffin by Henry D.
+								Davis for shoe and boot repair - September 16th - November 20th,
+								1830</unittitle>
+							<container type="box">1</container>
+							<container type="folder">1</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88535" xlink:title="Ledger and Receipt of funds from Robert Coffin by Henry D. Davis for shoe and boot repair - September 16th - November 20th, 1830" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>17</unitid>
+							<unittitle>Ledger and receipt of funds from Robert Coffin by Isaac
+								Woolley for lumber - July 7th - August 28th, 1829</unittitle>
+							<container type="box">1</container>
+							<container type="folder">1</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88536" xlink:title="Ledger and receipt of funds from Robert Coffin by Isaac Woolley for lumber - July 7th - August 28th, 1829" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>18</unitid>
+							<unittitle>Receipt of funds from Robert Coffin by C.P. Barnum - December
+								19th, 1829</unittitle>
+							<container type="box">1</container>
+							<container type="folder">1</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88537" xlink:title="Receipt of funds from Robert Coffin by C.P. Barnum - December 19th, 1829" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>19</unitid>
+							<unittitle>Running bill (May 18th - Nov 24th) and receipt of funds from
+								Robert Coffin by F. Warner for fresh meat - January 2nd,
+								1859</unittitle>
+							<container type="box">1</container>
+							<container type="folder">1</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88538" xlink:title="Running bill (May 18th - Nov 24th) and receipt of funds from Robert Coffin by F. Warner for fresh meat - January 2nd, 1859" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>20</unitid>
+							<unittitle>Bill and receipt of funds from Robert Coffin by Henry D.
+								Davis for shoe and boot repair - 1831</unittitle>
+							<container type="box">1</container>
+							<container type="folder">1</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88539" xlink:title="Bill and receipt of funds from Robert Coffin by Henry D. Davis for shoe and boot repair - 1831" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>21</unitid>
+							<unittitle>Receipt of funds from Robert Coffin by C. Morgan for
+								furniture</unittitle>
+							<container type="box">1</container>
+							<container type="folder">1</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88540" xlink:title="Receipt of funds from Robert Coffin by C. Morgan for furniture" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>22</unitid>
+							<unittitle>Receipt of funds from Robert Coffin by Stephen Allen - May 1,
+								1813</unittitle>
+							<container type="box">1</container>
+							<container type="folder">1</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88541" xlink:title="Receipt of funds from Robert Coffin by Stephen Allen - May 1, 1813" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>23</unitid>
+							<unittitle>Receipt of funds from Robert Coffin by Samuel Thorn for
+								services rendered - January 13th, 1820</unittitle>
+							<container type="box">1</container>
+							<container type="folder">1</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88542" xlink:title="Receipt of funds from Robert Coffin by Samuel Thorn for services rendered - January 13th, 1820" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>24</unitid>
+							<unittitle>Receipt of funds from Robert Coffin by Jacob Benthicysins -
+								October 7th, 1823</unittitle>
+							<container type="box">1</container>
+							<container type="folder">1</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88543" xlink:title="Receipt of funds from Robert Coffin by Jacob Benthicysins - October 7th, 1823" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>25</unitid>
+							<unittitle>Receipt of funds from Robert Coffin by Theodore Van Wyck and
+								Cornelius Van Wyck - November 8th, 1833</unittitle>
+							<container type="box">1</container>
+							<container type="folder">1</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88544" xlink:title="Receipt of funds from Robert Coffin by Theodore Van Wyck and Cornelius Van Wyck - November 8th, 1833" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>26</unitid>
+							<unittitle>Bill and receipt of funds from Robert Coffin by Lymon Hustid
+								for shoe and boot making - January 20th, 1835</unittitle>
+							<container type="box">1</container>
+							<container type="folder">1</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88545" xlink:title="Bill and receipt of funds from Robert Coffin by Lymon Hustid for shoe and boot making - January 20th, 1835" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>27</unitid>
+							<unittitle>Receipt of funds from Robert Coffin by William Tillou and
+								Henry Tillou - December 9th, 1822</unittitle>
+							<container type="box">1</container>
+							<container type="folder">1</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88546" xlink:title="Receipt of funds from Robert Coffin by William Tillou and Henry Tillou - December 9th, 1822" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>28</unitid>
+							<unittitle>Receipt of funds from Robert Coffin by Gabriel L.
+								Vanderburgh, executor for George Toffey (deceased) - April
+								1829</unittitle>
+							<container type="box">1</container>
+							<container type="folder">1</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88547" xlink:title="Receipt of funds from Robert Coffin by Gabriel L. Vanderburgh, executor for George Toffey (deceased) - April 1829" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>29</unitid>
+							<unittitle>Promise of payment (fulfilled) by Robert Coffin to John Hoag,
+								administrator of the estate of Peter Hoag (deceased) - May 7th,
+								1829</unittitle>
+							<container type="box">1</container>
+							<container type="folder">1</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88551" xlink:title="Promise of payment (fulfilled) by Robert Coffin to John Hoag, administrator of the estate of Peter Hoag (deceased) - May 7th, 1829" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>30</unitid>
+							<unittitle>Promise of payment (fulfilled) by Robert Coffin to Leonard L.
+								Seaman - June 8th, 1821</unittitle>
+							<container type="box">1</container>
+							<container type="folder">1</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88552" xlink:title="Promise of payment (fulfilled) by Robert Coffin to Leonard L. Seaman - June 8th, 1821" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>31</unitid>
+							<unittitle>Receipt of funds from Robert Coffin by William Haywood for
+								labor services rendered - April 3rd, 1824</unittitle>
+							<container type="box">1</container>
+							<container type="folder">1</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88553" xlink:title="Receipt of funds from Robert Coffin by William Haywood for labor services rendered - April 3rd, 1824" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>32</unitid>
+							<unittitle>Receipt of funds from Robert Coffin by Samuel Seaman -
+								December 13th 1822</unittitle>
+							<container type="box">1</container>
+							<container type="folder">1</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88554" xlink:title="Receipt of funds from Robert Coffin by Samuel Seaman - December 13th 1822" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>33</unitid>
+							<unittitle>Bill and receipt of payment from Robert Coffin by William
+								Odell for clothing - December 1831</unittitle>
+							<container type="box">1</container>
+							<container type="folder">1</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88555" xlink:title="Bill and receipt of payment from Robert Coffin by William Odell for clothing - December 1831" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>34</unitid>
+							<unittitle>Bill and receipt of funds from Robert Coffin by Ira Odell Jr.
+								- July 20th, 1824</unittitle>
+							<container type="box">1</container>
+							<container type="folder">1</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88556" xlink:title="Bill and receipt of funds from Robert Coffin by Ira Odell Jr. - July 20th, 1824" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>35</unitid>
+							<unittitle>Receipt of funds from Robert Coffin by James Odell for
+								Elizabeth Titus - January 11th, 1819</unittitle>
+							<container type="box">1</container>
+							<container type="folder">1</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88557" xlink:title="Receipt of funds from Robert Coffin by James Odell for Elizabeth Titus - January 11th, 1819" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>36</unitid>
+							<unittitle>Receipt of funds from Robert Coffin by C. Morgan - June 21st,
+								1823</unittitle>
+							<container type="box">1</container>
+							<container type="folder">1</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88558" xlink:title="Receipt of funds from Robert Coffin by C. Morgan - June 21st, 1823" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>37</unitid>
+							<unittitle>Receipt of funds from Robert Coffin by Abraham Gager - March
+								20th, 1825</unittitle>
+							<container type="box">1</container>
+							<container type="folder">1</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88559" xlink:title="Receipt of funds from Robert Coffin by Abraham Gager - March 20th, 1825" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>38</unitid>
+							<unittitle>Document authorizing Robert Coffin to sell the worldly
+								possessions of Henry Odell to extract payment due to him of $27.00 -
+								March 31st, 1842</unittitle>
+							<container type="box">1</container>
+							<container type="folder">1</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88560" xlink:title="Document authorizing Robert Coffin to sell the worldly possessions of Henry Odell to extract payment due to him of $27.00 - March 31st, 1842" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>39</unitid>
+							<unittitle>Bill and receipt of funds from Robert Coffin by Ashael Hall -
+								April 19th, 1829</unittitle>
+							<container type="box">1</container>
+							<container type="folder">1</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88561" xlink:title="Bill and receipt of funds from Robert Coffin by Ashael Hall - April 19th, 1829" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>40</unitid>
+							<unittitle>Running bill for Obediah Griffin, Jacob Odell, John Odell,
+								Alonzo Griffin, Charlotte Doughty, Henry Gril, T. Farrenside and
+								Mary Davis (each separate)</unittitle>
+							<container type="box">1</container>
+							<container type="folder">1</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88562" xlink:title="Running bill for Obediah Griffin, Jacob Odell, John Odell, Alonzo Griffin, Charlotte Doughty, Henry Gril, T. Farrenside and Mary Davis (each separate)" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>41</unitid>
+							<unittitle>Receipt of funds by Isaac Germand - July 15th
+								1818</unittitle>
+							<container type="box">1</container>
+							<container type="folder">1</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88563" xlink:title="Receipt of funds by Isaac Germand - July 15th 1818" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>42</unitid>
+							<unittitle>Bill and receipt of funds from Robert Coffin by Stephen
+								Hammond - August 16th, 1820</unittitle>
+							<container type="box">1</container>
+							<container type="folder">1</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88564" xlink:title="Bill and receipt of funds from Robert Coffin by Stephen Hammond - August 16th, 1820" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>43</unitid>
+							<unittitle>Ledger of credits and debits between Robert Coffin and P.
+								Schermihorn</unittitle>
+							<container type="box">1</container>
+							<container type="folder">1</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88565" xlink:title="Ledger of credits and debits between Robert Coffin and P. Schermihorn" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>44</unitid>
+							<unittitle>Bill and receipt of funds from Robert Coffin by Henry Odell -
+								January 29th -February 25th, 1833</unittitle>
+							<container type="box">1</container>
+							<container type="folder">1</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88566" xlink:title="Bill and receipt of funds from Robert Coffin by Henry Odell - January 29th -February 25th, 1833" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>45</unitid>
+							<unittitle>Receipt of funds from Robert Coffin by Alexander Marshall and
+								Martin Haight - July 27th, 1821</unittitle>
+							<container type="box">1</container>
+							<container type="folder">1</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88567" xlink:title="Receipt of funds from Robert Coffin by Alexander Marshall and Martin Haight - July 27th, 1821" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>46</unitid>
+							<unittitle>Receipt of funds from Robert Coffin by Doctor F. Vanderburgh
+								- May 26th, 1821</unittitle>
+							<container type="box">1</container>
+							<container type="folder">1</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88568" xlink:title="Receipt of funds from Robert Coffin by Doctor F. Vanderburgh - May 26th, 1821" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>47</unitid>
+							<unittitle>Receipt of funds from Robert Coffin by Joseph Gildesleu -
+								January 16th, 1830</unittitle>
+							<container type="box">1</container>
+							<container type="folder">1</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88569" xlink:title="Receipt of funds from Robert Coffin by Joseph Gildesleu - January 16th, 1830" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>48</unitid>
+							<unittitle>Receipt of funds from John Titus, John Haight and Robert
+								Coffin as a result of the partition and sale of real estate left by
+								Archer Macomber (deceased) by Refcom Macomber - July 11th,
+								1833</unittitle>
+							<container type="box">1</container>
+							<container type="folder">1</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88570" xlink:title="Receipt of funds from John Titus, John Haight and Robert Coffin as a result of the partition and sale of real estate left by Archer Macomber (deceased) by Refcom Macomber - July 11th, 1833" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>49</unitid>
+							<unittitle>Promise of payment (fulfilled) by Robert Coffin to Silas
+								Gammond - May 1st, 1826</unittitle>
+							<container type="box">1</container>
+							<container type="folder">1</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88571" xlink:title="Promise of payment (fulfilled) by Robert Coffin to Silas Gammond - May 1st, 1826" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>50</unitid>
+							<unittitle>Promise of payment (fulfilled) by Robert Coffin to Sarah
+								Upton - July 5th, 1821</unittitle>
+							<container type="box">1</container>
+							<container type="folder">1</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88572" xlink:title="Promise of payment (fulfilled) by Robert Coffin to Sarah Upton - July 5th, 1821" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>51</unitid>
+							<unittitle>Bill and receipt of funds from Robert Coffin by Culois Rider
+								- January 26th, 1833</unittitle>
+							<container type="box">1</container>
+							<container type="folder">1</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88573" xlink:title="Bill and receipt of funds from Robert Coffin by Culois Rider - January 26th, 1833" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>52</unitid>
+							<unittitle>Promise of payment (fulfilled) by Robert Coffin to Israel
+								Shadbolt - September 8th, 1832</unittitle>
+							<container type="box">1</container>
+							<container type="folder">1</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88574" xlink:title="Promise of payment (fulfilled) by Robert Coffin to Israel Shadbolt - September 8th, 1832" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>53</unitid>
+							<unittitle>Promise of payment (fulfilled) by Robert Coffin to Ruben
+								Howes, John Haight, Henry Marriott on or before May 1, 1824 (paid
+								April 3rd, 1823)</unittitle>
+							<container type="box">1</container>
+							<container type="folder">1</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88575" xlink:title="Promise of payment (fulfilled) by Robert Coffin to Ruben Howes, John Haight, Henry Marriott on or before May 1, 1824 (paid April 3rd, 1823)" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>54</unitid>
+							<unittitle>Receipt of funds from Robert Coffin by J. B. Benton -
+								November 18th, 1828</unittitle>
+							<container type="box">1</container>
+							<container type="folder">1</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88576" xlink:title="Receipt of funds from Robert Coffin by J. B. Benton - November 18th, 1828" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>55</unitid>
+							<unittitle>Bill and receipt of funds from Robert Coffin by J.B. Benton -
+								August 1, 1827</unittitle>
+							<container type="box">1</container>
+							<container type="folder">1</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88577" xlink:title="Bill and receipt of funds from Robert Coffin by J.B. Benton - August 1, 1827" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>56</unitid>
+							<unittitle>Bill to Robert Coffin from Hezekiah Fhienstea - January 26th,
+								1824</unittitle>
+							<container type="box">1</container>
+							<container type="folder">1</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88578" xlink:title="Bill to Robert Coffin from Hezekiah Fhienstea - January 26th, 1824" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>57</unitid>
+							<unittitle>Receipt of funds from Robert Coffin by William Rogers - July
+								6th, 1815</unittitle>
+							<container type="box">1</container>
+							<container type="folder">1</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88579" xlink:title="Receipt of funds from Robert Coffin by William Rogers - July 6th, 1815" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>58</unitid>
+							<unittitle>Bill and receipt of funds from Robert Coffin by Joshua Gager
+								- May 28th, 1818</unittitle>
+							<container type="box">1</container>
+							<container type="folder">1</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88580" xlink:title="Bill and receipt of funds from Robert Coffin by Joshua Gager - May 28th, 1818" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>59</unitid>
+							<unittitle>Promise of payment (fulfilled) by Robert Coffin to J.T.
+								Derthick - May 5th, 1828</unittitle>
+							<container type="box">1</container>
+							<container type="folder">1</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88581" xlink:title="Promise of payment (fulfilled) by Robert Coffin to J.T. Derthick - May 5th, 1828" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>60</unitid>
+							<unittitle>Receipt of funds from Robert Coffin by Joil Benton - December
+								3rd, 1827</unittitle>
+							<container type="box">1</container>
+							<container type="folder">1</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88582" xlink:title="Receipt of funds from Robert Coffin by Joil Benton - December 3rd, 1827" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>61</unitid>
+							<unittitle>Receipt of funds from Robert Coffin by William Girmond - June
+								2nd, 1828</unittitle>
+							<container type="box">1</container>
+							<container type="folder">1</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88583" xlink:title="Receipt of funds from Robert Coffin by William Girmond - June 2nd, 1828" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>62</unitid>
+							<unittitle>Promise of payment (fulfilled) by Robert Coffin to Isaac
+								Girmond - January 12th, 1824</unittitle>
+							<container type="box">1</container>
+							<container type="folder">1</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88584" xlink:title="Promise of payment (fulfilled) by Robert Coffin to Isaac Girmond - January 12th, 1824" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>63</unitid>
+							<unittitle>Bill and receipt of funds from Robert Coffin to Emanuel
+								Carinau - May 10th, 1828</unittitle>
+							<container type="box">1</container>
+							<container type="folder">1</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88585" xlink:title="Bill and receipt of funds from Robert Coffin to Emanuel Carinau - May 10th, 1828" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>64</unitid>
+							<unittitle>Bill and receipt of funds from Robert Coffin to Jefse D.
+								Sarls - November 2nd, 1832</unittitle>
+							<container type="box">1</container>
+							<container type="folder">1</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88586" xlink:title="Bill and receipt of funds from Robert Coffin to Jefse D. Sarls - November 2nd, 1832" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>65</unitid>
+							<unittitle>Receipt of funds from Robert Coffin by Thos Hammond - January
+								30th, 1823</unittitle>
+							<container type="box">1</container>
+							<container type="folder">1</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88587" xlink:title="Receipt of funds from Robert Coffin by Thos Hammond - January 30th, 1823" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>66</unitid>
+							<unittitle>Bill and receipt of funds from Robert Coffin by Boriah Swift
+								for damages - July 21st, 1826</unittitle>
+							<container type="box">1</container>
+							<container type="folder">1</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88588" xlink:title="Bill and receipt of funds from Robert Coffin by Boriah Swift for damages - July 21st, 1826" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>67</unitid>
+							<unittitle>Receipt of funds from Tabor Bently by Robert Coffin for
+								damages awarded through the supreme court of New York - January
+								10th, 1824</unittitle>
+							<container type="box">1</container>
+							<container type="folder">1</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88589" xlink:title="Receipt of funds from Tabor Bently by Robert Coffin for damages awarded through the supreme court of New York - January 10th, 1824" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>68</unitid>
+							<unittitle>Receipt of funds (in advance) from Robert Coffin by B. B.
+								Benedict for advertising - September 11th, 1810</unittitle>
+							<container type="box">1</container>
+							<container type="folder">1</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88590" xlink:title="Receipt of funds (in advance) from Robert Coffin by B. B. Benedict for advertising - September 11th, 1810" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+				</c02>
+				<!-- End 1 -->
+				<!-- Folder 2 -->
+				<c02 level="otherlevel" otherlevel="folder">
+					<did>
+						<note>
+							<p>Folder 2</p>
+						</note>
+						<unitid>1</unitid>
+						<unittitle>Tappan Families; John Brown</unittitle>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>69</unitid>
+							<unittitle>Promise of payment by Robert Coffin to Margaret Amurman for
+								value received - April 3rd, 1839</unittitle>
+							<container type="box">1</container>
+							<container type="folder">2</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88591" xlink:title="Promise of payment by Robert Coffin to Margaret Amurman for value received - April 3rd, 1839" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>70</unitid>
+							<unittitle>Bill from John Charles Brown to Robert Coffin</unittitle>
+							<container type="box">1</container>
+							<container type="folder">2</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88592" xlink:title="Bill from John Charles Brown to Robert Coffin" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>71</unitid>
+							<unittitle>Bill and receipt of funds from Robert Coffin by George Tappan
+								- April 18th, 1830</unittitle>
+							<container type="box">1</container>
+							<container type="folder">2</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88593" xlink:title="Bill and receipt of funds from Robert Coffin by George Tappan - April 18th, 1830" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+				</c02>
+				<!-- End 2 -->
+				<!-- Folder 3 -->
+				<c02 level="otherlevel" otherlevel="folder">
+					<did>
+						<note>
+							<p>Folder 3</p>
+						</note>
+						<unitid>1</unitid>
+						<unittitle>Legal Judgments made by Justice of the Peace Robert Coffin</unittitle>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>72</unitid>
+							<unittitle>Receipt of funds from Henry D. Davis by Job Sifson as ordered
+								by Justice of the Peace, Robert Coffin - May 5th, 1830</unittitle>
+							<container type="box">1</container>
+							<container type="folder">3</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88594" xlink:title="Receipt of funds from Henry D. Davis by Job Sifson as ordered by Justice of the Peace, Robert Coffin - May 5th, 1830" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>73</unitid>
+							<unittitle>Ledger of Credits and Debits involving Joshua Dulong and
+								Robert Coffin. Balanced paid in full - June 13th, 1828</unittitle>
+							<container type="box">1</container>
+							<container type="folder">3</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88595" xlink:title="Ledger of Credits and Debits involving Joshua Dulong and Robert Coffin. Balanced paid in full - June 13th, 1828" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>74</unitid>
+							<unittitle>Letter of judgment in the case of Simon B Benton, Isaac Thorn
+								and Israel Gibson VS P.B. Thayer. Robert Coffin, Justice of the
+								Peace, ruled in favor of Benton, Thorn and Gibson (two
+								pages)</unittitle>
+							<container type="box">1</container>
+							<container type="folder">3</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88596" xlink:title="Letter of judgment in the case of Simon B Benton, Isaac Thorn and Israel Gibson VS P.B. Thayer. Robert Coffin, Justice of the Peace, ruled in favor of Benton, Thorn and Gibson (two pages)" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>75</unitid>
+							<unittitle>Receipt of funds by Joseph Doty from Daniel T. Butts as
+								ordered by Justice of the Peace, Robert Coffin - May 14th,
+								1822</unittitle>
+							<container type="box">1</container>
+							<container type="folder">3</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88597" xlink:title="Receipt of funds by Joseph Doty from Daniel T. Butts as ordered by Justice of the Peace, Robert Coffin - May 14th, 1822" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>76</unitid>
+							<unittitle>Original Cemetery Deed to lot 6 West Point: plot 6 in the
+								village of Glen’s Falls made out to Emma Doty and sealed to by the
+								president of Glen’s Falls, Samuel D. Kendrick and witnessed by Edwin
+								R. Stafford, Notary Public</unittitle>
+							<container type="box">1</container>
+							<container type="folder">3</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88598" xlink:title="Original Cemetery Deed to lot 6 West Point: plot 6 in the village of Glen’s Falls made out to Emma Doty and sealed to by the president of Glen’s Falls, Samuel D. Kendrick and witnessed by Edwin R. Stafford, Notary Public" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+				</c02>
+				<!-- End 3 -->
+				<!-- Folder 4 -->
+				<c02 level="otherlevel" otherlevel="folder">
+					<did>
+						<note>
+							<p>Folder 4</p>
+						</note>
+						<unitid>1</unitid>
+						<unittitle>Newspaper Receipts</unittitle>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>77</unitid>
+							<unittitle>Receipt of funds from Robert Coffin by P. Potter for
+								Poughkeepsie Journal papers from no. 1444 to 1511</unittitle>
+							<container type="box">1</container>
+							<container type="folder">4</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88599" xlink:title="Receipt of funds from Robert Coffin by P. Potter for Poughkeepsie Journal papers from no. 1444 to 1511" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>78</unitid>
+							<unittitle>Receipt of funds from Robert Coffin by Ambrose Peck for
+								Poughkeepsie Telegraph papers from no. 1 to 50 - April 14th,
+								1825</unittitle>
+							<container type="box">1</container>
+							<container type="folder">4</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88600" xlink:title="Receipt of funds from Robert Coffin by Ambrose Peck for Poughkeepsie Telegraph papers from no. 1 to 50 - April 14th, 1825" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>79</unitid>
+							<unittitle>Receipt of funds from Robert Coffin by Killey Low for
+								Poughkeepsie Telegraph papers no. 312 to 364 - April 17th,
+								1833</unittitle>
+							<container type="box">1</container>
+							<container type="folder">4</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88601" xlink:title="Receipt of funds from Robert Coffin by Killey Low for Poughkeepsie Telegraph papers no. 312 to 364 - April 17th, 1833" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>80</unitid>
+							<unittitle>Receipt of funds from Robert Coffin by Ambrose Peck for
+								newspapers - January 1st. 1830</unittitle>
+							<container type="box">1</container>
+							<container type="folder">4</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88602" xlink:title="Receipt of funds from Robert Coffin by Ambrose Peck for newspapers - January 1st. 1830" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>81</unitid>
+							<unittitle>Receipt of funds from Robert Coffin by Killey Low for
+								Poughkeepsie Telegraph papers no. 197 to 312 - May 28th,
+								1831</unittitle>
+							<container type="box">1</container>
+							<container type="folder">4</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88603" xlink:title="Receipt of funds from Robert Coffin by Killey Low for Poughkeepsie Telegraph papers no. 197 to 312 - May 28th, 1831" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>82</unitid>
+							<unittitle>Receipt of funds from Robert Coffin by Ambrose Peck for
+								Poughkeepsie newspapers - January 8th, 1827</unittitle>
+							<container type="box">1</container>
+							<container type="folder">4</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88604" xlink:title="Receipt of funds from Robert Coffin by Ambrose Peck for Poughkeepsie newspapers - January 8th, 1827" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>83</unitid>
+							<unittitle>Receipt of funds from Robert Coffin by Ambrose Peck for
+								Poughkeepsie newspapers - January 1st, 1827</unittitle>
+							<container type="box">1</container>
+							<container type="folder">4</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88605" xlink:title="Receipt of funds from Robert Coffin by Ambrose Peck for Poughkeepsie newspapers - January 1st, 1827" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>84</unitid>
+							<unittitle>Receipt of funds from Robert Coffin by Eliphalet Wood for
+								newspapers - January 29th, 1819</unittitle>
+							<container type="box">1</container>
+							<container type="folder">4</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88606" xlink:title="Receipt of funds from Robert Coffin by Eliphalet Wood for newspapers - January 29th, 1819" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>85</unitid>
+							<unittitle>Receipt of funds from Robert Coffin by E. Lyons for Observer
+								newspapers up to no. 176 - September 20th, 1818</unittitle>
+							<container type="box">1</container>
+							<container type="folder">4</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88607" xlink:title="Receipt of funds from Robert Coffin by E. Lyons for Observer newspapers up to no. 176 - September 20th, 1818" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+				</c02>
+				<!-- End 4 -->
+				<!-- Folder 5 -->
+				<c02 level="otherlevel" otherlevel="folder">
+					<did>
+						<note>
+							<p>Folder 5</p>
+						</note>
+						<unitid>1</unitid>
+						<unittitle>Bills and Receipts from the Vail Family</unittitle>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>86</unitid>
+							<unittitle>Promise of payment (fulfilled) by Robert Coffin to Hiram Vail
+								- February 9th, 1821</unittitle>
+							<container type="box">1</container>
+							<container type="folder">5</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88608" xlink:title="Promise of payment (fulfilled) by Robert Coffin to Hiram Vail - February 9th, 1821" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>87</unitid>
+							<unittitle>Bill from Israel Vail to Robert Coffin for services performed
+								in court</unittitle>
+							<container type="box">1</container>
+							<container type="folder">5</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88609" xlink:title="Bill from Israel Vail to Robert Coffin for services performed in court" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>88</unitid>
+							<unittitle>Bill and receipt of funds from Robert Coffin by Hiram Vail
+								for five days work - March 18th, 1827</unittitle>
+							<container type="box">1</container>
+							<container type="folder">5</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88610" xlink:title="Bill and receipt of funds from Robert Coffin by Hiram Vail for five days work - March 18th, 1827" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+				</c02>
+				<!-- End 5 -->
+				<!-- Folder 6 -->
+				<c02 level="otherlevel" otherlevel="folder">
+					<did>
+						<note>
+							<p>Folder 6</p>
+						</note>
+						<unitid>1</unitid>
+						<unittitle>Bills for the Schooling of Robert Coffin’s Children</unittitle>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>89</unitid>
+							<unittitle>Bill and receipt of funds from Robert Coffin by Nathan Burton
+								Jr. for Charles Coffin for the school winter 1826-7 - March 24th,
+								1827</unittitle>
+							<container type="box">1</container>
+							<container type="folder">6</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88611" xlink:title="Bill and receipt of funds from Robert Coffin by Nathan Burton Jr. for Charles Coffin for the school winter 1826-7 - March 24th, 1827" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>90</unitid>
+							<unittitle>Bill and receipt of funds from Robert Coffin by J.P. Brall
+								for Miss Coffin for tuition, school expenses, textbooks and entrance
+								- April 21st, 1818</unittitle>
+							<container type="box">1</container>
+							<container type="folder">6</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88612" xlink:title="Bill and receipt of funds from Robert Coffin by J.P. Brall for Miss Coffin for tuition, school expenses, textbooks and entrance - April 21st, 1818" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>91</unitid>
+							<unittitle>Bill and receipt of funds from Robert Coffin by Stephen
+								Welletts for 44 days of schooling, fire wood and repairs and
+								textbooks - May 1st, 1824</unittitle>
+							<container type="box">1</container>
+							<container type="folder">6</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88613" xlink:title="Bill and receipt of funds from Robert Coffin by Stephen Welletts for 44 days of schooling, fire wood and repairs and textbooks - May 1st, 1824" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>92</unitid>
+							<unittitle>Receipt of funds from Robert Coffin by Enoch Haight for
+								school bills - May 3rd, 1822</unittitle>
+							<container type="box">1</container>
+							<container type="folder">6</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88614" xlink:title="Receipt of funds from Robert Coffin by Enoch Haight for school bills - May 3rd, 1822" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>93</unitid>
+							<unittitle>Bill and receipt of funds from Robert Coffin by Leonard
+								Goodwin for Miss Sarah Coffin for board from May 31st to August 23rd
+								and school expenses</unittitle>
+							<container type="box">1</container>
+							<container type="folder">6</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88616" xlink:title="Bill and receipt of funds from Robert Coffin by Leonard Goodwin for Miss Sarah Coffin for board from May 31st to August 23rd and school expenses" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>94</unitid>
+							<unittitle>Bill and receipt of funds from Robert Coffin by Sarah Pierce
+								for J. Coffin for school expenses - August 22nd, 1824</unittitle>
+							<container type="box">1</container>
+							<container type="folder">6</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88615" xlink:title="Bill and receipt of funds from Robert Coffin by Sarah Pierce for J. Coffin for school expenses - August 22nd, 1824" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>95</unitid>
+							<unittitle>Bill and receipt of funds from Robert Coffin by Nathan Burton
+								Jr. for Hezekiah and Sarah Coffin for the school winter 1825-6 -
+								March 14th, 1826</unittitle>
+							<container type="box">1</container>
+							<container type="folder">6</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88617" xlink:title="Bill and receipt of funds from Robert Coffin by Nathan Burton Jr. for Hezekiah and Sarah Coffin for the school winter 1825-6 - March 14th, 1826" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+				</c02>
+				<!-- End 6 -->
+				<!-- Folder 7 -->
+				<c02 level="otherlevel" otherlevel="folder">
+					<did>
+						<note>
+							<p>Folder 7</p>
+						</note>
+						<unitid>1</unitid>
+						<unittitle>Weaving Receipts, Carding and Dying</unittitle>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>96</unitid>
+							<unittitle>Running bill and receipt of payment from Miss Sarah Coffin by
+								Goodwin and Galpin for sewing and writing supplies - June 24th -
+								August 19th, 1826</unittitle>
+							<container type="box">1</container>
+							<container type="folder">7</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88618" xlink:title="Running bill and receipt of payment from Miss Sarah Coffin by Goodwin and Galpin for sewing and writing supplies - June 24th - August 19th, 1826" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>97</unitid>
+							<unittitle>Bill and receipt of funds from Robert Coffin by S. Wood for
+								sewing - March 25th, 1833</unittitle>
+							<container type="box">1</container>
+							<container type="folder">7</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88619" xlink:title="Bill and receipt of funds from Robert Coffin by S. Wood for sewing - March 25th, 1833" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>98</unitid>
+							<unittitle>Bill and receipt of funds from Robert Coffin by P. Lawton for
+								carding sundries - May 21st, 1832</unittitle>
+							<container type="box">1</container>
+							<container type="folder">7</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88620" xlink:title="Bill and receipt of funds from Robert Coffin by P. Lawton for carding sundries - May 21st, 1832" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>99</unitid>
+							<unittitle>Bill and receipt of funds from Robert Coffin by Jeremiah
+								Wintringham for weaving - April 2nd, 1827</unittitle>
+							<container type="box">1</container>
+							<container type="folder">7</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88621" xlink:title="Bill and receipt of funds from Robert Coffin by Jeremiah Wintringham for weaving - April 2nd, 1827" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>100</unitid>
+							<unittitle>Bill and receipt of funds from Robert Coffin by George Booth
+								for carding sundries - August 28th, 1830</unittitle>
+							<container type="box">1</container>
+							<container type="folder">7</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88622" xlink:title="Bill and receipt of funds from Robert Coffin by George Booth for carding sundries - August 28th, 1830 and receipt of funds from Robert Coffin by Jeremiah Wintringham for weaving - April 2nd, 1827" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>101</unitid>
+							<unittitle>Bill and receipt of funds from Robert Coffin by C.P. Barnum
+								for wood carding - November 14th, 1828</unittitle>
+							<container type="box">1</container>
+							<container type="folder">7</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88623" xlink:title="Bill and receipt of funds from Robert Coffin by C.P. Barnum for wood carding - November 14th, 1828" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>102</unitid>
+							<unittitle>Bill and receipt of funds from Robert Coffin by Jeremiah
+								Wintringham for cloth - June 3rd, 1828</unittitle>
+							<container type="box">1</container>
+							<container type="folder">7</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88624" xlink:title="Bill and receipt of funds from Robert Coffin by Jeremiah Wintringham for cloth - June 3rd, 1828 and receipt of funds from Robert Coffin by C.P. Barnum for wood carding - November 14th, 1828" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>103</unitid>
+							<unittitle>Bill and receipt of funds from Robert Coffin by A. Merritt -
+								December 26th, 1826</unittitle>
+							<container type="box">1</container>
+							<container type="folder">7</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88625" xlink:title="Bill and receipt of funds from Robert Coffin by A. Merritt - December 26th, 1826 and receipt of funds from Robert Coffin by Jeremiah Wintringham for cloth - June 3rd, 1828 and receipt of funds from Robert Coffin by C.P. Barnum for wood carding - November 14th, 1828" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>104</unitid>
+							<unittitle>Bill and receipt of funds from Robert Coffin by Jeremiah
+								Wintringham for weaving - April 10th, 1831</unittitle>
+							<container type="box">1</container>
+							<container type="folder">7</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88626" xlink:title="Bill and receipt of funds from Robert Coffin by Jeremiah Wintringham for weaving - April 10th, 1831" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>105</unitid>
+							<unittitle>Bill and receipt of funds from Robert Coffin by John
+								Wintringham for weaving - May 1st, 1824</unittitle>
+							<container type="box">1</container>
+							<container type="folder">7</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88627" xlink:title="Bill and receipt of funds from Robert Coffin by John Wintringham for weaving - May 1st, 1824" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>106</unitid>
+							<unittitle>Bill and receipt of funds from Miss Sarah Coffin by Charles
+								L. Webb - June 27th, 1821</unittitle>
+							<container type="box">1</container>
+							<container type="folder">7</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88628" xlink:title="Bill and receipt of funds from Miss Sarah Coffin by Charles L. Webb - June 27th, 1821" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>107</unitid>
+							<unittitle>Bill and receipt of funds from Miss Sarah Coffin by Leonard
+								Goodwin - August 23rd, 1826</unittitle>
+							<container type="box">1</container>
+							<container type="folder">7</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88629" xlink:title="Bill and receipt of funds from Miss Sarah Coffin by Leonard Goodwin - August 23rd, 1826" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>108</unitid>
+							<unittitle>Bill and receipt of funds from Robert Coffin by Henry
+								Gildersleeve - April 1st, 1826</unittitle>
+							<container type="box">1</container>
+							<container type="folder">7</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88630" xlink:title="Bill and receipt of funds from Robert Coffin by Henry Gildersleeve - April 1st, 1826" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>109</unitid>
+							<unittitle>Bill and receipt of funds from Robert Coffin by Andrew
+								Kingsley for dying - January 23rd, 1823</unittitle>
+							<container type="box">1</container>
+							<container type="folder">7</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88631" xlink:title="Bill and receipt of funds from Robert Coffin by Andrew Kingsley for dying - January 23rd, 1823" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>110</unitid>
+							<unittitle>Bill and receipt of funds from Robert Coffin by John
+								Wintringham for weaving - May 2nd, 1822</unittitle>
+							<container type="box">1</container>
+							<container type="folder">7</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88632" xlink:title="Bill and receipt of funds from Robert Coffin by John Wintringham for weaving - May 2nd, 1822" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>111</unitid>
+							<unittitle>Bill and receipt of funds from Robert Coffin by Henry Barton
+								for carding - October 2nd, 1821</unittitle>
+							<container type="box">1</container>
+							<container type="folder">7</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88633" xlink:title="Bill and receipt of funds from Robert Coffin by Henry Barton for carding - October 2nd, 1821" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>112</unitid>
+							<unittitle>Bill and receipt of funds from Robert Coffin by John
+								Wintringham for weaving - March 16th, 1818</unittitle>
+							<container type="box">1</container>
+							<container type="folder">7</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88634" xlink:title="Bill and receipt of funds from Robert Coffin by John Wintringham for weaving - March 16th, 1818 and receipt of funds from Robert Coffin by Henry Barton for carding - October 2nd, 1821" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>113</unitid>
+							<unittitle>Bill and receipt of funds from Robert Coffin by John
+								Wintringham for weaving - March 20th, 1825</unittitle>
+							<container type="box">1</container>
+							<container type="folder">7</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88635" xlink:title="Bill and receipt of funds from Robert Coffin by John Wintringham for weaving - March 20th, 1825" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>114</unitid>
+							<unittitle>Bill and receipt of funds from Robert Coffin by Jeremiah
+								Wintringham for weaving - May 12th, 1834</unittitle>
+							<container type="box">1</container>
+							<container type="folder">7</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88636" xlink:title="Bill and receipt of funds from Robert Coffin by Jeremiah Wintringham for weaving - May 12th, 1834" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>115</unitid>
+							<unittitle>Bill and receipt of funds from Robert Coffin by Jeremiah
+								Wintringham for weaving - March 16th, 1835</unittitle>
+							<container type="box">1</container>
+							<container type="folder">7</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88637" xlink:title="Bill and receipt of funds from Robert Coffin by Jeremiah Wintringham for weaving - March 16th, 1835" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>116</unitid>
+							<unittitle>Receipt of funds from Robert Coffin by Matthew Collins for
+								weaving - February 4th, 1819</unittitle>
+							<container type="box">1</container>
+							<container type="folder">7</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88638" xlink:title="Receipt of funds from Robert Coffin by Matthew Collins for weaving - February 4th, 1819" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>117</unitid>
+							<unittitle>Receipt of funds from Robert Coffin by P. Howland and R.Y.
+								Vary for painting and repair of a sleigh and wagon - January 28th,
+								1825</unittitle>
+							<container type="box">1</container>
+							<container type="folder">7</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88639" xlink:title="Receipt of funds from Robert Coffin by P. Howland and R.Y. Vary for painting and repair of a sleigh and wagon - January 28th, 1825" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+				</c02>
+				<!-- End 7 -->
+				<!-- Folder 8 -->
+				<c02 level="otherlevel" otherlevel="folder">
+					<did>
+						<note>
+							<p>Folder 8</p>
+						</note>
+						<unitid>1</unitid>
+						<unittitle>Official Deeds: Wills, Guardianship and Indenture</unittitle>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>118</unitid>
+							<unittitle>Official deed of the Dutchess County Office Surrogate
+								declaring the Infant Maria Stisker, aged sixteen in the guardianship
+								of Robert Coffin until her twenty first birthday when she may
+								collect the Estates granted to her by her father, James
+								1825</unittitle>
+							<container type="box">1</container>
+							<container type="folder">8</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88640" xlink:title="Official deed of the Dutchess County Office Surrogate declaring the Infant Maria Stisker, aged sixteen in the guardianship of Robert Coffin until her twenty first birthday when she may collect the Estates granted to her by her father, James 1825" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>119</unitid>
+							<unittitle>Last will and testament of Phebe Sarles witnessed by Robert
+								Coffin and Peter Palmer of the town of Washington in the County of
+								Dutchess, New York State - May 4th, 1842</unittitle>
+							<container type="box">1</container>
+							<container type="folder">8</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88641" xlink:title="Last will and testament of Phebe Sarles witnessed by Robert Coffin and Peter Palmer of the town of Washington in the County of Dutchess, New York State - May 4th, 1842" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>120</unitid>
+							<unittitle>Official bond binding Tabor Bently, his heirs, executors or
+								administrators to Robert Coffin and Wheeler Gilbert for $1334.94 and
+								list of items and money given to Coffin and Gilbert in fulfillment
+								of the bond. Issued January 1st, 1821, fulfilled April 12th,
+								1827</unittitle>
+							<container type="box">1</container>
+							<container type="folder">8</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88642" xlink:title="Official bond binding Tabor Bently, his heirs, executors or administrators to Robert Coffin and Wheeler Gilbert for $1334.94 and list of items and money given to Coffin and Gilbert in fulfillment of the bond. Issued January 1st, 1821, fulfilled April 12th, 1827" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>121</unitid>
+							<unittitle>Indenture binding Tabor Bently, his heirs, executors or
+								administrators to Henry Able for $35.00 and receipt of items and
+								money in fulfillment of the bond. Issued May 21st, 1825, fulfilled
+								April 11th, 1826</unittitle>
+							<container type="box">1</container>
+							<container type="folder">8</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88643" xlink:title="Indenture binding Tabor Bently, his heirs, executors or administrators to Henry Able for $35.00 and receipt of items and money in fulfillment of the bond. Issued May 21st, 1825, fulfilled April 11th, 1826" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+				</c02>
+				<!-- End 8 -->
+
+				<!-- Folder 9 -->
+				<c02 level="otherlevel" otherlevel="folder">
+					<did>
+						<note>
+							<p>Folder 9</p>
+						</note>
+						<unitid>1</unitid>
+						<unittitle>Tabor Bently Inventory and Estate</unittitle>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>122</unitid>
+							<unittitle>Inventory of the property belonging to Tabor Bently upon his
+								death, as appraised by Daniel Stuart and Lewis Baker. s in the
+								inventory willed to Tabor Bently’s daughter Eliza Bently. All
+								approved by the executors of the will of Tabor Bently: Robert Coffin
+								and Abnor Olsen - April 3rd, 1826</unittitle>
+							<container type="box">1</container>
+							<container type="folder">9</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88644" xlink:title="Inventory of the property belonging to Tabor Bently upon his death, as appraised by Daniel Stuart and Lewis Baker. s in the inventory willed to Tabor Bently’s daughter Eliza Bently. All approved by the executors of the will of Tabor Bently: Robert Coffin and Abnor Olsen - April 3rd, 1826" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>123</unitid>
+							<unittitle>Ledger of credits owed by the estate of Tabor Bently
+								(deceased) to Robert Coffin - April 11th, 1826</unittitle>
+							<container type="box">1</container>
+							<container type="folder">9</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88645" xlink:title="Ledger of credits owed by the estate of Tabor Bently (deceased) to Robert Coffin - April 11th, 1826" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>124</unitid>
+							<unittitle>Receipt of funds from Robert Coffin, executor, by James
+								Hooker for the return of the inventory of the Estate of Tabor
+								Bently</unittitle>
+							<container type="box">1</container>
+							<container type="folder">9</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88646" xlink:title="Receipt of funds from Robert Coffin, executor, by James Hooker for the return of the inventory of the Estate of Tabor Bently" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>125</unitid>
+							<unittitle>Receipt of funds from Robert Coffin, executor, by Eliza
+								Bently for money paid for grave-digging</unittitle>
+							<container type="box">1</container>
+							<container type="folder">9</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88647" xlink:title="Receipt of funds from Robert Coffin, executor, by Eliza Bently for money paid for grave-digging" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>126</unitid>
+							<unittitle>Receipt of finds from Robert Coffin, executor, by James
+								Hooker for the probate and recording of the will of Tabor Bently -
+								April 5th, 1826</unittitle>
+							<container type="box">1</container>
+							<container type="folder">9</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88648" xlink:title="Receipt of finds from Robert Coffin, executor, by James Hooker for the probate and recording of the will of Tabor Bently - April 5th, 1826" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>127</unitid>
+							<unittitle>Statement of time of death of Tabor Bently - 1600h March
+								19th, 1826 and inquiry by Robert Coffin, executor, of the
+								entitlement of a minor grandchild to the estate - April 1st,
+								1826</unittitle>
+							<container type="box">1</container>
+							<container type="folder">9</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88649" xlink:title="Statement of time of death of Tabor Bently - 1600h March 19th, 1826 and inquiry by Robert Coffin, executor, of the entitlement of a minor grandchild to the estate - April 1st, 1826" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>128</unitid>
+							<unittitle>Handwritten tag or band titled “Tabor Bently’s Papers
+								1821”</unittitle>
+							<container type="box">1</container>
+							<container type="folder">9</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88650" xlink:title="Handwritten tag or band titled “Tabor Bently’s Papers 1821”" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>129</unitid>
+							<unittitle>Receipt of funds from Robert Coffin, executor, by Persis
+								Sweet for demands against the estate of Tabor Bently (deceased) -
+								March 17th, 1827</unittitle>
+							<container type="box">1</container>
+							<container type="folder">9</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88651" xlink:title="Receipt of funds from Robert Coffin, executor, by Persis Sweet for demands against the estate of Tabor Bently (deceased) - March 17th, 1827" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>130</unitid>
+							<unittitle>Receipt of funds from Robert Coffin, executor, by Solomon
+								Dennis - March 16th, 1827</unittitle>
+							<container type="box">1</container>
+							<container type="folder">9</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88652" xlink:title="Receipt of funds from Robert Coffin, executor, by Solomon Dennis - March 16th, 1827" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>131</unitid>
+							<unittitle>Receipt of funds from Robert Coffin, executor, by Albro
+								Simpson for demands against the estate of Tabor Bently (deceased) -
+								March 16th, 1827</unittitle>
+							<container type="box">1</container>
+							<container type="folder">9</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88653" xlink:title="Receipt of funds from Robert Coffin, executor, by Albro Simpson for demands against the estate of Tabor Bently (deceased) - March 16th, 1827" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>132</unitid>
+							<unittitle>Receipt of funds from Robert Coffin, executor, by Daniel
+								Emigh for wares and merchandise sold to Tabor Bently during his
+								lifetime - March 17th, 1827</unittitle>
+							<container type="box">1</container>
+							<container type="folder">9</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88654" xlink:title="Receipt of funds from Robert Coffin, executor, by Daniel Emigh for wares and merchandise sold to Tabor Bently during his lifetime - March 17th, 1827" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>133</unitid>
+							<unittitle>Receipt of funds from Robert Coffin, executor, by Lewis Baker
+								for bearing a chain around the farm of Tabor Bently - December 16th,
+								1826</unittitle>
+							<container type="box">1</container>
+							<container type="folder">9</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88655" xlink:title="Receipt of funds from Robert Coffin, executor, by Lewis Baker for bearing a chain around the farm of Tabor Bently - December 16th, 1826" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>134</unitid>
+							<unittitle>Receipt of funds from Robert Coffin, executor, by S. Small -
+								April 13th, 1827</unittitle>
+							<container type="box">1</container>
+							<container type="folder">9</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88656" xlink:title="Receipt of funds from Robert Coffin, executor, by S. Small - April 13th, 1827" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>135</unitid>
+							<unittitle>Receipt of funds from Robert Coffin, executor, by Daniel
+								Sweet for services as an appraiser - April 3rd, 1826</unittitle>
+							<container type="box">1</container>
+							<container type="folder">9</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88657" xlink:title="Receipt of funds from Robert Coffin, executor, by Daniel Sweet for services as an appraiser - April 3rd, 1826" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>136</unitid>
+							<unittitle>Settlement of the bill for Tabor Bently’s judgment bond,
+								given to Robert Coffin, executor - January 1st, 1821</unittitle>
+							<container type="box">1</container>
+							<container type="folder">9</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88658" xlink:title="Settlement of the bill for Tabor Bently’s judgment bond, given to Robert Coffin, executor - January 1st, 1821" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>137</unitid>
+							<unittitle>Text of the bond, settled in a separate document, of Tabor
+								Bently to Wheeler Gilbert and Robert Coffin, executor - January 1st,
+								1821</unittitle>
+							<container type="box">1</container>
+							<container type="folder">9</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88659" xlink:title="Text of the bond, settled in a separate document, of Tabor Bently to Wheeler Gilbert and Robert Coffin, executor - January 1st, 1821" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>138</unitid>
+							<unittitle>Receipt of funds from Robert Coffin, executor, by Nicholas
+								Emigh for demands against the estate of Tabor Bently (deceased) -
+								March 14th, 1827</unittitle>
+							<container type="box">1</container>
+							<container type="folder">9</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88660" xlink:title="Receipt of funds from Robert Coffin, executor, by Nicholas Emigh for demands against the estate of Tabor Bently (deceased) - March 14th, 1827" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>139</unitid>
+							<unittitle>Receipt of funds from Robert Coffin, executor, by Allen
+								Butler for running Tabor Bently’s (deceased) farm - October 11th,
+								1827</unittitle>
+							<container type="box">1</container>
+							<container type="folder">9</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88661" xlink:title="Receipt of funds from Robert Coffin, executor, by Allen Butler for running Tabor Bently’s (deceased) farm - October 11th, 1827" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>140</unitid>
+							<unittitle>Bill and receipt of funds from Robert Coffin, executor, by E.
+								M. Stirft for suits in the name of the estate of Tabor Bently
+								(deceased)</unittitle>
+							<container type="box">1</container>
+							<container type="folder">9</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88662" xlink:title="Bill and receipt of funds from Robert Coffin, executor, by E. M. Stirft for suits in the name of the estate of Tabor Bently (deceased)" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>141</unitid>
+							<unittitle>Estimate of the affairs of the estate of Tabor Bently
+								(deceased) made by Robert Coffin, executor - September 22nd,
+								1839</unittitle>
+							<container type="box">1</container>
+							<container type="folder">9</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88663" xlink:title="Estimate of the affairs of the estate of Tabor Bently (deceased) made by Robert Coffin, executor - September 22nd, 1839" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>142</unitid>
+							<unittitle>Bill and receipt of funds from Robert Coffin, executor, by
+								Lewis Baker for demands against the estate of Tabor Bently
+								(deceased) - March 16th, 1827</unittitle>
+							<container type="box">1</container>
+							<container type="folder">9</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88664" xlink:title="Bill and receipt of funds from Robert Coffin, executor, by Lewis Baker for demands against the estate of Tabor Bently (deceased) - March 16th, 1827" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>143</unitid>
+							<unittitle>Receipt of funds from Robert Coffin, executor, by Lewis Baker
+								for demands against the estate of Tabor Bently (deceased) - April
+								3rd, 1826</unittitle>
+							<container type="box">1</container>
+							<container type="folder">9</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88665" xlink:title="Receipt of funds from Robert Coffin, executor, by Lewis Baker for demands against the estate of Tabor Bently (deceased) - April 3rd, 1826" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>144</unitid>
+							<unittitle>Receipt of funds from Robert Coffin, executor, by Dennis
+								Meriani for goods, wares and merchandise in the name of the estate
+								of Tabor Bently (deceased) - March 17th, 1827</unittitle>
+							<container type="box">1</container>
+							<container type="folder">9</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88666" xlink:title="Receipt of funds from Robert Coffin, executor, by Dennis Meriani for goods, wares and merchandise in the name of the estate of Tabor Bently (deceased) - March 17th, 1827" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>145 </unitid>
+							<unittitle>Conditions of the sale by auction of a parcel of land
+								belonging to the estate of Tabor Bently (deceased) to the highest
+								bidder, Beriah Austin, drafted by Robert Coffin, executor - March
+								2nd, 1839</unittitle>
+							<container type="box">1</container>
+							<container type="folder">9</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88667" xlink:title="Conditions of the sale by auction of a parcel of land belonging to the estate of Tabor Bently (deceased) to the highest bidder, Beriah Austin, drafted by Robert Coffin, executor - March 2nd, 1839" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+				</c02>
+				<!-- End 9 -->
+
+				<!-- Folder 10 -->
+				<c02 level="otherlevel" otherlevel="folder">
+					<did>
+						<note>
+							<p>Folder 10</p>
+						</note>
+						<unitid>1</unitid>
+						<unittitle>Miscellany</unittitle>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>146</unitid>
+							<unittitle>Bill and receipt of funds from Wheeler Gilbert by Robert
+								Coffin</unittitle>
+							<container type="box">1</container>
+							<container type="folder">10</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88668" xlink:title="Bill and receipt of funds from Wheeler Gilbert by Robert Coffin" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>147</unitid>
+							<unittitle>Note of sale and receipt of payment to Roswell Warner -
+								January 7th, 1831</unittitle>
+							<container type="box">1</container>
+							<container type="folder">10</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88669" xlink:title="Note of sale and receipt of payment to Roswell Warner - January 7th, 1831" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>148</unitid>
+							<unittitle>Receipt of funds by Roswell Warner - January 8th,
+								1831</unittitle>
+							<container type="box">1</container>
+							<container type="folder">10</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88670" xlink:title="Receipt of funds by Roswell Warner - January 8th, 1831" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>149</unitid>
+							<unittitle>Personal note to Robert Coffin from Samuel Thorn - August
+								11th, 1830</unittitle>
+							<container type="box">1</container>
+							<container type="folder">10</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88671" xlink:title="Personal note to Robert Coffin from Samuel Thorn - August 11th, 1830" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>150</unitid>
+							<unittitle>The ear mark of Robert Coffin is a swallow fork in the left
+								ear and a slit in the far side of the right ear - July 1st, 1813:
+								Cleared by Town Clerk Vimah Woolley</unittitle>
+							<container type="box">1</container>
+							<container type="folder">10</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88672" xlink:title="The ear mark of Robert Coffin is a swallow fork in the left ear and a slit in the far side of the right ear - July 1st, 1813: Cleared by Town Clerk Vimah Woolley" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>151</unitid>
+							<unittitle>Promise of payment by John Donald to Peter Worden for value
+								received - April 30th, 1828</unittitle>
+							<container type="box">1</container>
+							<container type="folder">10</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88673" xlink:title="Promise of payment by John Donald to Peter Worden for value received - April 30th, 1828" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>152</unitid>
+							<unittitle>Promise of payment (fulfilled) by Robert Coffin to Isaac
+								Thorn paid in two installments - April 29th 1828 and May 3rd,
+								1828</unittitle>
+							<container type="box">1</container>
+							<container type="folder">10</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88674" xlink:title="Promise of payment (fulfilled) by Robert Coffin to Isaac Thorn paid in two installments - April 29th 1828 and May 3rd, 1828" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>153</unitid>
+							<unittitle>Receipt of funds from Robert Coffin by Patience Holmes for
+								interest on a bond against Martin Robinson - July 13th,
+								1833</unittitle>
+							<container type="box">1</container>
+							<container type="folder">10</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88675" xlink:title="Receipt of funds from Robert Coffin by Patience Holmes for interest on a bond against Martin Robinson - July 13th, 1833" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+				</c02>
+				<!-- End 10 -->
+
+				<!-- Folder 11 -->
+				<c02 level="otherlevel" otherlevel="folder">
+					<did>
+						<note>
+							<p>Folder 11</p>
+						</note>
+						<unitid>1</unitid>
+						<unittitle>Research Materials and Secondary Sources</unittitle>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>154</unitid>
+							<unittitle>Coffin Family Biographical Sketch from History of Dutchess
+								County, New York by James H. Smith</unittitle>
+							<container type="box">1</container>
+							<container type="folder">11</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88676" xlink:title="Coffin Family Biographical Sketch from History of Dutchess County, New York by James H. Smith" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>155</unitid>
+							<unittitle>1820 Federal Census for Dutchess County, New York
+								(copy)</unittitle>
+							<container type="box">1</container>
+							<container type="folder">11</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88677" xlink:title="1820 Federal Census for Dutchess County, New York (copy)" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>156</unitid>
+							<unittitle>Background information on Tabor Bently</unittitle>
+							<container type="box">1</container>
+							<container type="folder">11</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88678" xlink:title="Background information on Tabor Bently" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>157</unitid>
+							<unittitle>Marriage certificate of Enoch Haight and Lucena Bristol from
+								The American History and Genealogy Project (copy)</unittitle>
+							<container type="box">1</container>
+							<container type="folder">11</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88679" xlink:title="Marriage certificate of Enoch Haight and Lucena Bristol from The American History and Genealogy Project (copy)" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>158</unitid>
+							<unittitle>Poughkeepsie Journal article “Escaped Slaves Find Support and
+								Refuge on Way to Freedom”</unittitle>
+							<container type="box">1</container>
+							<container type="folder">11</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88680" xlink:title="Poughkeepsie Journal article “Escaped Slaves Find Support and Refuge on Way to Freedom” certificate of Enoch Haight and Lucena Bristol from The American History and Genealogy Project (copy)" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>159</unitid>
+							<unittitle>Cemetery records: Hicksite Friends’ Burial Ground, Clinton
+								Corners, Dutchess, NY courtesy New York Local History
+								Network</unittitle>
+							<container type="box">1</container>
+							<container type="folder">11</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88681" xlink:title="Cemetery records: Hicksite Friends’ Burial Ground, Clinton Corners, Dutchess, NY courtesy New York Local History Network" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>160</unitid>
+							<unittitle>Cemetery records: Friends’ Ground, Mechanic, Dutchess, NY
+								courtesy New York Local History Network</unittitle>
+							<container type="box">1</container>
+							<container type="folder">11</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88682" xlink:title="Cemetery records: Friends’ Ground, Mechanic, Dutchess, NY courtesy New York Local History Network" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>161</unitid>
+							<unittitle>Quaker Removals from Nine Partners courtesy New York Local
+								History Network</unittitle>
+							<container type="box">1</container>
+							<container type="folder">11</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88683" xlink:title="Quaker Removals from Nine Partners courtesy New York Local History Network" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>162</unitid>
+							<unittitle>Heads of Families: Oblong and Nine Partners Circularly,
+								Dutchess, NY courtesy New York Local History Network</unittitle>
+							<container type="box">1</container>
+							<container type="folder">11</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88684" xlink:title="Heads of Families: Oblong and Nine Partners Circularly, Dutchess, NY courtesy New York Local History Network" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>163</unitid>
+							<unittitle>Email concerning the collection’s provenance and the
+								relationship between Robert Coffin and Tabor Bently</unittitle>
+							<container type="box">1</container>
+							<container type="folder">11</container>
+							<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88685" xlink:title="Email concerning the collection’s provenance and the relationship between Robert Coffin and Tabor Bently" xlink:actuate="onRequest" xlink:show="new"/>
+						</did>
+					</c03>
+				</c02>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

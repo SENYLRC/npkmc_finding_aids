@@ -1,0 +1,595 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
+  <eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+    <eadid countrycode="US" mainagencycode="US-NPkMC" url="http://www.marist.edu">npkmc_221_081</eadid>
+    	<filedesc>
+		<titlestmt>
+			<titleproper>Hudson River Valley Greenway Council Collection</titleproper>
+			<author>Processed by: Janet Rice and John Ansley, PhD; Finding Aid Encoding by: Monish M. Singh, 2004; Finding Aid Encoding Updated by: Abigail Bowen, 2021</author>
+		</titlestmt>
+    	  <publicationstmt> 
+    	    <publisher>Marist College Archives and Special Collections</publisher>
+    	    <address>
+    	      <addressline>3399 North Road
+    	        <lb/>Poughkeepsie, NY 12601
+    	        <lb/>Phone: 845-575-5217
+    	        <lb/>Fax: 845-575-3150
+    	        <lb/>Email: john.ansley@marist.edu</addressline>
+    	    </address>
+    	    <date type="publication" normal="2004">2004</date>
+    	  </publicationstmt>
+  </filedesc>
+  <profiledesc>
+        <creation>Monish M. Singh
+        <date normal="2004-07-09">July 9, 2004</date>
+        </creation>
+		<langusage>
+                Finding aid written in <language langcode="eng" scriptcode="Latn">English</language>
+        </langusage>
+        <descrules><abbr>DACS</abbr>Describing Archives: A Content Standard. Chicago: Society of American Archivists, 2013.</descrules>
+	 </profiledesc>
+   <revisiondesc>
+      <list>
+        <item>January 2022, EAD updated by Abigail Bowen </item>
+      </list>
+    </revisiondesc>
+</eadheader>
+<frontmatter>
+    <titlepage>
+        <titleproper>Guide to the Hudson River Valley Greenway Council Collection</titleproper>
+    <!-- <num>Collection Number: XXXX </num> -->
+    <publisher>Marist College
+      <lb/>Archives and Special Collections
+      <lb/>Poughkeepsie, New York
+    </publisher>
+    <list type="deflist">
+      <defitem>
+        <label>Processed by: </label>
+        <item>Janet Rice and John Ansley, PhD</item>
+      </defitem>
+      <defitem>
+        <label>Date Completed: </label>
+        <item>2004</item>
+      </defitem>
+      <defitem>
+        <label>Encoded by: </label>
+        <item>Monish M. Singh</item>
+      </defitem>
+      <defitem>
+        <label>Date Completed: </label>
+        <item>July 9, 2004</item>
+      </defitem><defitem>
+        <label>Finding Aid Encoding Updated by: </label>
+        <item>Abigail Bowen</item>
+      </defitem>
+      <defitem>
+        <label>Date Completed: </label>
+        <item>January 2022</item>
+      </defitem>
+    </list>
+  </titlepage>
+  </frontmatter>
+
+<archdesc level="collection" relatedencoding="MARC">
+	<did>
+    <head>Descriptive Summary</head>
+		  <unittitle label="title">Hudson River Valley Greenway Council Collection</unittitle>
+      <unitdate normal="1989/1996">
+          1989-1996
+      </unitdate>
+      <origination encodinganalog="110">
+        <corpname>Greenway Council</corpname>
+      </origination>
+	  <unitid countrycode="US" repositorycode="US-NPkMC" encodinganalog="099">NPKMC-221-081</unitid>
+          <physdesc>
+            <extent type="size">1.67 linear feet </extent>
+          </physdesc>
+          <langmaterial encodinganalog="546">
+            <language langcode="eng">Material is in English</language>
+          </langmaterial>
+              <repository>
+              <corpname>Marist College
+                <lb/>Archives and Special Collections
+              </corpname>
+        		</repository>
+		     <abstract encodinganalog="545">The Hudson River Valley Greenway Council Collection documents the development and growth of the Greenway Council.  The collection consists of handouts and minutes of meetings and clippings gathered and collected by the Greenway Council.  The meetings cover a variety of topics, from local environmental hearings to expansion of the Council, to protecting the Hudson Riverbanks, parks, and hiking trails.  The clippings cover topics of environmental importance in and around the Hudson River Valley.
+		    </abstract>
+          <physloc>Please contact the Marist College Archives and Special Collections for information regarding use and access of this collection.</physloc>
+		</did>
+    <acqinfo encodinganalog="541">
+      <head>Acquisitions Information</head>
+        <p>Hudson River Valley Greenway Council donated the Hudson River Valley Greenway Council Collection to the Marist College Library in 1999.</p>
+    </acqinfo>
+    <accessrestrict>
+      <head>Restrictions to Access</head>
+      <p>There are no restrictions on this collection</p>
+  	</accessrestrict>
+    <userestrict>
+      <head>Notice of Copyright</head>
+  	  <p>Individuals requesting reproductions expressly assume the responsibility for compliance with all pertinent provisions of the Copyright Act, 17 U.S.C. ss101 et seq.  Patrons further agree to indemnify and hold harmless the Marist College Archives and Special Collections and its staff in connection with any disputes arising from the Copyright Act, over the reproduction of material at the request of patrons.  For more information please visit the following website: http://www.loc.gov/copyright/title17/.</p>
+  	</userestrict>
+    <prefercite>
+      <head>Preferred Citation</head>
+      <p>[Description of item, date, location of item in order of series, box  number, folder number ], in the Hudson River Valley Greenway Collection, Archives and Special Collections, James A. Cannavino Library, Marist College.</p>
+    </prefercite>
+    <relatedmaterial>
+       <head>Related Collections</head>
+       <list type="marked">
+         <item>Grim Collection</item>
+          <item>Hudson River Environmental Society Library</item>
+          <item>Hudson River Valley Commission Collection</item>
+          <item>On the River Collection</item>
+          <item>Saunders Papers</item>
+          <item>Scenic Hudson, Inc. Administrative History Collection</item>
+          <item>Scenic Hudson, Inc. Collection</item>
+          <item>Seymour Papers</item>
+          <item>Hudson Valley GREEN Collection</item>
+       </list>
+    </relatedmaterial>
+      <bioghist encodinganalog="545">
+    		<head>Historical Note</head>
+    		<p>“Preserve, enhance and develop the world-renowned scenic, natural, historic, cultural and recreational resources of the Hudson River Valley.  Emphasis appropriate economic development activities and remain consistent with the Tradition of municipal home rule.”  So states the Hudson River Valley Greenway Mission.  Founded and run by volunteers, the Hudson River Valley Greenway Council seeks to preserve and protect the area surrounding the historic Hudson River.  Not only is the Council interested in protecting the environment, but also the commercial, agricultural, and tourism interests in the area.  With thirteen counties working together, the Hudson River Valley Greenway Council created and maintains the Hudson River Valley Greenway Act of 1991.  The Greenway Act created two organizations: The Hudson River Valley Greenway Communities Council and the Greenway Conservancy for the Hudson River Valley.  Both groups work together with the state, local, and county governments to create the best living and working environment for the Hudson Valley.  Currently, the Hudson River Valley Greenway Council’s programs include: assistance for local planning events for communities, development of the Hudson River Valley Greenway Trail system, participation in the Hudson Valley Tourism Development Council, as well as many others.</p>
+        <!--<chronlist>
+          <head>Chronology</head>
+          <chronitem>
+            <datesingle>1938</datesingle>
+            <event>An adaptation of HG Wells the war of the worlds is read over the radio, sending people into a panic thinking the earth is being invaded</event>
+          </chronitem>
+        </chronlist>-->
+    	</bioghist>
+      <scopecontent>
+    		<head>Collection Overview</head>
+    		<p>The Hudson River Valley Greenway Council Collection consists of handouts from meetings, maps, correspondence, and clippings collected by the Hudson River Valley Greenway Council concerning local issues of environmental and economic concern.</p>
+    	</scopecontent>
+      <arrangement>
+        <head>Arrangement of the Collection</head>
+        <p>These records are organized into two series: 1.Meetings 2. Clippings</p>
+      </arrangement>
+
+  <dsc type="combined">
+    <head>Detailed Description of the Collection</head>
+        <c01 level="series">
+      		<did>
+      			<unitid>1</unitid>
+      			  <unittitle>Meetings</unittitle>
+              <physdesc>0.67 Linear Feet</physdesc>
+              <physdesc>Boxes: 1-2</physdesc>
+              <physdesc>Folders: 1-20</physdesc>
+      		</did>
+          <scopecontent>
+    			<p>Series contains handouts, minutes, and speeches taken place during Hudson River Valley Greenway Council meetings.</p>
+    		</scopecontent>
+        <arrangement>
+          <p>Arrangement: Chronological</p>
+        </arrangement>
+          <c02>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">1</container>
+              <unittitle>09/22/1989</unittitle>
+            </did>
+          </c02>
+          <c02>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">2</container>
+              <unittitle>11/17/1989</unittitle>
+            </did>
+          </c02>
+          <c02>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">3</container>
+              <unittitle>12/09/1989</unittitle>
+            </did>
+          </c02>
+          <c02>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">4</container>
+              <unittitle>01/10/1990</unittitle>
+            </did>
+          </c02>
+          <c02>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">5</container>
+              <unittitle>07/10/1990</unittitle>
+            </did>
+          </c02>
+          <c02>
+            <did>
+              <container type="folder">Box 1, File 6</container>
+              <unittitle>07/18/1990</unittitle>
+            </did>
+          </c02>
+          <c02>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">7</container>
+              <unittitle>08/16/1990</unittitle>
+            </did>
+          </c02>
+          <c02>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">8</container>
+              <unittitle>09/10/1990</unittitle>
+            </did>
+          </c02>
+          <c02>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">9</container>
+              <unittitle>10/03/1990</unittitle>
+            </did>
+          </c02>
+          <c02>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">1</container>
+              <unittitle>10/09/1990</unittitle>
+            </did>
+          </c02>
+          <c02>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">11</container>
+              <unittitle>11/07/1990</unittitle>
+            </did>
+          </c02>
+          <c02>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">12</container>
+              <unittitle>11/20/1990</unittitle>
+            </did>
+          </c02>
+          <c02>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">13</container>
+              <unittitle>11/30/1990</unittitle>
+            </did>
+          </c02>
+          <c02>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">14</container>
+              <unittitle>12/06/1990</unittitle>
+            </did>
+          </c02>
+          <c02>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">15</container>
+              <unittitle>02/13/1991</unittitle>
+            </did>
+          </c02>
+          <c02>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">16</container>
+              <unittitle>03/26/1991</unittitle>
+            </did>
+          </c02>
+          <c02>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">17</container>
+              <unittitle>07/03/1991</unittitle>
+            </did>
+          </c02>
+          <c02>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">18</container>
+              <unittitle>08/12/1992</unittitle>
+            </did>
+          </c02>
+          <c02>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">19</container>
+              <unittitle>Greenway Map</unittitle>
+            </did>
+          </c02>
+          <c02>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">20</container>
+              <unittitle>Misc. Correspondence</unittitle>
+            </did>
+          </c02>
+      	</c01>
+    		<c01 level="series">
+          <did>
+            <unitid>2</unitid>
+            <unittitle>Clippings</unittitle>
+            <physdesc>1 Linear Feet</physdesc>
+            <physdesc>Boxes: 3.5</physdesc>
+            <physdesc>Folders: 21-59 </physdesc>
+          </did>
+      		<scopecontent>
+      			<p>Series contains clippings on various environmental and economic concerns in the Hudson Valley collected by the Hudson River Valley Greenway Council.</p>
+      		</scopecontent>
+    		  <arrangement>
+    			 <p>Arrangement: Chronological</p>
+          </arrangement>
+          <c02>
+            <did>
+              <container type="box">3</container>
+              <container type="folder">21</container>
+              <unittitle>08/1989</unittitle>
+            </did>
+          </c02>
+          <c02>
+            <did>
+              <container type="box">3</container>
+              <container type="folder">22</container>
+              <unittitle>09/1989</unittitle>
+            </did>
+          </c02>
+          <c02>
+            <did>
+              <container type="box">3</container>
+              <container type="folder">23</container>
+              <unittitle>12/1989</unittitle>
+            </did>
+          </c02>
+          <c02>
+            <did>
+              <container type="box">3</container>
+              <container type="folder">24</container>
+              <unittitle>01/1990</unittitle>
+            </did>
+          </c02>
+          <c02>
+            <did>
+              <container type="box">3</container>
+              <container type="folder">25</container>
+              <unittitle>07/1990</unittitle>
+            </did>
+          </c02>
+          <c02>
+            <did>
+              <container type="box">3</container>
+              <container type="folder">26</container>
+              <unittitle>09/1990</unittitle>
+            </did>
+          </c02>
+          <c02>
+            <did>
+              <container type="box">3</container>
+              <container type="folder">27</container>
+              <unittitle>10/1990</unittitle>
+            </did>
+          </c02>
+          <c02>
+            <did>
+              <container type="box">3</container>
+              <container type="folder">28</container>
+              <unittitle>11/1990</unittitle>
+            </did>
+          </c02>
+          <c02>
+            <did>
+              <container type="box">3</container>
+              <container type="folder">29</container>
+              <unittitle>01/1991</unittitle>
+            </did>
+          </c02>
+          <c02>
+            <did>
+              <container type="box">3</container>
+              <container type="folder">30</container>
+              <unittitle>03/1991</unittitle>
+            </did>
+          </c02>
+          <c02>
+            <did>
+              <container type="box">3</container>
+              <container type="folder">31</container>
+              <unittitle>05/1991</unittitle>
+            </did>
+          </c02>
+          <c02>
+            <did>
+              <container type="box">3</container>
+              <container type="folder">32</container>
+              <unittitle>06/1991</unittitle>
+            </did>
+          </c02>
+          <c02>
+            <did>
+              <container type="box">3</container>
+              <container type="folder">33</container>
+              <unittitle>07/1991</unittitle>
+            </did>
+          </c02>
+          <c02>
+            <did>
+              <container type="box">3</container>
+              <container type="folder">34</container>
+              <unittitle>08/1991</unittitle>
+            </did>
+          </c02>
+          <c02>
+            <did>
+              <container type="box">3</container>
+              <container type="folder">35</container>
+              <unittitle>09/1991</unittitle>
+            </did>
+          </c02>
+          <c02>
+            <did>
+              <container type="box">3</container>
+              <container type="folder">36</container>
+              <unittitle>10/1991</unittitle>
+            </did>
+          </c02>
+          <c02>
+            <did>
+              <container type="box">3</container>
+              <container type="folder">37</container>
+              <unittitle>12/1991</unittitle>
+            </did>
+          </c02>
+          <c02>
+            <did>
+              <container type="box">4</container>
+              <container type="folder">38</container>
+              <unittitle>01/1992</unittitle>
+            </did>
+          </c02>
+          <c02>
+            <did>
+              <container type="box">4</container>
+              <container type="folder">39</container>
+              <unittitle>02/1992</unittitle>
+            </did>
+          </c02>
+          <c02>
+            <did>
+              <container type="box">4</container>
+              <container type="folder">40</container>
+              <unittitle>03/1992</unittitle>
+            </did>
+          </c02>
+          <c02>
+            <did>
+              <container type="box">4</container>
+              <container type="folder">41</container>
+              <unittitle>007/1993</unittitle>
+            </did>
+          </c02>
+          <c02>
+            <did>
+              <container type="box">4</container>
+              <container type="folder">42</container>
+              <unittitle>08/1993</unittitle>
+            </did>
+          </c02>
+          <c02>
+            <did>
+              <container type="box">4</container>
+              <container type="folder">43</container>
+              <unittitle>11/1993</unittitle>
+            </did>
+          </c02>
+          <c02>
+            <did>
+              <container type="box">4</container>
+              <container type="folder">44</container>
+              <unittitle>04/1994</unittitle>
+            </did>
+          </c02>
+          <c02>
+            <did>
+              <container type="box">4</container>
+              <container type="folder">45</container>
+              <unittitle>06/1994</unittitle>
+            </did>
+          </c02>
+          <c02>
+            <did>
+              <container type="box">4</container>
+              <container type="folder">46</container>
+              <unittitle>08/1994</unittitle>
+            </did>
+          </c02>
+          <c02>
+            <did>
+              <container type="box">4</container>
+              <container type="folder">47</container>
+              <unittitle>09/1994</unittitle>
+            </did>
+          </c02>
+          <c02>
+            <did>
+              <container type="box">4</container>
+              <container type="folder">48</container>
+              <unittitle>0/1994</unittitle>
+            </did>
+          </c02>
+          <c02>
+            <did>
+              <container type="box">4</container>
+              <container type="folder">49</container>
+              <unittitle>11/1994</unittitle>
+            </did>
+          </c02>
+          <c02>
+            <did>
+              <container type="box">5</container>
+              <container type="folder">50</container>
+              <unittitle>02/1995</unittitle>
+            </did>
+          </c02>
+          <c02>
+            <did>
+              <container type="box">5</container>
+              <container type="folder">51</container>
+              <unittitle>03/1995</unittitle>
+            </did>
+          </c02>
+          <c02>
+            <did>
+              <container type="box">5</container>
+              <container type="folder">52</container>
+              <unittitle>04/1995</unittitle>
+            </did>
+          </c02>
+    		  <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">53</container>
+              <unittitle>01/1996</unittitle>
+            </did>
+          </c02>
+          <c02>
+            <did>
+              <container type="box">5</container>
+              <container type="folder">54</container>
+              <unittitle>02/1996</unittitle>
+            </did>
+          </c02>
+          <c02>
+            <did>
+              <container type="box">5</container>
+              <container type="folder">55</container>
+              <unittitle>03/1996</unittitle>
+            </did>
+          </c02>
+          <c02>
+            <did>
+              <container type="box">5</container>
+              <container type="folder">56</container>
+              <unittitle>08/1996</unittitle>
+            </did>
+          </c02>
+          <c02>
+            <did>
+              <container type="box">5</container>
+              <container type="folder">57</container>
+              <unittitle>09/1996</unittitle>
+            </did>
+          </c02>
+          <c02>
+            <did>
+              <container type="box">5</container>
+              <container type="folder">58</container>
+              <unittitle>10/1996</unittitle>
+            </did>
+          </c02>
+          <c02>
+            <did>
+              <container type="box">5</container>
+              <container type="folder">59</container>
+              <unittitle>11/1996</unittitle>
+            </did>
+          </c02>
+    		</c01>
+	   </dsc>
+	</archdesc>
+</ead>

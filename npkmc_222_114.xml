@@ -1,0 +1,623 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:isbn:1-931666-22-9" xmlns:ns2="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
+	<!-- Header Portion of EAD -->
+	<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+		<eadid countrycode="US" mainagencycode="US-NPkMC" url="http://www.marist.edu">npkmc_222_114</eadid>
+	<filedesc>
+		<titlestmt>
+			<titleproper>The Community Experimental Repertory Theatre (C.E.R.T) Collection</titleproper>
+			<author>Ashley Polašèk<![CDATA[&]]>John Ansley, PhD, 2005; Finding Aid Encoded by: Monish M. Singh, 2005; Finding Aid Encoding updated by: Connor Johnson, 2022</author>
+		</titlestmt>			
+		<publicationstmt>
+				<publisher>Marist College 
+					<lb/>Archives and Special Collections
+				</publisher>
+				<address>
+					<addressline>3399 North Road
+					<lb/>Poughkeepsie, NY 12601
+					<lb/>Phone: 845-575-5217
+					<lb/>Fax: 845-575-3150
+					<lb/>Email: john.ansley@marist.edu</addressline>
+				</address>
+				<date type="publication" normal="2005-05-18">May 18, 2005</date>
+		</publicationstmt>
+	</filedesc>
+	<profiledesc>
+       <creation>Monish M. Singh<date>2005</date>
+       </creation>
+		<langusage>Finding aid written in<language langcode="eng" scriptcode="Latn">English</language></langusage>
+		<descrules><abbr>DACS</abbr>Describing Archives: A Content Standard. Chicago: Society of American Archivists, 2013.</descrules>
+	</profiledesc>
+		<revisiondesc>
+			<list>
+				<item>Feburary 2022, EAD updated by Connor Johnson</item>
+			</list>
+		</revisiondesc>
+</eadheader>
+<!-- Archival Description portion of EAD -->
+<archdesc level="collection">
+	<did>
+		<unittitle>The Community Experimental Repertory Theatre (C.E.R.T) Collection</unittitle>
+		<unitid countrycode="US" repositorycode="US-NPkMC">NPkMC-222-114</unitid>
+		<unitdate type="inclusive" normal="1976/1989">1976 - 1989</unitdate>
+		<physdesc>
+			<extent type="size">1.5 Linear Feet</extent>
+		</physdesc>
+		<repository>
+			<corpname>Marist College Archives and Special Collections</corpname>
+		</repository>
+		<origination label="creator"><corpname>The Community Experimental Repertory Theatre</corpname></origination>
+		<abstract>This collection contains documents, photographs, slides, negatives, newspaper clippings and performance programs covering the history and productions of the Community Experimental Repertory Theatre (C.E.R.T.) collected by the members and C.E.R.T. executive board.</abstract>
+		<langmaterial>
+			<language langcode="eng">Material is in english</language>
+		</langmaterial>
+		<physloc>Please contact the Marist College Archives and Special Collections for information regarding use and access of this collection.</physloc>
+	</did>
+	<scopecontent>
+		<head>Collection Overview</head>
+		<p>The Community Experimental Repertory Theatre (C.E.R.T.) Collection contains photographs, slides, negatives, documents, newspaper clippings, performance programs and advertisements relating to the performances and history of C.E.R.T. spanning from 1976 to 1989.</p>
+	</scopecontent>
+	<acqinfo>
+		<head>Acquisitions Information</head>
+		<p>This collection was donated to Marist College by the Community Experimental Repertory Theatre (C.E.R.T.).</p>
+	</acqinfo>
+	<bioghist encodinganalog="545">
+		<head>Historical Note</head>
+		<p>The Community Experimental Repertory Theatre was created in 1970.  Marist Professor Gerard A. Cox served as the founding chairman of the board of directors for ten years.
+			In 1976 The Marist Theatre Guild, the Community Experimental Repertory Theatre, and the Children’s Theatre united to form the Marist College Council on Theatre Arts.</p>
+		<p>James Britt (re: Jim Britt Memorial Award plaque) who was the Director of the Theatre Guild in 1961, created The Student Director Program "to foster a finer understanding of the Dramatic Arts."</p>
+	</bioghist>	
+	<accessrestrict>
+		<head>Restrictions to Access</head>
+		<p>There are no restrictions on this collection</p>
+	</accessrestrict>	
+	<userestrict>
+		<head>Notice of Copyright</head>
+		<p>Individuals requesting reproductions expressly assume the responsibility for compliance with all pertinent provisions of the Copyright Act, 17 U.S.C. ss101 et seq.  Patrons further agree to indemnify and hold harmless the Marist College Archives and Special Collections and its staff in connection with any disputes arising from the Copyright Act, over the reproduction of material at the request of patrons.  For more information please visit the following website: http://www.loc.gov/copyright/title17/.</p>
+	</userestrict>
+	<prefercite>
+		<head>Preferred Citation</head>
+		<p>[Description of item, date, location of item in order of series, box  number, folder number ], in The Community Experimental Repertory Theatre (C.E.R.T) Collection, Archives and Special Collections, James A. Cannavino Library, Marist College.</p>
+	</prefercite>	
+	<arrangement>
+		<head>Arrangement of the Collection</head>
+		<p>These records are organized into four series: 1) Documents, 2) Slides, photographs, and photo negatives, 3) Scrapbooks, and 4) Miscellany</p>
+		<p>Materials are arranged by subject.</p>
+	</arrangement>
+	
+	<dsc type="combined">
+		<c01 level="series">
+		<did>
+			<unitid>1</unitid>	
+			<unittitle>Documents</unittitle>
+			<unitdate type="inclusive" normal="1975/1983">1975 - 1983</unitdate>		
+			<physdesc>
+				<extent type="boxes">Box: 1</extent>
+				<extent type="folders">Folders: 1 - 16</extent>
+			</physdesc>
+		</did>
+			<scopecontent>
+				<p>Series contains the C.E.R.T. constitution, minutes from Board meetings, financial reports and other
+					documents relating to the Community Experimental Repertory Theatre.</p>
+			</scopecontent>
+				<arrangement>
+					<p>Arrangement: By subject</p>
+				</arrangement>
+					<c02>
+						<did>
+							<container type="folder">1</container>
+							<unittitle>C.E.R.T. constitution and by-laws</unittitle>
+							<container type="box">1</container>
+						</did>
+					</c02>
+					<c02>
+						<did>
+							<container type="folder">2</container>
+							<unittitle>Awards</unittitle>
+							<container type="box">1</container>
+						</did>
+					</c02>
+					<c02>
+						<did>
+							<container type="folder">3</container>
+							<unittitle>Involvement Drama</unittitle>
+							<container type="box">1</container>
+						</did>
+					</c02>
+					<c02>
+						<did>
+							<container type="folder">4</container>
+							<unittitle>C.E.R.T. members</unittitle>
+							<container type="box">1</container>
+						</did>
+					</c02>
+					<c02>
+						<did>
+							<container type="folder">5</container>
+							<unittitle>Newspaper articles</unittitle>
+							<container type="box">1</container>
+						</did>
+					</c02>
+					<c02>
+						<did>
+							<container type="folder">6</container>
+							<unittitle>C.E.R.T. Board minutes and Financial Reports: 1975</unittitle>
+							<container type="box">1</container>
+						</did>
+					</c02>
+					<c02>
+						<did>
+							<container type="folder">7</container>
+							<unittitle>C.E.R.T. Board minutes and Financial Reports: 1976</unittitle>
+							<container type="box">1</container>
+						</did>
+					</c02>
+					<c02>
+						<did>
+							<container type="folder">8</container>
+							<unittitle>C.E.R.T. Board minutes and Financial Reports: 1977</unittitle>
+							<container type="box">1</container>
+						</did>
+					</c02>
+					<c02>
+						<did>
+							<container type="folder">9</container>
+							<unittitle>C.E.R.T. Board minutes and Financial Reports: 1978</unittitle>
+							<container type="box">1</container>
+						</did>
+					</c02>
+					<c02>
+						<did>
+							<container type="folder">10</container>
+							<unittitle>C.E.R.T. Board minutes and Financial Reports: 1979</unittitle>
+							<container type="box">1</container>
+						</did>
+					</c02>
+					<c02>
+						<did>
+							<container type="folder">11</container>
+							<unittitle>C.E.R.T. Board minutes and Financial Reports: 1980</unittitle>
+							<container type="box">1</container>
+						</did>
+					</c02>
+					<c02>
+						<did>
+							<container type="folder">12</container>
+							<unittitle>C.E.R.T. Board minutes and Financial Reports: 1981</unittitle>
+							<container type="box">1</container>
+						</did>
+					</c02>
+					<c02>
+						<did>
+							<container type="folder">13</container>
+							<unittitle>C.E.R.T. Board minutes and Financial Reports: 1982</unittitle>
+							<container type="box">1</container>
+						</did>
+					</c02>
+					<c02>
+						<did>
+							<container type="folder">14</container>
+							<unittitle>C.E.R.T. Board minutes and Financial Reports: 1983</unittitle>
+							<container type="box">1</container>
+						</did>
+					</c02>
+					<c02>
+						<did>
+							<container type="folder">15</container>
+							<unittitle>C.E.R.T. Papers</unittitle>
+							<container type="box">1</container>
+						</did>
+					</c02>
+					<c02>
+						<did>
+							<container type="folder">16</container>
+							<unittitle>C.E.R.T. Ads</unittitle>
+							<container type="box">1</container>
+						</did>
+					</c02>
+		</c01>	
+		<c01 level="series">
+		<did>
+			<unitid>2</unitid>	
+			<unittitle>Slides, Photographs and Photo Negatives</unittitle>
+			<physdesc>
+				<extent type="boxes">Box: 1</extent>
+				<extent type="folders">Folders: 17 - 58</extent>
+			</physdesc>
+		</did>
+			<scopecontent>
+				<p>Series contains Slides, Photographs and Photo Negatives of C.E.R.T. productions and events.</p>
+			</scopecontent>	
+				<arrangement>
+					<p>Arrangement: Alphabetical</p>
+				</arrangement>
+					<c02>
+						<did>
+							<container type="folder">17</container>
+							<unittitle>“12N” Slides</unittitle>
+							<container type="box">1</container>
+						</did>
+					</c02>
+					<c02>
+						<did>
+							<container type="folder">18</container>
+							<unittitle>Amelia Bedelia slides, photographs and negatives</unittitle>
+							<container type="box">1</container>
+						</did>
+					</c02>
+					<c02>
+						<did>
+							<container type="folder">19</container>
+							<unittitle>Androcles and the Lion slides and photographs</unittitle>
+							<container type="box">1</container>
+						</did>
+					</c02>
+					<c02>
+						<did>
+							<container type="folder">20</container>
+							<unittitle>April, 1989 slides</unittitle>
+							<container type="box">1</container>
+						</did>
+					</c02>
+					<c02>
+						<did>
+							<container type="folder">21</container>
+							<unittitle>Arkansaw Bear slides and photographs</unittitle>
+							<container type="box">1</container>
+						</did>
+					</c02>
+					<c02>
+						<did>
+							<container type="folder">22</container>
+							<unittitle>A Case for Two Spies photographs and negatives</unittitle>
+							<container type="box">1</container>
+						</did>
+					</c02>
+					<c02>
+						<did>
+							<container type="folder">23</container>
+							<unittitle>C.E.R.T. School of Performing Arts slides</unittitle>
+							<container type="box">1</container>
+						</did>
+					</c02>
+					<c02>
+						<did>
+							<container type="folder">24</container>
+							<unittitle>Charlotte’s Web slides</unittitle>
+							<container type="box">1</container>
+						</did>
+					</c02>
+					<c02>
+						<did>
+							<container type="folder">25</container>
+							<unittitle>A Christmas Carol negatives</unittitle>
+							<container type="box">1</container>
+						</did>
+					</c02>
+					<c02>
+						<did>
+							<container type="folder">26</container>
+							<unittitle>Circus in the Wind photographs</unittitle>
+							<container type="box">1</container>
+						</did>
+					</c02>
+					<c02>
+						<did>
+							<container type="folder">27</container>
+							<unittitle>Dance slides</unittitle>
+							<container type="box">1</container>
+						</did>
+					</c02>
+					<c02>
+						<did>
+							<container type="folder">28</container>
+							<unittitle>Diary of Anne Frank slides</unittitle>
+							<container type="box">1</container>
+						</did>
+					</c02>
+					<c02>
+						<did>
+							<container type="folder">29</container>
+							<unittitle>Duck slides</unittitle>
+							<container type="box">1</container>
+						</did>
+					</c02>
+					<c02>
+						<did>
+							<container type="folder">30</container>
+							<unittitle>Fame photographs</unittitle>
+							<container type="box">1</container>
+						</did>
+					</c02>
+					<c02>
+						<did>
+							<container type="folder">31</container>
+							<unittitle>Fish slides</unittitle>
+							<container type="box">1</container>
+						</did>
+					</c02>
+					<c02>
+						<did>
+							<container type="folder">32</container>
+							<unittitle>Glass Menagerie slides</unittitle>
+							<container type="box">1</container>
+						</did>
+					</c02>
+					<c02>
+						<did>
+							<container type="folder">33</container>
+							<unittitle>The Great Zingu photographs</unittitle>
+							<container type="box">1</container>
+						</did>
+					</c02>
+					<c02>
+						<did>
+							<container type="folder">34</container>
+							<unittitle>Harvey Eastman Remembered photographs</unittitle>
+							<container type="box">1</container>
+						</did>
+					</c02>
+					<c02>
+						<did>
+							<container type="folder">35</container>
+							<unittitle>Heidi 3/21/86 slides</unittitle>
+							<container type="box">1</container>
+						</did>
+					</c02>
+					<c02>
+						<did>
+							<container type="folder">36</container>
+							<unittitle>Indian slides</unittitle>
+							<container type="box">1</container>
+						</did>
+					</c02>
+					<c02>
+						<did>
+							<container type="folder">37</container>
+							<unittitle>The Invention photographs and negatives</unittitle>
+							<container type="box">1</container>
+						</did>
+					</c02>
+					<c02>
+						<did>
+							<container type="folder">38</container>
+							<unittitle>June, 1989 slides</unittitle>
+							<container type="box">1</container>
+						</did>
+					</c02>
+					<c02>
+						<did>
+							<container type="folder">39</container>
+							<unittitle>Lion I slides</unittitle>
+							<container type="box">1</container>
+						</did>
+					</c02>
+					<c02>
+						<did>
+							<container type="folder">40</container>
+							<unittitle>The Lion, the Witch and the Wardrobe photographs</unittitle>
+							<container type="box">1</container>
+						</did>
+					</c02>
+					<c02>
+						<did>
+							<container type="folder">41</container>
+							<unittitle>Marmalade Gumdrops photographs</unittitle>
+							<container type="box">1</container>
+						</did>
+					</c02>
+					<c02>
+						<did>
+							<container type="folder">42</container>
+							<unittitle>OK Theatre photographs and negatives</unittitle>
+							<container type="box">1</container>
+						</did>
+					</c02>
+					<c02>
+						<did>
+							<container type="folder">43</container>
+							<unittitle>Poughkeepsie Tri-centennial photographs</unittitle>
+							<container type="box">1</container>
+						</did>
+					</c02>
+					<c02>
+						<did>
+							<container type="folder">44</container>
+							<unittitle>Professor How? Vanderbilt slides</unittitle>
+							<container type="box">1</container>
+						</did>
+					</c02>
+					<c02>
+						<did>
+							<container type="folder">45</container>
+							<unittitle>Puppeteer slides</unittitle>
+							<container type="box">1</container>
+						</did>
+					</c02>
+					<c02>
+						<did>
+							<container type="folder">46</container>
+							<unittitle>Rags to Riches photographs</unittitle>
+							<container type="box">1</container>
+						</did>
+					</c02>
+					<c02>
+						<did>
+							<container type="folder">47</container>
+							<unittitle>Ransom of Red Chief slides</unittitle>
+							<container type="box">1</container>
+						</did>
+					</c02>
+					<c02>
+						<did>
+							<container type="folder">48</container>
+							<unittitle>The Red Shoes photographs</unittitle>
+							<container type="box">1</container>
+						</did>
+					</c02>
+					<c02>
+						<did>
+							<container type="folder">49</container>
+							<unittitle>The Reluctant Dragon photographs and negatives</unittitle>
+							<container type="box">1</container>
+						</did>
+					</c02>
+					<c02>
+						<did>
+							<container type="folder">50</container>
+							<unittitle>Rip Van Winkle photographs</unittitle>
+							<container type="box">1</container>
+						</did>
+					</c02>
+					<c02>
+						<did>
+							<container type="folder">51</container>
+							<unittitle>Tour slides</unittitle>
+							<container type="box">1</container>
+						</did>
+					</c02>
+					<c02>
+						<did>
+							<container type="folder">52</container>
+							<unittitle>Treasure Island slides</unittitle>
+							<container type="box">1</container>
+						</did>
+					</c02>
+					<c02>
+						<did>
+							<container type="folder">53</container>
+							<unittitle>Slide positive photographs</unittitle>
+							<container type="box">1</container>
+						</did>
+					</c02>
+					<c02>
+						<did>
+							<container type="folder">54</container>
+							<unittitle>8x10 production photographs (1 of 2)</unittitle>
+							<container type="box">1</container>
+						</did>
+					</c02>
+					<c02>
+						<did>
+							<container type="folder">55</container>
+							<unittitle>8x10 production photographs (2 of 2)</unittitle>
+							<container type="box">1</container>
+						</did>
+					</c02>
+					<c02>
+						<did>
+							<container type="folder">56</container>
+							<unittitle>Miscellaneous slides</unittitle>
+							<container type="box">1</container>
+						</did>
+					</c02>
+					<c02>
+						<did>
+							<container type="folder">57</container>
+							<unittitle>Miscellaneous photographs</unittitle>
+							<container type="box">1</container>
+						</did>
+					</c02>
+					<c02>
+						<did>
+							<container type="folder">58</container>
+							<unittitle>Miscellaneous negatives</unittitle>
+							<container type="box">1</container>
+						</did>
+					</c02>
+		</c01>
+		<c01 level="series">
+		<did>
+			<unitid>3</unitid>	
+			<unittitle>Scrapbooks</unittitle>
+			<unitdate type="inclusive" normal="1976/1986">1976 - 1986</unitdate>
+			<physdesc>
+				<extent type="boxes">Box: 1</extent>
+				<extent type="folders">Folders: 59 - 65</extent>
+			</physdesc>
+		</did>
+			<scopecontent>
+				<p>Series contains The Scrapbooks contain pictures, newspaper clippings, theatre programs and
+					correspondence made by C.E.R.T. members.</p>
+			</scopecontent>
+				<arrangement>
+					<p>Arrangement: Chronological</p>
+				</arrangement>
+					<c02>
+						<did>
+							<container type="folder">59</container>
+							<unittitle>1976</unittitle>
+							<container type="box">1</container>
+						</did>
+					</c02>
+					<c02>
+						<did>
+							<container type="folder">60</container>
+							<unittitle>1976-1980 (1 of 2)</unittitle>
+							<container type="box">1</container>
+						</did>
+					</c02>
+					<c02>
+						<did>
+							<container type="folder">61</container>
+							<unittitle>1976-1980 (2 of 2)</unittitle>
+							<container type="box">1</container>
+						</did>
+					</c02>
+					<c02>
+						<did>
+							<container type="folder">62</container>
+							<unittitle>1980-1983 (1 of 3)</unittitle>
+							<container type="box">1</container>
+						</did>
+					</c02>
+					<c02>
+						<did>
+							<container type="folder">63</container>
+							<unittitle>1980-1983 (2 of 3)</unittitle>
+							<container type="box">1</container>
+						</did>
+					</c02>
+					<c02>
+						<did>
+							<container type="folder">64</container>
+							<unittitle>1980-1983 (3 of 3)</unittitle>
+							<container type="box">1</container>
+						</did>
+					</c02>
+					<c02>
+						<did>
+							<container type="folder">65</container>
+							<unittitle>1986 page</unittitle>
+							<container type="box">1</container>
+						</did>
+					</c02>
+		</c01>			
+		<c01 level="series">
+		<did>
+			<unitid>4</unitid>	
+			<unittitle>Miscellany</unittitle>
+			<unitdate type="inclusive" normal="1983">1983</unitdate>	
+			<physdesc>
+				<extent type="boxes">Box: 1</extent>
+				<extent type="folders">66</extent>
+			</physdesc>
+		</did>
+			<scopecontent>
+				<p>Series contains miscellaneous items related to C.E.R.T.</p>
+			</scopecontent>
+				<arrangement>
+					<p>Arrangement: By subject</p>
+				</arrangement>
+					<c02>
+						<did>
+							<container type="folder">66</container>
+							<unittitle>1983 Jim Britt Memorial Award plaque</unittitle>
+							<container type="box">1</container>
+						</did>
+					</c02>
+		</c01>			
+	</dsc>
+	</archdesc>
+	</ead>
