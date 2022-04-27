@@ -1,26 +1,95 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"><eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601"><eadid countrycode="US" mainagencycode="US-NPkMC" url="http://www.marist.edu">npkmc_212_021</eadid><filedesc><titlestmt><titleproper>Blaise Pascal Collection</titleproper><author>Processed by: Erin Kelly and John Ansley, PhD; Finding Aid Encoding by: Monish M.
-          Singh, 2006; Finding Aid Encoding Updated by: Abigail Bowen, 2021</author></titlestmt><publicationstmt><publisher>Marist College Archives and Special Collections</publisher><address><addressline>3399 North Road <lb/>Poughkeepsie, NY 12601 <lb/>Phone: 845-575-5217
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
+
+
+  <eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+    <eadid countrycode="US" mainagencycode="US-NPkMC" url="http://www.marist.edu">npkmc_212_021</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Blaise Pascal Collection</titleproper>
+        <author>Processed by: Erin Kelly and John Ansley, PhD; Finding Aid Encoding by: Monish M.
+          Singh, 2006; Finding Aid Encoding Updated by: Abigail Bowen, 2021</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Marist College Archives and Special Collections</publisher>
+        <address>
+          <addressline>3399 North Road <lb/>Poughkeepsie, NY 12601 <lb/>Phone: 845-575-5217
             <lb/>Fax: 845-575-3150 <lb/><lb/>Email: library.archives@marist.edu<lb/>Website:
-            https://library.marist.edu/archives/</addressline></address><date type="publication" normal="2006-12">December, 2006</date></publicationstmt></filedesc><profiledesc><creation>Monish M. Singh <date normal="2006">2006</date>
-      </creation><langusage> Finding aid written in <language langcode="eng" scriptcode="Latn">English</language>
-      </langusage><descrules><abbr>DACS</abbr>Describing Archives: A Content Standard. Chicago: Society of
-        American Archivists, 2013.</descrules></profiledesc><revisiondesc><list><item>January 2022, EAD updated by Abigail Bowen </item></list></revisiondesc></eadheader><archdesc level="collection" relatedencoding="MARC"><did><head>Descriptive Summary</head><unittitle label="title">Blaise Pascal Collection</unittitle><origination encodinganalog="100" label="creator"><persname>Maria Vamos</persname></origination><unitdate type="inclusive" encodinganalog="245$f" normal="1961/1985">1961 – 1985</unitdate><unitid countrycode="US" repositorycode="US-NPkMC" encodinganalog="099">NPKMC-212-021</unitid><physdesc><extent type="size">2.0 Linear Feet</extent></physdesc><langmaterial encodinganalog="546"><language langcode="eng">English</language></langmaterial><repository><corpname>Marist College <lb/>Archives and Special Collections </corpname></repository><abstract encodinganalog="545">The Blaise Pascal Collection contains sources, notes and drafts
+            https://library.marist.edu/archives/</addressline>
+        </address>
+        <date type="publication" normal="2006-12">December, 2006</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Monish M. Singh <date normal="2006">2006</date>
+      </creation>
+      <langusage> Finding aid written in <language langcode="eng" scriptcode="Latn">English</language>
+      </langusage>
+      <descrules><abbr>DACS</abbr>Describing Archives: A Content Standard. Chicago: Society of
+        American Archivists, 2013.</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <list>
+        <item>January 2022, EAD updated by Abigail Bowen </item>
+      </list>
+    </revisiondesc>
+  </eadheader>
+  
+  <archdesc level="collection" relatedencoding="MARC">
+    <did>
+      <head>Descriptive Summary</head>
+      <unittitle label="title">Blaise Pascal Collection</unittitle>
+      <origination encodinganalog="100" label="creator">
+        <persname>Maria Vamos</persname>
+      </origination>
+      <unitdate type="inclusive" encodinganalog="245$f" normal="1961/1985">1961 – 1985</unitdate>
+      <unitid countrycode="US" repositorycode="US-NPkMC" encodinganalog="099">NPKMC-212-021</unitid>
+      <physdesc>
+        <extent type="size">2.0 Linear Feet</extent>
+      </physdesc>
+      <langmaterial encodinganalog="546">
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Marist College <lb/>Archives and Special Collections </corpname>
+      </repository>
+      <abstract encodinganalog="545">The Blaise Pascal Collection contains sources, notes and drafts
         of Mara Vamos’ works on Blaise Pascal. The collection contains already published works on
         Pascal, such as “Pascal and the Enlightenment,” as well as Mara Vamos’ thesis for her
         Doctorate degree at Brown University. Through her vast previous studies on Pascal and his
         theories, Mara Vamos attempted to convince the MLA to revive the Port-Royal edition of
         Pascal’s Pensées because of its great historical importance and its impact on 18th century
         thought. The collection contains materials used in the publication process, leading to the
-        final work, “Pascal’s Pensées and the Enlightenment” by Mara Vamos.</abstract><physloc>Please contact the Marist College Archives and Special Collections for information
-        regarding use and access of this collection.</physloc></did><acqinfo encodinganalog="541"><head>Acquisitions Information</head><p>The collection was donated to Marist College by the Farleigh Dickinson University.</p></acqinfo><accessrestrict><head>Restrictions to Access</head><p>There are no restrictions on this collection</p></accessrestrict><userestrict><head>Notice of Copyright</head><p>Individuals requesting reproductions expressly assume the responsibility for compliance
+        final work, “Pascal’s Pensées and the Enlightenment” by Mara Vamos.</abstract>
+      <physloc>Please contact the Marist College Archives and Special Collections for information
+        regarding use and access of this collection.</physloc>
+    </did>
+    <acqinfo encodinganalog="541">
+      <head>Acquisitions Information</head>
+      <p>The collection was donated to Marist College by the Farleigh Dickinson University.</p>
+    </acqinfo>
+    <accessrestrict>
+      <head>Restrictions to Access</head>
+      <p>There are no restrictions on this collection</p>
+    </accessrestrict>
+    <userestrict>
+      <head>Notice of Copyright</head>
+      <p>Individuals requesting reproductions expressly assume the responsibility for compliance
         with all pertinent provisions of the Copyright Act, 17 U.S.C. ss101 et seq. Patrons further
         agree to indemnify and hold harmless the Marist College Archives and Special Collections and
         its staff in connection with any disputes arising from the Copyright Act, over the
         reproduction of material at the request of patrons. For more information please visit the
-        following website: http://www.loc.gov/copyright/title17/.</p></userestrict><prefercite><head>Preferred Citation</head><p>[Description of item, date, location of item in order of series, box number, folder number
+        following website: http://www.loc.gov/copyright/title17/.</p>
+    </userestrict>
+    <prefercite>
+      <head>Preferred Citation</head>
+      <p>[Description of item, date, location of item in order of series, box number, folder number
         ], in the Blaise Pascal Collection, Archives and Special Collections, James A. Cannavino
-        Library, Marist College.</p></prefercite><bioghist encodinganalog="545"><head>Historical Note</head><p>Blaise Pascal was a French mathematician and philosopher, who lived during the 1600’s.
+        Library, Marist College.</p>
+    </prefercite>
+    <bioghist encodinganalog="545">
+      <head>Historical Note</head>
+      <p>Blaise Pascal was a French mathematician and philosopher, who lived during the 1600’s.
         Described as a child prodigy, Pascal soon became an influential scholar in the natural
         sciences and mathematics. At the age of twelve, Pascal discovered the mathematic theory
         today known as “Pascal’s Triangle.” In late 1654, Pascal took an interest in religious
@@ -33,27 +102,516 @@
         added and words were manipulated, resulting in a work far from Pascal’s original. Eighteenth
         century readers including Voltaire, a French Enlightenment writer at the time, only exposed
         to the Port-Royal edition of Pascal’s “Pensées,” had distorted views of Pascal’s theory and
-        strongly opposed the theories presented in this edition. </p><!--<chronlist>
+        strongly opposed the theories presented in this edition. </p>
+      <!--<chronlist>
         <head>Chronology</head>
         <chronitem>
           <datesingle>1938</datesingle>
           <event>An adaptation of HG Wells the war of the worlds is read over the radio, sending people into a panic thinking the earth is being invaded</event>
         </chronitem>
-      </chronlist>--></bioghist><scopecontent><head>Collection Overview</head><p>The Blaise Pascal Collection consists of Mara Vamos’ already completed works on Blaise
+      </chronlist>-->
+    </bioghist>
+    <scopecontent>
+      <head>Collection Overview</head>
+      <p>The Blaise Pascal Collection consists of Mara Vamos’ already completed works on Blaise
         Pascal, as well as completed works in their production process. The creation processes of
         Mara Vamos’ “Port-Royal, Pascal and Voltaire” and “Pascal’s Pensées and the Enlightenment:
         The Roots of a Misunderstanding” are outlined in the form of notes and drafts within the
         collection. The collection also contains materials such as essays, lectures and seminars
-        relating to 18th century philosophies.</p></scopecontent><arrangement><head>Arrangement of the Collection</head><p>These records are organized into two series: 1.Resources for Publication on Pascal and 2.
+        relating to 18th century philosophies.</p>
+    </scopecontent>
+    <arrangement>
+      <head>Arrangement of the Collection</head>
+      <p>These records are organized into two series: 1.Resources for Publication on Pascal and 2.
         Miscellaneous. Series one contains six subseries: 1.1 Mara Vamos Papers on Pascal, 1.2 Port
         Roual, Pascal and Voltaire, 1.3 Port Royal Edition, 1.4 Publication Materials, 1.5 Secondary
-        Sources, 1.6 Seminar Materials.</p><p>Materials retain their original order</p></arrangement><dsc type="combined"><head>Detailed Description of the Collection</head><c01 level="series"><did><unitid>1</unitid><unittitle>1. Resources for Publication on Pascal</unittitle><physdesc>1 linear foot</physdesc><physdesc>Box: 1</physdesc><physdesc>Folders: 1-33</physdesc></did><scopecontent><p>Series contains resources collected by Mara Vamos for publication on Pascal’s Pensées
-            with comparison to the Port-Royal edition</p><arrangement><p>Original Order (Approximately)</p></arrangement></scopecontent><c02 level="subseries"><did><unitid>1.1</unitid><unittitle>Subseries 1.1: Maria Vamos’ Papers on Pascal</unittitle><physdesc>1 linear foot</physdesc><physdesc>Box: 1</physdesc><physdesc>Folders: 1-2</physdesc></did><scopecontent><p>Subseries contains Maria Vamos’ previously published work and thesis on Pascal</p></scopecontent><arrangement><p>Original Order </p></arrangement><c03 level="file"><did><container type="box">1</container><container type="folder">1</container><unittitle>“Pascal and the Enlightenment”</unittitle></did></c03><c03 level="file"><did><container type="box">1</container><container type="folder">2</container><unittitle>“Pascal’s Pensées in England”</unittitle></did></c03></c02><c02 level="subseries"><did><unitid>1.2</unitid><unittitle>Subseries 1.2: “Port-Royal, Pascal and Voltaire”</unittitle><physdesc>0.25 linear feet</physdesc><physdesc>Box: 1</physdesc><physdesc>Folders: 3-12</physdesc></did><scopecontent><p>Subseries contains collection of drafts and resources used to complete “Port-Royal,
-              Pascal and Voltaire”</p><arrangement><p>Arrangement:Original Order </p></arrangement></scopecontent><c03 level="file"><did><container type="box">1</container><container type="folder">3</container><unittitle>NYU Sources</unittitle></did></c03><c03 level="file"><did><container type="box">1</container><container type="folder">4</container><unittitle>Pascal and Voltaire Miscellaneous Notes</unittitle></did></c03><c03 level="file"><did><container type="box">1</container><container type="folder">5</container><unittitle>Pascal and Voltaire Notes</unittitle></did></c03><c03 level="file"><did><container type="box">1</container><container type="folder">6</container><unittitle>Note cards to check Port-Royal edition</unittitle></did></c03><c03 level="file"><did><container type="box">1</container><container type="folder">7</container><unittitle>Footnotes to Version A</unittitle></did></c03><c03 level="file"><did><container type="box">1</container><container type="folder">8</container><unittitle>Version A</unittitle></did></c03><c03 level="file"><did><container type="box">1</container><container type="folder">9</container><unittitle>Version B and Footnotes</unittitle></did></c03><c03 level="file"><did><container type="box">1</container><container type="folder">10</container><unittitle>Draft Footnotes and Addendums</unittitle></did></c03><c03 level="file"><did><container type="box">1</container><container type="folder">11</container><unittitle>“Port-Royal, Pascal and Voltaire” Abbreviated Final Version</unittitle></did></c03><c03 level="file"><did><container type="box">1</container><container type="folder">12</container><unittitle>“Port-Royal, Pascal and Voltaire” Final Version</unittitle></did></c03></c02><c02 level="subseries"><did><unitid>1.3</unitid><unittitle>Subseries 1.3: Seminar Material</unittitle><physdesc>1 linear foot</physdesc><physdesc>Box: 1</physdesc><physdesc>Folders: 13-14</physdesc></did><scopecontent><p>Subseries contains material Mara Vamos presented at various seminars</p></scopecontent><arrangement><p>Arrangement:Original Order</p></arrangement><c03 level="file"><did><container type="box">1</container><container type="folder">13</container><unittitle>Jansenism and the Enlightenment Seminar</unittitle></did></c03><c03 level="file"><did><container type="box">1</container><container type="folder">14</container><unittitle>Eighteenth Century European Culture Seminar</unittitle></did></c03></c02><c02 level="subseries"><did><unitid>1.4</unitid><unittitle>Subseries 1.4: Publication Material</unittitle><physdesc>0.1 linear feet</physdesc><physdesc>Box: 1</physdesc><physdesc>Folders: 15-19</physdesc></did><scopecontent><p>Subseries contains materials used in the process of seeking publication of Port-Royal
-              Edition of Pascal’s Pensées</p></scopecontent><arrangement><p>Arrangement:Original Order</p></arrangement><c03 level="file"><did><container type="box">1</container><container type="folder">15</container><unittitle>Report to MLA for Port-Royal Edition </unittitle></did></c03><c03 level="file"><did><container type="box">1</container><container type="folder">16</container><unittitle>University Press Reader’s Report and Related Correspondence</unittitle></did></c03><c03 level="file"><did><container type="box">1</container><container type="folder">17</container><unittitle>Farleigh Dickinson University Press Publication</unittitle></did></c03><c03 level="file"><did><container type="box">1</container><container type="folder">18</container><unittitle>Princeton University Press Reader’s Report</unittitle></did></c03><c03 level="file"><did><container type="box">1</container><container type="folder">19</container><unittitle>Publication Correspondence</unittitle></did></c03></c02><c02 level="subseries"><did><unitid>1.5</unitid><unittitle>Subseries 1.5: Secondary Sources</unittitle><physdesc>0.1 linear feet</physdesc><physdesc>Box: 1</physdesc><physdesc>Folders: 20-22</physdesc></did><scopecontent><p>Subseries contains secondary sources on Pascal used by Mara Vamos in the research
-              process</p></scopecontent><arrangement><p>Arrangement:Original Order</p></arrangement><c03 level="file"><did><container type="box">1</container><container type="folder">20</container><unittitle>Miscellaneous Secondary Sources and Notes</unittitle></did></c03><c03 level="file"><did><container type="box">1</container><container type="folder">21</container><unittitle>Bibliography of Works on Blaise Pascal</unittitle></did></c03><c03 level="file"><did><container type="box">1</container><container type="folder">22</container><unittitle>Pascal: Old Material</unittitle></did></c03></c02><c02 level="subseries"><did><unitid>1.6</unitid><unittitle>Subseries 1.6: Port-Royal Edition</unittitle><physdesc>0.25 linear feet</physdesc><physdesc>Box: 1</physdesc><physdesc>Folders: 23-33</physdesc></did><scopecontent><p>Subseries Materials for comparison of Pascal’s Pensées and Port-Royal edition to
-              create “Pascal’s Pensées and the Enlightenment”</p></scopecontent><arrangement><p>Arrangement:Original Order </p></arrangement><c03 level="file"><did><container type="box">1</container><container type="folder">23</container><unittitle>Material for Port-Royal Edition</unittitle></did></c03><c03 level="file"><did><container type="box">1</container><container type="folder">24</container><unittitle>1678 Additions</unittitle></did></c03><c03 level="file"><did><container type="box">1</container><container type="folder">25</container><unittitle>Port-Royal Deletions</unittitle></did></c03><c03 level="file"><did><container type="box">1</container><container type="folder">26</container><unittitle>Port-Royal Edition</unittitle></did></c03><c03 level="file"><did><container type="box">1</container><container type="folder">27</container><unittitle>Appendixes C and D and Bibliography of First Port-Royal
-                Editions</unittitle></did></c03><c03 level="file"><did><container type="box">1</container><container type="folder">28</container><unittitle>Appendix A: Pensées Omitted by Port-Royal</unittitle></did></c03><c03 level="file"><did><container type="box">1</container><container type="folder">29</container><unittitle>Appendix V: Samples of 1678 Edition and Parallel Modern
-                Versions</unittitle></did></c03><c03 level="file"><did><container type="box">1</container><container type="folder">30</container><unittitle>Appendix V and Explanatory Notes </unittitle></did></c03><c03 level="file"><did><container type="box">1</container><container type="folder">31</container><unittitle>Notes and Passages from Pensées Lafuma Editionl</unittitle></did></c03><c03 level="file"><did><container type="box">1</container><container type="folder">32</container><unittitle>Pascal- Bibliography</unittitle></did></c03><c03 level="file"><did><container type="box">1</container><container type="folder">33</container><unittitle>“Pascal’s Pensées and the Enlightenment: The Roots of a Misunderstanding”
-                Final draft </unittitle></did></c03></c02></c01><c01 level="series"><did><unitid>2</unitid><unittitle>2. Miscellaneous Materials</unittitle><physdesc>1 linear foot</physdesc><physdesc>Box: 2</physdesc><physdesc>Folders: 34-45</physdesc></did><scopecontent><p>Series contains Miscellaneous drafts, materials on the 18th century, book reviews and
-            correspondence not used directly in the publication process</p></scopecontent><arrangement><p>Original Order (Approximately)</p></arrangement><c02 level="file"><did><container type="box">2</container><container type="folder">34</container><unittitle>Correspondence</unittitle><unitdate label="Date"/></did></c02><c02 level="file"><did><container type="box">2</container><container type="folder">35</container><unittitle>Book Reviews</unittitle></did></c02><c02 level="file"><did><container type="box">2</container><container type="folder">36</container><unittitle>Pascal and Escher Lecture</unittitle></did></c02><c02 level="file"><did><container type="box">2</container><container type="folder">37</container><unittitle>“Progress of the Novel Till the Eighteenth Century”</unittitle></did></c02><c02 level="file"><did><container type="box">2</container><container type="folder">38</container><unittitle>Sample Pascal’s Pensées Ch I-VI</unittitle></did></c02><c02 level="file"><did><container type="box">2</container><container type="folder">39</container><unittitle>Draft Port-Royal Part I</unittitle></did></c02><c02 level="file"><did><container type="box">2</container><container type="folder">40</container><unittitle>Draft Port-Royal Part II </unittitle></did></c02><c02 level="file"><did><container type="box">2</container><container type="folder">41</container><unittitle>Draft Port-Royal Part III</unittitle></did></c02><c02 level="file"><did><container type="box">2</container><container type="folder">42</container><unittitle>Draft Port-Royal Part IV</unittitle></did></c02><c02 level="file"><did><container type="box">2</container><container type="folder">43</container><unittitle>Excerpts not in Port-Royal</unittitle></did></c02><c02 level="file"><did><container type="box">2</container><container type="folder">44</container><unittitle>Excerpts not in Port-Royal</unittitle></did></c02><c02 level="file"><did><container type="box">2</container><container type="folder">45</container><unittitle>Old First draft</unittitle></did></c02><c02 level="file"><did><container type="box">2</container><container type="folder">46</container><unittitle>Escher artwork slides</unittitle><unitdate label="Date"/></did></c02><c02 level="file"><did><container type="box">2</container><container type="folder">47</container><unittitle>Miscellaneous cassette tape</unittitle></did></c02><c02 level="file"><did><container type="box">2</container><container type="folder">48</container><unittitle>Microfilm - Continuation des Mémoires de Literaturet</unittitle></did></c02><c02 level="file"><did><container type="box">2</container><container type="folder">49</container><unittitle>Microfilm - Pascal’s Pensées</unittitle></did></c02><c02 level="file"><did><container type="box">2</container><container type="folder">50</container><unittitle>Microfilm - Pascal’s Pensées</unittitle></did></c02></c01></dsc></archdesc></ead>
+        Sources, 1.6 Seminar Materials.</p>
+      <p>Materials retain their original order</p>
+    </arrangement>
+
+    <dsc type="combined">
+      <head>Detailed Description of the Collection</head>
+      <c01 level="series">
+        <did>
+          <unitid>1</unitid>
+          <unittitle>1. Resources for Publication on Pascal</unittitle>
+          <physdesc>1 linear foot</physdesc>
+          <physdesc>Box: 1</physdesc>
+          <physdesc>Folders: 1-33</physdesc>
+        </did>
+        <scopecontent>
+          <p>Series contains resources collected by Mara Vamos for publication on Pascal’s Pensées
+            with comparison to the Port-Royal edition</p>
+          <arrangement>
+            <p>Original Order (Approximately)</p>
+          </arrangement>
+        </scopecontent>
+        <c02 level="subseries">
+          <did>
+            <unitid>1.1</unitid>
+            <unittitle>Subseries 1.1: Maria Vamos’ Papers on Pascal</unittitle>
+            <physdesc>1 linear foot</physdesc>
+            <physdesc>Box: 1</physdesc>
+            <physdesc>Folders: 1-2</physdesc>
+          </did>
+          <scopecontent>
+            <p>Subseries contains Maria Vamos’ previously published work and thesis on Pascal</p>
+          </scopecontent>
+          <arrangement>
+            <p>Original Order </p>
+          </arrangement>
+          <c03 level="file">
+            <did>
+              <container type="box">1</container>
+              <container type="folder">1</container>
+              <unittitle>“Pascal and the Enlightenment”</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">1</container>
+              <container type="folder">2</container>
+              <unittitle>“Pascal’s Pensées in England”</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid>1.2</unitid>
+            <unittitle>Subseries 1.2: “Port-Royal, Pascal and Voltaire”</unittitle>
+            <physdesc>0.25 linear feet</physdesc>
+            <physdesc>Box: 1</physdesc>
+            <physdesc>Folders: 3-12</physdesc>
+          </did>
+          <scopecontent>
+            <p>Subseries contains collection of drafts and resources used to complete “Port-Royal,
+              Pascal and Voltaire”</p>
+            <arrangement>
+              <p>Arrangement:Original Order </p>
+            </arrangement>
+          </scopecontent>
+          <c03 level="file">
+            <did>
+              <container type="box">1</container>
+              <container type="folder">3</container>
+              <unittitle>NYU Sources</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">1</container>
+              <container type="folder">4</container>
+              <unittitle>Pascal and Voltaire Miscellaneous Notes</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">1</container>
+              <container type="folder">5</container>
+              <unittitle>Pascal and Voltaire Notes</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">1</container>
+              <container type="folder">6</container>
+              <unittitle>Note cards to check Port-Royal edition</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">1</container>
+              <container type="folder">7</container>
+              <unittitle>Footnotes to Version A</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">1</container>
+              <container type="folder">8</container>
+              <unittitle>Version A</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">1</container>
+              <container type="folder">9</container>
+              <unittitle>Version B and Footnotes</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">1</container>
+              <container type="folder">10</container>
+              <unittitle>Draft Footnotes and Addendums</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">1</container>
+              <container type="folder">11</container>
+              <unittitle>“Port-Royal, Pascal and Voltaire” Abbreviated Final Version</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">1</container>
+              <container type="folder">12</container>
+              <unittitle>“Port-Royal, Pascal and Voltaire” Final Version</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid>1.3</unitid>
+            <unittitle>Subseries 1.3: Seminar Material</unittitle>
+            <physdesc>1 linear foot</physdesc>
+            <physdesc>Box: 1</physdesc>
+            <physdesc>Folders: 13-14</physdesc>
+          </did>
+          <scopecontent>
+            <p>Subseries contains material Mara Vamos presented at various seminars</p>
+          </scopecontent>
+          <arrangement>
+            <p>Arrangement:Original Order</p>
+          </arrangement>
+          <c03 level="file">
+            <did>
+              <container type="box">1</container>
+              <container type="folder">13</container>
+              <unittitle>Jansenism and the Enlightenment Seminar</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">1</container>
+              <container type="folder">14</container>
+              <unittitle>Eighteenth Century European Culture Seminar</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid>1.4</unitid>
+            <unittitle>Subseries 1.4: Publication Material</unittitle>
+            <physdesc>0.1 linear feet</physdesc>
+            <physdesc>Box: 1</physdesc>
+            <physdesc>Folders: 15-19</physdesc>
+          </did>
+          <scopecontent>
+            <p>Subseries contains materials used in the process of seeking publication of Port-Royal
+              Edition of Pascal’s Pensées</p>
+          </scopecontent>
+          <arrangement>
+            <p>Arrangement:Original Order</p>
+          </arrangement>
+          <c03 level="file">
+            <did>
+              <container type="box">1</container>
+              <container type="folder">15</container>
+              <unittitle>Report to MLA for Port-Royal Edition </unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">1</container>
+              <container type="folder">16</container>
+              <unittitle>University Press Reader’s Report and Related Correspondence</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">1</container>
+              <container type="folder">17</container>
+              <unittitle>Farleigh Dickinson University Press Publication</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">1</container>
+              <container type="folder">18</container>
+              <unittitle>Princeton University Press Reader’s Report</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">1</container>
+              <container type="folder">19</container>
+              <unittitle>Publication Correspondence</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid>1.5</unitid>
+            <unittitle>Subseries 1.5: Secondary Sources</unittitle>
+            <physdesc>0.1 linear feet</physdesc>
+            <physdesc>Box: 1</physdesc>
+            <physdesc>Folders: 20-22</physdesc>
+          </did>
+          <scopecontent>
+            <p>Subseries contains secondary sources on Pascal used by Mara Vamos in the research
+              process</p>
+          </scopecontent>
+          <arrangement>
+            <p>Arrangement:Original Order</p>
+          </arrangement>
+          <c03 level="file">
+            <did>
+              <container type="box">1</container>
+              <container type="folder">20</container>
+              <unittitle>Miscellaneous Secondary Sources and Notes</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">1</container>
+              <container type="folder">21</container>
+              <unittitle>Bibliography of Works on Blaise Pascal</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">1</container>
+              <container type="folder">22</container>
+              <unittitle>Pascal: Old Material</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid>1.6</unitid>
+            <unittitle>Subseries 1.6: Port-Royal Edition</unittitle>
+            <physdesc>0.25 linear feet</physdesc>
+            <physdesc>Box: 1</physdesc>
+            <physdesc>Folders: 23-33</physdesc>
+          </did>
+          <scopecontent>
+            <p>Subseries Materials for comparison of Pascal’s Pensées and Port-Royal edition to
+              create “Pascal’s Pensées and the Enlightenment”</p>
+          </scopecontent>
+          <arrangement>
+            <p>Arrangement:Original Order </p>
+          </arrangement>
+          <c03 level="file">
+            <did>
+              <container type="box">1</container>
+              <container type="folder">23</container>
+              <unittitle>Material for Port-Royal Edition</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">1</container>
+              <container type="folder">24</container>
+              <unittitle>1678 Additions</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">1</container>
+              <container type="folder">25</container>
+              <unittitle>Port-Royal Deletions</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">1</container>
+              <container type="folder">26</container>
+              <unittitle>Port-Royal Edition</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">1</container>
+              <container type="folder">27</container>
+              <unittitle>Appendixes C and D and Bibliography of First Port-Royal
+                Editions</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">1</container>
+              <container type="folder">28</container>
+              <unittitle>Appendix A: Pensées Omitted by Port-Royal</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">1</container>
+              <container type="folder">29</container>
+              <unittitle>Appendix V: Samples of 1678 Edition and Parallel Modern
+                Versions</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">1</container>
+              <container type="folder">30</container>
+              <unittitle>Appendix V and Explanatory Notes </unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">1</container>
+              <container type="folder">31</container>
+              <unittitle>Notes and Passages from Pensées Lafuma Editionl</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">1</container>
+              <container type="folder">32</container>
+              <unittitle>Pascal- Bibliography</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">1</container>
+              <container type="folder">33</container>
+              <unittitle>“Pascal’s Pensées and the Enlightenment: The Roots of a Misunderstanding”
+                Final draft </unittitle>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unitid>2</unitid>
+          <unittitle>2. Miscellaneous Materials</unittitle>
+          <physdesc>1 linear foot</physdesc>
+          <physdesc>Box: 2</physdesc>
+          <physdesc>Folders: 34-45</physdesc>
+        </did>
+        <scopecontent>
+          <p>Series contains Miscellaneous drafts, materials on the 18th century, book reviews and
+            correspondence not used directly in the publication process</p>
+        </scopecontent>
+        <arrangement>
+          <p>Original Order (Approximately)</p>
+        </arrangement>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">34</container>
+            <unittitle>Correspondence</unittitle>
+            <unitdate label="Date"/>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">35</container>
+            <unittitle>Book Reviews</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">36</container>
+            <unittitle>Pascal and Escher Lecture</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">37</container>
+            <unittitle>“Progress of the Novel Till the Eighteenth Century”</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">38</container>
+            <unittitle>Sample Pascal’s Pensées Ch I-VI</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">39</container>
+            <unittitle>Draft Port-Royal Part I</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">40</container>
+            <unittitle>Draft Port-Royal Part II </unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">41</container>
+            <unittitle>Draft Port-Royal Part III</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">42</container>
+            <unittitle>Draft Port-Royal Part IV</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">43</container>
+            <unittitle>Excerpts not in Port-Royal</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">44</container>
+            <unittitle>Excerpts not in Port-Royal</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">45</container>
+            <unittitle>Old First draft</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">46</container>
+            <unittitle>Escher artwork slides</unittitle>
+            <unitdate label="Date"/>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">47</container>
+            <unittitle>Miscellaneous cassette tape</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">48</container>
+            <unittitle>Microfilm - Continuation des Mémoires de Literaturet</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">49</container>
+            <unittitle>Microfilm - Pascal’s Pensées</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">50</container>
+            <unittitle>Microfilm - Pascal’s Pensées</unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

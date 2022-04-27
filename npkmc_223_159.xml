@@ -1,27 +1,91 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="styles/coxCollection.xsl"?>
-<ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:isbn:1-931666-22-9" xmlns:ns2="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"><!--Header portion of EAD --><eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601"><eadid countrycode="US" mainagencycode="US-NPkMC" url="http://www.marist.edu">npkmc_223_159</eadid><filedesc><titlestmt><titleproper>James T. Cox Collection</titleproper><author>Nicholas Gildard, Janet Rice <![CDATA[&]]> John Ansley, PhD, 2002; Finding
+<ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:isbn:1-931666-22-9" xmlns:ns2="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
+
+	<!--Header portion of EAD -->
+	<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+		<eadid countrycode="US" mainagencycode="US-NPkMC" url="http://www.marist.edu">npkmc_223_159</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>James T. Cox Collection</titleproper>
+				<author>Nicholas Gildard, Janet Rice <![CDATA[&]]> John Ansley, PhD, 2002; Finding
 					Aid Encoded by: Monish M. Singh, 2002; Finding Aid Encoding updated by: Abigail
-					Bowen, 2022</author></titlestmt><publicationstmt><publisher>Marist College <lb/>Archives and Special Collections </publisher><address><addressline>3399 North Road <lb/>Poughkeepsie, NY 12601 <lb/>Phone:
+					Bowen, 2022</author>
+			</titlestmt>
+
+			<publicationstmt>
+				<publisher>Marist College <lb/>Archives and Special Collections </publisher>
+				<address>
+					<addressline>3399 North Road <lb/>Poughkeepsie, NY 12601 <lb/>Phone:
 						845-575-5217 <lb/>Fax: 845-575-3150 <lb/>Email: library.archives@marist.edu<lb/>Website:
-						https://library.marist.edu/archives/</addressline></address><date type="publication" normal="2002">Summer 2002</date></publicationstmt></filedesc><profiledesc><creation>Monish M. Singh <date>2002</date>
-			</creation><langusage> Finding aid written in <language langcode="eng">English.</language>
-			</langusage><descrules><abbr>DACS</abbr>Describing Archives: A Content Standard. Chicago: Society of
-				American Archivists, 2013.</descrules></profiledesc><revisiondesc><list><item>March 2022, EAD updated by Abigail Bowen</item></list></revisiondesc></eadheader><!-- Archival Description portion of EAD --><archdesc level="collection"><did><unittitle>James T. Cox Collection</unittitle><unitid countrycode="US" repositorycode="US-NPkMC">NPKMC-223-159</unitid><unitdate type="inclusive" normal="1900/2003">1900 - 2003</unitdate><physdesc><extent type="size">30 linear feet</extent></physdesc><repository><corpname>Marist College Archives and Special Collections</corpname></repository><origination label="creator"><persname>James T. Cox</persname></origination><langmaterial><language langcode="eng">English</language></langmaterial><abstract>The James T. Cox Collection consists of plays, both professional and amateur
+						https://library.marist.edu/archives/</addressline>
+				</address>
+				<date type="publication" normal="2002">Summer 2002</date>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Monish M. Singh <date>2002</date>
+			</creation>
+			<langusage> Finding aid written in <language langcode="eng">English.</language>
+			</langusage>
+			<descrules><abbr>DACS</abbr>Describing Archives: A Content Standard. Chicago: Society of
+				American Archivists, 2013.</descrules>
+		</profiledesc>
+		<revisiondesc>
+			<list>
+				<item>March 2022, EAD updated by Abigail Bowen</item>
+			</list>
+		</revisiondesc>
+	</eadheader>
+
+	<!-- Archival Description portion of EAD -->
+
+	<archdesc level="collection">
+		<did>
+			<unittitle>James T. Cox Collection</unittitle>
+			<unitid countrycode="US" repositorycode="US-NPkMC">NPKMC-223-159</unitid>
+			<unitdate type="inclusive" normal="1900/2003">1900 - 2003</unitdate>
+			<physdesc>
+				<extent type="size">30 linear feet</extent>
+			</physdesc>
+			<repository>
+				<corpname>Marist College Archives and Special Collections</corpname>
+			</repository>
+			<origination label="creator"><persname>James T. Cox</persname></origination>
+			<langmaterial>
+				<language langcode="eng">English</language>
+			</langmaterial>
+			<abstract>The James T. Cox Collection consists of plays, both professional and amateur
 				(student), musicals, and screenplays. Also included are several videotapes of the
 				Marist College Council on Theatre Arts productions. The portion of the collection
-				consisting of student written plays was developed by Gerard A. Cox. </abstract><physloc>Please contact the Marist College Archives and Special Collections for
-				information regarding use and access of this collection.</physloc></did><scopecontent><head>Collection Overview</head><p>James Cox was a man of theatrical dreams. Although he never made it to stardom, he
+				consisting of student written plays was developed by Gerard A. Cox. </abstract>
+			<physloc>Please contact the Marist College Archives and Special Collections for
+				information regarding use and access of this collection.</physloc>
+		</did>
+
+		<scopecontent>
+			<head>Collection Overview</head>
+			<p>James Cox was a man of theatrical dreams. Although he never made it to stardom, he
 				continued to live his dream by whatever means possible. The theatre became a
 				principle role in his life beginning in grammar school and continued to be his
 				life-long goal. Throughout his life, Jim Cox participated in several aspects of
 				theatre, from acting, to directing, to working along the sides of the “techies." Jim
 				also collected a life's worth of scripts and plays. His wish was to allow this
-				collection to be made available for students to find their way to their own dreams. </p><p>The James T. Cox Collection consists of plays, both professional and amateur
+				collection to be made available for students to find their way to their own dreams. </p>
+			<p>The James T. Cox Collection consists of plays, both professional and amateur
 				(student), musicals, and screenplays. Also included are several videotapes of the
 				Marist College Council on Theatre Arts productions. The portion of the collection
-				consisting of student written plays was developed by Gerard A. Cox.</p></scopecontent><acqinfo><p>The James T. Cox Collection was developed by both James T. Cox and Gerard A. Cox. The
-				Cox collection was donated to the Marist College Library by Gerard A. Cox.</p></acqinfo><bioghist encodinganalog="545"><head>Historical Note</head><p>James Thomas Cox was a lifelong lover of theatre and its arts in all shapes and
+				consisting of student written plays was developed by Gerard A. Cox.</p>
+		</scopecontent>
+
+		<acqinfo>
+			<p>The James T. Cox Collection was developed by both James T. Cox and Gerard A. Cox. The
+				Cox collection was donated to the Marist College Library by Gerard A. Cox.</p>
+		</acqinfo>
+
+		<bioghist encodinganalog="545">
+			<head>Historical Note</head>
+			<p>James Thomas Cox was a lifelong lover of theatre and its arts in all shapes and
 				forms. He developed an "itch" for theatre while a child in elementary school where a
 				woman by the name of Anna Day taught Jim and his peers elocution and directed them
 				in a variety of stage presentations that were closer to vaudeville than to the
@@ -31,7 +95,8 @@
 				him was a classmate, Anna Maria Italiano, later to be recognized as the Oscar and
 				Tony winning actress, Anne Bancroft.) An account of the highs and lows of the years
 				of struggling "to make it in show biz" can be read in "Thank You, Jonas Bronck," an
-				autobiography written with humor, sensitivity and compassion.</p><p>The story of James Thomas Cox is not spectacular, but it is a remarkable example of
+				autobiography written with humor, sensitivity and compassion.</p>
+			<p>The story of James Thomas Cox is not spectacular, but it is a remarkable example of
 				the countless stories of theatre practitioners who never become household names. His
 				career in the theatre included roles performed on the stage and on radio and in
 				television and movies. His roles most often were character roles played in the
@@ -40,327 +105,3250 @@
 				others. He performed on stages from New England to Texas to Maryland to California.
 				He had roles in productions of "Excess Baggage," "Cold Storage," "The Happy Time,"
 				"Tobacco Road," "Deathtrap," "Clash By Night," "Two Old Farts Reading Shakespeare,"
-				and "Steambath." </p><p>Prior to his death he asked that his extensive collection of play scripts be made
+				and "Steambath." </p>
+			<p>Prior to his death he asked that his extensive collection of play scripts be made
 				available to students and faculty. This special collection is the fulfillment of
 				that request. Perhaps it will enable others in going after what they want most. Go
 				for it, keeping in mind one of this man's favorite sayings: "The only ladder to the
-				stars is woven with dreams."</p></bioghist><accessrestrict><p>There are no restrictions on this collection</p></accessrestrict><userestrict><head>Notice of Copyright</head><p>Individuals requesting reproductions expressly assume the responsibility for
+				stars is woven with dreams."</p>
+		</bioghist>
+
+		<accessrestrict>
+			<p>There are no restrictions on this collection</p>
+		</accessrestrict>
+		<userestrict>
+			<head>Notice of Copyright</head>
+			<p>Individuals requesting reproductions expressly assume the responsibility for
 				compliance with all pertinent provisions of the Copyright Act, 17 U.S.C. ss101 et
 				seq. Patrons further agree to indemnify and hold harmless the Marist College
 				Archives and Special Collections and its staff in connection with any disputes
 				arising from the Copyright Act, over the reproduction of material at the request of
 				patrons. For more information please visit the following website:
-				http://www.loc.gov/copyright/title17/.</p></userestrict><prefercite><head>Preferred Citation</head><p>[Description of item, date, location of item in order of series, box number, folder
+				http://www.loc.gov/copyright/title17/.</p>
+		</userestrict>
+		<prefercite>
+			<head>Preferred Citation</head>
+			<p>[Description of item, date, location of item in order of series, box number, folder
 				number ], in the James T. Cox Collection, Archives and Special Collections, James A.
-				Cannavino Library, Marist College.</p></prefercite><arrangement><head>Arrangement of the Collection</head><p>These records are organized into four series: 1) Student Plays Written for Festival,
+				Cannavino Library, Marist College.</p>
+		</prefercite>
+		<arrangement>
+			<head>Arrangement of the Collection</head>
+			<p>These records are organized into four series: 1) Student Plays Written for Festival,
 				has 20 subseries, 2) Student Plays, 3) Videos, and 4) Published Plays, Musicals, and
-				Screenplays </p><p>Series are arranged chronologically, by subject, alpabetically by title, or by catalog entry</p></arrangement><dsc type="combined"><c01 level="series"><did><unitid>1</unitid><unittitle>Student Plays Written for Festival</unittitle><unitdate normal="1989/2002">1989 - 2002</unitdate><physdesc><extent type="boxes">Boxes: 1 - 7</extent></physdesc></did><arrangement><p>Chronological</p></arrangement><c02 level="subseries"><did><unitid>1.1</unitid><unittitle>Subseries 1.: Theatre Workshop</unittitle><unitdate normal="1989">1989</unitdate><physdesc><extent type="boxes">Box: 1</extent></physdesc></did><c03 level="item"><did><origination label="Creator"><persname>O'Hara, John
-								</persname></origination><unittitle>We Are Companions On A Journey</unittitle><container type="box">1</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Meyer, Chris
-								</persname></origination><unittitle>A Bight to Eat</unittitle><container type="box">1</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Callahan, Elizabeth
-								</persname></origination><unittitle>It's A Dog's Life</unittitle><container type="box">1</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Sabol, Richard K.
-								</persname></origination><unittitle>An Ordinary Travel Through Time</unittitle><container type="box">1</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Meyer, Chris
-								</persname></origination><unittitle>Without Humor</unittitle><container type="box">1</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Lawless, Christina
-								</persname></origination><unittitle>Straight Up, Please</unittitle><container type="box">1</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Meyer, Chris
-								</persname></origination><unittitle>The Game</unittitle><container type="box">1</container></did></c03></c02><c02 level="subseries"><did><unitid>1.2</unitid><unittitle>Subseries 1.2: Theatre Workshop: Festival '90 - Student Scripts, Volume
-							I</unittitle><unitdate normal="1990">1990</unitdate><physdesc><extent type="boxes">Box: 1</extent></physdesc></did><c03 level="item"><did><origination label="Creator"><persname>Higgins, Bob
-								</persname></origination><unittitle>Death Meets the Lovebug</unittitle><container type="box">1</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Budd, Ed</persname></origination><unittitle>The Honeymooners Get Divorced</unittitle><container type="box">1</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Lecky, John
-								</persname></origination><unittitle>Cars</unittitle><container type="box">1</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Glaze, Anndalena
-								</persname></origination><unittitle>Piece of Mind</unittitle><container type="box">1</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Liepis, Marc
-								</persname></origination><unittitle>The F Word</unittitle><container type="box">1</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Miller, Mark
-								</persname></origination><unittitle>Backstage</unittitle><container type="box">1</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Liepic, Marc
-								</persname></origination><unittitle>The Shark Tank</unittitle><container type="box">1</container></did></c03></c02><c02 level="subseries"><did><unitid>1.3</unitid><unittitle>Subseries 1.3: Theatre Workshop: Festival '90 - Student Scripts, Volume
-							II</unittitle><unitdate normal="1990">1990</unitdate><physdesc><extent type="boxes">Box: 1</extent></physdesc></did><c03 level="item"><did><origination label="Creator"><persname>Dwyer, Kevin
-								</persname></origination><unittitle>Unsuspecting Customers</unittitle><container type="box">1</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>O'Connor, Kerin
-								</persname></origination><unittitle>Complications</unittitle><container type="box">1</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Speers, Michael
-								</persname></origination><unittitle>The Unsung Hero</unittitle><container type="box">1</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>McEneney, Ed
-								</persname></origination><unittitle>Final Judgment</unittitle><container type="box">1</container></did></c03></c02><c02 level="subseries"><did><unitid>1.4</unitid><unittitle>Subseries 1.4: New Short Plays by Students</unittitle><unitdate normal="1991">1991</unitdate><physdesc><extent type="boxes">Box: 1</extent></physdesc></did><c03 level="item"><did><origination label="Creator"><persname>Liepis, Marc
-								</persname></origination><unittitle>Farewell Tour</unittitle><container type="box">1</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>O'Connor, Kerin
-								</persname></origination><unittitle>The Bridal Shower</unittitle><container type="box">1</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>O'Hara, Jamie
-								</persname></origination><unittitle>Known But To God</unittitle><container type="box">1</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Wing, Terrence
-								</persname></origination><unittitle>Trashed</unittitle><container type="box">1</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Glaze, Anndalena
-								</persname></origination><unittitle>Intimate Relations</unittitle><container type="box">1</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Cunney, Don
-								</persname></origination><unittitle>True Confessions</unittitle><container type="box">1</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Roy,
-								R.A.</persname></origination><unittitle>Life At Twenty</unittitle><container type="box">1</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Walker, Alicia
-								</persname></origination><unittitle>Truth Game</unittitle><container type="box">1</container></did></c03></c02><c02 level="subseries"><did><unitid>1.5</unitid><unittitle>Subseries 1.5: New Short Plays by Students: 1992 (Spring Semester)</unittitle><unitdate normal="1992">1992</unitdate><physdesc><extent type="boxes">Box: 1</extent></physdesc></did><c03 level="item"><did><origination label="Creator"><persname>Liepis, Marc
-								</persname></origination><unittitle>Madness To My Method</unittitle><container type="box">1</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Gaze, Anndalena
-								</persname></origination><unittitle>The Porch Swing</unittitle><container type="box">1</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Bryndle, Amy
-								</persname></origination><unittitle>A Small Town Dream</unittitle><container type="box">1</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Gallup, Laura
-								</persname></origination><unittitle>The Final Destination</unittitle><container type="box">1</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Timpone, Peter
-								</persname></origination><unittitle>Wagner's Temptation</unittitle><container type="box">1</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Schatzle, Barbara K.
-								</persname></origination><unittitle>Oh and Please, Call Me Joe</unittitle><container type="box">1</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Joseph, Jim
-								</persname></origination><unittitle>2 Hearts</unittitle><container type="box">1</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Anson,
-								Amy</persname></origination><unittitle>Looking For Inspiration</unittitle><container type="box">1</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Barrott, Michelle
-								</persname></origination><unittitle>Motherly Love</unittitle><container type="box">1</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Dooley, Christine
-								</persname></origination><unittitle>Going To The Chapel</unittitle><container type="box">1</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Cerabone, Jon
-								</persname></origination><unittitle>The Last Visit</unittitle><container type="box">1</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Liriano, A.Z.
-								</persname></origination><unittitle>Dance With Me</unittitle><container type="box">1</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Giaquinto, Matthew
-								</persname></origination><unittitle>Moonmist</unittitle><container type="box">1</container></did></c03></c02><c02 level="subseries"><did><unitid>1.6</unitid><unittitle>Subseries 1.6: A Book of New Short Plays (Spring Semester)</unittitle><unitdate normal="1992">1992</unitdate><physdesc><extent type="boxes">Box: 2</extent></physdesc></did><c03 level="item"><did><origination label="Creator"><persname>Budd, Ed</persname></origination><unittitle>72nd Street Messiah</unittitle><container type="box">2</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Roche, John
-								</persname></origination><unittitle>Dreamah</unittitle><container type="box">2</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Liepis, Marc
-								</persname></origination><unittitle>Cutting Remarks</unittitle><container type="box">2</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Lake, Ronald
-								</persname></origination><unittitle>Shakes and Spears</unittitle><container type="box">2</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Crary, Kami
-								</persname></origination><unittitle>Not Me</unittitle><container type="box">2</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Speers, Mike
-								</persname></origination><unittitle>Epiphany</unittitle><container type="box">2</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Giaquinto, Matthew
-								</persname></origination><unittitle>Moonmist (Revised)</unittitle><container type="box">2</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Fieldman, Eugene
-								</persname></origination><unittitle>Cyanide</unittitle><container type="box">2</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Fieldman, Eugene
-								</persname></origination><unittitle>Duke of Prunes</unittitle><container type="box">2</container></did></c03></c02><c02 level="subseries"><did><unitid>1.7</unitid><unittitle>Subseries 1.7: New Short Plays by Students (Spring Semester)</unittitle><unitdate normal="1992">1992</unitdate><physdesc><extent type="boxes">Box: 2</extent></physdesc></did><c03 level="item"><did><origination label="Creator"><persname>Sheeran, Christine
-								</persname></origination><unittitle>The Card Shop</unittitle><container type="box">2</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Gretziner, Gerard M. Jr.
-								</persname></origination><unittitle>Check Please</unittitle><container type="box">2</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Lynch,
-								Jim</persname></origination><unittitle>Charlie's Independence Day</unittitle><container type="box">2</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Albano, Matt
-								</persname></origination><unittitle>There's No Such Thing as Love in the World of the Blue-Headed
-								Man</unittitle><container type="box">2</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Iacono, Christopher W.
-								</persname></origination><unittitle>Dysfunctional</unittitle><container type="box">2</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Giaquinto, Matthew
-								</persname></origination><unittitle>Blackout (a love story in the dark)</unittitle><container type="box">2</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Speers, Mike
-								</persname></origination><unittitle>Academy Avenue</unittitle><container type="box">2</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Savitsky, Anne P.
-								</persname></origination><unittitle>Hanging By A Thread</unittitle><container type="box">2</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Zurlo, Vinnie
-								</persname></origination><unittitle>From the Porch</unittitle><container type="box">2</container></did></c03></c02><c02 level="subseries"><did><unitid>1.8</unitid><unittitle>Subseries 1.8: New Plays: Volume I (Spring 1993)</unittitle><unitdate normal="1993">1993</unitdate><physdesc><extent type="boxes">Box: 2</extent></physdesc></did><c03 level="item"><did><origination label="Creator"><persname>Gretzinger, Gerard M. Jr.
-								</persname></origination><unittitle>The Farther To Fall</unittitle><container type="box">2</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Ten Eyck, David
-								</persname></origination><unittitle>Green Pastures</unittitle><container type="box">2</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Lindeman, Max
-								</persname></origination><unittitle>Bennie</unittitle><container type="box">2</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Iacono, Christopher W.
-								</persname></origination><unittitle>Red Tape For The Boa Constrictor</unittitle><container type="box">2</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Gretzinger, Gerard M. Jr.
-								</persname></origination><unittitle>Family Affairs</unittitle><container type="box">2</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Di Iorio, Stephanie
-								</persname></origination><unittitle>Fool's Gold</unittitle><container type="box">2</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Gretzinger, Gerard M. Jr.
-								</persname></origination><unittitle>Second Chances</unittitle><container type="box">2</container></did></c03></c02><c02 level="subseries"><did><unitid>1.9</unitid><unittitle>Subseries 1.9: New Plays: Volume II (Spring 1993)</unittitle><unitdate normal="1993">1993</unitdate><physdesc><extent type="boxes">Box: 3</extent></physdesc></did><c03 level="item"><did><origination label="Creator"><persname>Jack, Deborah
-								</persname></origination><unittitle>The Dream-Maker</unittitle><container type="box">3</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Haggerty, James
-								</persname></origination><unittitle>Return to Forever</unittitle><container type="box">3</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Budd, Ed</persname></origination><unittitle>Sean Morgan's Family Solution</unittitle><container type="box">3</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Crary, Kami
-								</persname></origination><unittitle>A Room With No View</unittitle><container type="box">3</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Lake, Ronald
-								</persname></origination><unittitle>Madison's Murder</unittitle><container type="box">3</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Haggerty, James
-								</persname></origination><unittitle>Truman</unittitle><container type="box">3</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Anderson, Jerome
-								</persname></origination><unittitle>Jake's Ladder</unittitle><container type="box">3</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Galpin, Christian G.
-								</persname></origination><unittitle>One Fish, Two Fish</unittitle><container type="box">3</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Crary, Kami
-								</persname></origination><unittitle>Untitled</unittitle><container type="box">3</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Galpin, Christian
-								</persname></origination><unittitle>A Look At The View</unittitle><container type="box">3</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>McGovern, Mary Ann
-								</persname></origination><unittitle>The Year the Real World Began</unittitle><container type="box">3</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Jack, Deborah
-								</persname></origination><unittitle>Worship Zylophone</unittitle><container type="box">3</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Crary, Kami
-								</persname></origination><unittitle>Kay's Prerogative</unittitle><container type="box">3</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Iacono, Christopher W.
-								</persname></origination><unittitle>Red Tape For The Boa Constrictor (Revised)</unittitle><container type="box">3</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Crary, Kami
-								</persname></origination><unittitle>Not Me (Revised)</unittitle><container type="box">3</container></did></c03></c02><c02 level="subseries"><did><unitid>1.10</unitid><unittitle>Subseries 1.10: Theatre Workshop: Festival '94</unittitle><unitdate normal="1994">1994</unitdate><physdesc><extent type="boxes">Box: 3</extent></physdesc></did><c03 level="item"><did><origination label="Creator"><persname>Altomare, Scott
-								</persname></origination><unittitle>Escaping Reality</unittitle><container type="box">3</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Feick, Erica
-								</persname></origination><unittitle>A Modern Fairy Tail</unittitle><container type="box">3</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Gonell, Louis
-								</persname></origination><unittitle>Wiser Than My Years</unittitle><container type="box">3</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Gretzinger, Gerard M. Jr.
-								</persname></origination><unittitle>As Time Goes By</unittitle><container type="box">3</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Hadhazy, Andrea
-								</persname></origination><unittitle>Scenes From An Italian Restaurant</unittitle><container type="box">3</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Miller, Lou
-								</persname></origination><unittitle>The Further Adventures of Hamlet</unittitle><container type="box">3</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Naumann, Stephanie
-								</persname></origination><unittitle>What Would You Do If . . .</unittitle><container type="box">3</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Redecindo, Sagrario
-								</persname></origination><unittitle>All Screwed Up</unittitle><container type="box">3</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Saraceno, Roseanne
-								</persname></origination><unittitle>Jack In The Box</unittitle><container type="box">3</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Targos, Robert
-								</persname></origination><unittitle>Insult To Injury</unittitle><container type="box">3</container></did></c03></c02><c02 level="subseries"><did><unitid>1.11</unitid><unittitle>Subseries 1.11: Student Written Plays Prepared for Festival '95</unittitle><unitdate normal="1995">1995</unitdate><physdesc><extent type="boxes">Box: 3</extent></physdesc></did><c03 level="item"><did><origination label="Creator"><persname>Damiani, Christopher
-								</persname></origination><unittitle>One Last Game</unittitle><container type="box">3</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Danis, Michael
-								</persname></origination><unittitle>Déjà Vu</unittitle><container type="box">3</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Feick, Erica L.
-								</persname></origination><unittitle>My Life</unittitle><container type="box">3</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Feick, Erica L.
-								</persname></origination><unittitle>The Possibility</unittitle><container type="box">3</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Hadhazy, Andrea
-								</persname></origination><unittitle>Family Dinner</unittitle><container type="box">3</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Landry, Karen
-								</persname></origination><unittitle>God Games</unittitle><container type="box">3</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Murphy, Andrea
-								</persname></origination><unittitle>The Crèche on Main Street: The Nativity Scene</unittitle><container type="box">3</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Ryan,
-								Sean</persname></origination><unittitle>Suburbia Dreamin</unittitle><container type="box">3</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Saraceno, Roseanne
-								</persname></origination><unittitle>Going Up</unittitle><container type="box">3</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Targos, Robert G.
-								</persname></origination><unittitle>The Hare and the Handicapped</unittitle><container type="box">3</container></did></c03></c02><c02 level="subseries"><did><unitid>1.12</unitid><unittitle>Subseries 1.12: Student Written Plays Prepared for Festival '96 (Book
-							I)</unittitle><unitdate normal="1996">1996</unitdate><physdesc><extent type="boxes">Box: 4</extent></physdesc></did><c03 level="item"><did><origination label="Creator"><persname>Cahill, Bryon
-								</persname></origination><unittitle>One Thousand and One Oranges</unittitle><container type="box">4</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Clark, Patricia E.
-								</persname></origination><unittitle>Why???</unittitle><container type="box">4</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Hadhazy, Andrea
-								</persname></origination><unittitle>Honest Exchange</unittitle><container type="box">4</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Naumann, Stephanie
-								</persname></origination><unittitle>Reality Check</unittitle><container type="box">4</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Patulak, Jennifer
-								</persname></origination><unittitle>A Cracked Diamond</unittitle><container type="box">4</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Tokash, Andrew
-								</persname></origination><unittitle>The Wait</unittitle><container type="box">4</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Tokash, Andreq
-								</persname></origination><unittitle>Blue</unittitle><container type="box">4</container></did></c03></c02><c02 level="subseries"><did><unitid>1.13</unitid><unittitle>Subseries 1.13: Student Written Plays Prepared for Festival '96 (Book
-							II)</unittitle><unitdate normal="1996">1996</unitdate><physdesc><extent type="boxes">Box: 4</extent></physdesc></did><c03 level="item"><did><origination label="Creator"><persname>Cahill, Bryon
-								</persname></origination><unittitle>A Knock At The Door</unittitle><container type="box">4</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Feick, Erica L.
-								</persname></origination><unittitle>A Prisoner Of The Mind</unittitle><container type="box">4</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Landry, Karen
-								</persname></origination><unittitle>The Underground</unittitle><container type="box">4</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Saraceno, Roseanne
-								</persname></origination><unittitle>Tombstones</unittitle><container type="box">4</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Hadhay, Andrea
-								</persname></origination><unittitle>Honest Exchange (Revised)</unittitle><container type="box">4</container></did></c03></c02><c02 level="subseries"><did><unitid>1.14</unitid><unittitle>Subseries 1.14: Stage One: Plays in Progress (Collection of Student Written
-							Plays</unittitle><unitdate normal="1997">1997</unitdate><physdesc><extent type="boxes">Box: 4</extent></physdesc></did><c03 level="item"><did><origination label="Creator"><persname>Gallagher, Tom
-								</persname></origination><unittitle>Of Brass Rings and Finer Things</unittitle><container type="box">4</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Landry, Karen
-								</persname></origination><unittitle>Legend Had It</unittitle><container type="box">4</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Cahill, Bryon
-								</persname></origination><unittitle>Armageddon Vs. Joe Shmoe</unittitle><container type="box">4</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>McNamara, Shannon M.
-								</persname></origination><unittitle>NIHL</unittitle><container type="box">4</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Tokash, Andrew
-								</persname></origination><unittitle>Let's Talk About Sex</unittitle><container type="box">4</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Cahill, Bryon
-								</persname></origination><unittitle>Something Like Believe</unittitle><container type="box">4</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>White, Michelle Corrine
-								</persname></origination><unittitle>How Little They Know</unittitle><container type="box">4</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Freydl, Jef. E.
-								</persname></origination><unittitle>Premonition</unittitle><container type="box">4</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Ten Eyck, David
-								</persname></origination><unittitle>The Paths of Progress</unittitle><container type="box">4</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Fishelman, Ben
-								</persname></origination><unittitle>A Man in a Chair, A Woman at the Window</unittitle><container type="box">4</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Kennedy, Clifden
-								</persname></origination><unittitle>Brotherhood</unittitle><container type="box">4</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Murray, John<![CDATA[&]]> Linhart
-									Paul</persname></origination><unittitle>Mortimer Gets Some or Mortimer Bites the Big
-								Apple</unittitle><container type="box">4</container></did></c03></c02><c02 level="subseries"><did><unitid>1.15</unitid><unittitle>Subseries 1.15: As Grapes Upon the Vine: A Collection of New Plays</unittitle><unitdate normal="1998">1998</unitdate><physdesc><extent type="boxes">Box: 5</extent></physdesc></did><c03 level="item"><did><origination label="Creator"><persname>Fishelman, Ben
-								</persname></origination><unittitle>A Certain Kind of Hum</unittitle><container type="box">5</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Crandall, Jason
-								</persname></origination><unittitle>A Leap of Faith</unittitle><container type="box">5</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Mercurio, Stephanie
-								</persname></origination><unittitle>A Queen's Symphony</unittitle><container type="box">5</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Rescoria, Kim
-								</persname></origination><unittitle>Ashes to Ashes</unittitle><container type="box">5</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Jannicelli, Jessica
-								</persname></origination><unittitle>Assumptions</unittitle><container type="box">5</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Rescoria, Kim
-								</persname></origination><unittitle>Battles You Can't Win</unittitle><container type="box">5</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Cahill, Bryon
-								</persname></origination><unittitle>Convulsing Twins</unittitle><container type="box">5</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Treacy, Katie
-								</persname></origination><unittitle>Decisions, Decisions</unittitle><container type="box">5</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Feurstein, Michael James
-								</persname></origination><unittitle>Famous Men: An Act Mizzling</unittitle><container type="box">5</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Heineman, Alex
-								</persname></origination><unittitle>In Brother I Trust</unittitle><container type="box">5</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Mewhiney, Kevin
-								</persname></origination><unittitle>None So Blind</unittitle><container type="box">5</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Thompson, Scott R.
-								</persname></origination><unittitle>The Borders of Arcadia</unittitle><container type="box">5</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Lynch, Heather
-								</persname></origination><unittitle>The Engagement</unittitle><container type="box">5</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Thompson, Scott R.
-								</persname></origination><unittitle>The First Letter to Sabrina</unittitle><container type="box">5</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Cahill, Bryon
-								</persname></origination><unittitle>Tuesday</unittitle><container type="box">5</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Curry, Daniel
-								</persname></origination><unittitle>Whatever Happened to Long Island Mike???</unittitle><container type="box">5</container></did></c03></c02><c02 level="subseries"><did><unitid>1.16</unitid><unittitle>Subseries 1.16: A Touch of Harry: A Collection of Plays Commemorating the
+				Screenplays </p>
+			<p>Series are arranged chronologically, by subject, alpabetically by title, or by catalog entry</p>
+		</arrangement>
+
+
+		<dsc type="combined">
+			<c01 level="series">
+				<did>
+					<unitid>1</unitid>
+					<unittitle>Student Plays Written for Festival</unittitle> 					<unitdate normal="1989/2002">1989 - 2002</unitdate>
+					<physdesc>
+						<extent type="boxes">Boxes: 1 - 7</extent>
+					</physdesc>
+				</did>
+				<arrangement>
+					<p>Chronological</p>
+				</arrangement>
+				<c02 level="subseries">
+					<did>
+						<unitid>1.1</unitid>
+						<unittitle>Subseries 1.: Theatre Workshop</unittitle>
+						<unitdate normal="1989">1989</unitdate>
+						<physdesc>
+							<extent type="boxes">Box: 1</extent>
+						</physdesc>
+					</did>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>O'Hara, John
+								</persname></origination>
+							<unittitle>We Are Companions On A Journey</unittitle>
+							<container type="box">1</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Meyer, Chris
+								</persname></origination>
+							<unittitle>A Bight to Eat</unittitle>
+							<container type="box">1</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Callahan, Elizabeth
+								</persname></origination>
+							<unittitle>It's A Dog's Life</unittitle>
+							<container type="box">1</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Sabol, Richard K.
+								</persname></origination>
+							<unittitle>An Ordinary Travel Through Time</unittitle>
+							<container type="box">1</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Meyer, Chris
+								</persname></origination>
+							<unittitle>Without Humor</unittitle>
+							<container type="box">1</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Lawless, Christina
+								</persname></origination>
+							<unittitle>Straight Up, Please</unittitle>
+							<container type="box">1</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Meyer, Chris
+								</persname></origination>
+							<unittitle>The Game</unittitle>
+							<container type="box">1</container>
+						</did>
+					</c03>
+				</c02>
+
+				<c02 level="subseries">
+					<did>
+						<unitid>1.2</unitid>
+						<unittitle>Subseries 1.2: Theatre Workshop: Festival '90 - Student Scripts, Volume
+							I</unittitle>
+						<unitdate normal="1990">1990</unitdate>
+						<physdesc>
+							<extent type="boxes">Box: 1</extent>
+						</physdesc>
+					</did>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Higgins, Bob
+								</persname></origination>
+							<unittitle>Death Meets the Lovebug</unittitle>
+							<container type="box">1</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Budd, Ed</persname></origination>
+							<unittitle>The Honeymooners Get Divorced</unittitle>
+							<container type="box">1</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Lecky, John
+								</persname></origination>
+							<unittitle>Cars</unittitle>
+							<container type="box">1</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Glaze, Anndalena
+								</persname></origination>
+							<unittitle>Piece of Mind</unittitle>
+							<container type="box">1</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Liepis, Marc
+								</persname></origination>
+							<unittitle>The F Word</unittitle>
+							<container type="box">1</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Miller, Mark
+								</persname></origination>
+							<unittitle>Backstage</unittitle>
+							<container type="box">1</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Liepic, Marc
+								</persname></origination>
+							<unittitle>The Shark Tank</unittitle>
+							<container type="box">1</container>
+						</did>
+					</c03>
+				</c02>
+
+				<c02 level="subseries">
+					<did>
+						<unitid>1.3</unitid>
+						<unittitle>Subseries 1.3: Theatre Workshop: Festival '90 - Student Scripts, Volume
+							II</unittitle>
+						<unitdate normal="1990">1990</unitdate>
+						<physdesc>
+							<extent type="boxes">Box: 1</extent>
+						</physdesc>
+					</did>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Dwyer, Kevin
+								</persname></origination>
+							<unittitle>Unsuspecting Customers</unittitle>
+							<container type="box">1</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>O'Connor, Kerin
+								</persname></origination>
+							<unittitle>Complications</unittitle>
+							<container type="box">1</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Speers, Michael
+								</persname></origination>
+							<unittitle>The Unsung Hero</unittitle>
+							<container type="box">1</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>McEneney, Ed
+								</persname></origination>
+							<unittitle>Final Judgment</unittitle>
+							<container type="box">1</container>
+						</did>
+					</c03>
+				</c02>
+
+				<c02 level="subseries">
+					<did>
+						<unitid>1.4</unitid>
+						<unittitle>Subseries 1.4: New Short Plays by Students</unittitle>
+						<unitdate normal="1991">1991</unitdate>
+						<physdesc>
+							<extent type="boxes">Box: 1</extent>
+						</physdesc>
+					</did>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Liepis, Marc
+								</persname></origination>
+							<unittitle>Farewell Tour</unittitle>
+							<container type="box">1</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>O'Connor, Kerin
+								</persname></origination>
+							<unittitle>The Bridal Shower</unittitle>
+							<container type="box">1</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>O'Hara, Jamie
+								</persname></origination>
+							<unittitle>Known But To God</unittitle>
+							<container type="box">1</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Wing, Terrence
+								</persname></origination>
+							<unittitle>Trashed</unittitle>
+							<container type="box">1</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Glaze, Anndalena
+								</persname></origination>
+							<unittitle>Intimate Relations</unittitle>
+							<container type="box">1</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Cunney, Don
+								</persname></origination>
+							<unittitle>True Confessions</unittitle>
+							<container type="box">1</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Roy,
+								R.A.</persname></origination>
+							<unittitle>Life At Twenty</unittitle>
+							<container type="box">1</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Walker, Alicia
+								</persname></origination>
+							<unittitle>Truth Game</unittitle>
+							<container type="box">1</container>
+						</did>
+					</c03>
+				</c02>
+
+				<c02 level="subseries">
+					<did>
+						<unitid>1.5</unitid>
+						<unittitle>Subseries 1.5: New Short Plays by Students: 1992 (Spring Semester)</unittitle>
+						<unitdate normal="1992">1992</unitdate>
+						<physdesc>
+							<extent type="boxes">Box: 1</extent>
+						</physdesc>
+					</did>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Liepis, Marc
+								</persname></origination>
+							<unittitle>Madness To My Method</unittitle>
+							<container type="box">1</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Gaze, Anndalena
+								</persname></origination>
+							<unittitle>The Porch Swing</unittitle>
+							<container type="box">1</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Bryndle, Amy
+								</persname></origination>
+							<unittitle>A Small Town Dream</unittitle>
+							<container type="box">1</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Gallup, Laura
+								</persname></origination>
+							<unittitle>The Final Destination</unittitle>
+							<container type="box">1</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Timpone, Peter
+								</persname></origination>
+							<unittitle>Wagner's Temptation</unittitle>
+							<container type="box">1</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Schatzle, Barbara K.
+								</persname></origination>
+							<unittitle>Oh and Please, Call Me Joe</unittitle>
+							<container type="box">1</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Joseph, Jim
+								</persname></origination>
+							<unittitle>2 Hearts</unittitle>
+							<container type="box">1</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Anson,
+								Amy</persname></origination>
+							<unittitle>Looking For Inspiration</unittitle>
+							<container type="box">1</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Barrott, Michelle
+								</persname></origination>
+							<unittitle>Motherly Love</unittitle>
+							<container type="box">1</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Dooley, Christine
+								</persname></origination>
+							<unittitle>Going To The Chapel</unittitle>
+							<container type="box">1</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Cerabone, Jon
+								</persname></origination>
+							<unittitle>The Last Visit</unittitle>
+							<container type="box">1</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Liriano, A.Z.
+								</persname></origination>
+							<unittitle>Dance With Me</unittitle>
+							<container type="box">1</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Giaquinto, Matthew
+								</persname></origination>
+							<unittitle>Moonmist</unittitle>
+							<container type="box">1</container>
+						</did>
+					</c03>
+				</c02>
+
+				<c02 level="subseries">
+					<did>
+						<unitid>1.6</unitid>
+						<unittitle>Subseries 1.6: A Book of New Short Plays (Spring Semester)</unittitle>
+						<unitdate normal="1992">1992</unitdate>
+						<physdesc>
+							<extent type="boxes">Box: 2</extent>
+						</physdesc>
+					</did>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Budd, Ed</persname></origination>
+							<unittitle>72nd Street Messiah</unittitle>
+							<container type="box">2</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Roche, John
+								</persname></origination>
+							<unittitle>Dreamah</unittitle>
+							<container type="box">2</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Liepis, Marc
+								</persname></origination>
+							<unittitle>Cutting Remarks</unittitle>
+							<container type="box">2</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Lake, Ronald
+								</persname></origination>
+							<unittitle>Shakes and Spears</unittitle>
+							<container type="box">2</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Crary, Kami
+								</persname></origination>
+							<unittitle>Not Me</unittitle>
+							<container type="box">2</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Speers, Mike
+								</persname></origination>
+							<unittitle>Epiphany</unittitle>
+							<container type="box">2</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Giaquinto, Matthew
+								</persname></origination>
+							<unittitle>Moonmist (Revised)</unittitle>
+							<container type="box">2</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Fieldman, Eugene
+								</persname></origination>
+							<unittitle>Cyanide</unittitle>
+							<container type="box">2</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Fieldman, Eugene
+								</persname></origination>
+							<unittitle>Duke of Prunes</unittitle>
+							<container type="box">2</container>
+						</did>
+					</c03>
+				</c02>
+
+				<c02 level="subseries">
+					<did>
+						<unitid>1.7</unitid>
+						<unittitle>Subseries 1.7: New Short Plays by Students (Spring Semester)</unittitle>
+						<unitdate normal="1992">1992</unitdate>
+						<physdesc>
+							<extent type="boxes">Box: 2</extent>
+						</physdesc>
+					</did>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Sheeran, Christine
+								</persname></origination>
+							<unittitle>The Card Shop</unittitle>
+							<container type="box">2</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Gretziner, Gerard M. Jr.
+								</persname></origination>
+							<unittitle>Check Please</unittitle>
+							<container type="box">2</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Lynch,
+								Jim</persname></origination>
+							<unittitle>Charlie's Independence Day</unittitle>
+							<container type="box">2</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Albano, Matt
+								</persname></origination>
+							<unittitle>There's No Such Thing as Love in the World of the Blue-Headed
+								Man</unittitle>
+							<container type="box">2</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Iacono, Christopher W.
+								</persname></origination>
+							<unittitle>Dysfunctional</unittitle>
+							<container type="box">2</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Giaquinto, Matthew
+								</persname></origination>
+							<unittitle>Blackout (a love story in the dark)</unittitle>
+							<container type="box">2</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Speers, Mike
+								</persname></origination>
+							<unittitle>Academy Avenue</unittitle>
+							<container type="box">2</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Savitsky, Anne P.
+								</persname></origination>
+							<unittitle>Hanging By A Thread</unittitle>
+							<container type="box">2</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Zurlo, Vinnie
+								</persname></origination>
+							<unittitle>From the Porch</unittitle>
+							<container type="box">2</container>
+						</did>
+					</c03>
+				</c02>
+
+				<c02 level="subseries">
+					<did>
+						<unitid>1.8</unitid>
+						<unittitle>Subseries 1.8: New Plays: Volume I (Spring 1993)</unittitle>
+						<unitdate normal="1993">1993</unitdate>
+						<physdesc>
+							<extent type="boxes">Box: 2</extent>
+						</physdesc>
+					</did>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Gretzinger, Gerard M. Jr.
+								</persname></origination>
+							<unittitle>The Farther To Fall</unittitle>
+							<container type="box">2</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Ten Eyck, David
+								</persname></origination>
+							<unittitle>Green Pastures</unittitle>
+							<container type="box">2</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Lindeman, Max
+								</persname></origination>
+							<unittitle>Bennie</unittitle>
+							<container type="box">2</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Iacono, Christopher W.
+								</persname></origination>
+							<unittitle>Red Tape For The Boa Constrictor</unittitle>
+							<container type="box">2</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Gretzinger, Gerard M. Jr.
+								</persname></origination>
+							<unittitle>Family Affairs</unittitle>
+							<container type="box">2</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Di Iorio, Stephanie
+								</persname></origination>
+							<unittitle>Fool's Gold</unittitle>
+							<container type="box">2</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Gretzinger, Gerard M. Jr.
+								</persname></origination>
+							<unittitle>Second Chances</unittitle>
+							<container type="box">2</container>
+						</did>
+					</c03>
+				</c02>
+
+				<c02 level="subseries">
+					<did>
+						<unitid>1.9</unitid>
+						<unittitle>Subseries 1.9: New Plays: Volume II (Spring 1993)</unittitle>
+						<unitdate normal="1993">1993</unitdate>
+						<physdesc>
+							<extent type="boxes">Box: 3</extent>
+						</physdesc>
+					</did>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Jack, Deborah
+								</persname></origination>
+							<unittitle>The Dream-Maker</unittitle>
+							<container type="box">3</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Haggerty, James
+								</persname></origination>
+							<unittitle>Return to Forever</unittitle>
+							<container type="box">3</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Budd, Ed</persname></origination>
+							<unittitle>Sean Morgan's Family Solution</unittitle>
+							<container type="box">3</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Crary, Kami
+								</persname></origination>
+							<unittitle>A Room With No View</unittitle>
+							<container type="box">3</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Lake, Ronald
+								</persname></origination>
+							<unittitle>Madison's Murder</unittitle>
+							<container type="box">3</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Haggerty, James
+								</persname></origination>
+							<unittitle>Truman</unittitle>
+							<container type="box">3</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Anderson, Jerome
+								</persname></origination>
+							<unittitle>Jake's Ladder</unittitle>
+							<container type="box">3</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Galpin, Christian G.
+								</persname></origination>
+							<unittitle>One Fish, Two Fish</unittitle>
+							<container type="box">3</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Crary, Kami
+								</persname></origination>
+							<unittitle>Untitled</unittitle>
+							<container type="box">3</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Galpin, Christian
+								</persname></origination>
+							<unittitle>A Look At The View</unittitle>
+							<container type="box">3</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>McGovern, Mary Ann
+								</persname></origination>
+							<unittitle>The Year the Real World Began</unittitle>
+							<container type="box">3</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Jack, Deborah
+								</persname></origination>
+							<unittitle>Worship Zylophone</unittitle>
+							<container type="box">3</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Crary, Kami
+								</persname></origination>
+							<unittitle>Kay's Prerogative</unittitle>
+							<container type="box">3</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Iacono, Christopher W.
+								</persname></origination>
+							<unittitle>Red Tape For The Boa Constrictor (Revised)</unittitle>
+							<container type="box">3</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Crary, Kami
+								</persname></origination>
+							<unittitle>Not Me (Revised)</unittitle>
+							<container type="box">3</container>
+						</did>
+					</c03>
+				</c02>
+
+				<c02 level="subseries">
+					<did>
+						<unitid>1.10</unitid>
+						<unittitle>Subseries 1.10: Theatre Workshop: Festival '94</unittitle>
+						<unitdate normal="1994">1994</unitdate>
+						<physdesc>
+							<extent type="boxes">Box: 3</extent>
+						</physdesc>
+					</did>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Altomare, Scott
+								</persname></origination>
+							<unittitle>Escaping Reality</unittitle>
+							<container type="box">3</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Feick, Erica
+								</persname></origination>
+							<unittitle>A Modern Fairy Tail</unittitle>
+							<container type="box">3</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Gonell, Louis
+								</persname></origination>
+							<unittitle>Wiser Than My Years</unittitle>
+							<container type="box">3</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Gretzinger, Gerard M. Jr.
+								</persname></origination>
+							<unittitle>As Time Goes By</unittitle>
+							<container type="box">3</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Hadhazy, Andrea
+								</persname></origination>
+							<unittitle>Scenes From An Italian Restaurant</unittitle>
+							<container type="box">3</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Miller, Lou
+								</persname></origination>
+							<unittitle>The Further Adventures of Hamlet</unittitle>
+							<container type="box">3</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Naumann, Stephanie
+								</persname></origination>
+							<unittitle>What Would You Do If . . .</unittitle>
+							<container type="box">3</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Redecindo, Sagrario
+								</persname></origination>
+							<unittitle>All Screwed Up</unittitle>
+							<container type="box">3</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Saraceno, Roseanne
+								</persname></origination>
+							<unittitle>Jack In The Box</unittitle>
+							<container type="box">3</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Targos, Robert
+								</persname></origination>
+							<unittitle>Insult To Injury</unittitle>
+							<container type="box">3</container>
+						</did>
+					</c03>
+				</c02>
+
+				<c02 level="subseries">
+					<did>
+						<unitid>1.11</unitid>
+						<unittitle>Subseries 1.11: Student Written Plays Prepared for Festival '95</unittitle>
+						<unitdate normal="1995">1995</unitdate>
+						<physdesc>
+							<extent type="boxes">Box: 3</extent>
+						</physdesc>
+					</did>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Damiani, Christopher
+								</persname></origination>
+							<unittitle>One Last Game</unittitle>
+							<container type="box">3</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Danis, Michael
+								</persname></origination>
+							<unittitle>Déjà Vu</unittitle>
+							<container type="box">3</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Feick, Erica L.
+								</persname></origination>
+							<unittitle>My Life</unittitle>
+							<container type="box">3</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Feick, Erica L.
+								</persname></origination>
+							<unittitle>The Possibility</unittitle>
+							<container type="box">3</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Hadhazy, Andrea
+								</persname></origination>
+							<unittitle>Family Dinner</unittitle>
+							<container type="box">3</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Landry, Karen
+								</persname></origination>
+							<unittitle>God Games</unittitle>
+							<container type="box">3</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Murphy, Andrea
+								</persname></origination>
+							<unittitle>The Crèche on Main Street: The Nativity Scene</unittitle>
+							<container type="box">3</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Ryan,
+								Sean</persname></origination>
+							<unittitle>Suburbia Dreamin</unittitle>
+							<container type="box">3</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Saraceno, Roseanne
+								</persname></origination>
+							<unittitle>Going Up</unittitle>
+							<container type="box">3</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Targos, Robert G.
+								</persname></origination>
+							<unittitle>The Hare and the Handicapped</unittitle>
+							<container type="box">3</container>
+						</did>
+					</c03>
+				</c02>
+
+				<c02 level="subseries">
+					<did>
+						<unitid>1.12</unitid>
+						<unittitle>Subseries 1.12: Student Written Plays Prepared for Festival '96 (Book
+							I)</unittitle>
+						<unitdate normal="1996">1996</unitdate>
+						<physdesc>
+							<extent type="boxes">Box: 4</extent>
+						</physdesc>
+					</did>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Cahill, Bryon
+								</persname></origination>
+							<unittitle>One Thousand and One Oranges</unittitle>
+							<container type="box">4</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Clark, Patricia E.
+								</persname></origination>
+							<unittitle>Why???</unittitle>
+							<container type="box">4</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Hadhazy, Andrea
+								</persname></origination>
+							<unittitle>Honest Exchange</unittitle>
+							<container type="box">4</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Naumann, Stephanie
+								</persname></origination>
+							<unittitle>Reality Check</unittitle>
+							<container type="box">4</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Patulak, Jennifer
+								</persname></origination>
+							<unittitle>A Cracked Diamond</unittitle>
+							<container type="box">4</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Tokash, Andrew
+								</persname></origination>
+							<unittitle>The Wait</unittitle>
+							<container type="box">4</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Tokash, Andreq
+								</persname></origination>
+							<unittitle>Blue</unittitle>
+							<container type="box">4</container>
+						</did>
+					</c03>
+				</c02>
+
+				<c02 level="subseries">
+					<did>
+						<unitid>1.13</unitid>
+						<unittitle>Subseries 1.13: Student Written Plays Prepared for Festival '96 (Book
+							II)</unittitle>
+						<unitdate normal="1996">1996</unitdate>
+						<physdesc>
+							<extent type="boxes">Box: 4</extent>
+						</physdesc>
+					</did>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Cahill, Bryon
+								</persname></origination>
+							<unittitle>A Knock At The Door</unittitle>
+							<container type="box">4</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Feick, Erica L.
+								</persname></origination>
+							<unittitle>A Prisoner Of The Mind</unittitle>
+							<container type="box">4</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Landry, Karen
+								</persname></origination>
+							<unittitle>The Underground</unittitle>
+							<container type="box">4</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Saraceno, Roseanne
+								</persname></origination>
+							<unittitle>Tombstones</unittitle>
+							<container type="box">4</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Hadhay, Andrea
+								</persname></origination>
+							<unittitle>Honest Exchange (Revised)</unittitle>
+							<container type="box">4</container>
+						</did>
+					</c03>
+				</c02>
+
+				<c02 level="subseries">
+					<did>
+						<unitid>1.14</unitid>
+						<unittitle>Subseries 1.14: Stage One: Plays in Progress (Collection of Student Written
+							Plays</unittitle>
+						<unitdate normal="1997">1997</unitdate>
+						<physdesc>
+							<extent type="boxes">Box: 4</extent>
+						</physdesc>
+					</did>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Gallagher, Tom
+								</persname></origination>
+							<unittitle>Of Brass Rings and Finer Things</unittitle>
+							<container type="box">4</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Landry, Karen
+								</persname></origination>
+							<unittitle>Legend Had It</unittitle>
+							<container type="box">4</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Cahill, Bryon
+								</persname></origination>
+							<unittitle>Armageddon Vs. Joe Shmoe</unittitle>
+							<container type="box">4</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>McNamara, Shannon M.
+								</persname></origination>
+							<unittitle>NIHL</unittitle>
+							<container type="box">4</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Tokash, Andrew
+								</persname></origination>
+							<unittitle>Let's Talk About Sex</unittitle>
+							<container type="box">4</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Cahill, Bryon
+								</persname></origination>
+							<unittitle>Something Like Believe</unittitle>
+							<container type="box">4</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>White, Michelle Corrine
+								</persname></origination>
+							<unittitle>How Little They Know</unittitle>
+							<container type="box">4</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Freydl, Jef. E.
+								</persname></origination>
+							<unittitle>Premonition</unittitle>
+							<container type="box">4</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Ten Eyck, David
+								</persname></origination>
+							<unittitle>The Paths of Progress</unittitle>
+							<container type="box">4</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Fishelman, Ben
+								</persname></origination>
+							<unittitle>A Man in a Chair, A Woman at the Window</unittitle>
+							<container type="box">4</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Kennedy, Clifden
+								</persname></origination>
+							<unittitle>Brotherhood</unittitle>
+							<container type="box">4</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Murray, John<![CDATA[&]]> Linhart
+									Paul</persname></origination>
+							<unittitle>Mortimer Gets Some or Mortimer Bites the Big
+								Apple</unittitle>
+							<container type="box">4</container>
+						</did>
+					</c03>
+				</c02>
+
+				<c02 level="subseries">
+					<did>
+						<unitid>1.15</unitid>
+						<unittitle>Subseries 1.15: As Grapes Upon the Vine: A Collection of New Plays</unittitle>
+						<unitdate normal="1998">1998</unitdate>
+						<physdesc>
+							<extent type="boxes">Box: 5</extent>
+						</physdesc>
+					</did>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Fishelman, Ben
+								</persname></origination>
+							<unittitle>A Certain Kind of Hum</unittitle>
+							<container type="box">5</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Crandall, Jason
+								</persname></origination>
+							<unittitle>A Leap of Faith</unittitle>
+							<container type="box">5</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Mercurio, Stephanie
+								</persname></origination>
+							<unittitle>A Queen's Symphony</unittitle>
+							<container type="box">5</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Rescoria, Kim
+								</persname></origination>
+							<unittitle>Ashes to Ashes</unittitle>
+							<container type="box">5</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Jannicelli, Jessica
+								</persname></origination>
+							<unittitle>Assumptions</unittitle>
+							<container type="box">5</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Rescoria, Kim
+								</persname></origination>
+							<unittitle>Battles You Can't Win</unittitle>
+							<container type="box">5</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Cahill, Bryon
+								</persname></origination>
+							<unittitle>Convulsing Twins</unittitle>
+							<container type="box">5</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Treacy, Katie
+								</persname></origination>
+							<unittitle>Decisions, Decisions</unittitle>
+							<container type="box">5</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Feurstein, Michael James
+								</persname></origination>
+							<unittitle>Famous Men: An Act Mizzling</unittitle>
+							<container type="box">5</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Heineman, Alex
+								</persname></origination>
+							<unittitle>In Brother I Trust</unittitle>
+							<container type="box">5</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Mewhiney, Kevin
+								</persname></origination>
+							<unittitle>None So Blind</unittitle>
+							<container type="box">5</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Thompson, Scott R.
+								</persname></origination>
+							<unittitle>The Borders of Arcadia</unittitle>
+							<container type="box">5</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Lynch, Heather
+								</persname></origination>
+							<unittitle>The Engagement</unittitle>
+							<container type="box">5</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Thompson, Scott R.
+								</persname></origination>
+							<unittitle>The First Letter to Sabrina</unittitle>
+							<container type="box">5</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Cahill, Bryon
+								</persname></origination>
+							<unittitle>Tuesday</unittitle>
+							<container type="box">5</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Curry, Daniel
+								</persname></origination>
+							<unittitle>Whatever Happened to Long Island Mike???</unittitle>
+							<container type="box">5</container>
+						</did>
+					</c03>
+				</c02>
+
+				<c02 level="subseries">
+					<did>
+						<unitid>1.16</unitid>
+						<unittitle>Subseries 1.16: A Touch of Harry: A Collection of Plays Commemorating the
 							Nineteenth Anniversary of Marist College's Annual Festival of Short
-							Plays by Students - 1999</unittitle><unitdate normal="1999">1999</unitdate><physdesc><extent type="boxes">Box: 5</extent></physdesc></did><c03 level="item"><did><origination label="Creator"><persname>Cahill, Bryon
-								</persname></origination><unittitle>The Pale Eggs of the Beast</unittitle><container type="box">5</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Coppola, Giovanna
-								</persname></origination><unittitle>Pickles</unittitle><container type="box">5</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>D'amore, Patrick
-								</persname></origination><unittitle>The Wake</unittitle><container type="box">5</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Hecht,
-								Ben</persname></origination><unittitle>Mama's Boy</unittitle><container type="box">5</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Heineman, Alex
-								</persname></origination><unittitle>Freshman Year of Life</unittitle><container type="box">5</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Ketcham, Brian
-								</persname></origination><unittitle>$$$ Lucrative</unittitle><container type="box">5</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Lorenz, Dawn
-								</persname></origination><unittitle>The Heart Remembers</unittitle><container type="box">5</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Mason, Keisha
-								</persname></origination><unittitle>The Journey</unittitle><container type="box">5</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>McEvily, Pete
-								</persname></origination><unittitle>Portrait of a Murder</unittitle><container type="box">5</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Reeves, Ivy
-								</persname></origination><unittitle>Love Thyself</unittitle><container type="box">5</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Sullivan, John
-								</persname></origination><unittitle>The Devil and Mike Faust or Satan Goes to College</unittitle><container type="box">5</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Thompson, S. Randall
-								</persname></origination><unittitle>A Quiet Sabbath in Amherst</unittitle><container type="box">5</container></did></c03></c02><c02 level="subseries"><did><unitid>1.17</unitid><unittitle>Subseries 1.17: Early Light: New Plays For a New Century - 2000</unittitle><unitdate normal="2000">2000</unitdate><physdesc><extent type="boxes">Box: 5</extent></physdesc></did><c03 level="item"><did><origination label="Creator"><persname>Orgera, Dean
-								</persname></origination><unittitle>A Night in the Park</unittitle><container type="box">5</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Sullivan, John
-								</persname></origination><unittitle>The Restless Nights of Roxy Thrill</unittitle><container type="box">5</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Hecht, Ben I.
-								</persname></origination><unittitle>The Paper War</unittitle><container type="box">5</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Tyburski, Daniel
-								</persname></origination><unittitle>Power Lunch</unittitle><container type="box">5</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Clemens, Chris
-								</persname></origination><unittitle>Ridiculous</unittitle><container type="box">5</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Thompson, S. Randall
-								</persname></origination><unittitle>Act IV of Richard Once and Future King of England</unittitle><container type="box">5</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Napoli, Shelly L.
-								</persname></origination><unittitle>Gramma's Treasure Chest</unittitle><container type="box">5</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Genesi, Kimberly S.
-								</persname></origination><unittitle>South of Sunrise</unittitle><container type="box">5</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Moorman, Sam
-								</persname></origination><unittitle>Elbow Room</unittitle><container type="box">5</container></did></c03></c02><c02 level="subseries"><did><unitid>1.18</unitid><unittitle>Subseries 1.18: Swift As A Shadow: A Collection of New Short Plays</unittitle><unitdate normal="2001">2001</unitdate><physdesc><extent type="boxes">Box: 6</extent></physdesc></did><c03 level="item"><did><origination label="Creator"><persname>Clemens, Chris
-								</persname></origination><unittitle>Ange Coeur</unittitle><container type="box">6</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Hecht, Benjamin
-								</persname></origination><unittitle>Angel Down</unittitle><container type="box">6</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Garcia, George Luis Jr.
-								</persname></origination><unittitle>Closure</unittitle><container type="box">6</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Smith, Jeremy D.
-								</persname></origination><unittitle>Dinner With Cactus</unittitle><container type="box">6</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Musorrafiti, Lori
-								</persname></origination><unittitle>Is Ignorance Bliss: An Exploration of Ebeneezer
-								Pudd</unittitle><container type="box">6</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Breslin, Dennis
-								</persname></origination><unittitle>Jono's Big Party</unittitle><container type="box">6</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Flynn, Matthew
-								</persname></origination><unittitle>That Girl</unittitle><container type="box">6</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Irizarry, Grace
-								</persname></origination><unittitle>The Choice</unittitle><container type="box">6</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Montemurro, Lauren A.
-								</persname></origination><unittitle>Three's A Crowd</unittitle><container type="box">6</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>LeBoeuf, Jennifer
-								</persname></origination><unittitle>Till We Meet Again</unittitle><container type="box">6</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Nigrelli, Gianluca
-								</persname></origination><unittitle>What About Birds</unittitle><container type="box">6</container></did></c03></c02><c02 level="subseries"><did><unitid>1.19</unitid><unittitle>Subseries 1.19: True Beginnings: Student Written Plays</unittitle><unitdate normal="2002">2002</unitdate><physdesc><extent type="boxes">Box: 6</extent></physdesc></did><c03 level="item"><did><origination label="Creator"><persname>Flynn, Matthew
-								</persname></origination><unittitle>Toppings</unittitle><container type="box">6</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Suesens, Michelle
-								</persname></origination><unittitle>Life as a Movie</unittitle><container type="box">6</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Pause, Stephen
-								</persname></origination><unittitle>La Dame du Chevalier</unittitle><container type="box">6</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Nigro, Nick
-								</persname></origination><unittitle>Pointless Conversation</unittitle><container type="box">6</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>That, Cynthia
-								</persname></origination><unittitle>Passing Through Boredom</unittitle><container type="box">6</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Wentlejewski, Joseph
-								</persname></origination><unittitle>Rocketman</unittitle><container type="box">6</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Gemme, Michael
-								</persname></origination><unittitle>The Kiosk</unittitle><container type="box">6</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Weber, Chris
-								</persname></origination><unittitle>Sex and Pepsi</unittitle><container type="box">6</container></did></c03></c02><c02 level="subseries"><did><unitid>1.20</unitid><unittitle>Subseries 1.20: Caviar to the General: A Collection of Plays by Student
-							Playwrights</unittitle><unitdate normal="2003">2003</unitdate><physdesc><extent type="boxes">Box: 7</extent></physdesc></did><c03 level="item"><did><origination label="Creator"><persname>D'Angelo, Gina
-								</persname></origination><unittitle>My Jesus Stopped</unittitle><container type="box">7</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Gareau, Karla
-								</persname></origination><unittitle>Bringing Home Jimmy Stewart</unittitle><container type="box">7</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Gemme, Michael
-								</persname></origination><unittitle>I Spy Love</unittitle><container type="box">7</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Gemme, Michael
-								</persname></origination><unittitle>The Man from Korvutunturi</unittitle><container type="box">7</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Gross, Landan
-								</persname></origination><unittitle>Thirteen Dollars for Therapy</unittitle><container type="box">7</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Kasche, Edward J.
-								</persname></origination><unittitle>Nunc Scio Quid Sit Amor</unittitle><container type="box">7</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Kaylor, Brooke
-								</persname></origination><unittitle>Slippery Fingers</unittitle><container type="box">7</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>McGrath, Jim
-								</persname></origination><unittitle>A Side Order of Sacrilege</unittitle><container type="box">7</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Messina, Anthony
-								</persname></origination><unittitle>Fun and Games</unittitle><container type="box">7</container></did></c03><c03 level="item"><did><origination label="Creator"><persname>Weber, Chris
-								</persname></origination><unittitle>1-900-GET-GIRL</unittitle><container type="box">7</container></did></c03></c02></c01><c01 level="series"><did><unitid>2</unitid><unittitle>2. Student Plays</unittitle><physdesc><extent type="boxes">Boxes: 8 - 15</extent></physdesc></did><arrangement><p>Alphabetically by Title</p></arrangement><c02 level="item"><did><origination label="Creator"><persname>Ketchman, Brian
-							</persname></origination><unittitle>$$$ Lucrative</unittitle><container type="box">8</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>McCann, Christina
-							</persname></origination><unittitle>21 Park Place</unittitle><container type="box">8</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>Bakke, John </persname></origination><unittitle>Abandoned Treasures</unittitle><container type="box">8</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>Giaquinto, Matt<![CDATA[&]]>
-								Gretzinger, Jerry</persname></origination><unittitle>After After Land</unittitle><container type="box">8</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>Bakke, John </persname></origination><unittitle>After All</unittitle><container type="box">8</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>Marble, Mark
-							</persname></origination><unittitle>All the Candidate's Men</unittitle><container type="box">8</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>Scully, Erin
-							</persname></origination><unittitle>All the Dips are Dancing</unittitle><container type="box">8</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>Clemens, Chris
-							</persname></origination><unittitle>Ange Coeur</unittitle><container type="box">8</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>Hecht, Benjamin
-							</persname></origination><unittitle>Angel Down</unittitle><container type="box">8</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>Fahey, Jeanne
-							</persname></origination><unittitle>Apple and the Tree, The</unittitle><container type="box">8</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>Cahill, Bryon
-							</persname></origination><unittitle>Armageddon vs. Joe Shmoe</unittitle><container type="box">8</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>Caracciolo, Daniel Lawrence
-							</persname></origination><unittitle>Assume Nothing</unittitle><container type="box">8</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>Jannicelli, Jessica
-							</persname></origination><unittitle>Assumptions</unittitle><container type="box">8</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>Anderson, Jerome D.
-							</persname></origination><unittitle>B.S. Formula, The</unittitle><container type="box">8</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>Miller, Mark
-							</persname></origination><unittitle>Backstage</unittitle><container type="box">8</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>Lantos, Teresa Ann
-							</persname></origination><unittitle>Beginnings</unittitle><container type="box">8</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>Kennedy, Loretta A.
-							</persname></origination><unittitle>Black Coming Light</unittitle><container type="box">8</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>Giaquinto, Matthew
-							</persname></origination><unittitle>Blackout</unittitle><container type="box">8</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>Smyle, Alex </persname></origination><unittitle>Bonds of Obedience, The</unittitle><container type="box">8</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>Lecky, John </persname></origination><unittitle>Cars</unittitle><container type="box">8</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>Lrizarry, Grace
-							</persname></origination><unittitle>Choice, The</unittitle><container type="box">8</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>Hesselton, Clair R.
-							</persname></origination><unittitle>Choice's</unittitle><container type="box">8</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>Roche, John </persname></origination><unittitle>Chop Suey</unittitle><container type="box">9</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>Milbihill, Michael
-							</persname></origination><unittitle>Clancy Street</unittitle><container type="box">9</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>Garcia, George Louis Jr.
-							</persname></origination><unittitle>"Closure" Sometimes . . . it's all you need</unittitle><container type="box">9</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>Mayone, Joan
-							</persname></origination><unittitle>College Years, The</unittitle><container type="box">9</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>O'Connor, Kerin
-							</persname></origination><unittitle>Complications</unittitle><container type="box">9</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>Anderson, John P.
-							</persname></origination><unittitle>Constructive Criticism</unittitle><container type="box">9</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>Eastwood, Steve
-							</persname></origination><unittitle>Courtmartial of James T. Kirk, The</unittitle><container type="box">9</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>O'Brian, Joseph
-							</persname></origination><unittitle>Dear Ann</unittitle><container type="box">9</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>Higgins, Bob
-							</persname></origination><unittitle>Death Meets the Lovebug</unittitle><container type="box">9</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>Treacy, Katie
-							</persname></origination><unittitle>Decisions, Decisions</unittitle><container type="box">9</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>Morman, Samuel
-							</persname></origination><unittitle>Deli</unittitle><container type="box">9</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>Sullivan,James
-							</persname></origination><unittitle>Devil and Mike Faust, The or Satan Goes to College</unittitle><container type="box">9</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>Lawless, Christina
-							</persname></origination><unittitle>Dinner for Three</unittitle><container type="box">9</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>Smith, Jeremy D.
-							</persname></origination><unittitle>Dinner with Cactus</unittitle><container type="box">9</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>Penny, George R.
-							</persname></origination><unittitle>Down to the Wire</unittitle><container type="box">9</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>Schilling, Mark
-							</persname></origination><unittitle>Downward Spiral, The</unittitle><container type="box">9</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>Bakke, John </persname></origination><unittitle>Drugs, Sex, Rock<![CDATA[&]]> Roll</unittitle><container type="box">9</container></did></c02><c02 level="item"><did><origination label="Creator"><persname/></origination><unittitle>Elevator Music</unittitle><container type="box">10</container></did></c02><c02 level="item"><did><origination label="Creator"><persname/></origination><unittitle>Engagement, The</unittitle><container type="box">10</container></did></c02><c02 level="item"><did><origination label="Creator"><persname/></origination><unittitle>Engine's Heat</unittitle><container type="box">10</container></did></c02><c02 level="item"><did><origination label="Creator"><persname/></origination><unittitle>Epiphany</unittitle><container type="box">10</container></did></c02><c02 level="item"><did><origination label="Creator"><persname/></origination><unittitle>Farewell Tour</unittitle><container type="box">10</container></did></c02><c02 level="item"><did><origination label="Creator"><persname/></origination><unittitle>Father's Day</unittitle><container type="box">10</container></did></c02><c02 level="item"><did><origination label="Creator"><persname/></origination><unittitle>Favorite, The</unittitle><container type="box">10</container></did></c02><c02 level="item"><did><origination label="Creator"><persname/></origination><unittitle>Feet</unittitle><container type="box">10</container></did></c02><c02 level="item"><did><origination label="Creator"><persname/></origination><unittitle>Forgiveness</unittitle><container type="box">10</container></did></c02><c02 level="item"><did><origination label="Creator"><persname/></origination><unittitle>Freshman Year of Life</unittitle><container type="box">10</container></did></c02><c02 level="item"><did><origination label="Creator"><persname/></origination><unittitle>From the Porch</unittitle><container type="box">10</container></did></c02><c02 level="item"><did><origination label="Creator"><persname/></origination><unittitle>Game, The</unittitle><container type="box">10</container></did></c02><c02 level="item"><did><origination label="Creator"><persname/></origination><unittitle>Gate Keeper, The</unittitle><container type="box">10</container></did></c02><c02 level="item"><did><origination label="Creator"><persname/></origination><unittitle>Gifted</unittitle><container type="box">10</container></did></c02><c02 level="item"><did><origination label="Creator"><persname/></origination><unittitle>Got Me Wrong</unittitle><container type="box">10</container></did></c02><c02 level="item"><did><origination label="Creator"><persname/></origination><unittitle>Have A Good Life</unittitle><container type="box">10</container></did></c02><c02 level="item"><did><origination label="Creator"><persname/></origination><unittitle>Heart Remembers, The</unittitle><container type="box">10</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>Heineman, Alex
-							</persname></origination><unittitle>Icing on the Wedding Cake</unittitle><container type="box">11</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>Larkin, Michael G.
-							</persname></origination><unittitle>In A Lonely Place</unittitle><container type="box">11</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>Van Vlack, Ken
-							</persname></origination><unittitle>Insecurities</unittitle><container type="box">11</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>Musorrafiti, Lori
-							</persname></origination><unittitle>Is Ignorance Bliss: An Exploration of Ebeneezer Pudd</unittitle><container type="box">11</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>Breslin, Dennis
-							</persname></origination><unittitle>Jono's Big Party</unittitle><container type="box">11</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>Mason, Keisha
-							</persname></origination><unittitle>Journey, The</unittitle><container type="box">11</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>Kusa, Deborah
-							</persname></origination><unittitle>Jury Room, The</unittitle><container type="box">11</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>Blakke, John
-							</persname></origination><unittitle>Just Us</unittitle><container type="box">11</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>Kieran, Alex
-							</persname></origination><unittitle>Katy</unittitle><container type="box">11</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>Ricci, Royal D.
-							</persname></origination><unittitle>Last Supper, The</unittitle><container type="box">11</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>O'Connor, Brian
-							</persname></origination><unittitle>Late Ending</unittitle><container type="box">11</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>Blake, John </persname></origination><unittitle>Leap of Faith, A</unittitle><container type="box">11</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>Landry, Karen
-							</persname></origination><unittitle>Legend Has It</unittitle><container type="box">11</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>Roche, John </persname></origination><unittitle>Life's Eyes</unittitle><container type="box">11</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>Reeves, Ivy </persname></origination><unittitle>Love Thyself</unittitle><container type="box">11</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>Hecht, Ben I.
-							</persname></origination><unittitle>Mama's Boy</unittitle><container type="box">11</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>Crandall, Jason
-							</persname></origination><unittitle>Man in a Chair, a Woman at the Window, A</unittitle><container type="box">12</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>Crary, Kami </persname></origination><unittitle>Marcie and Her Imagination</unittitle><container type="box">12</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>Flynn, Matthew
-							</persname></origination><unittitle>Martin Cohan</unittitle><container type="box">12</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>Sousa, AnnMichelle
-							</persname></origination><unittitle>Me and Brian</unittitle><container type="box">12</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>Roche, John </persname></origination><unittitle>Milestones</unittitle><container type="box">12</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>unknown</persname></origination><unittitle>Moment of Silence, A</unittitle><container type="box">12</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>Anderson, John
-							</persname></origination><unittitle>Money to Burn</unittitle><container type="box">12</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>Bakke, John </persname></origination><unittitle>Moonlight at Nightfall</unittitle><container type="box">12</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>Murray, Jon<![CDATA[&]]> Lenhart,
-								Paul</persname></origination><unittitle>Mortimer Bites the Big Apple (The Mort Strikes Back)</unittitle><container type="box">12</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>O'Hare, James
-							</persname></origination><unittitle>My Brother's Keeper</unittitle><container type="box">12</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>McNamara, Shannon
-							</persname></origination><unittitle>Nihl</unittitle><container type="box">12</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>Smyle, Alex </persname></origination><unittitle>Observation Post Alpha</unittitle><container type="box">12</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>Gallagher, Thomas P.
-							</persname></origination><unittitle>Of Brass Rings and Finer Things</unittitle><container type="box">12</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>Marafioti, Pat
-							</persname></origination><unittitle>Of Wise Owls and Human Mischief: Scenes from a
-							Romance</unittitle><container type="box">12</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>Cahill, Bryon
-							</persname></origination><unittitle>Pale Eggs of the Beast, The</unittitle><container type="box">12</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>Fredsall, Peter
-							</persname></origination><unittitle>Party Life, The</unittitle><container type="box">12</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>Eyck, David Ten
-							</persname></origination><unittitle>Paths of Progress, The</unittitle><container type="box">12</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>Brunner, Susan<![CDATA[&]]> Crecca,
-								Andrew</persname></origination><unittitle>Payment of Dues</unittitle><container type="box">12</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>Coppola, Giovanna
-							</persname></origination><unittitle>Pickles</unittitle><container type="box">12</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>Glaze, Anndalena
-							</persname></origination><unittitle>Piece of Mind</unittitle><container type="box">12</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>McEvily, Pete
-							</persname></origination><unittitle>Portrait of a Murder</unittitle><container type="box">13</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>Freydl, Jeff E.
-							</persname></origination><unittitle>Premonition</unittitle><container type="box">13</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>Fishelmen, Ben
-							</persname></origination><unittitle>Quiet Sunday in Amherst, A</unittitle><container type="box">13</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>Anderson, Donald
-							</persname></origination><unittitle>Resale T's, The</unittitle><container type="box">13</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>unknown</persname></origination><unittitle>Romeo and Julio</unittitle><container type="box">13</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>Zizzi, Sara </persname></origination><unittitle>Romeo, Romeo</unittitle><container type="box">13</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>Fitzpatrick, Diane<![CDATA[&]]>
-								Eustace, Don</persname></origination><unittitle>Saints or Sinners</unittitle><container type="box">13</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>Larkin, Michael
-							</persname></origination><unittitle>Second Sight</unittitle><container type="box">13</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>Serafini, Chris
-							</persname></origination><unittitle>Seen But Not Heard</unittitle><container type="box">13</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>Curry, Daniel P.
-							</persname></origination><unittitle>Shooting the Cowboys</unittitle><container type="box">13</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>Magdalen, Karyn
-							</persname></origination><unittitle>Sisters</unittitle><container type="box">13</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>Cunney, Don </persname></origination><unittitle>Skeletons in the Closet</unittitle><container type="box">13</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>Weston, Leslie
-							</persname></origination><unittitle>Sketches</unittitle><container type="box">13</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>Creighton, Sean
-							</persname></origination><unittitle>Smoking Car, The</unittitle><container type="box">13</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>Liepis, Marc
-							</persname></origination><unittitle>Stranger than Fiction</unittitle><container type="box">13</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>MacGowan, Carl
-							</persname></origination><unittitle>Summer Employment</unittitle><container type="box">14</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>DeFelice, James
-							</persname></origination><unittitle>Take it Easy, Soldier</unittitle><container type="box">14</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>Adamski, Meg
-							</persname></origination><unittitle>Taking it to the Streets</unittitle><container type="box">14</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>Thompson, Scott R.
-							</persname></origination><unittitle>Tangled Web, A</unittitle><container type="box">14</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>Flyn, Matthew
-							</persname></origination><unittitle>That Girl</unittitle><container type="box">14</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>McBride, Jon
-							</persname></origination><unittitle>Thicker than Water</unittitle><container type="box">14</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>Montemurrow, Lauren
-							</persname></origination><unittitle>Three's a Crowd</unittitle><container type="box">14</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>LeBoeuf, Jennifer
-							</persname></origination><unittitle>Till We Meet Again</unittitle><container type="box">14</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>Sabol, Richard
-							</persname></origination><unittitle>To Be Remembered</unittitle><container type="box">14</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>Pomilla, Diane
-							</persname></origination><unittitle>To Fit the Cloth</unittitle><container type="box">14</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>Begley, Vincent
-							</persname></origination><unittitle>Truth of the Matter, The</unittitle><container type="box">14</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>Ivanoff, Donald N. Jr.
-							</persname></origination><unittitle>Turning Tables</unittitle><container type="box">14</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>Mulvihill, Michael
-							</persname></origination><unittitle>Tumbleweeds</unittitle><container type="box">14</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>Disana, Gina
-							</persname></origination><unittitle>Twin Billing</unittitle><container type="box">14</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>Anderson, J. Patrick
-							</persname></origination><unittitle>Two Bit</unittitle><container type="box">14</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>Speers, Mike
-							</persname></origination><unittitle>Unsung Hero, The (The Comic Tragedy)</unittitle><container type="box">15</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>Dwyer, Kevin
-							</persname></origination><unittitle>Unsuspecting Customers</unittitle><container type="box">15</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>Sousa, Shelly
-							</persname></origination><unittitle>Upstage</unittitle><container type="box">15</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>Wing, Terrence
-							</persname></origination><unittitle>Vows</unittitle><container type="box">15</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>D'amore, Patrick
-							</persname></origination><unittitle>Wake, The</unittitle><container type="box">15</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>Hubbs, Michele
-							</persname></origination><unittitle>Wedding Bliss</unittitle><container type="box">15</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>Nigrelli, Gianluca
-							</persname></origination><unittitle>What About Birds</unittitle><container type="box">15</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>O'Donnell, Rick<![CDATA[&]]>
-								Magdalen, Karyn</persname></origination><unittitle>What are Friends For?</unittitle><container type="box">15</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>Curry, Daniel
-							</persname></origination><unittitle>What Ever Happened to Long Island Mike?</unittitle><container type="box">15</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>McCann, Christina
-							</persname></origination><unittitle>Witness, The</unittitle><container type="box">15</container></did></c02><c02 level="item"><did><origination label="Creator"><persname>Stepmoroski, Tara
-							</persname></origination><unittitle>Wonderworld</unittitle><container type="box">15</container></did></c02></c01><c01 level="series"><did><unitid>3</unitid><unittitle>3. Videos</unittitle><physdesc><extent type="boxes">Boxes: 16 - 22</extent></physdesc></did><arrangement><p>Alphabetically by Title</p></arrangement><c02 level="item"><did><unittitle>Alan Arkin (2 tapes)</unittitle><container type="box">16</container></did></c02><c02 level="item"><did><unittitle>All in the Timing</unittitle><container type="box">16</container></did></c02><c02 level="item"><did><unittitle>Anything Goes</unittitle><container type="box">16</container></did></c02><c02 level="item"><did><unittitle>Beautiful Thing</unittitle><container type="box">16</container></did></c02><c02 level="item"><did><unittitle>Cat on a Hot Tin Roof 3/7/99</unittitle><container type="box">16</container></did></c02><c02 level="item"><did><unittitle>Dancing in the End Zone</unittitle><container type="box">16</container></did></c02><c02 level="item"><did><unittitle>Dancing at Lughnasa and Stone Soup</unittitle><container type="box">16</container></did></c02><c02 level="item"><did><unittitle>Dean Cox Tapes (2)</unittitle><container type="box">16</container></did></c02><c02 level="item"><did><unittitle>A Doll's House 3/6/97</unittitle><container type="box">16</container></did></c02><c02 level="item"><did><unittitle>The Emperors New Clothes 4/9/97</unittitle><container type="box">16</container></did></c02><c02 level="item"><did><unittitle>Eng, 2 + 1 Plays, 12/6/96</unittitle><container type="box">17</container></did></c02><c02 level="item"><did><unittitle>ETG 2 + 1 Pays, 12/16/96</unittitle><container type="box">17</container></did></c02><c02 level="item"><did><unittitle>ETG Double Bill, 12/7/95</unittitle><container type="box">17</container></did></c02><c02 level="item"><did><unittitle>Evening of One Acts</unittitle><container type="box">17</container></did></c02><c02 level="item"><did><unittitle>Experimental Theatre, 1993</unittitle><container type="box">17</container></did></c02><c02 level="item"><did><unittitle>Experimental Theatre for Dean Cox</unittitle><container type="box">17</container></did></c02><c02 level="item"><did><unittitle>Festival of Plays, 1994</unittitle><container type="box">17</container></did></c02><c02 level="item"><did><unittitle>Festival of Plays, Spring 1995, Tapes 1<![CDATA[&]]>
-							2</unittitle><container type="box">17</container></did></c02><c02 level="item"><did><unittitle>Festival 1995<![CDATA[&]]> Dance Club Pantomime (Fall '95) Hey
-							Big Spender</unittitle><container type="box">17</container></did></c02><c02 level="item"><did><unittitle>Festival 1996, Tapes 1<![CDATA[&]]> 2</unittitle><container type="box">17</container></did></c02><c02 level="item"><did><unittitle>Festival 1997</unittitle><container type="box">18</container></did></c02><c02 level="item"><did><unittitle>Festival 2000</unittitle><container type="box">18</container></did></c02><c02 level="item"><did><unittitle>Fiddler on the Roof Tapes 1<![CDATA[&]]> 2, 11/17 -
-							11/18/95</unittitle><container type="box">18</container></did></c02><c02 level="item"><did><unittitle>Fiddler on the Roof (one tape)</unittitle><container type="box">18</container></did></c02><c02 level="item"><did><unittitle>A Funny Thing Happened on the Way to the Forum
-							11/20/93</unittitle><container type="box">18</container></did></c02><c02 level="item"><did><unittitle>The Glass Slipper 4/12/94</unittitle><container type="box">18</container></did></c02><c02 level="item"><did><unittitle>Guys and Dolls Tapes 1<![CDATA[&]]> 2, 11/21/96</unittitle><container type="box">18</container></did></c02><c02 level="item"><did><unittitle>Humorists, 4/11/95</unittitle><container type="box">18</container></did></c02><c02 level="item"><did><unittitle>I Hate Hamlet (2 tapes) 10/30/94</unittitle><container type="box">19</container></did></c02><c02 level="item"><did><unittitle>The Importance of Being Ernest 10/15/00</unittitle><container type="box">19</container></did></c02><c02 level="item"><did><unittitle>Into the Woods</unittitle><container type="box">19</container></did></c02><c02 level="item"><did><unittitle>Joseph and the Amazing Technicolor Dreamcoat (2 tapes)
-							11/20/97</unittitle><container type="box">19</container></did></c02><c02 level="item"><did><unittitle>Lend Me a Tenor 10/15/93</unittitle><container type="box">19</container></did></c02><c02 level="item"><did><unittitle>Lessons and Carols, 12/14/96</unittitle><container type="box">19</container></did></c02><c02 level="item"><did><unittitle>Love Letters May 1995</unittitle><container type="box">19</container></did></c02><c02 level="item"><did><unittitle>Love, Sex, and the IRS 10/15/95</unittitle><container type="box">19</container></did></c02><c02 level="item"><did><unittitle>Machinal Fall 1997</unittitle><container type="box">19</container></did></c02><c02 level="item"><did><unittitle>Marvin's Room 2/27/97</unittitle><container type="box">19</container></did></c02><c02 level="item"><did><unittitle>Me and My Girl (2 tapes) 11/20/94</unittitle><container type="box">20</container></did></c02><c02 level="item"><did><unittitle>Moon Over Buffalo 10/9/97</unittitle><container type="box">20</container></did></c02><c02 level="item"><did><unittitle>The Mousetrap (2 tapes) 3/2/96</unittitle><container type="box">20</container></did></c02><c02 level="item"><did><unittitle>Noises Off (2 tapes) 2/3-5/95</unittitle><container type="box">20</container></did></c02><c02 level="item"><did><unittitle>One Acts, 12/5/98</unittitle><container type="box">20</container></did></c02><c02 level="item"><did><unittitle>Prelude to a Kiss 2/10/96</unittitle><container type="box">20</container></did></c02><c02 level="item"><did><unittitle>Present Laughter (2 tapes) 10/11/98</unittitle><container type="box">20</container></did></c02><c02 level="item"><did><unittitle>Robin Hood (Camera Two)</unittitle><container type="box">20</container></did></c02><c02 level="item"><did><unittitle>Robin Hood (Camera Two)</unittitle><container type="box">21</container></did></c02><c02 level="item"><did><unittitle>Rumors 10/11/96</unittitle><container type="box">21</container></did></c02><c02 level="item"><did><unittitle>Rumplestiltskin (2 tapes) 3/31/96</unittitle><container type="box">21</container></did></c02><c02 level="item"><did><unittitle>Six Characters in Search of an Author 2/14/96</unittitle><container type="box">21</container></did></c02><c02 level="item"><did><unittitle>Stone Soup 3/29/98</unittitle><container type="box">21</container></did></c02><c02 level="item"><did><unittitle>A Streecar Named Desire</unittitle><container type="box">21</container></did></c02><c02 level="item"><did><unittitle>Talk Radio</unittitle><container type="box">21</container></did></c02><c02 level="item"><did><unittitle>Taming of the Shrew 4/7 - 4/9/?</unittitle><container type="box">21</container></did></c02><c02 level="item"><did><unittitle>To Fit the Cloth</unittitle><container type="box">21</container></did></c02><c02 level="item"><did><unittitle>Tom Foolery</unittitle><container type="box">21</container></did></c02><c02 level="item"><did><unittitle>Triple Bill, MCCTA, Identity Crisis, The Room,<![CDATA[&]]>
-							Actors Nightmare 2/17/94</unittitle><container type="box">22</container></did></c02><c02 level="item"><did><unittitle>Vagina Monologues</unittitle><container type="box">22</container></did></c02><c02 level="item"><did><unittitle>The Vagina Monologues 2/14/99</unittitle><container type="box">22</container></did></c02><c02 level="item"><did><unittitle>A View From the Bridge 2/12/00</unittitle><container type="box">22</container></did></c02><c02 level="item"><did><unittitle>West Side Story 11/21/98</unittitle><container type="box">22</container></did></c02><c02 level="item"><did><unittitle>Who's Afraid of Virginia Woolf? (2 tapes)</unittitle><container type="box">22</container></did></c02><c02 level="item"><did><unittitle>World Goes Round 3/8/00</unittitle><container type="box">22</container></did></c02></c01><c01 level="series"><did><unitid>4</unitid><unittitle>4. Published Plays, Musicals, and Screenplays (arranged by call
-						number)</unittitle><note><p>This series consists of 724 titles which may be searched in the following
+							Plays by Students - 1999</unittitle>
+						<unitdate normal="1999">1999</unitdate>
+						<physdesc>
+							<extent type="boxes">Box: 5</extent>
+						</physdesc>
+					</did>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Cahill, Bryon
+								</persname></origination>
+							<unittitle>The Pale Eggs of the Beast</unittitle>
+							<container type="box">5</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Coppola, Giovanna
+								</persname></origination>
+							<unittitle>Pickles</unittitle>
+							<container type="box">5</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>D'amore, Patrick
+								</persname></origination>
+							<unittitle>The Wake</unittitle>
+							<container type="box">5</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Hecht,
+								Ben</persname></origination>
+							<unittitle>Mama's Boy</unittitle>
+							<container type="box">5</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Heineman, Alex
+								</persname></origination>
+							<unittitle>Freshman Year of Life</unittitle>
+							<container type="box">5</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Ketcham, Brian
+								</persname></origination>
+							<unittitle>$$$ Lucrative</unittitle>
+							<container type="box">5</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Lorenz, Dawn
+								</persname></origination>
+							<unittitle>The Heart Remembers</unittitle>
+							<container type="box">5</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Mason, Keisha
+								</persname></origination>
+							<unittitle>The Journey</unittitle>
+							<container type="box">5</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>McEvily, Pete
+								</persname></origination>
+							<unittitle>Portrait of a Murder</unittitle>
+							<container type="box">5</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Reeves, Ivy
+								</persname></origination>
+							<unittitle>Love Thyself</unittitle>
+							<container type="box">5</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Sullivan, John
+								</persname></origination>
+							<unittitle>The Devil and Mike Faust or Satan Goes to College</unittitle>
+							<container type="box">5</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Thompson, S. Randall
+								</persname></origination>
+							<unittitle>A Quiet Sabbath in Amherst</unittitle>
+							<container type="box">5</container>
+						</did>
+					</c03>
+				</c02>
+
+				<c02 level="subseries">
+					<did>
+						<unitid>1.17</unitid>
+						<unittitle>Subseries 1.17: Early Light: New Plays For a New Century - 2000</unittitle>
+						<unitdate normal="2000">2000</unitdate>
+						<physdesc>
+							<extent type="boxes">Box: 5</extent>
+						</physdesc>
+					</did>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Orgera, Dean
+								</persname></origination>
+							<unittitle>A Night in the Park</unittitle>
+							<container type="box">5</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Sullivan, John
+								</persname></origination>
+							<unittitle>The Restless Nights of Roxy Thrill</unittitle>
+							<container type="box">5</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Hecht, Ben I.
+								</persname></origination>
+							<unittitle>The Paper War</unittitle>
+							<container type="box">5</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Tyburski, Daniel
+								</persname></origination>
+							<unittitle>Power Lunch</unittitle>
+							<container type="box">5</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Clemens, Chris
+								</persname></origination>
+							<unittitle>Ridiculous</unittitle>
+							<container type="box">5</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Thompson, S. Randall
+								</persname></origination>
+							<unittitle>Act IV of Richard Once and Future King of England</unittitle>
+							<container type="box">5</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Napoli, Shelly L.
+								</persname></origination>
+							<unittitle>Gramma's Treasure Chest</unittitle>
+							<container type="box">5</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Genesi, Kimberly S.
+								</persname></origination>
+							<unittitle>South of Sunrise</unittitle>
+							<container type="box">5</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Moorman, Sam
+								</persname></origination>
+							<unittitle>Elbow Room</unittitle>
+							<container type="box">5</container>
+						</did>
+					</c03>
+				</c02>
+
+				<c02 level="subseries">
+					<did>
+						<unitid>1.18</unitid>
+						<unittitle>Subseries 1.18: Swift As A Shadow: A Collection of New Short Plays</unittitle>
+						<unitdate normal="2001">2001</unitdate>
+						<physdesc>
+							<extent type="boxes">Box: 6</extent>
+						</physdesc>
+					</did>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Clemens, Chris
+								</persname></origination>
+							<unittitle>Ange Coeur</unittitle>
+							<container type="box">6</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Hecht, Benjamin
+								</persname></origination>
+							<unittitle>Angel Down</unittitle>
+							<container type="box">6</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Garcia, George Luis Jr.
+								</persname></origination>
+							<unittitle>Closure</unittitle>
+							<container type="box">6</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Smith, Jeremy D.
+								</persname></origination>
+							<unittitle>Dinner With Cactus</unittitle>
+							<container type="box">6</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Musorrafiti, Lori
+								</persname></origination>
+							<unittitle>Is Ignorance Bliss: An Exploration of Ebeneezer
+								Pudd</unittitle>
+							<container type="box">6</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Breslin, Dennis
+								</persname></origination>
+							<unittitle>Jono's Big Party</unittitle>
+							<container type="box">6</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Flynn, Matthew
+								</persname></origination>
+							<unittitle>That Girl</unittitle>
+							<container type="box">6</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Irizarry, Grace
+								</persname></origination>
+							<unittitle>The Choice</unittitle>
+							<container type="box">6</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Montemurro, Lauren A.
+								</persname></origination>
+							<unittitle>Three's A Crowd</unittitle>
+							<container type="box">6</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>LeBoeuf, Jennifer
+								</persname></origination>
+							<unittitle>Till We Meet Again</unittitle>
+							<container type="box">6</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Nigrelli, Gianluca
+								</persname></origination>
+							<unittitle>What About Birds</unittitle>
+							<container type="box">6</container>
+						</did>
+					</c03>
+				</c02>
+
+				<c02 level="subseries">
+					<did>
+						<unitid>1.19</unitid>
+						<unittitle>Subseries 1.19: True Beginnings: Student Written Plays</unittitle>
+						<unitdate normal="2002">2002</unitdate>
+						<physdesc>
+							<extent type="boxes">Box: 6</extent>
+						</physdesc>
+					</did>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Flynn, Matthew
+								</persname></origination>
+							<unittitle>Toppings</unittitle>
+							<container type="box">6</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Suesens, Michelle
+								</persname></origination>
+							<unittitle>Life as a Movie</unittitle>
+							<container type="box">6</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Pause, Stephen
+								</persname></origination>
+							<unittitle>La Dame du Chevalier</unittitle>
+							<container type="box">6</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Nigro, Nick
+								</persname></origination>
+							<unittitle>Pointless Conversation</unittitle>
+							<container type="box">6</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>That, Cynthia
+								</persname></origination>
+							<unittitle>Passing Through Boredom</unittitle>
+							<container type="box">6</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Wentlejewski, Joseph
+								</persname></origination>
+							<unittitle>Rocketman</unittitle>
+							<container type="box">6</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Gemme, Michael
+								</persname></origination>
+							<unittitle>The Kiosk</unittitle>
+							<container type="box">6</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Weber, Chris
+								</persname></origination>
+							<unittitle>Sex and Pepsi</unittitle>
+							<container type="box">6</container>
+						</did>
+					</c03>
+				</c02>
+
+				<c02 level="subseries">
+					<did>
+						<unitid>1.20</unitid>
+						<unittitle>Subseries 1.20: Caviar to the General: A Collection of Plays by Student
+							Playwrights</unittitle>
+						<unitdate normal="2003">2003</unitdate>
+						<physdesc>
+							<extent type="boxes">Box: 7</extent>
+						</physdesc>
+					</did>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>D'Angelo, Gina
+								</persname></origination>
+							<unittitle>My Jesus Stopped</unittitle>
+							<container type="box">7</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Gareau, Karla
+								</persname></origination>
+							<unittitle>Bringing Home Jimmy Stewart</unittitle>
+							<container type="box">7</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Gemme, Michael
+								</persname></origination>
+							<unittitle>I Spy Love</unittitle>
+							<container type="box">7</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Gemme, Michael
+								</persname></origination>
+							<unittitle>The Man from Korvutunturi</unittitle>
+							<container type="box">7</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Gross, Landan
+								</persname></origination>
+							<unittitle>Thirteen Dollars for Therapy</unittitle>
+							<container type="box">7</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Kasche, Edward J.
+								</persname></origination>
+							<unittitle>Nunc Scio Quid Sit Amor</unittitle>
+							<container type="box">7</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Kaylor, Brooke
+								</persname></origination>
+							<unittitle>Slippery Fingers</unittitle>
+							<container type="box">7</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>McGrath, Jim
+								</persname></origination>
+							<unittitle>A Side Order of Sacrilege</unittitle>
+							<container type="box">7</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Messina, Anthony
+								</persname></origination>
+							<unittitle>Fun and Games</unittitle>
+							<container type="box">7</container>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<origination label="Creator"><persname>Weber, Chris
+								</persname></origination>
+							<unittitle>1-900-GET-GIRL</unittitle>
+							<container type="box">7</container>
+						</did>
+					</c03>
+				</c02>
+
+			</c01>
+
+			<c01 level="series">
+				<did>
+					<unitid>2</unitid>
+					<unittitle>2. Student Plays</unittitle>
+					<physdesc>
+						<extent type="boxes">Boxes: 8 - 15</extent>
+					</physdesc>
+				</did>
+				<arrangement>
+					<p>Alphabetically by Title</p>
+				</arrangement>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>Ketchman, Brian
+							</persname></origination>
+						<unittitle>$$$ Lucrative</unittitle>
+						<container type="box">8</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>McCann, Christina
+							</persname></origination>
+						<unittitle>21 Park Place</unittitle>
+						<container type="box">8</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>Bakke, John </persname></origination>
+						<unittitle>Abandoned Treasures</unittitle>
+						<container type="box">8</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>Giaquinto, Matt<![CDATA[&]]>
+								Gretzinger, Jerry</persname></origination>
+						<unittitle>After After Land</unittitle>
+						<container type="box">8</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>Bakke, John </persname></origination>
+						<unittitle>After All</unittitle>
+						<container type="box">8</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>Marble, Mark
+							</persname></origination>
+						<unittitle>All the Candidate's Men</unittitle>
+						<container type="box">8</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>Scully, Erin
+							</persname></origination>
+						<unittitle>All the Dips are Dancing</unittitle>
+						<container type="box">8</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>Clemens, Chris
+							</persname></origination>
+						<unittitle>Ange Coeur</unittitle>
+						<container type="box">8</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>Hecht, Benjamin
+							</persname></origination>
+						<unittitle>Angel Down</unittitle>
+						<container type="box">8</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>Fahey, Jeanne
+							</persname></origination>
+						<unittitle>Apple and the Tree, The</unittitle>
+						<container type="box">8</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>Cahill, Bryon
+							</persname></origination>
+						<unittitle>Armageddon vs. Joe Shmoe</unittitle>
+						<container type="box">8</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>Caracciolo, Daniel Lawrence
+							</persname></origination>
+						<unittitle>Assume Nothing</unittitle>
+						<container type="box">8</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>Jannicelli, Jessica
+							</persname></origination>
+						<unittitle>Assumptions</unittitle>
+						<container type="box">8</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>Anderson, Jerome D.
+							</persname></origination>
+						<unittitle>B.S. Formula, The</unittitle>
+						<container type="box">8</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>Miller, Mark
+							</persname></origination>
+						<unittitle>Backstage</unittitle>
+						<container type="box">8</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>Lantos, Teresa Ann
+							</persname></origination>
+						<unittitle>Beginnings</unittitle>
+						<container type="box">8</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>Kennedy, Loretta A.
+							</persname></origination>
+						<unittitle>Black Coming Light</unittitle>
+						<container type="box">8</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>Giaquinto, Matthew
+							</persname></origination>
+						<unittitle>Blackout</unittitle>
+						<container type="box">8</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>Smyle, Alex </persname></origination>
+						<unittitle>Bonds of Obedience, The</unittitle>
+						<container type="box">8</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>Lecky, John </persname></origination>
+						<unittitle>Cars</unittitle>
+						<container type="box">8</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>Lrizarry, Grace
+							</persname></origination>
+						<unittitle>Choice, The</unittitle>
+						<container type="box">8</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>Hesselton, Clair R.
+							</persname></origination>
+						<unittitle>Choice's</unittitle>
+						<container type="box">8</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>Roche, John </persname></origination>
+						<unittitle>Chop Suey</unittitle>
+						<container type="box">9</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>Milbihill, Michael
+							</persname></origination>
+						<unittitle>Clancy Street</unittitle>
+						<container type="box">9</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>Garcia, George Louis Jr.
+							</persname></origination>
+						<unittitle>"Closure" Sometimes . . . it's all you need</unittitle>
+						<container type="box">9</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>Mayone, Joan
+							</persname></origination>
+						<unittitle>College Years, The</unittitle>
+						<container type="box">9</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>O'Connor, Kerin
+							</persname></origination>
+						<unittitle>Complications</unittitle>
+						<container type="box">9</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>Anderson, John P.
+							</persname></origination>
+						<unittitle>Constructive Criticism</unittitle>
+						<container type="box">9</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>Eastwood, Steve
+							</persname></origination>
+						<unittitle>Courtmartial of James T. Kirk, The</unittitle>
+						<container type="box">9</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>O'Brian, Joseph
+							</persname></origination>
+						<unittitle>Dear Ann</unittitle>
+						<container type="box">9</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>Higgins, Bob
+							</persname></origination>
+						<unittitle>Death Meets the Lovebug</unittitle>
+						<container type="box">9</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>Treacy, Katie
+							</persname></origination>
+						<unittitle>Decisions, Decisions</unittitle>
+						<container type="box">9</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>Morman, Samuel
+							</persname></origination>
+						<unittitle>Deli</unittitle>
+						<container type="box">9</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>Sullivan,James
+							</persname></origination>
+						<unittitle>Devil and Mike Faust, The or Satan Goes to College</unittitle>
+						<container type="box">9</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>Lawless, Christina
+							</persname></origination>
+						<unittitle>Dinner for Three</unittitle>
+						<container type="box">9</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>Smith, Jeremy D.
+							</persname></origination>
+						<unittitle>Dinner with Cactus</unittitle>
+						<container type="box">9</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>Penny, George R.
+							</persname></origination>
+						<unittitle>Down to the Wire</unittitle>
+						<container type="box">9</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>Schilling, Mark
+							</persname></origination>
+						<unittitle>Downward Spiral, The</unittitle>
+						<container type="box">9</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>Bakke, John </persname></origination>
+						<unittitle>Drugs, Sex, Rock<![CDATA[&]]> Roll</unittitle>
+						<container type="box">9</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname/></origination>
+						<unittitle>Elevator Music</unittitle>
+						<container type="box">10</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname/></origination>
+						<unittitle>Engagement, The</unittitle>
+						<container type="box">10</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname/></origination>
+						<unittitle>Engine's Heat</unittitle>
+						<container type="box">10</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname/></origination>
+						<unittitle>Epiphany</unittitle>
+						<container type="box">10</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname/></origination>
+						<unittitle>Farewell Tour</unittitle>
+						<container type="box">10</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname/></origination>
+						<unittitle>Father's Day</unittitle>
+						<container type="box">10</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname/></origination>
+						<unittitle>Favorite, The</unittitle>
+						<container type="box">10</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname/></origination>
+						<unittitle>Feet</unittitle>
+						<container type="box">10</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname/></origination>
+						<unittitle>Forgiveness</unittitle>
+						<container type="box">10</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname/></origination>
+						<unittitle>Freshman Year of Life</unittitle>
+						<container type="box">10</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname/></origination>
+						<unittitle>From the Porch</unittitle>
+						<container type="box">10</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname/></origination>
+						<unittitle>Game, The</unittitle>
+						<container type="box">10</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname/></origination>
+						<unittitle>Gate Keeper, The</unittitle>
+						<container type="box">10</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname/></origination>
+						<unittitle>Gifted</unittitle>
+						<container type="box">10</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname/></origination>
+						<unittitle>Got Me Wrong</unittitle>
+						<container type="box">10</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname/></origination>
+						<unittitle>Have A Good Life</unittitle>
+						<container type="box">10</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname/></origination>
+						<unittitle>Heart Remembers, The</unittitle>
+						<container type="box">10</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>Heineman, Alex
+							</persname></origination>
+						<unittitle>Icing on the Wedding Cake</unittitle>
+						<container type="box">11</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>Larkin, Michael G.
+							</persname></origination>
+						<unittitle>In A Lonely Place</unittitle>
+						<container type="box">11</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>Van Vlack, Ken
+							</persname></origination>
+						<unittitle>Insecurities</unittitle>
+						<container type="box">11</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>Musorrafiti, Lori
+							</persname></origination>
+						<unittitle>Is Ignorance Bliss: An Exploration of Ebeneezer Pudd</unittitle>
+						<container type="box">11</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>Breslin, Dennis
+							</persname></origination>
+						<unittitle>Jono's Big Party</unittitle>
+						<container type="box">11</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>Mason, Keisha
+							</persname></origination>
+						<unittitle>Journey, The</unittitle>
+						<container type="box">11</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>Kusa, Deborah
+							</persname></origination>
+						<unittitle>Jury Room, The</unittitle>
+						<container type="box">11</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>Blakke, John
+							</persname></origination>
+						<unittitle>Just Us</unittitle>
+						<container type="box">11</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>Kieran, Alex
+							</persname></origination>
+						<unittitle>Katy</unittitle>
+						<container type="box">11</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>Ricci, Royal D.
+							</persname></origination>
+						<unittitle>Last Supper, The</unittitle>
+						<container type="box">11</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>O'Connor, Brian
+							</persname></origination>
+						<unittitle>Late Ending</unittitle>
+						<container type="box">11</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>Blake, John </persname></origination>
+						<unittitle>Leap of Faith, A</unittitle>
+						<container type="box">11</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>Landry, Karen
+							</persname></origination>
+						<unittitle>Legend Has It</unittitle>
+						<container type="box">11</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>Roche, John </persname></origination>
+						<unittitle>Life's Eyes</unittitle>
+						<container type="box">11</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>Reeves, Ivy </persname></origination>
+						<unittitle>Love Thyself</unittitle>
+						<container type="box">11</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>Hecht, Ben I.
+							</persname></origination>
+						<unittitle>Mama's Boy</unittitle>
+						<container type="box">11</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>Crandall, Jason
+							</persname></origination>
+						<unittitle>Man in a Chair, a Woman at the Window, A</unittitle>
+						<container type="box">12</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>Crary, Kami </persname></origination>
+						<unittitle>Marcie and Her Imagination</unittitle>
+						<container type="box">12</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>Flynn, Matthew
+							</persname></origination>
+						<unittitle>Martin Cohan</unittitle>
+						<container type="box">12</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>Sousa, AnnMichelle
+							</persname></origination>
+						<unittitle>Me and Brian</unittitle>
+						<container type="box">12</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>Roche, John </persname></origination>
+						<unittitle>Milestones</unittitle>
+						<container type="box">12</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>unknown</persname></origination>
+						<unittitle>Moment of Silence, A</unittitle>
+						<container type="box">12</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>Anderson, John
+							</persname></origination>
+						<unittitle>Money to Burn</unittitle>
+						<container type="box">12</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>Bakke, John </persname></origination>
+						<unittitle>Moonlight at Nightfall</unittitle>
+						<container type="box">12</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>Murray, Jon<![CDATA[&]]> Lenhart,
+								Paul</persname></origination>
+						<unittitle>Mortimer Bites the Big Apple (The Mort Strikes Back)</unittitle>
+						<container type="box">12</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>O'Hare, James
+							</persname></origination>
+						<unittitle>My Brother's Keeper</unittitle>
+						<container type="box">12</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>McNamara, Shannon
+							</persname></origination>
+						<unittitle>Nihl</unittitle>
+						<container type="box">12</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>Smyle, Alex </persname></origination>
+						<unittitle>Observation Post Alpha</unittitle>
+						<container type="box">12</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>Gallagher, Thomas P.
+							</persname></origination>
+						<unittitle>Of Brass Rings and Finer Things</unittitle>
+						<container type="box">12</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>Marafioti, Pat
+							</persname></origination>
+						<unittitle>Of Wise Owls and Human Mischief: Scenes from a
+							Romance</unittitle>
+						<container type="box">12</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>Cahill, Bryon
+							</persname></origination>
+						<unittitle>Pale Eggs of the Beast, The</unittitle>
+						<container type="box">12</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>Fredsall, Peter
+							</persname></origination>
+						<unittitle>Party Life, The</unittitle>
+						<container type="box">12</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>Eyck, David Ten
+							</persname></origination>
+						<unittitle>Paths of Progress, The</unittitle>
+						<container type="box">12</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>Brunner, Susan<![CDATA[&]]> Crecca,
+								Andrew</persname></origination>
+						<unittitle>Payment of Dues</unittitle>
+						<container type="box">12</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>Coppola, Giovanna
+							</persname></origination>
+						<unittitle>Pickles</unittitle>
+						<container type="box">12</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>Glaze, Anndalena
+							</persname></origination>
+						<unittitle>Piece of Mind</unittitle>
+						<container type="box">12</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>McEvily, Pete
+							</persname></origination>
+						<unittitle>Portrait of a Murder</unittitle>
+						<container type="box">13</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>Freydl, Jeff E.
+							</persname></origination>
+						<unittitle>Premonition</unittitle>
+						<container type="box">13</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>Fishelmen, Ben
+							</persname></origination>
+						<unittitle>Quiet Sunday in Amherst, A</unittitle>
+						<container type="box">13</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>Anderson, Donald
+							</persname></origination>
+						<unittitle>Resale T's, The</unittitle>
+						<container type="box">13</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>unknown</persname></origination>
+						<unittitle>Romeo and Julio</unittitle>
+						<container type="box">13</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>Zizzi, Sara </persname></origination>
+						<unittitle>Romeo, Romeo</unittitle>
+						<container type="box">13</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>Fitzpatrick, Diane<![CDATA[&]]>
+								Eustace, Don</persname></origination>
+						<unittitle>Saints or Sinners</unittitle>
+						<container type="box">13</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>Larkin, Michael
+							</persname></origination>
+						<unittitle>Second Sight</unittitle>
+						<container type="box">13</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>Serafini, Chris
+							</persname></origination>
+						<unittitle>Seen But Not Heard</unittitle>
+						<container type="box">13</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>Curry, Daniel P.
+							</persname></origination>
+						<unittitle>Shooting the Cowboys</unittitle>
+						<container type="box">13</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>Magdalen, Karyn
+							</persname></origination>
+						<unittitle>Sisters</unittitle>
+						<container type="box">13</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>Cunney, Don </persname></origination>
+						<unittitle>Skeletons in the Closet</unittitle>
+						<container type="box">13</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>Weston, Leslie
+							</persname></origination>
+						<unittitle>Sketches</unittitle>
+						<container type="box">13</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>Creighton, Sean
+							</persname></origination>
+						<unittitle>Smoking Car, The</unittitle>
+						<container type="box">13</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>Liepis, Marc
+							</persname></origination>
+						<unittitle>Stranger than Fiction</unittitle>
+						<container type="box">13</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>MacGowan, Carl
+							</persname></origination>
+						<unittitle>Summer Employment</unittitle>
+						<container type="box">14</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>DeFelice, James
+							</persname></origination>
+						<unittitle>Take it Easy, Soldier</unittitle>
+						<container type="box">14</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>Adamski, Meg
+							</persname></origination>
+						<unittitle>Taking it to the Streets</unittitle>
+						<container type="box">14</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>Thompson, Scott R.
+							</persname></origination>
+						<unittitle>Tangled Web, A</unittitle>
+						<container type="box">14</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>Flyn, Matthew
+							</persname></origination>
+						<unittitle>That Girl</unittitle>
+						<container type="box">14</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>McBride, Jon
+							</persname></origination>
+						<unittitle>Thicker than Water</unittitle>
+						<container type="box">14</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>Montemurrow, Lauren
+							</persname></origination>
+						<unittitle>Three's a Crowd</unittitle>
+						<container type="box">14</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>LeBoeuf, Jennifer
+							</persname></origination>
+						<unittitle>Till We Meet Again</unittitle>
+						<container type="box">14</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>Sabol, Richard
+							</persname></origination>
+						<unittitle>To Be Remembered</unittitle>
+						<container type="box">14</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>Pomilla, Diane
+							</persname></origination>
+						<unittitle>To Fit the Cloth</unittitle>
+						<container type="box">14</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>Begley, Vincent
+							</persname></origination>
+						<unittitle>Truth of the Matter, The</unittitle>
+						<container type="box">14</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>Ivanoff, Donald N. Jr.
+							</persname></origination>
+						<unittitle>Turning Tables</unittitle>
+						<container type="box">14</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>Mulvihill, Michael
+							</persname></origination>
+						<unittitle>Tumbleweeds</unittitle>
+						<container type="box">14</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>Disana, Gina
+							</persname></origination>
+						<unittitle>Twin Billing</unittitle>
+						<container type="box">14</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>Anderson, J. Patrick
+							</persname></origination>
+						<unittitle>Two Bit</unittitle>
+						<container type="box">14</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>Speers, Mike
+							</persname></origination>
+						<unittitle>Unsung Hero, The (The Comic Tragedy)</unittitle>
+						<container type="box">15</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>Dwyer, Kevin
+							</persname></origination>
+						<unittitle>Unsuspecting Customers</unittitle>
+						<container type="box">15</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>Sousa, Shelly
+							</persname></origination>
+						<unittitle>Upstage</unittitle>
+						<container type="box">15</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>Wing, Terrence
+							</persname></origination>
+						<unittitle>Vows</unittitle>
+						<container type="box">15</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>D'amore, Patrick
+							</persname></origination>
+						<unittitle>Wake, The</unittitle>
+						<container type="box">15</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>Hubbs, Michele
+							</persname></origination>
+						<unittitle>Wedding Bliss</unittitle>
+						<container type="box">15</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>Nigrelli, Gianluca
+							</persname></origination>
+						<unittitle>What About Birds</unittitle>
+						<container type="box">15</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>O'Donnell, Rick<![CDATA[&]]>
+								Magdalen, Karyn</persname></origination>
+						<unittitle>What are Friends For?</unittitle>
+						<container type="box">15</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>Curry, Daniel
+							</persname></origination>
+						<unittitle>What Ever Happened to Long Island Mike?</unittitle>
+						<container type="box">15</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>McCann, Christina
+							</persname></origination>
+						<unittitle>Witness, The</unittitle>
+						<container type="box">15</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<origination label="Creator"><persname>Stepmoroski, Tara
+							</persname></origination>
+						<unittitle>Wonderworld</unittitle>
+						<container type="box">15</container>
+					</did>
+				</c02>
+			</c01>
+
+			<c01 level="series">
+				<did>
+					<unitid>3</unitid>
+					<unittitle>3. Videos</unittitle>
+					<physdesc>
+						<extent type="boxes">Boxes: 16 - 22</extent>
+					</physdesc>
+				</did>
+				<arrangement>
+					<p>Alphabetically by Title</p>
+				</arrangement>
+				<c02 level="item">
+					<did>
+						<unittitle>Alan Arkin (2 tapes)</unittitle>
+						<container type="box">16</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>All in the Timing</unittitle>
+						<container type="box">16</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Anything Goes</unittitle>
+						<container type="box">16</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Beautiful Thing</unittitle>
+						<container type="box">16</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Cat on a Hot Tin Roof 3/7/99</unittitle>
+						<container type="box">16</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Dancing in the End Zone</unittitle>
+						<container type="box">16</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Dancing at Lughnasa and Stone Soup</unittitle>
+						<container type="box">16</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Dean Cox Tapes (2)</unittitle>
+						<container type="box">16</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>A Doll's House 3/6/97</unittitle>
+						<container type="box">16</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>The Emperors New Clothes 4/9/97</unittitle>
+						<container type="box">16</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Eng, 2 + 1 Plays, 12/6/96</unittitle>
+						<container type="box">17</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>ETG 2 + 1 Pays, 12/16/96</unittitle>
+						<container type="box">17</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>ETG Double Bill, 12/7/95</unittitle>
+						<container type="box">17</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Evening of One Acts</unittitle>
+						<container type="box">17</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Experimental Theatre, 1993</unittitle>
+						<container type="box">17</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Experimental Theatre for Dean Cox</unittitle>
+						<container type="box">17</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Festival of Plays, 1994</unittitle>
+						<container type="box">17</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Festival of Plays, Spring 1995, Tapes 1<![CDATA[&]]>
+							2</unittitle>
+						<container type="box">17</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Festival 1995<![CDATA[&]]> Dance Club Pantomime (Fall '95) Hey
+							Big Spender</unittitle>
+						<container type="box">17</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Festival 1996, Tapes 1<![CDATA[&]]> 2</unittitle>
+						<container type="box">17</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Festival 1997</unittitle>
+						<container type="box">18</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Festival 2000</unittitle>
+						<container type="box">18</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Fiddler on the Roof Tapes 1<![CDATA[&]]> 2, 11/17 -
+							11/18/95</unittitle>
+						<container type="box">18</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Fiddler on the Roof (one tape)</unittitle>
+						<container type="box">18</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>A Funny Thing Happened on the Way to the Forum
+							11/20/93</unittitle>
+						<container type="box">18</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>The Glass Slipper 4/12/94</unittitle>
+						<container type="box">18</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Guys and Dolls Tapes 1<![CDATA[&]]> 2, 11/21/96</unittitle>
+						<container type="box">18</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Humorists, 4/11/95</unittitle>
+						<container type="box">18</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>I Hate Hamlet (2 tapes) 10/30/94</unittitle>
+						<container type="box">19</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>The Importance of Being Ernest 10/15/00</unittitle>
+						<container type="box">19</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Into the Woods</unittitle>
+						<container type="box">19</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Joseph and the Amazing Technicolor Dreamcoat (2 tapes)
+							11/20/97</unittitle>
+						<container type="box">19</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Lend Me a Tenor 10/15/93</unittitle>
+						<container type="box">19</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Lessons and Carols, 12/14/96</unittitle>
+						<container type="box">19</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Love Letters May 1995</unittitle>
+						<container type="box">19</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Love, Sex, and the IRS 10/15/95</unittitle>
+						<container type="box">19</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Machinal Fall 1997</unittitle>
+						<container type="box">19</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Marvin's Room 2/27/97</unittitle>
+						<container type="box">19</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Me and My Girl (2 tapes) 11/20/94</unittitle>
+						<container type="box">20</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Moon Over Buffalo 10/9/97</unittitle>
+						<container type="box">20</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>The Mousetrap (2 tapes) 3/2/96</unittitle>
+						<container type="box">20</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Noises Off (2 tapes) 2/3-5/95</unittitle>
+						<container type="box">20</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>One Acts, 12/5/98</unittitle>
+						<container type="box">20</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Prelude to a Kiss 2/10/96</unittitle>
+						<container type="box">20</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Present Laughter (2 tapes) 10/11/98</unittitle>
+						<container type="box">20</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Robin Hood (Camera Two)</unittitle>
+						<container type="box">20</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Robin Hood (Camera Two)</unittitle>
+						<container type="box">21</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Rumors 10/11/96</unittitle>
+						<container type="box">21</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Rumplestiltskin (2 tapes) 3/31/96</unittitle>
+						<container type="box">21</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Six Characters in Search of an Author 2/14/96</unittitle>
+						<container type="box">21</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Stone Soup 3/29/98</unittitle>
+						<container type="box">21</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>A Streecar Named Desire</unittitle>
+						<container type="box">21</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Talk Radio</unittitle>
+						<container type="box">21</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Taming of the Shrew 4/7 - 4/9/?</unittitle>
+						<container type="box">21</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>To Fit the Cloth</unittitle>
+						<container type="box">21</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Tom Foolery</unittitle>
+						<container type="box">21</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Triple Bill, MCCTA, Identity Crisis, The Room,<![CDATA[&]]>
+							Actors Nightmare 2/17/94</unittitle>
+						<container type="box">22</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Vagina Monologues</unittitle>
+						<container type="box">22</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>The Vagina Monologues 2/14/99</unittitle>
+						<container type="box">22</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>A View From the Bridge 2/12/00</unittitle>
+						<container type="box">22</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>West Side Story 11/21/98</unittitle>
+						<container type="box">22</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Who's Afraid of Virginia Woolf? (2 tapes)</unittitle>
+						<container type="box">22</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>World Goes Round 3/8/00</unittitle>
+						<container type="box">22</container>
+					</did>
+				</c02>
+			</c01>
+
+			<c01 level="series">
+				<did>
+					<unitid>4</unitid>
+					<unittitle>4. Published Plays, Musicals, and Screenplays (arranged by call
+						number)</unittitle>
+					<note>
+						<p>This series consists of 724 titles which may be searched in the following
 							ways: 
-						<list type="marked"><item>The entire series may be browsed by selecting the following link: <archref><dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://bit.ly/3JJmBvl" xlink:title="Browse Series 4: James T. Cox Collection" xlink:actuate="onRequest" xlink:show="new"> </dao></archref></item><!--https://marist.primo.exlibrisgroup.com/discovery/search?query=lds16,contains,James%20T.%20Cox&tab=Everything&search_scope=MyInst_and_CI&vid=01MARIST_INST:01MARIST&lang=en&offset=0.--><item>
+						<list type="marked">
+							<item>The entire series may be browsed by selecting the following link: <archref>
+									<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://bit.ly/3JJmBvl" xlink:title="Browse Series 4: James T. Cox Collection" xlink:actuate="onRequest" xlink:show="new"> </dao></archref></item>
+							<!--https://marist.primo.exlibrisgroup.com/discovery/search?query=lds16,contains,James%20T.%20Cox&tab=Everything&search_scope=MyInst_and_CI&vid=01MARIST_INST:01MARIST&lang=en&offset=0.-->
+							<item>
 								This series may also be searched on the <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://library.marist.edu/" xlink:title="James A. Cannavino Library's on-line          catalog" xlink:actuate="onRequest" xlink:show="new"/>. You
 									may browse the collection by entering "James T. Cox" under a subject
 									search or you may search for a specific title or author by selecting the
@@ -370,4 +3358,12 @@
 									keywords in the subsequent search boxes. This will allow you to search
 									within Series 4 of the James T. Cox Collection. I wonder if it is worth
 									talking with John to see if we can remove that text all together from
-									the finding aid.</item></list></p></note></did></c01></dsc></archdesc></ead>
+									the finding aid.</item>
+						</list></p>
+					</note>
+				</did>
+			</c01>
+
+		</dsc>
+	</archdesc>
+</ead>

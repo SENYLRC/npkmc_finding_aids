@@ -1,25 +1,283 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
-<ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:isbn:1-931666-22-9" xmlns:ns2="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"><!--Header portion of EAD --><eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601"><eadid countrycode="US" mainagencycode="US-NPkMC" url="http://www.marist.edu">npkmc_223_084</eadid><filedesc><titlestmt><titleproper>Matthew Vassar, Jr. Collection</titleproper><author>Erin Roohan <![CDATA[&]]> John Ansley, MA, MSLS, 2005; Finding Aid Encoded by: Monish M. Singh, 2005;
-				Finding Aid Encoding updated by: Abigail Bowen, 2022</author></titlestmt><publicationstmt><publisher>Marist College <lb/>Archives and Special Collections </publisher><address><addressline>3399 North Road <lb/>Poughkeepsie, NY 12601 <lb/>Phone: 845-575-5217
+<ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:isbn:1-931666-22-9" xmlns:ns2="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
+	
+	<!--Header portion of EAD -->
+	<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+		<eadid countrycode="US" mainagencycode="US-NPkMC" url="http://www.marist.edu">npkmc_223_084</eadid>
+		<filedesc>
+		<titlestmt>
+			<titleproper>Matthew Vassar, Jr. Collection</titleproper>
+			<author>Erin Roohan <![CDATA[&]]> John Ansley, MA, MSLS, 2005; Finding Aid Encoded by: Monish M. Singh, 2005;
+				Finding Aid Encoding updated by: Abigail Bowen, 2022</author>
+		</titlestmt>	
+			<publicationstmt>
+				<publisher>Marist College <lb/>Archives and Special Collections </publisher>
+				<address>
+					<addressline>3399 North Road <lb/>Poughkeepsie, NY 12601 <lb/>Phone: 845-575-5217
 						<lb/>Fax: 845-575-3150 <lb/>Email: library.archives@marist.edu<lb/>Website:
-						https://library.marist.edu/archives/</addressline></address><date type="publication" normal="2005">Summer, 2005</date></publicationstmt></filedesc><profiledesc><creation>Monish M. Singh
+						https://library.marist.edu/archives/</addressline>
+				</address>
+				<date type="publication" normal="2005">Summer, 2005</date>
+		</publicationstmt>
+	</filedesc>
+	<profiledesc>
+        <creation>Monish M. Singh
         <date normal="2005">2005</date>
-        </creation><langusage>Finding aid written in <language langcode="eng" scriptcode="Latn">English</language></langusage><descrules><abbr>DACS</abbr>Describing Archives: A Content Standard. Chicago: Society of
-			American Archivists, 2013.</descrules></profiledesc><revisiondesc><list><item>March 2022, EAD updated by Abigail Bowen</item></list></revisiondesc></eadheader><!-- Archival Description portion of EAD --><archdesc level="collection"><did><unittitle>Matthew Vassar, Jr. Collection</unittitle><unitid countrycode="US" repositorycode="US-NPkMC">NPkMC-223-084</unitid><unitdate type="inclusive" normal="1841/1880">1841 – 1880</unitdate><physdesc><extent type="size">0.5 Linear Feet</extent></physdesc><repository><corpname>Marist College Archives and Special Collections</corpname></repository><origination label="creator"><persname>Matthew Vassar, Jr.</persname></origination><abstract>The collection contains diary excerpts of Matthew Vassar, Jr. printed in the Poughkeepsie Eagle, covering the tumultuous years before the Civil War, during the war, and afterwards. Matthew Vassar details Poughkeepsie history and the countrywide events that influenced Poughkeepsie, during the almost 40 year period of 1841 through 1880. There are also small pamphlets from the 1930s, of Public Officers and Boards in Poughkeepsie and the rules of the Franklin D. Roosevelt Home Club and the Poughkeepsie Police Manual. </abstract><langmaterial><language langcode="eng">English</language></langmaterial><physloc>Please contact the Marist College Archives and Special Collections for information
-			regarding use and access of this collection.</physloc></did><scopecontent><head>Collection Overview</head><p>The collection consists of 14 printings of excerpted sections of Matthew Vassar’s diary entries which start in 1841 and end in 1880, printed by the Poughkeepsie Eagle.  There are also two pamphlets of Samuel Moore’s from the 1920s and 1930s and the Poughkeepsie Police Manual.</p></scopecontent><acqinfo><p>The Collection was donated to Marist College by the Moore Brothers.</p></acqinfo><bioghist encodinganalog="545"><head>Historical Note</head><p>Matthew Vassar, Jr., who was born in 1809, was the nephew of Matthew Vassar, who founded Vassar College. Matthew Vassar helped to care for Matthew Vassar, Jr. and his brother John Guy Vassar after their father’s death. Matthew Vassar, Jr. and his brother John were involved in their uncle’s brewing business, becoming partners in the business with their uncle. Both also served as trustees of Vassar College. They were all influential members and philanthropists of the Poughkeepsie community. The brothers both gave funds to finance the construction of the Vassar Brothers Hospital, Laboratory, and The Home for Aged Men.  Matthew Vassar, Jr. also donated money to the Baptist Church, of which he was a member, and served as President of Poughkeepsie branch of the center for the prevention of cruelty to animals. He kept a diary detailing the events transpiring in the country and Poughkeepsie between 1841 and 1880, which the Poughkeepsie Eagle reprinted. Matthew Vassar, Jr. died in August of 1881 at the age of 73. </p><p>Samuel A. Moore, who donated the collection, lived in Poughkeepsie, N.Y. and served as Police Commissioner in the 1930s.</p></bioghist><accessrestrict><p>There are no restrictions on this collection</p></accessrestrict><userestrict><head>Notice of Copyright</head><p>Individuals requesting reproductions expressly assume the responsibility for compliance
+        </creation>
+		<langusage>Finding aid written in <language langcode="eng" scriptcode="Latn">English</language></langusage>
+		<descrules><abbr>DACS</abbr>Describing Archives: A Content Standard. Chicago: Society of
+			American Archivists, 2013.</descrules>
+	</profiledesc>
+		<revisiondesc>
+			<list>
+				<item>March 2022, EAD updated by Abigail Bowen</item>
+			</list>
+		</revisiondesc>
+</eadheader>
+
+<!-- Archival Description portion of EAD -->
+
+<archdesc level="collection">
+	<did>
+		<unittitle>Matthew Vassar, Jr. Collection</unittitle>
+		<unitid countrycode="US" repositorycode="US-NPkMC">NPkMC-223-084</unitid>
+		<unitdate type="inclusive" normal="1841/1880">1841 – 1880</unitdate>
+		<physdesc>
+			<extent type="size">0.5 Linear Feet</extent>
+		</physdesc>
+		<repository>
+			<corpname>Marist College Archives and Special Collections</corpname>
+		</repository>
+		<origination label="creator"><persname>Matthew Vassar, Jr.</persname></origination>
+		<abstract>The collection contains diary excerpts of Matthew Vassar, Jr. printed in the Poughkeepsie Eagle, covering the tumultuous years before the Civil War, during the war, and afterwards. Matthew Vassar details Poughkeepsie history and the countrywide events that influenced Poughkeepsie, during the almost 40 year period of 1841 through 1880. There are also small pamphlets from the 1930s, of Public Officers and Boards in Poughkeepsie and the rules of the Franklin D. Roosevelt Home Club and the Poughkeepsie Police Manual. </abstract> 
+		<langmaterial>
+			<language langcode="eng">English</language>
+		</langmaterial>
+		<physloc>Please contact the Marist College Archives and Special Collections for information
+			regarding use and access of this collection.</physloc>
+	</did>
+	
+	<scopecontent>
+		<head>Collection Overview</head>
+		<p>The collection consists of 14 printings of excerpted sections of Matthew Vassar’s diary entries which start in 1841 and end in 1880, printed by the Poughkeepsie Eagle.  There are also two pamphlets of Samuel Moore’s from the 1920s and 1930s and the Poughkeepsie Police Manual.</p>
+	</scopecontent>
+	
+	<acqinfo>
+		<p>The Collection was donated to Marist College by the Moore Brothers.</p>
+	</acqinfo>
+
+	<bioghist encodinganalog="545">
+		<head>Historical Note</head>
+		<p>Matthew Vassar, Jr., who was born in 1809, was the nephew of Matthew Vassar, who founded Vassar College. Matthew Vassar helped to care for Matthew Vassar, Jr. and his brother John Guy Vassar after their father’s death. Matthew Vassar, Jr. and his brother John were involved in their uncle’s brewing business, becoming partners in the business with their uncle. Both also served as trustees of Vassar College. They were all influential members and philanthropists of the Poughkeepsie community. The brothers both gave funds to finance the construction of the Vassar Brothers Hospital, Laboratory, and The Home for Aged Men.  Matthew Vassar, Jr. also donated money to the Baptist Church, of which he was a member, and served as President of Poughkeepsie branch of the center for the prevention of cruelty to animals. He kept a diary detailing the events transpiring in the country and Poughkeepsie between 1841 and 1880, which the Poughkeepsie Eagle reprinted. Matthew Vassar, Jr. died in August of 1881 at the age of 73. </p>
+		<p>Samuel A. Moore, who donated the collection, lived in Poughkeepsie, N.Y. and served as Police Commissioner in the 1930s.</p>
+	</bioghist>
+	
+	<accessrestrict>
+		<p>There are no restrictions on this collection</p>
+	</accessrestrict>
+	<userestrict>
+		<head>Notice of Copyright</head>
+		<p>Individuals requesting reproductions expressly assume the responsibility for compliance
 			with all pertinent provisions of the Copyright Act, 17 U.S.C. ss101 et seq. Patrons further
 			agree to indemnify and hold harmless the Marist College Archives and Special Collections and
 			its staff in connection with any disputes arising from the Copyright Act, over the
 			reproduction of material at the request of patrons. For more information please visit the
-			following website: http://www.loc.gov/copyright/title17/.</p></userestrict><prefercite><head>Preferred Citation</head><p>[Description of item, date, location of item in order of series, box number, folder number
+			following website: http://www.loc.gov/copyright/title17/.</p>
+	</userestrict>
+	<prefercite>
+		<head>Preferred Citation</head>
+		<p>[Description of item, date, location of item in order of series, box number, folder number
 			], in the Matthew Vassar, Jr. Collection, Archives and Special Collections, James A. Cannavino Library,
-			Marist College.</p></prefercite><arrangement><head>Arrangement of the Collection</head><p>These records are organized into two series: 1) Diary Excerpts and 2) Miscellaneous</p><p>Materials retain their original order</p></arrangement><dsc type="combined"><c01 level="series"><did><unitid>1</unitid><unittitle>1. Diary Excerpts</unittitle><physdesc><extent type="size">0.3 linear feet</extent><extent type="boxes">Box: 1</extent><extent type="folders">Folder: 1</extent></physdesc></did><scopecontent><p>There are 14 newspaper printings of the diary excerpts. The diary excerpts span the
+			Marist College.</p>
+	</prefercite>
+	<arrangement>
+		<head>Arrangement of the Collection</head>
+		<p>These records are organized into two series: 1) Diary Excerpts and 2) Miscellaneous</p>
+		<p>Materials retain their original order</p>
+	</arrangement>
+	
+	<dsc type="combined">
+		<c01 level="series">
+			<did>
+				<unitid>1</unitid>
+				<unittitle>1. Diary Excerpts</unittitle>
+				<physdesc>
+					<extent type="size">0.3 linear feet</extent>
+					<extent type="boxes">Box: 1</extent>
+					<extent type="folders">Folder: 1</extent>
+				</physdesc>
+			</did>
+			<scopecontent>
+				<p>There are 14 newspaper printings of the diary excerpts. The diary excerpts span the
 					years from 1841 through 1880. The entries touch on the Gold rush, the building of
 					the railroads, riots, the Fugitive Slave Act, the Civil War years, the death of
-					President Lincoln, and more.</p></scopecontent><arrangement><p>Original Order</p></arrangement><c02 level="item"><did><unitid>1</unitid><unittitle>Life in Poughkeepsie From 1841 to 1849</unittitle><container type="box">1</container><container type="folder">1</container></did></c02><c02 level="item"><did><unitid>2</unitid><unittitle>Life in Poughkeepsie From 1849 to 1851</unittitle><container type="box">1</container><container type="folder">1</container></did></c02><c02 level="item"><did><unitid>3</unitid><unittitle>Life in Poughkeepsie in 1860.</unittitle><container type="box">1</container><container type="folder">1</container></did></c02><c02 level="item"><did><unitid>4</unitid><unittitle>The Stirring Events of the First Year of the War. 1861.</unittitle><container type="box">1</container><container type="folder">1</container></did></c02><c02 level="item"><did><unitid>5</unitid><unittitle>Events in the Second Year of the War. 1862.</unittitle><container type="box">1</container><container type="folder">1</container></did></c02><c02 level="item"><did><unitid>6</unitid><unittitle>Life in Poughkeepsie From 1851 to 1854</unittitle><container type="box">1</container><container type="folder">1</container></did></c02><c02 level="item"><did><unitid>7</unitid><unittitle>Life in Poughkeepsie From 1854 to 1856</unittitle><container type="box">1</container><container type="folder">1</container></did></c02><c02 level="item"><did><unitid>8</unitid><unittitle>Events in Poughkeepsie From 1858 to 1860</unittitle><container type="box">1</container><container type="folder">1</container></did></c02><c02 level="item"><did><unitid>9</unitid><unittitle>Events in Poughkeepsie During the Last Year of the War.</unittitle><container type="box">1</container><container type="folder">1</container></did></c02><c02 level="item"><did><unitid>10</unitid><unittitle>Poughkeepsie Events in 1865 and 1866</unittitle><container type="box">1</container><container type="folder">1</container></did></c02><c02 level="item"><did><unitid>11</unitid><unittitle>Events in Poughkeepsie During the Busy Years 1867, 1868, 1869</unittitle><container type="box">1</container><container type="folder">1</container></did></c02><c02 level="item"><did><unitid>12</unitid><unittitle>Poughkeepsie Events in the Boom Years of 1870 and 1871</unittitle><container type="box">1</container><container type="folder">1</container></did></c02><c02 level="item"><did><unitid>13</unitid><unittitle>Life in Poughkeepsie From 1872 to 1875</unittitle><container type="box">1</container><container type="folder">1</container></did></c02><c02 level="item"><did><unitid>14</unitid><unittitle>Events in Poughkeepsie From 1875 to June 1880</unittitle><container type="box">1</container><container type="folder">1</container></did></c02></c01><c01 level="series"><did><unitid>2</unitid><unittitle>2. Miscellaneous</unittitle><physdesc><extent type="size">0.2 Linear Foot</extent><extent type="boxes">Box: 2</extent><extent type="folders">Folder: 1</extent></physdesc></did><scopecontent><p>The pamphlet Franklin D. Roosevelt Home Club outlines the club’s Preamble and By-
+					President Lincoln, and more.</p>
+			</scopecontent>
+			<arrangement>
+				<p>Original Order</p>
+			</arrangement>
+			<c02 level="item">
+				<did>
+					<unitid>1</unitid>
+					<unittitle>Life in Poughkeepsie From 1841 to 1849</unittitle>
+					<container type="box">1</container>
+					<container type="folder">1</container>
+				</did>
+			</c02>
+			<c02 level="item">
+				<did>
+					<unitid>2</unitid>
+					<unittitle>Life in Poughkeepsie From 1849 to 1851</unittitle>
+					<container type="box">1</container>
+					<container type="folder">1</container>
+				</did>
+			</c02>
+			<c02 level="item">
+				<did>
+					<unitid>3</unitid>
+					<unittitle>Life in Poughkeepsie in 1860.</unittitle>
+					<container type="box">1</container>
+					<container type="folder">1</container>
+				</did>
+			</c02>
+			<c02 level="item">
+				<did>
+					<unitid>4</unitid>
+					<unittitle>The Stirring Events of the First Year of the War. 1861.</unittitle>
+					<container type="box">1</container>
+					<container type="folder">1</container>
+				</did>
+			</c02>
+			<c02 level="item">
+				<did>
+					<unitid>5</unitid>
+					<unittitle>Events in the Second Year of the War. 1862.</unittitle>
+					<container type="box">1</container>
+					<container type="folder">1</container>
+				</did>
+			</c02>
+			<c02 level="item">
+				<did>
+					<unitid>6</unitid>
+					<unittitle>Life in Poughkeepsie From 1851 to 1854</unittitle>
+					<container type="box">1</container>
+					<container type="folder">1</container>
+				</did>
+			</c02>
+			<c02 level="item">
+				<did>
+					<unitid>7</unitid>
+					<unittitle>Life in Poughkeepsie From 1854 to 1856</unittitle>
+					<container type="box">1</container>
+					<container type="folder">1</container>
+				</did>
+			</c02>
+			<c02 level="item">
+				<did>
+					<unitid>8</unitid>
+					<unittitle>Events in Poughkeepsie From 1858 to 1860</unittitle>
+					<container type="box">1</container>
+					<container type="folder">1</container>
+				</did>
+			</c02>
+			<c02 level="item">
+				<did>
+					<unitid>9</unitid>
+					<unittitle>Events in Poughkeepsie During the Last Year of the War.</unittitle>
+					<container type="box">1</container>
+					<container type="folder">1</container>
+				</did>
+			</c02>
+			<c02 level="item">
+				<did>
+					<unitid>10</unitid>
+					<unittitle>Poughkeepsie Events in 1865 and 1866</unittitle>
+					<container type="box">1</container>
+					<container type="folder">1</container>
+				</did>
+			</c02>
+			<c02 level="item">
+				<did>
+					<unitid>11</unitid>
+					<unittitle>Events in Poughkeepsie During the Busy Years 1867, 1868, 1869</unittitle>
+					<container type="box">1</container>
+					<container type="folder">1</container>
+				</did>
+			</c02>
+			<c02 level="item">
+				<did>
+					<unitid>12</unitid>
+					<unittitle>Poughkeepsie Events in the Boom Years of 1870 and 1871</unittitle>
+					<container type="box">1</container>
+					<container type="folder">1</container>
+				</did>
+			</c02>
+			<c02 level="item">
+				<did>
+					<unitid>13</unitid>
+					<unittitle>Life in Poughkeepsie From 1872 to 1875</unittitle>
+					<container type="box">1</container>
+					<container type="folder">1</container>
+				</did>
+			</c02>
+			<c02 level="item">
+				<did>
+					<unitid>14</unitid>
+					<unittitle>Events in Poughkeepsie From 1875 to June 1880</unittitle>
+					<container type="box">1</container>
+					<container type="folder">1</container>
+				</did>
+			</c02>
+		</c01>
+		
+		<c01 level="series">
+			<did>
+				<unitid>2</unitid>
+				<unittitle>2. Miscellaneous</unittitle>
+				<physdesc>
+					<extent type="size">0.2 Linear Foot</extent>
+					<extent type="boxes">Box: 2</extent>
+					<extent type="folders">Folder: 1</extent>
+				</physdesc>
+			</did>
+			<scopecontent>
+				<p>The pamphlet Franklin D. Roosevelt Home Club outlines the club’s Preamble and By-
 					Laws. It was revised in 1931. The other pamphlet lists the City of Poughkeepsie’s
 					Public Officers and Boards of 1938. There is also the Poughkeepsie Police Manual
-					from 1929.</p></scopecontent><arrangement><p>Original Order</p></arrangement><c02 level="item"><did><unitid>15</unitid><unittitle>Public Officers and Boards. 1938. Poughkeepsie, New York</unittitle><container type="box">2</container><container type="folder">1</container></did></c02><c02 level="item"><did><unitid>16</unitid><unittitle>Franklin D. Roosevelt Home Club. Preamble and By-Laws. 1931.</unittitle><container type="box">2</container><container type="folder">1</container></did></c02><c02 level="item"><did><unitid>17</unitid><unittitle>Police Manual. Rules and Regulations for the Government of the
+					from 1929.</p>
+			</scopecontent>
+			<arrangement>
+				<p>Original Order</p>
+			</arrangement>
+			<c02 level="item">
+				<did>
+					<unitid>15</unitid>
+					<unittitle>Public Officers and Boards. 1938. Poughkeepsie, New York</unittitle>
+					<container type="box">2</container>
+					<container type="folder">1</container>
+				</did>
+			</c02>
+			<c02 level="item">
+				<did>
+					<unitid>16</unitid>
+					<unittitle>Franklin D. Roosevelt Home Club. Preamble and By-Laws. 1931.</unittitle>
+					<container type="box">2</container>
+					<container type="folder">1</container>
+				</did>
+			</c02>
+			<c02 level="item">
+				<did>
+					<unitid>17</unitid>
+					<unittitle>Police Manual. Rules and Regulations for the Government of the
 						Department of Police of the City of Poughkeepsie. Poughkeepsie, N.Y.
-						1929.</unittitle><container type="box">2</container><container type="folder">1</container></did></c02></c01></dsc></archdesc></ead>
+						1929.</unittitle>
+					<container type="box">2</container>
+					<container type="folder">1</container>
+				</did>
+			</c02>
+		</c01>
+		
+	</dsc>
+	</archdesc>
+	</ead>
