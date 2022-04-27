@@ -1,571 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
-<!-- Header Portion of EAD --> 
-	
-<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
-	<eadid countrycode="US" mainagencycode="US-NPkMC">npkmc_221_102</eadid>
-	<filedesc>
-		<titlestmt>
-			<titleproper>Hudson River Valley Commission Collection: Records Relating to the Storm King Case</titleproper>
-			<author>Nicholas Gildard <![CDATA[&]]> John Ansley, PhD, 2003; Finding Aid Encoded by: Monish M. Singh, 2003; Finding Aid Encoding updated by: Abigail Bowen, 2022</author>
-		</titlestmt>	
-		<publicationstmt> 
-				<publisher>Marist College Archives and Special Collections</publisher>
-				<address>
-					<addressline>3399 North Road
-						<lb/>Poughkeepsie, NY 12601
-						<lb/>Phone: 845-575-5217
-						<lb/>Fax: 845-575-3150
-						<lb/>Email: john.ansley@marist.edu</addressline>
-				</address>
-				<date type="publication" normal="2003">Spring, 2003</date>
-		</publicationstmt>
-	</filedesc>
-	<profiledesc>
-        <creation>Monish M. Singh
-        <date>2003</date>
-        </creation>
-		<langusage>Finding aid written in <language langcode="eng" scriptcode="Latn">English</language></langusage>
-		<descrules><abbr>DACS</abbr>Describing Archives: A Content Standard. Chicago: Society of American Archivists, 2013.</descrules>
-	</profiledesc>
-	<revisiondesc>
-		<list>
-			<item>January 2022, EAD updated by Abigail Bowen</item>
-		</list>
-	</revisiondesc>
-</eadheader>
-	<frontmatter>
-		<titlepage>
-			<titleproper>Guide to the Hudson River Valley Commission Collection: Records Relating to the Storm King Case 1966 - 1967</titleproper>
-			<!--<num>Collection number: </num>-->
-			<publisher>Marist College
-				<lb/>Archives and Special Collections
-				<lb/>Poughkeepsie, New York
-			</publisher>
-			<list type="deflist">
-				<defitem>
-					<label>Processed by: </label>
-					<item>Nicholas Gildard and John Ansley, PhD</item>
-				</defitem>
-				<defitem>
-					<label>Date Completed: </label>
-					<item>2003</item>
-				</defitem>
-				<defitem>
-					<label>Encoded by: </label>
-					<item>Monish M. Singh</item>
-				</defitem>
-				<defitem>
-					<label>Date Completed: </label>
-					<item>2003</item>
-				</defitem><defitem>
-					<label>Finding Aid Encoding Updated by: </label>
-					<item>Abigail Bowen</item>
-				</defitem>
-				<defitem>
-					<label>Date Completed: </label>
-					<item>January 2022</item>
-				</defitem>
-			</list>
-		</titlepage>
-	</frontmatter>
-
-<!-- Archival Description portion of EAD -->
-
-<archdesc level="collection">
-	<did>
-		<unittitle>Hudson River Valley Commission Collection: Records Relating to the Storm King Case</unittitle>
-		<unitdate type="inclusive" normal="1966/1967">1966 – 1967</unitdate>
-		<origination label="creator">
-			<corpname>Hudson River Valley Commission</corpname>
-		</origination>
-		<unitid countrycode="US" repositorycode="US-NPkMC">NPKMC-221-102</unitid>
-		<physdesc>
-			<extent type="size">2 linear feet</extent>
-		</physdesc>
-		<langmaterial>
-			<language langcode="eng">English</language>
-		</langmaterial>
-		<repository>
-			<corpname>Marist College Archives and Special Collections</corpname>
-		</repository>
-		<abstract>The Hudson River Valley Commission was a New York State Agency,
-		established by the Legislature in 1966, to coordinate planning along the Hudson River and to encourage the balanced development of the Valley’s land and resources. The HRVC collection consists of testimony, exhibits, legal briefs, opinions <![CDATA[&]]> orders, publicity materials, and stenographer’s reports concerning the Storm King decision.</abstract>
-		<physloc>Please contact the Marist College Archives and Special Collections for information regarding use and access of this collection.</physloc>
-	</did>	
-	<scopecontent>
-		<head>Collection Overview</head>
-		<p>The Hudson River Valley Commission Collection consists of Testimony, Exhibits, Legal Briefs, Opinions <![CDATA[&]]> Orders, Publicity Materials, and Stenographers Reports concerning the Storm King Decision.</p>
-	</scopecontent>	
-	<acqinfo>
-		<head>Acquisitions Information</head>
-		<p>Scenic Hudson, Inc presented the records to the Marist College Library in 1982.</p>
-	</acqinfo>
-	<accessrestrict>
-		<p>There are no restrictions on this collection</p>
-	</accessrestrict>
-	<userestrict>
-		<head>Notice of Copyright</head>
-		<p>Individuals requesting reproductions expressly assume the responsibility for compliance with all pertinent provisions of the Copyright Act, 17 U.S.C. ss101 et seq.  Patrons further agree to indemnify and hold harmless the Marist College Archives and Special Collections and its staff in connection with any disputes arising from the Copyright Act, over the reproduction of material at the request of patrons.  For more information please visit the following website: http://www.loc.gov/copyright/title17/.</p>
-	</userestrict>
-	<prefercite>
-		<head>Preferred Citation</head>
-		<p>[Description of item, date, location of item in order of series, box  number, folder number ], in the HRVC Collection: Records Relating to the Storm King Case 1966 - 1967, Archives and Special Collections, James A. Cannavino Library, Marist College.</p>
-	</prefercite>
-	<bioghist encodinganalog="545">
-		<head>Historical Note</head>
-		<p>In September 1962, the Consolidated Edison Company announced plans to build a pumped storage facility, the largest of its kind in the world, at Storm King Mountain near Cornwall, New York.  The initial application for license to construct the plant was filed with the Federal Power Commission in January 1963.  Some three years later the Hudson River Valley Commission was formed by Governor Rockefeller and his staff to regulate development along the Hudson River.  Widespread public concern over the social and economic impact of urban sprawl, the deterioration of scenic beauty and natural resources along the Hudson and the economic stagnation of many riverfront communities led to the creation of HRVC.  The Commission was directed by law to review proposed projects within its jurisdiction “which would destroy or substantially impair significant historic or recreational resources or bring about a major change in the appearance or use of the water in the Hudson River or the surrounding land.”  (From the pamphlet “What is the Hudson River Valley Commission” 105 White Plains Road, Tarrytown, NY 10591, Series 4, Box 7, Folder 315 in the Seymour Collection, Archives and Special Collections, James A. Cannavino Library, Marist College)  Consolidated Edison’s proposed pumped storage facility at storm King Mountain was one such project.  The Hudson River Valley Commission itself did not have veto powers or the power of condemnation, however it did have the responsibility to expose a potentially damaging project to public scrutiny at an early stage.</p>
-		<p>The Storm King case lasted for 17 years, and with input from the Hudson River Valley Commission a decision was finally reached.  In a negotiated settlement in December 1980, Consolidated Edison agreed to drop the plan for the Storm King facility.</p>
-		<p>The lengthy and controversial case set important precedents in environmental law and is generally credited with spawning the modern environmental movement.</p>
-	</bioghist>
-	<arrangement>
-		<head>Arrangement of the Collection</head>
-		<p>These records are organized into 3 series: 1. Testimony, 2. Legal Briefs, and 3. Studies, Publicity Materials, and Stenographer’s Reports.</p>
-	</arrangement>
-	<dsc type="combined">
-		<c01 level="series">
-		<did>
-			<unitid>1</unitid>	
-			<unittitle>Testimony</unittitle>
-			<physdesc>
-					<extent type="size">0.30 linear feet</extent>
-					<extent type="boxes">Boxes: 1</extent>
-					<extent type="folders">Folders: 1 - 5</extent>
- 			</physdesc>
-		</did>
-		<scopecontent>
-			<p>Testimony of Joseph A. Jessel, Forrest R. Hauck, Morris H. Bannister, and others concerning the proposed pumped storage facility at Storm King Mountain, Cornwall, New York.</p>
-			<arrangement>
-				<p>roughly chronological</p>
-			</arrangement>
-		</scopecontent>	
-			<c02 level="file">
-				<did>
-					<container type="folder"> 1 </container>
-					<unittitle>Testimony - Joseph J.A. Jessel
-					</unittitle>
-					<container type="box">1</container>
-				</did>
-			</c02>	
-			<c02 level="file">
-				<did>
-					<container type="folder">2 </container>
-					<unittitle>Exhibits Accompanying Testimony of Staff Witness Joseph J.A. 
-					</unittitle>
-					<container type="box">1</container>
-				</did>
-			</c02>	
-			<c02 level="file">
-				<did>
-					<container type="folder">	 3 </container>
-					<unittitle>Testimony - Gerald R. Wilson, Jack M. Shepley, John M. 
-					</unittitle>
-					<container type="box">1</container>
-				</did>
-			</c02>
-			<c02 level="file">
-				<did>
-					<container type="folder"> 4 </container>
-					<unittitle>Testimony - Morris H. Bannister, Thomas C. Duncan, and William H. Kinnard Jr. 
-					</unittitle>
-					<container type="box">1</container>
-				</did>
-			</c02>			
-			<c02 level="file">
-				<did>
-					<container type="folder"> 5 </container>
-					<unittitle>Testimony - Harold A. Peterson and M.L. Waring
-					</unittitle>
-					<container type="box">1</container>
-				</did>
-			</c02>
-		</c01>
-		<c01 level="series">
-		<did>
-			<unitid>2</unitid>
-			<unittitle>Legal Briefs</unittitle>			
-			<physdesc>
-					<extent type="size">0.30 linear feet</extent>
-					<extent type="boxes">2</extent>
-					<extent type="folders">6 - 17</extent>
- 			</physdesc>
-		</did>
-		<scopecontent>
-			<p>Briefs on Behalf of the Consolidated Edison Co. and Scenic Hudson Preservation Conference concerning the proposed pumped storage facility at Storm King Mountain, Cornwall, New York.</p>
-			<arrangement>
-				<p>roughly chronological</p>
-			</arrangement>
-		</scopecontent>				
-			<c02>
-				<did>
-					<container type="box">2</container>
-					<container type="folder"> 6 </container>
-					<unittitle>Opinion # 452-B on the Cornwall Project Overhead Transmission 
-					</unittitle>					
-				</did>
-			</c02>		
-			<c02>
-				<did>					
-					<container type="box">2</container>
-					<container type="folder">	 7 </container>
-					<unittitle>Brief of Applicant Con E/d after further Hearings on Remand
-					</unittitle>
-				</did>
-			</c02>			
-			<c02>
-				<did>
-					<container type="folder">	 8 </container>
-					<unittitle>Commission Staff Brief, 8/14/67
-					</unittitle>
-					<container type="box">2</container>
-				</did>
-			</c02>			
-			<c02>
-				<did>
-					
-					<container type="box">2</container>
-					<container type="folder">	 9 </container>
-					<unittitle>Commission Staff Reply Brief, 9/5/67
-					</unittitle>
-				</did>
-			</c02>		
-			<c02>
-				<did>					
-					<container type="box">2</container>
-					<container type="folder"> 10 </container>
-					<unittitle>Opinion <![CDATA[&]]> Order Issuing License <![CDATA[&]]> Reopening <![CDATA[&]]> Remanding Proceedings, 3/9/65
-					</unittitle>
-				</did>
-			</c02>					
-			<c02>
-				<did>					
-					<container type="box">2</container>
-					<container type="folder"> 11 </container>
-					<unittitle>Opinion on Remanded Issues Regarding Location of Primary Lines <![CDATA[&]]> Design of Fish Protective Facilities <![CDATA[&]]> Amending License, 10/4/65
-					</unittitle>
-				</did>
-			</c02>			
-			<c02>
-				<did>					
-					<container type="box">2</container>
-					<container type="folder"> 12 </container>
-					<unittitle>Con Ed - Presiding Examiner’s initial decision in Remanding Proceedings, 8/6/68
-					</unittitle>
-				</did>
-			</c02>
-			<c02>
-				<did>
-					<container type="box">2</container>
-					<container type="folder"> 13 </container>
-					<unittitle>Brief on Behalf of SHPC, 10/28/68
-					</unittitle>
-				</did>
-			</c02>			
-			<c02>
-				<did>
-					<container type="box">2</container>
-					<container type="folder"> 14 </container>
-					<unittitle>Presiding Examiner’s Initial Decision, 8/6/68
-					</unittitle>
-				</did>
-			</c02>
-			<c02>
-				<did>
-					<container type="box">2</container>
-					<container type="folder"> 15 </container>
-					<unittitle>Presiding Examiner’s Initial Decision in Remanded Proceedings…Application for License, 8/6/68
-					</unittitle>
-				</did>
-			</c02>
-			<c02>
-				<did>
-					<container type="box">2</container>
-					<container type="folder"> 16 </container>
-					<unittitle>Presiding Examiner’s Initial Decision …on an Application for a License, 12/23/69
-					</unittitle>
-				</did>
-			</c02>
-			
-			
-			<c02>
-				<did>
-					<container type="box">2</container>
-					<container type="folder"> 17 </container>
-					<unittitle>Reply Brief on Behalf of SHPC Intervenor
-					</unittitle>
-				</did>
-			</c02>
-			
-		</c01>		
-		<!-- Did all of the things. Corrected spacing, reordered tags, correcting of did, creation of date tags. -->
-		<c01 level="series">
-		<did>
-			<unitid>3</unitid>
-			<unittitle>Studies, Publicity Materials, and Stenographer’s Reports</unittitle>
-			
-			<physdesc>
-					<extent type="size">1.5 linear feet</extent>
-					<extent type="boxes">3 - 7</extent>
-					<extent type="folders">18 - 39</extent>
- 			</physdesc>
-		</did>
-		<scopecontent>
-			<p>A study concerning the Impact of Nuclear Power Plants on the Hudson River, Printed Matter concerning Electric Power in the Northeast and the Storm King Proposal, and Official Stenographic Transcripts of the case before the Federal Power Commission. (For additional Stenographic Transcripts please see the Scenic Hudson Collection, Series 6, Boxes 48-62)</p>
-			<arrangement>
-				<p>Stenographer’s Transcripts organized by volume number.</p>
-			</arrangement>
-		</scopecontent>	
-			<c02 level="file">
-				<did>					
-					<container type="box">3</container>
-					<container type="folder">18</container>
-					<unittitle>Presiding Examiner’s Initial Decision…on Application for 
-					</unittitle>
-				</did>
-			</c02>
-			<c02 level="file">
-				<did>
-					<container type="box">3</container>
-					<container type="folder">19</container>
-					<unittitle>Electric Power in the Northeast
-					</unittitle>
-					<unitdate>1970-1980-1990</unitdate>
-				</did>
-			</c02>
-			<c02 level="file">
-				<did>
-					<container type="box">3</container>
-					<container type="folder">20</container>
-					<unittitle>Recreation Proposal - Cornwall Pumped Storage Project
-					</unittitle>				
-				</did>
-			</c02>
-			<c02 level="file">
-				<did>
-					<container type="box">3</container>
-					<container type="folder">21</container>
-					<unittitle>Study of the Impact of Nuclear Power Plants on the Hudson River
-					</unittitle>
-				</did>
-			</c02>
-			<c02 level="file">
-				<did>
-					<container type="box">3</container>
-					<container type="folder">22</container>
-					<unittitle>Stenographer’s Report - Vol. 32A, Part 2 of 3
-					</unittitle>
-				</did>
-			</c02>
-			<c02 level="file">
-				<did>
-					<container type="box">3</container>
-					<container type="folder">23</container>
-					<unittitle>Stenographer’s Report - Vol. 32B Part 3 of 3
-					</unittitle>
-				</did>
-			</c02>
-			<c02 level="file">
-				<did>
-					
-					<container type="box">3</container>
-					<container type="folder">24</container>
-					<unittitle>Stenographer’s Report - Vol. 33, Part 1 of 2
-					</unittitle>
-				</did>
-			</c02>
-			<c02 level="file">
-				<did>
-					<container type="box">4</container>
-					<container type="folder">25</container>
-					<unittitle>Stenographer’s Report - Vol. 34, Part 1 of 2
-					</unittitle>
-				</did>
-			</c02>
-			<c02 level="file">
-				<did>	
-					<container type="box">4</container>
-					<container type="folder">26</container>
-					<unittitle>Stenographer’s Report - Vol. 34A, Part 2 of 2
-					</unittitle>
-				</did>
-			</c02>
-			<c02 level="file">
-				<did>
-					<container type="box">4</container>
-					<container type="folder">27</container>
-					<unittitle>Stenographer’s Report - Vol. 36	
-					</unittitle>
-				</did>
-			</c02>
-			<c02 level="file">
-				<did>
-					<container type="box">4</container>
-					<container type="folder">28</container>
-					<unittitle>Stenographer’s Report - Vol. 38
-					</unittitle>
-				</did>
-			</c02>
-			<c02 level="file">
-				<did>
-					<container type="box">4</container>
-					<container type="folder">29</container>
-					<unittitle>Stenographer’s Report - Vol. 39
-					</unittitle>
-				</did>
-			</c02>
-			<c02 level="file">
-				<did>	
-					<container type="box">5</container>
-					<container type="folder">30</container>
-					<unittitle>Stenographer’s Report - Vol. 41 (Portion)
-					</unittitle>
-				</did>
-			</c02>
-			<c02 level="file">
-				<did>
-					<container type="box">5</container>
-					<container type="folder">31</container>
-					<unittitle>Stenographer’s Report - Vol. 41	
-					</unittitle>
-				</did>
-			</c02>
-			<c02 level="file">
-				<did>
-					<container type="folder">32</container>
-					<unittitle>Stenographer’s Report - Vol. 42
-					</unittitle>
-					<container type="box">5</container>
-				</did>
-			</c02>	
-			<c02 level="file">
-				<did>
-					<container type="folder">33</container>
-					<unittitle>Stenographer’s Report - Vol. 43
-					</unittitle>
-					<container type="box">5</container>
-				</did>
-			</c02>		
-			<c02 level="file">
-				<did>
-					<container type="folder">34</container>
-					<unittitle>Stenographer’s Report - Vol. 45
-					</unittitle>
-					<container type="box">5</container>
-				</did>
-			</c02>	
-			<c02 level="file">
-				<did>
-					<container type="folder">35</container>
-					<unittitle>Stenographer’s Report - Vol. 46
-					</unittitle>
-					<container type="box">5</container>
-				</did>
-			</c02>			
-			<c02 level="file">
-				<did>
-					<container type="folder">36</container>
-					<unittitle>Stenographer’s Report - Vol. 47
-					</unittitle>
-					<container type="box">5</container>
-				</did>
-			</c02>
-			<c02 level="file">
-				<did>
-					<container type="folder">37</container>
-					<unittitle>Stenographer’s Report - Vol. 49
-					</unittitle>
-					<container type="box">6</container>
-				</did>
-			</c02>
-			<c02 level="file">
-				<did>
-					<container type="folder">38</container>
-					<unittitle>Stenographer’s Report - Vol. 51	
-					</unittitle>
-					<container type="box">6</container>
-				</did>
-			</c02>		
-			<c02 level="file">
-				<did>
-					<container type="folder">39</container>
-					<unittitle>Stenographer’s Report - Vol. 52
-					</unittitle>
-					<container type="box">6</container>
-				</did>
-			</c02>
-			<c02 level="file">
-				<did>
-					<container type="folder">40</container>
-					<unittitle>Stenographer’s Report - Vol. 53
-					</unittitle>
-					<container type="box">6</container>
-				</did>
-			</c02>			
-			<c02 level="file">
-				<did>
-					<container type="folder">41</container>
-					<unittitle>Stenographer’s Report - Vol. 54
-					</unittitle>
-					<container type="box">6</container>
-				</did>
-			</c02>
-			<c02 level="file">
-				<did>
-					<container type="folder">42</container>
-					<unittitle>Stenographer’s Report - Vol. 55
-					</unittitle>
-					<container type="box">6</container>
-				</did>
-			</c02>			
-			<c02 level="file">
-				<did>
-					<container type="folder">43</container>
-					<unittitle>Stenographer’s Report - Vol. 56
-					</unittitle>
-					<container type="box">6</container>
-				</did>
-			</c02>			
-			<c02 level="file">
-				<did>
-					<container type="folder">44</container>
-					<unittitle>Stenographer’s Report - Vol. 57
-					</unittitle>
-					<container type="box">7</container>
-				</did>
-			</c02>	
-			<c02 level="file">
-				<did>
-					<container type="folder">45</container>
-					<unittitle>Stenographer’s Report - Vol. 58
-					</unittitle>
-					<container type="box">7</container>
-				</did>
-			</c02>
-			<c02 level="file">
-				<did>
-					<container type="folder">46</container>
-					<unittitle>Stenographer’s Report -Vol. 59
-					</unittitle>
-					<container type="box">7</container>
-				</did>
-			</c02>		
-			<c02 level="file">
-				<did>
-					<container type="folder">47</container>
-					<unittitle>Stenographer’s Report - Vol. 60
-					</unittitle>
-					<container type="box">7</container>
-				</did>
-			</c02>			
-			<c02 level="file">
-				<did>
-					<container type="box">7</container>
-					<container type="folder">	 48 </container>
-					<unittitle>Stenographer’s Report - Vol. 61
-					</unittitle>
-				</did>
-			</c02>
-		</c01>	
-	</dsc>
-	</archdesc>
-	</ead>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"><!-- Header Portion of EAD --><eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601"><eadid countrycode="US" mainagencycode="US-NPkMC">npkmc_221_102</eadid><filedesc><titlestmt><titleproper>Hudson River Valley Commission Collection: Records Relating to the
+					Storm King Case</titleproper><author>Nicholas Gildard<![CDATA[&]]>John Ansley, PhD, 2003; Finding Aid Encoded
+					by: Monish M. Singh, 2003; Finding Aid Encoding updated by: Abigail Bowen,
+					2022</author></titlestmt><publicationstmt><publisher>Marist College Archives and Special Collections</publisher><address><addressline>3399 North Road<lb/>Poughkeepsie, NY 12601<lb/>Phone:
+						845-575-5217<lb/>Fax: 845-575-3150<lb/>Email: library.archives@marist.edu<lb/>Website:
+						https://library.marist.edu/archives/</addressline></address><date type="publication" normal="2003">Spring, 2003</date></publicationstmt></filedesc><profiledesc><creation>Monish M. Singh<date>2003</date>
+			</creation><langusage>Finding aid written in<language langcode="eng" scriptcode="Latn">English</language></langusage><descrules><abbr>DACS</abbr>Describing Archives: A Content Standard. Chicago: Society of
+				American Archivists, 2013.</descrules></profiledesc><revisiondesc><list><item>January 2022, EAD updated by Abigail Bowen</item></list></revisiondesc></eadheader><!-- Archival Description portion of EAD --><archdesc level="collection"><did><unittitle>Hudson River Valley Commission Collection: Records Relating to the Storm King
+				Case</unittitle><unitdate type="inclusive" normal="1966/1967">1966 – 1967</unitdate><origination label="creator"><corpname>Hudson River Valley Commission</corpname></origination><unitid countrycode="US" repositorycode="US-NPkMC">NPKMC-221-102</unitid><physdesc><extent type="size">2 Linear Feet</extent></physdesc><langmaterial><language langcode="eng">English</language></langmaterial><repository><corpname>Marist College Archives and Special Collections</corpname></repository><abstract>The Hudson River Valley Commission was a New York State Agency, established by
+				the Legislature in 1966, to coordinate planning along the Hudson River and to
+				encourage the balanced development of the Valley’s land and resources. The HRVC
+				collection consists of testimony, exhibits, legal briefs, opinions<![CDATA[&]]>
+				orders, publicity materials, and stenographer’s reports concerning the Storm King
+				decision.</abstract><physloc>Please contact the Marist College Archives and Special Collections for
+				information regarding use and access of this collection.</physloc></did><scopecontent><head>Collection Overview</head><p>The Hudson River Valley Commission Collection consists of Testimony, Exhibits, Legal
+				Briefs, Opinions<![CDATA[&]]>Orders, Publicity Materials, and Stenographers
+				Reports concerning the Storm King Decision.</p></scopecontent><acqinfo><head>Acquisitions Information</head><p>Scenic Hudson, Inc presented the records to the Marist College Library in 1982.</p></acqinfo><accessrestrict><p>There are no restrictions on this collection</p></accessrestrict><userestrict><head>Notice of Copyright</head><p>Individuals requesting reproductions expressly assume the responsibility for
+				compliance with all pertinent provisions of the Copyright Act, 17 U.S.C. ss101 et
+				seq. Patrons further agree to indemnify and hold harmless the Marist College
+				Archives and Special Collections and its staff in connection with any disputes
+				arising from the Copyright Act, over the reproduction of material at the request of
+				patrons. For more information please visit the following website:
+				http://www.loc.gov/copyright/title17/.</p></userestrict><prefercite><head>Preferred Citation</head><p>[Description of item, date, location of item in order of series, box number, folder
+				number ], in the HRVC Collection: Records Relating to the Storm King Case 1966 -
+				1967, Archives and Special Collections, James A. Cannavino Library, Marist
+				College.</p></prefercite><bioghist encodinganalog="545"><head>Historical Note</head><p>In September 1962, the Consolidated Edison Company announced plans to build a pumped
+				storage facility, the largest of its kind in the world, at Storm King Mountain near
+				Cornwall, New York. The initial application for license to construct the plant was
+				filed with the Federal Power Commission in January 1963. Some three years later the
+				Hudson River Valley Commission was formed by Governor Rockefeller and his staff to
+				regulate development along the Hudson River. Widespread public concern over the
+				social and economic impact of urban sprawl, the deterioration of scenic beauty and
+				natural resources along the Hudson and the economic stagnation of many riverfront
+				communities led to the creation of HRVC. The Commission was directed by law to
+				review proposed projects within its jurisdiction “which would destroy or
+				substantially impair significant historic or recreational resources or bring about a
+				major change in the appearance or use of the water in the Hudson River or the
+				surrounding land.” (From the pamphlet “What is the Hudson River Valley Commission”
+				105 White Plains Road, Tarrytown, NY 10591, Series 4, Box 7, Folder 315 in the
+				Seymour Collection, Archives and Special Collections, James A. Cannavino Library,
+				Marist College) Consolidated Edison’s proposed pumped storage facility at storm King
+				Mountain was one such project. The Hudson River Valley Commission itself did not
+				have veto powers or the power of condemnation, however it did have the
+				responsibility to expose a potentially damaging project to public scrutiny at an
+				early stage.</p><p>The Storm King case lasted for 17 years, and with input from the Hudson River Valley
+				Commission a decision was finally reached. In a negotiated settlement in December
+				1980, Consolidated Edison agreed to drop the plan for the Storm King facility.</p><p>The lengthy and controversial case set important precedents in environmental law and
+				is generally credited with spawning the modern environmental movement.</p></bioghist><arrangement><head>Arrangement of the Collection</head><p>These records are organized into 3 series: 1. Testimony, 2. Legal Briefs, and 3.
+				Studies, Publicity Materials, and Stenographer’s Reports.</p><p>Series are arranged chronologically or by volume number</p></arrangement><dsc type="combined"><c01 level="series"><did><unitid>1</unitid><unittitle>1. Testimony</unittitle><physdesc><extent type="size">0.30 linear feet</extent><extent type="boxes">Boxes: 1</extent><extent type="folders">Folders: 1 - 5</extent></physdesc></did><scopecontent><p>Testimony of Joseph A. Jessel, Forrest R. Hauck, Morris H. Bannister, and
+						others concerning the proposed pumped storage facility at Storm King
+						Mountain, Cornwall, New York.</p><arrangement><p>Roughly chronological</p></arrangement></scopecontent><c02 level="file"><did><container type="folder">1</container><unittitle>Testimony - Joseph J.A. Jessel</unittitle><container type="box">1</container></did></c02><c02 level="file"><did><container type="folder">2</container><unittitle>Exhibits Accompanying Testimony of Staff Witness Joseph J.A.</unittitle><container type="box">1</container></did></c02><c02 level="file"><did><container type="folder">3</container><unittitle>Testimony - Gerald R. Wilson, Jack M. Shepley, John M.</unittitle><container type="box">1</container></did></c02><c02 level="file"><did><container type="folder">4</container><unittitle>Testimony - Morris H. Bannister, Thomas C. Duncan, and William H.
+							Kinnard Jr.</unittitle><container type="box">1</container></did></c02><c02 level="file"><did><container type="folder">5</container><unittitle>Testimony - Harold A. Peterson and M.L. Waring</unittitle><container type="box">1</container></did></c02></c01><c01 level="series"><did><unitid>2</unitid><unittitle>2. Legal Briefs</unittitle><physdesc><extent type="size">0.30 linear feet</extent><extent type="boxes">2</extent><extent type="folders">6 - 17</extent></physdesc></did><scopecontent><p>Briefs on Behalf of the Consolidated Edison Co. and Scenic Hudson
+						Preservation Conference concerning the proposed pumped storage facility at
+						Storm King Mountain, Cornwall, New York.</p><arrangement><p>Roughly chronological</p></arrangement></scopecontent><c02><did><container type="folder">6</container><unittitle>Opinion # 452-B on the Cornwall Project Overhead Transmission
+						</unittitle><container type="box">2</container></did></c02><c02><did><container type="folder">7</container><unittitle>Brief of Applicant Con E/d after further Hearings on Remand
+						</unittitle><container type="box">2</container></did></c02><c02><did><container type="folder">8</container><unittitle>Commission Staff Brief, 8/14/67</unittitle><container type="box">2</container></did></c02><c02><did><container type="folder">9</container><unittitle>Commission Staff Reply Brief, 9/5/67</unittitle><container type="box">2</container></did></c02><c02><did><container type="folder">10</container><unittitle>Opinion<![CDATA[&]]>Order Issuing License<![CDATA[&]]>
+							Reopening<![CDATA[&]]>Remanding Proceedings, 3/9/65</unittitle><container type="box">2</container></did></c02><c02><did><container type="folder">11</container><unittitle>Opinion on Remanded Issues Regarding Location of Primary Lines
+							<![CDATA[&]]>Design of Fish Protective Facilities<![CDATA[&]]>
+							Amending License, 10/4/65</unittitle><container type="box">2</container></did></c02><c02><did><container type="folder">12</container><unittitle>Con Ed - Presiding Examiner’s initial decision in Remanding
+							Proceedings, 8/6/68</unittitle><container type="box">2</container></did></c02><c02><did><container type="folder">13</container><unittitle>Brief on Behalf of SHPC, 10/28/68</unittitle><container type="box">2</container></did></c02><c02><did><container type="folder">14</container><unittitle>Presiding Examiner’s Initial Decision, 8/6/68</unittitle><container type="box">2</container></did></c02><c02><did><container type="folder">15</container><unittitle>Presiding Examiner’s Initial Decision in Remanded
+							Proceedings…Application for License, 8/6/68</unittitle><container type="box">2</container></did></c02><c02><did><container type="folder">16</container><unittitle>Presiding Examiner’s Initial Decision …on an Application for a
+							License, 12/23/69</unittitle><container type="box">2</container></did></c02><c02><did><container type="folder">17</container><unittitle>Reply Brief on Behalf of SHPC Intervenor</unittitle><container type="box">2</container></did></c02></c01><!-- Did all of the things. Corrected spacing, reordered tags, correcting of did, creation of date tags. --><c01 level="series"><did><unitid>3</unitid><unittitle>3. Studies, Publicity Materials, and Stenographer’s Reports</unittitle><physdesc><extent type="size">1.5 linear feet</extent><extent type="boxes">3 - 7</extent><extent type="folders">18 - 39</extent></physdesc></did><scopecontent><p>A study concerning the Impact of Nuclear Power Plants on the Hudson River,
+						Printed Matter concerning Electric Power in the Northeast and the Storm King
+						Proposal, and Official Stenographic Transcripts of the case before the
+						Federal Power Commission. (For additional Stenographic Transcripts please
+						see the Scenic Hudson Collection, Series 6, Boxes 48-62)</p><arrangement><p>Stenographer’s Transcripts organized by volume number.</p></arrangement></scopecontent><c02 level="file"><did><container type="folder">18</container><unittitle>Presiding Examiner’s Initial Decision…on Application for
+						</unittitle><container type="box">3</container></did></c02><c02 level="file"><did><container type="folder">19</container><unittitle>Electric Power in the Northeast</unittitle><unitdate>1970-1980-1990</unitdate><container type="box">3</container></did></c02><c02 level="file"><did><container type="folder">20</container><unittitle>Recreation Proposal - Cornwall Pumped Storage Project
+						</unittitle><container type="box">3</container></did></c02><c02 level="file"><did><container type="folder">21</container><unittitle>Study of the Impact of Nuclear Power Plants on the Hudson River
+						</unittitle><container type="box">3</container></did></c02><c02 level="file"><did><container type="folder">22</container><unittitle>Stenographer’s Report - Vol. 32A, Part 2 of 3</unittitle><container type="box">3</container></did></c02><c02 level="file"><did><container type="folder">23</container><unittitle>Stenographer’s Report - Vol. 32B Part 3 of 3</unittitle><container type="box">3</container></did></c02><c02 level="file"><did><container type="folder">24</container><unittitle>Stenographer’s Report - Vol. 33, Part 1 of 2</unittitle><container type="box">3</container></did></c02><c02 level="file"><did><container type="folder">25</container><unittitle>Stenographer’s Report - Vol. 34, Part 1 of 2</unittitle><container type="box">4</container></did></c02><c02 level="file"><did><container type="folder">26</container><unittitle>Stenographer’s Report - Vol. 34A, Part 2 of 2</unittitle><container type="box">4</container></did></c02><c02 level="file"><did><container type="folder">27</container><unittitle>Stenographer’s Report - Vol. 36</unittitle><container type="box">4</container></did></c02><c02 level="file"><did><container type="folder">28</container><unittitle>Stenographer’s Report - Vol. 38</unittitle><container type="box">4</container></did></c02><c02 level="file"><did><container type="folder">29</container><unittitle>Stenographer’s Report - Vol. 39</unittitle><container type="box">4</container></did></c02><c02 level="file"><did><container type="folder">30</container><unittitle>Stenographer’s Report - Vol. 41 (Portion)</unittitle><container type="box">5</container></did></c02><c02 level="file"><did><container type="folder">31</container><unittitle>Stenographer’s Report - Vol. 41</unittitle><container type="box">5</container></did></c02><c02 level="file"><did><container type="folder">32</container><unittitle>Stenographer’s Report - Vol. 42</unittitle><container type="box">5</container></did></c02><c02 level="file"><did><container type="folder">33</container><unittitle>Stenographer’s Report - Vol. 43</unittitle><container type="box">5</container></did></c02><c02 level="file"><did><container type="folder">34</container><unittitle>Stenographer’s Report - Vol. 45</unittitle><container type="box">5</container></did></c02><c02 level="file"><did><container type="folder">35</container><unittitle>Stenographer’s Report - Vol. 46</unittitle><container type="box">5</container></did></c02><c02 level="file"><did><container type="folder">36</container><unittitle>Stenographer’s Report - Vol. 47</unittitle><container type="box">5</container></did></c02><c02 level="file"><did><container type="folder">37</container><unittitle>Stenographer’s Report - Vol. 49</unittitle><container type="box">6</container></did></c02><c02 level="file"><did><container type="folder">38</container><unittitle>Stenographer’s Report - Vol. 51</unittitle><container type="box">6</container></did></c02><c02 level="file"><did><container type="folder">39</container><unittitle>Stenographer’s Report - Vol. 52</unittitle><container type="box">6</container></did></c02><c02 level="file"><did><container type="folder">40</container><unittitle>Stenographer’s Report - Vol. 53</unittitle><container type="box">6</container></did></c02><c02 level="file"><did><container type="folder">41</container><unittitle>Stenographer’s Report - Vol. 54</unittitle><container type="box">6</container></did></c02><c02 level="file"><did><container type="folder">42</container><unittitle>Stenographer’s Report - Vol. 55</unittitle><container type="box">6</container></did></c02><c02 level="file"><did><container type="folder">43</container><unittitle>Stenographer’s Report - Vol. 56</unittitle><container type="box">6</container></did></c02><c02 level="file"><did><container type="folder">44</container><unittitle>Stenographer’s Report - Vol. 57</unittitle><container type="box">7</container></did></c02><c02 level="file"><did><container type="folder">45</container><unittitle>Stenographer’s Report - Vol. 58</unittitle><container type="box">7</container></did></c02><c02 level="file"><did><container type="folder">46</container><unittitle>Stenographer’s Report -Vol. 59</unittitle><container type="box">7</container></did></c02><c02 level="file"><did><container type="folder">47</container><unittitle>Stenographer’s Report - Vol. 60</unittitle><container type="box">7</container></did></c02><c02 level="file"><did><container type="folder">48</container><unittitle>Stenographer’s Report - Vol. 61</unittitle><container type="box">7</container></did></c02></c01></dsc></archdesc></ead>
