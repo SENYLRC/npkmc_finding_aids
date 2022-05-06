@@ -15,7 +15,7 @@
         <address>
           <addressline>3399 North Road <lb/>Poughkeepsie, NY 12601 <lb/>Phone: 845-575-5217
             <lb/>Fax: 845-575-3150 <lb/><lb/>Email: library.archives@marist.edu<lb/>Website:
-            https://library.marist.edu/archives/</addressline>
+            https://archives.marist.edu/</addressline>
         </address>
         <date type="publication" normal="2006-12">December, 2006</date>
       </publicationstmt>
@@ -40,7 +40,7 @@
       <head>Descriptive Summary</head>
       <unittitle label="title">Blaise Pascal Collection</unittitle>
       <origination encodinganalog="100" label="creator">
-        <persname>Maria Vamos</persname>
+        <persname>Mara Vamos</persname>
       </origination>
       <unitdate type="inclusive" encodinganalog="245$f" normal="1961/1985">1961 – 1985</unitdate>
       <unitid countrycode="US" repositorycode="US-NPkMC" encodinganalog="099">NPKMC-212-021</unitid>
@@ -149,13 +149,13 @@
         <c02 level="subseries">
           <did>
             <unitid>1.1</unitid>
-            <unittitle>Subseries 1.1: Maria Vamos’ Papers on Pascal</unittitle>
+            <unittitle>Subseries 1.1: Mara Vamos’ Papers on Pascal</unittitle>
             <physdesc>1 linear foot</physdesc>
             <physdesc>Box: 1</physdesc>
             <physdesc>Folders: 1-2</physdesc>
           </did>
           <scopecontent>
-            <p>Subseries contains Maria Vamos’ previously published work and thesis on Pascal</p>
+            <p>Subseries contains Mara Vamos’ previously published work and thesis on Pascal</p>
           </scopecontent>
           <arrangement>
             <p>Original Order </p>
@@ -187,7 +187,7 @@
             <p>Subseries contains collection of drafts and resources used to complete “Port-Royal,
               Pascal and Voltaire”</p>
             <arrangement>
-              <p>Arrangement:Original Order </p>
+              <p>Original Order </p>
             </arrangement>
           </scopecontent>
           <c03 level="file">
@@ -273,7 +273,7 @@
             <p>Subseries contains material Mara Vamos presented at various seminars</p>
           </scopecontent>
           <arrangement>
-            <p>Arrangement:Original Order</p>
+            <p>Original Order</p>
           </arrangement>
           <c03 level="file">
             <did>
@@ -303,7 +303,7 @@
               Edition of Pascal’s Pensées</p>
           </scopecontent>
           <arrangement>
-            <p>Arrangement:Original Order</p>
+            <p>Original Order</p>
           </arrangement>
           <c03 level="file">
             <did>
@@ -354,7 +354,7 @@
               process</p>
           </scopecontent>
           <arrangement>
-            <p>Arrangement:Original Order</p>
+            <p>Original Order</p>
           </arrangement>
           <c03 level="file">
             <did>
@@ -387,11 +387,11 @@
             <physdesc>Folders: 23-33</physdesc>
           </did>
           <scopecontent>
-            <p>Subseries Materials for comparison of Pascal’s Pensées and Port-Royal edition to
+            <p>Subseries contains materials for comparison of Pascal’s Pensées and Port-Royal edition to
               create “Pascal’s Pensées and the Enlightenment”</p>
           </scopecontent>
           <arrangement>
-            <p>Arrangement:Original Order </p>
+            <p>Original Order </p>
           </arrangement>
           <c03 level="file">
             <did>

@@ -17,7 +17,7 @@
 				<address>
 					<addressline>3399 North Road <lb/>Poughkeepsie, NY 12601 <lb/>Phone:
 						845-575-5217 <lb/>Fax: 845-575-3150 <lb/>Email: library.archives@marist.edu<lb/>Website:
-						https://library.marist.edu/archives/</addressline>
+						https://archives.marist.edu/</addressline>
 				</address>
 				<date type="publication" normal="2010-11-08">November 8, 2010</date>
 			</publicationstmt>
@@ -50,7 +50,10 @@
 			<repository>
 				<corpname>Marist College Archives and Special Collections</corpname>
 			</repository>
-			<abstract/>
+			<abstract>There is a rich history of nautical travel along the Hudson River by the means of
+				steamboats, sloops, and barges. This collection chronicles some of the many vessels
+				that made their way up and down the Hudson River during the 1800s and through documents pretaining to their the business
+				transactions.</abstract>
 			<langmaterial>
 				<language langcode="eng">English</language>
 			</langmaterial>

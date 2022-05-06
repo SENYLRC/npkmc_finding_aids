@@ -16,7 +16,7 @@
 				<address>
 					<addressline>3399 North Road <lb/>Poughkeepsie, NY 12601 <lb/>Phone:
 						845-575-5217 <lb/>Fax: 845-575-3150 <lb/>Email: library.archives@marist.edu<lb/>Website:
-						https://library.marist.edu/archives/</addressline>
+						https://archives.marist.edu/</addressline>
 				</address>
 				<date type="publication" normal="2012-02-01">February 1, 2012</date>
 			</publicationstmt>
@@ -1475,7 +1475,6 @@
 						(NRDC)</unittitle>
 					<!--<unitdate normal="">1975 - 2002</unitdate>-->
 					<physdesc>
-						<extent type="size">linear feet</extent>
 						<extent type="boxes">Boxes: 4 - 9</extent>
 						<extent type="folders">Folders: 10 - 51, 1 - 53, 1 - 46, 1 - 42, 1 - 35, 1 -
 							21</extent>
@@ -1719,7 +1718,7 @@
 						<unittitle>Subseries 2.2: NRDC International Program</unittitle>
 						<unitdate normal="1975/1980">1975 - 1980</unitdate>
 						<physdesc>
-							<extent type="boxes">Box: 4 - 5</extent>
+							<extent type="boxes">Boxes: 4 - 5</extent>
 							<extent type="folders">Folders: 33 - 51, 1 - 19</extent>
 						</physdesc>
 					</did>
@@ -1729,10 +1728,356 @@
 					<arrangement>
 						<p>By Subject</p>
 					</arrangement>
-					<c03 level="subseries">
+					<c03 level="file">
+						<did>
+							<container type="folder">33</container>
+							<unittitle>International Council of Voluntary Agencies - International
+								Assembly of NGOs concerned with the environment (INASEN)</unittitle>
+							<unitdate label="Date">1975 January 31</unitdate>
+							<container type="box">4</container>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container type="folder">34</container>
+							<unittitle>Memorandum from Tom Stoel to NRDC Professional Staff on
+								fulfilling commitments to Rockefeller Brothers Fund, World Wildlife
+								Fund, McIntosh Foundation, Defenders of Wildlife and Wilderness
+								Society</unittitle>
+							<unitdate label="Date">1975 May 30</unitdate>
+							<container type="box">4</container>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container type="folder">35</container>
+							<unittitle>Important Notice of Special Meeting of North American
+								Committee of NGOs</unittitle>
+							<unitdate label="Date">1975 September 12</unitdate>
+							<container type="box">4</container>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container type="folder">36</container>
+							<unittitle>Letter from Ruby I. Compton to Stephen and Smokey Duggan
+								concerning the revised International Project</unittitle>
+							<unitdate label="Date">1975 September 12</unitdate>
+							<container type="box">4</container>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container type="folder">37</container>
+							<unittitle>Memo from John H. Adams and Joan McCall to Stephen Duggan and
+								Tom Stoel concerning funding for the International
+								Project</unittitle>
+							<unitdate label="Date">1975 November 24</unitdate>
+							<container type="box">4</container>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container type="folder">38</container>
+							<unittitle>Criteria for an Effective International Organization: The
+								Case of ELLA, by J. David Edwards, Occasional Paper 8</unittitle>
+							<unitdate label="Date">1975</unitdate>
+							<container type="box">4</container>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container type="folder">39</container>
+							<unittitle>International Congress of Scientists on the Human Environment
+								- Kyoto, Japan 16-26 November 1975</unittitle>
+							<unitdate label="Date">1975</unitdate>
+							<container type="box">4</container>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container type="folder">40</container>
+							<unittitle>Memorandum for Steve Duggan, Smokey Duggan and John Adams
+								from Tom Stoel: Program and Budget of NRDC International Project
+								1975-76 [2 copies]</unittitle>
+							<unitdate label="Date">1975 - 1976</unitdate>
+							<container type="box">4</container>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container type="folder">41</container>
+							<unittitle>Annual Conference of the Non-Governmental Organizations
+								Associated with the United Nations Office of Public
+								Information</unittitle>
+							<unitdate label="Date">1976 March 4-5</unitdate>
+							<container type="box">4</container>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container type="folder">42</container>
+							<unittitle>Assignments for the International Proposal - Memo from Joan
+								McCall to Stephen Duggan and others</unittitle>
+							<unitdate label="Date">1976 May 17</unitdate>
+							<container type="box">4</container>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container type="folder">43</container>
+							<unittitle>NRDC Project on Threatened Species and Genetic Resources
+								Monthly Reports of Dr. Norman Myers</unittitle>
+							<unitdate label="Date">1976 June - July</unitdate>
+							<container type="box">4</container>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container type="folder">44</container>
+							<unittitle>Letter from Ruby I. Compton, Attorney, NRDC International
+								Project to Mr. Ralph Townley, Director, Secretariat of the United
+								Nations Conference on Desertification</unittitle>
+							<unitdate label="Date">1976 July 20</unitdate>
+							<container type="box">4</container>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container type="folder">45</container>
+							<unittitle>Letter from S. Jacob Scherr to Dr. Noel Brown, Director,
+								United Nations Environment Program concerning U.S. Laws on the
+								export of pesticides and other hazardous substances</unittitle>
+							<unitdate label="Date">1976 June 23</unitdate>
+							<container type="box">4</container>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container type="folder">46</container>
+							<unittitle>Tom Stoel�s July-August 1976 Trip to Europe and
+								Nairobi</unittitle>
+							<unitdate label="Date">1976 July - August</unitdate>
+							<container type="box">4</container>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container type="folder">47</container>
+							<unittitle>Monthly Report for NRDC Project: September 1976, sent from
+								Norman Myers to Tom Stoel</unittitle>
+							<unitdate label="Date">1976 September</unitdate>
+							<container type="box">4</container>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container type="folder">48</container>
+							<unittitle>Letter from Joan McCall to Mr. G. Christian Crosby concerning
+								the Gates Foundation</unittitle>
+							<unitdate label="Date">1976 October 12</unitdate>
+							<container type="box">4</container>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container type="folder">49</container>
+							<unittitle>Letter from Joan McCall to James Marshall, Esq. concerning
+								International Proposal</unittitle>
+							<unitdate label="Date">1976 October 12</unitdate>
+							<container type="box">4</container>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container type="folder">50</container>
+							<unittitle>Proposed New Case with Respect to Environmental Modification
+								Convention, Memorandum form Tom Stoel and Jacob Scherr to NRDC
+								Executive Committee</unittitle>
+							<unitdate label="Date">1976 October 26</unitdate>
+							<container type="box">4</container>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container type="folder">51</container>
+							<unittitle>Letter to Stephen Duggan form Thomas Stoel enclosing letter
+								to Secretary of State Cyrus Vance concerning the importance of
+								international environmental issues to the State
+								Department</unittitle>
+							<unitdate label="Date">1976 December 21</unitdate>
+							<container type="box">4</container>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container type="folder">1</container>
+							<unittitle>�China�s Approach to Environmental Concervation, � by Norman
+								Myers, article published in Environmental Affairs, vol. V, no. 1
+								Winter 1976</unittitle>
+							<unitdate label="Date">1976</unitdate>
+							<container type="box">5</container>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container type="folder">2</container>
+							<unittitle>Collected Documents concerning water conservation</unittitle>
+							<unitdate label="Date">1976 - 1977</unitdate>
+							<container type="box">5</container>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container type="folder">3</container>
+							<unittitle>Approval of Lawsuit to Compel NRC Decision on NRDC Petition,
+								Memorandum from Gus Speth to NRDC Executive and Legal
+								Committees</unittitle>
+							<unitdate label="Date">1977 January 10</unitdate>
+							<container type="box">5</container>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container type="folder">4</container>
+							<unittitle>Copy of Telegram sent to Honorable Andrew Young, Permanent
+								Representative of the U.S. to the United Nations</unittitle>
+							<unitdate label="Date">1977 March 11</unitdate>
+							<container type="box">5</container>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container type="folder">5</container>
+							<unittitle>Letter from Tom Stoel to Steve and Smokey Duggan concerning
+								Salzburg Nuclear meeting and the International Program</unittitle>
+							<unitdate label="Date">1977 April 25</unitdate>
+							<container type="box">5</container>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container type="folder">6</container>
+							<unittitle>�The Export of Hazardous Factories to Developing Nations,� by
+								Barry I. Castleman - draft -</unittitle>
+							<unitdate label="Date">1977 June</unitdate>
+							<container type="box">5</container>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container type="folder">7</container>
+							<unittitle>Letter from Thomas B. Stoel, Jr. to Mr. James Shannon of
+								General Service foundation, enclosed is a proposal for funding the
+								NRDC International Project as well as a copy of the NRDC Annual
+								Report</unittitle>
+							<unitdate label="Date">1977 September 15</unitdate>
+							<container type="box">5</container>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container type="folder">8</container>
+							<unittitle>Items found in folder addressed to Mrs. Stephen Duggan, Jr.
+								concerning NRDC International Program and the United
+								Nations</unittitle>
+							<unitdate label="Date">circa 1977</unitdate>
+							<container type="box">5</container>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container type="folder">9</container>
+							<unittitle>Items found in folder labeled Declaration of Environmental
+								Policies and Procedures Relating to Economic Development</unittitle>
+							<unitdate label="Date">circa 1980</unitdate>
+							<container type="box">5</container>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container type="folder">10</container>
+							<unittitle>Items found in folder addressed to Mrs. Stephen Duggan from
+								the Asia Society concerning the United Nations and
+								disarmament</unittitle>
+							<unitdate label="Date">circa 1981</unitdate>
+							<container type="box">5</container>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container type="folder">11</container>
+							<unittitle>Document concerning the export of unregistered
+								pesticides</unittitle>
+							<unitdate label="Date">undated</unitdate>
+							<container type="box">5</container>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container type="folder">12</container>
+							<unittitle>Draft of Report to the Rockefeller Brothers Fund on Improving
+								NGO Cooperation to Protect the International Environment</unittitle>
+							<unitdate label="Date">undated</unitdate>
+							<container type="box">5</container>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container type="folder">13</container>
+							<unittitle>International Environmental Issues of Concern Over the Next
+								Few Years, Memorandum from Tom Stoel</unittitle>
+							<unitdate label="Date">undated</unitdate>
+							<container type="box">5</container>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container type="folder">14</container>
+							<unittitle>Issues to be considered by Delegates to the ICUN
+								[International Union for the Conservation of Nature?] General
+								Assembly at Zaire</unittitle>
+							<unitdate label="Date">undated</unitdate>
+							<container type="box">5</container>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container type="folder">15</container>
+							<unittitle>National Project Committee [staff list?]</unittitle>
+							<unitdate label="Date">undated</unitdate>
+							<container type="box">5</container>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container type="folder">16</container>
+							<unittitle>Proposal for support of NRDC�s International Program - Draft
+								-</unittitle>
+							<unitdate label="Date">undated</unitdate>
+							<container type="box">5</container>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container type="folder">17</container>
+							<unittitle>Miscellaneous handwritten notes</unittitle>
+							<unitdate label="Date">undated</unitdate>
+							<container type="box">5</container>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container type="folder">18</container>
+							<unittitle>Miscellany</unittitle>
+							<unitdate label="Date">undated</unitdate>
+							<container type="box">5</container>
+						</did>
+					</c03>
+						<c03 level="subseries">
 						<did>
 							<unitid>2.2.1</unitid>
-							<unittitle>RBF Questionnaire</unittitle>
+							<unittitle>Subseries 2.2.1: RBF Questionnaire</unittitle>
 							<physdesc>
 								<extent type="boxes">Boxes: 5 - 6</extent>
 								<extent type="folders">Folders: 20 - 53, 1 - 19</extent>
@@ -2179,353 +2524,7 @@
 								<container type="box">6</container>
 							</did>
 						</c04>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container type="folder">33</container>
-							<unittitle>International Council of Voluntary Agencies - International
-								Assembly of NGOs concerned with the environment (INASEN)</unittitle>
-							<unitdate label="Date">1975 January 31</unitdate>
-							<container type="box">4</container>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container type="folder">34</container>
-							<unittitle>Memorandum from Tom Stoel to NRDC Professional Staff on
-								fulfilling commitments to Rockefeller Brothers Fund, World Wildlife
-								Fund, McIntosh Foundation, Defenders of Wildlife and Wilderness
-								Society</unittitle>
-							<unitdate label="Date">1975 May 30</unitdate>
-							<container type="box">4</container>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container type="folder">35</container>
-							<unittitle>Important Notice of Special Meeting of North American
-								Committee of NGOs</unittitle>
-							<unitdate label="Date">1975 September 12</unitdate>
-							<container type="box">4</container>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container type="folder">36</container>
-							<unittitle>Letter from Ruby I. Compton to Stephen and Smokey Duggan
-								concerning the revised International Project</unittitle>
-							<unitdate label="Date">1975 September 12</unitdate>
-							<container type="box">4</container>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container type="folder">37</container>
-							<unittitle>Memo from John H. Adams and Joan McCall to Stephen Duggan and
-								Tom Stoel concerning funding for the International
-								Project</unittitle>
-							<unitdate label="Date">1975 November 24</unitdate>
-							<container type="box">4</container>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container type="folder">38</container>
-							<unittitle>Criteria for an Effective International Organization: The
-								Case of ELLA, by J. David Edwards, Occasional Paper 8</unittitle>
-							<unitdate label="Date">1975</unitdate>
-							<container type="box">4</container>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container type="folder">39</container>
-							<unittitle>International Congress of Scientists on the Human Environment
-								- Kyoto, Japan 16-26 November 1975</unittitle>
-							<unitdate label="Date">1975</unitdate>
-							<container type="box">4</container>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container type="folder">40</container>
-							<unittitle>Memorandum for Steve Duggan, Smokey Duggan and John Adams
-								from Tom Stoel: Program and Budget of NRDC International Project
-								1975-76 [2 copies]</unittitle>
-							<unitdate label="Date">1975 - 1976</unitdate>
-							<container type="box">4</container>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container type="folder">41</container>
-							<unittitle>Annual Conference of the Non-Governmental Organizations
-								Associated with the United Nations Office of Public
-								Information</unittitle>
-							<unitdate label="Date">1976 March 4-5</unitdate>
-							<container type="box">4</container>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container type="folder">42</container>
-							<unittitle>Assignments for the International Proposal - Memo from Joan
-								McCall to Stephen Duggan and others</unittitle>
-							<unitdate label="Date">1976 May 17</unitdate>
-							<container type="box">4</container>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container type="folder">43</container>
-							<unittitle>NRDC Project on Threatened Species and Genetic Resources
-								Monthly Reports of Dr. Norman Myers</unittitle>
-							<unitdate label="Date">1976 June - July</unitdate>
-							<container type="box">4</container>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container type="folder">44</container>
-							<unittitle>Letter from Ruby I. Compton, Attorney, NRDC International
-								Project to Mr. Ralph Townley, Director, Secretariat of the United
-								Nations Conference on Desertification</unittitle>
-							<unitdate label="Date">1976 July 20</unitdate>
-							<container type="box">4</container>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container type="folder">45</container>
-							<unittitle>Letter from S. Jacob Scherr to Dr. Noel Brown, Director,
-								United Nations Environment Program concerning U.S. Laws on the
-								export of pesticides and other hazardous substances</unittitle>
-							<unitdate label="Date">1976 June 23</unitdate>
-							<container type="box">4</container>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container type="folder">46</container>
-							<unittitle>Tom Stoel�s July-August 1976 Trip to Europe and
-								Nairobi</unittitle>
-							<unitdate label="Date">1976 July - August</unitdate>
-							<container type="box">4</container>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container type="folder">47</container>
-							<unittitle>Monthly Report for NRDC Project: September 1976, sent from
-								Norman Myers to Tom Stoel</unittitle>
-							<unitdate label="Date">1976 September</unitdate>
-							<container type="box">4</container>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container type="folder">48</container>
-							<unittitle>Letter from Joan McCall to Mr. G. Christian Crosby concerning
-								the Gates Foundation</unittitle>
-							<unitdate label="Date">1976 October 12</unitdate>
-							<container type="box">4</container>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container type="folder">49</container>
-							<unittitle>Letter from Joan McCall to James Marshall, Esq. concerning
-								International Proposal</unittitle>
-							<unitdate label="Date">1976 October 12</unitdate>
-							<container type="box">4</container>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container type="folder">50</container>
-							<unittitle>Proposed New Case with Respect to Environmental Modification
-								Convention, Memorandum form Tom Stoel and Jacob Scherr to NRDC
-								Executive Committee</unittitle>
-							<unitdate label="Date">1976 October 26</unitdate>
-							<container type="box">4</container>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container type="folder">51</container>
-							<unittitle>Letter to Stephen Duggan form Thomas Stoel enclosing letter
-								to Secretary of State Cyrus Vance concerning the importance of
-								international environmental issues to the State
-								Department</unittitle>
-							<unitdate label="Date">1976 December 21</unitdate>
-							<container type="box">4</container>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container type="folder">1</container>
-							<unittitle>�China�s Approach to Environmental Concervation, � by Norman
-								Myers, article published in Environmental Affairs, vol. V, no. 1
-								Winter 1976</unittitle>
-							<unitdate label="Date">1976</unitdate>
-							<container type="box">5</container>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container type="folder">2</container>
-							<unittitle>Collected Documents concerning water conservation</unittitle>
-							<unitdate label="Date">1976 - 1977</unitdate>
-							<container type="box">5</container>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container type="folder">3</container>
-							<unittitle>Approval of Lawsuit to Compel NRC Decision on NRDC Petition,
-								Memorandum from Gus Speth to NRDC Executive and Legal
-								Committees</unittitle>
-							<unitdate label="Date">1977 January 10</unitdate>
-							<container type="box">5</container>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container type="folder">4</container>
-							<unittitle>Copy of Telegram sent to Honorable Andrew Young, Permanent
-								Representative of the U.S. to the United Nations</unittitle>
-							<unitdate label="Date">1977 March 11</unitdate>
-							<container type="box">5</container>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container type="folder">5</container>
-							<unittitle>Letter from Tom Stoel to Steve and Smokey Duggan concerning
-								Salzburg Nuclear meeting and the International Program</unittitle>
-							<unitdate label="Date">1977 April 25</unitdate>
-							<container type="box">5</container>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container type="folder">6</container>
-							<unittitle>�The Export of Hazardous Factories to Developing Nations,� by
-								Barry I. Castleman - draft -</unittitle>
-							<unitdate label="Date">1977 June</unitdate>
-							<container type="box">5</container>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container type="folder">7</container>
-							<unittitle>Letter from Thomas B. Stoel, Jr. to Mr. James Shannon of
-								General Service foundation, enclosed is a proposal for funding the
-								NRDC International Project as well as a copy of the NRDC Annual
-								Report</unittitle>
-							<unitdate label="Date">1977 September 15</unitdate>
-							<container type="box">5</container>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container type="folder">8</container>
-							<unittitle>Items found in folder addressed to Mrs. Stephen Duggan, Jr.
-								concerning NRDC International Program and the United
-								Nations</unittitle>
-							<unitdate label="Date">circa 1977</unitdate>
-							<container type="box">5</container>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container type="folder">9</container>
-							<unittitle>Items found in folder labeled Declaration of Environmental
-								Policies and Procedures Relating to Economic Development</unittitle>
-							<unitdate label="Date">circa 1980</unitdate>
-							<container type="box">5</container>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container type="folder">10</container>
-							<unittitle>Items found in folder addressed to Mrs. Stephen Duggan from
-								the Asia Society concerning the United Nations and
-								disarmament</unittitle>
-							<unitdate label="Date">circa 1981</unitdate>
-							<container type="box">5</container>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container type="folder">11</container>
-							<unittitle>Document concerning the export of unregistered
-								pesticides</unittitle>
-							<unitdate label="Date">undated</unitdate>
-							<container type="box">5</container>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container type="folder">12</container>
-							<unittitle>Draft of Report to the Rockefeller Brothers Fund on Improving
-								NGO Cooperation to Protect the International Environment</unittitle>
-							<unitdate label="Date">undated</unitdate>
-							<container type="box">5</container>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container type="folder">13</container>
-							<unittitle>International Environmental Issues of Concern Over the Next
-								Few Years, Memorandum from Tom Stoel</unittitle>
-							<unitdate label="Date">undated</unitdate>
-							<container type="box">5</container>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container type="folder">14</container>
-							<unittitle>Issues to be considered by Delegates to the ICUN
-								[International Union for the Conservation of Nature?] General
-								Assembly at Zaire</unittitle>
-							<unitdate label="Date">undated</unitdate>
-							<container type="box">5</container>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container type="folder">15</container>
-							<unittitle>National Project Committee [staff list?]</unittitle>
-							<unitdate label="Date">undated</unitdate>
-							<container type="box">5</container>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container type="folder">16</container>
-							<unittitle>Proposal for support of NRDC�s International Program - Draft
-								-</unittitle>
-							<unitdate label="Date">undated</unitdate>
-							<container type="box">5</container>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container type="folder">17</container>
-							<unittitle>Miscellaneous handwritten notes</unittitle>
-							<unitdate label="Date">undated</unitdate>
-							<container type="box">5</container>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container type="folder">18</container>
-							<unittitle>Miscellany</unittitle>
-							<unitdate label="Date">undated</unitdate>
-							<container type="box">5</container>
-						</did>
-					</c03>
+						</c03>
 				</c02>
 				<c02 level="subseries">
 					<did>
@@ -2546,7 +2545,7 @@
 					<c03 level="subseries">
 						<did>
 							<unitid>2.3.1</unitid>
-							<unittitle>United Nations General File</unittitle>
+							<unittitle>Subseries 2.3.1: United Nations General File</unittitle>
 							<unitdate normal="1985/1987">1985 - 1987</unitdate>
 							<physdesc>
 								<extent type="boxes">Box: 6</extent>
@@ -2676,7 +2675,7 @@
 					<c03 level="subseries">
 						<did>
 							<unitid>2.3.2</unitid>
-							<unittitle>United Nations Conference on the Law of the Sea</unittitle>
+							<unittitle>Subseries 2.3.2: United Nations Conference on the Law of the Sea</unittitle>
 							<unitdate normal="1976">1976</unitdate>
 							<physdesc>
 								<extent type="boxes">Box: 6</extent>
@@ -2774,7 +2773,7 @@
 					<c03 level="subseries">
 						<did>
 							<unitid>2.3.3</unitid>
-							<unittitle>United Nations Conference on Science and Technology for
+							<unittitle>Subseries 2.3.3: United Nations Conference on Science and Technology for
 								Development</unittitle>
 							<unitdate normal="1977/1980">1977-1980</unitdate>
 							<physdesc>
@@ -3772,7 +3771,7 @@
 				<c02 level="subseries">
 					<did>
 						<unitid>3.1</unitid>
-						<unittitle>Biographical Documents</unittitle>
+						<unittitle>Subseries 3.1: Biographical Documents</unittitle>
 						<unitdate normal="1969/1996">1969 - 1996</unitdate>
 						<physdesc>
 							<extent type="boxes">Box: 10</extent>
@@ -3852,7 +3851,7 @@
 				<c02 level="subseries">
 					<did>
 						<unitid>3.2</unitid>
-						<unittitle>Personal papers of Stephen P. Duggan, Jr.</unittitle>
+						<unittitle>Subseries 3.2: Personal papers of Stephen P. Duggan, Jr.</unittitle>
 						<unitdate normal="1928/1981">1928 - 1981</unitdate>
 						<physdesc>
 							<extent type="boxes">Box: 10</extent>
@@ -3983,7 +3982,7 @@
 				<c02 level="subseries">
 					<did>
 						<unitid>3.3</unitid>
-						<unittitle>Family Papers</unittitle>
+						<unittitle>Subseries 3.3: Family Papers</unittitle>
 						<unitdate normal="1958/2004">1958 - 2004</unitdate>
 						<physdesc>
 							<extent type="boxes">Box: 10</extent>
@@ -4069,7 +4068,7 @@
 				<c02 level="subseries">
 					<did>
 						<unitid>3.4</unitid>
-						<unittitle>Famous Correspondence</unittitle>
+						<unittitle>Subseries 3.4: Famous Correspondence</unittitle>
 						<unitdate normal="1967/1983">1967 - 1983</unitdate>
 						<physdesc>
 							<extent type="boxes">Box: 10</extent>
@@ -4123,7 +4122,7 @@
 				<c02 level="subseries">
 					<did>
 						<unitid>3.5</unitid>
-						<unittitle>Miscellany</unittitle>
+						<unittitle>Subseries 3.5: Miscellany</unittitle>
 						<unitdate normal="1975/2008">1975 - 2008</unitdate>
 						<physdesc>
 							<extent type="boxes">Box: 10</extent>
@@ -4202,7 +4201,7 @@
 				<c02 level="subseries">
 					<did>
 						<unitid>4.1</unitid>
-						<unittitle>Clippings Concerning Storm King</unittitle>
+						<unittitle>Subseries 4.1: Clippings Concerning Storm King</unittitle>
 						<unitdate normal="1964/1988">1964 - 1988</unitdate>
 						<physdesc>
 							<extent type="boxes">Boxes: 10 - 11</extent>
@@ -4381,7 +4380,7 @@
 				<c02 level="subseries">
 					<did>
 						<unitid>4.2</unitid>
-						<unittitle>Clippings Concerning NRDC</unittitle>
+						<unittitle>Subseries 4.2: Clippings Concerning NRDC</unittitle>
 						<unitdate normal="1976/1980">1976 - 1980</unitdate>
 						<physdesc>
 							<extent type="boxes">Box: 11</extent>
@@ -4451,7 +4450,7 @@
 				<c02 level="subseries">
 					<did>
 						<unitid>4.3</unitid>
-						<unittitle>Clippings Concerning the Duggan family</unittitle>
+						<unittitle>Subseries 4.3: Clippings Concerning the Duggan family</unittitle>
 						<unitdate normal="1944/1998">1944 - 1998</unitdate>
 						<physdesc>
 							<extent type="boxes">Box: 11</extent>
@@ -4615,7 +4614,7 @@
 				<c02 level="subseries">
 					<did>
 						<unitid>4.4</unitid>
-						<unittitle>Topical Clippings</unittitle>
+						<unittitle>Subseries 4.4: Topical Clippings</unittitle>
 						<unitdate normal="1989">1989</unitdate>
 						<physdesc>
 							<extent type="boxes">Box: 12</extent>
@@ -4855,7 +4854,7 @@
 				<c02 level="subseries">
 					<did>
 						<unitid>4.5</unitid>
-						<unittitle>Clippings found elsewhere in the collection</unittitle>
+						<unittitle>Subseires 4.5: Clippings found elsewhere in the collection</unittitle>
 						<unitdate normal="1963/1982">1963 - 1982</unitdate>
 						<physdesc>
 							<extent type="boxes">Box: 12</extent>
@@ -4925,7 +4924,7 @@
 				<c02 level="subseries">
 					<did>
 						<unitid>4.6</unitid>
-						<unittitle>Miscellany</unittitle>
+						<unittitle>Subseries 4.6: Miscellany</unittitle>
 						<unitdate normal="1997/2007">1997 - 2007</unitdate>
 						<physdesc>
 							<extent type="boxes">Box: 13</extent>
@@ -5088,9 +5087,8 @@
 				<c02 level="subseries">
 					<did>
 						<unitid>6.1</unitid>
-						<unittitle>Family Photographs</unittitle>
+						<unittitle>Subseries 6.1: Family Photographs</unittitle>
 						<physdesc>
-							<extent type="size">linear feet</extent>
 							<extent type="boxes">Box: 13</extent>
 							<extent type="folders">Folder: 14</extent>
 						</physdesc>
@@ -5107,10 +5105,9 @@
 				<c02 level="subseries">
 					<did>
 						<unitid>6.2</unitid>
-						<unittitle>Images Concerning Hudson River Conservation</unittitle>
+						<unittitle>Subseries 6.2: Images Concerning Hudson River Conservation</unittitle>
 						<unitdate normal="1964/1978">1964 - 1978</unitdate>
 						<physdesc>
-							<extent type="size">linear feet</extent>
 							<extent type="boxes">Boxes: 13 - 14</extent>
 							<extent type="folders">Folders: 15 - 41, 1 - 4</extent>
 						</physdesc>
@@ -5370,7 +5367,7 @@
 				<c02 level="subseries">
 					<did>
 						<unitid>6.3</unitid>
-						<unittitle>Miscellany</unittitle>
+						<unittitle>Subseries 6.3: Miscellany</unittitle>
 						<unitdate normal="1966/1979">1966 - 1979</unitdate>
 						<physdesc>
 							<extent type="boxes">Box: 14</extent>
@@ -5403,7 +5400,7 @@
 				<c02 level="subseries">
 					<did>
 						<unitid>6.4</unitid>
-						<unittitle>Film Negatives</unittitle>
+						<unittitle>Subseries 6.4: Film Negatives</unittitle>
 						<physdesc>
 							<extent type="boxes">Box: 14</extent>
 							<extent type="folders">Folders: 7 - 8</extent>
@@ -5438,7 +5435,6 @@
 						Duggan</unittitle>
 					<unitdate normal="1999/2008">1999 - 2008</unitdate>
 					<physdesc>
-						<extent type="size">linear feet</extent>
 						<extent type="boxes">Boxes: 14 - 15</extent>
 						<extent type="folders">Folders: 9 - 14, 1 - 28</extent>
 					</physdesc>
@@ -5454,7 +5450,7 @@
 				<c02 level="subseries">
 					<did>
 						<unitid>7.1</unitid>
-						<unittitle>Completed Screenplays</unittitle>
+						<unittitle>Subseries 7.1: Completed Screenplays</unittitle>
 						<physdesc>
 							<extent type="boxes">Box: 14</extent>
 							<extent type="folders">Folders: 9 - 14</extent>
@@ -5515,7 +5511,7 @@
 				<c02 level="subseries">
 					<did>
 						<unitid>7.2</unitid>
-						<unittitle>Genealogical Research</unittitle>
+						<unittitle>Subseries 7.2: Genealogical Research</unittitle>
 						<physdesc>
 							<extent type="boxes">Box: 15</extent>
 							<extent type="folders">Folders: 1-4</extent>
@@ -5560,7 +5556,7 @@
 				<c02 level="subseries">
 					<did>
 						<unitid>7.3</unitid>
-						<unittitle>Collected Research by Mary Vance Duggan</unittitle>
+						<unittitle>Subseries 7.3: Collected Research by Mary Vance Duggan</unittitle>
 						<unitdate normal="1999/2004">1999 - 2004</unitdate>
 						<physdesc>
 							<extent type="boxes">Box: 15</extent>
@@ -5622,7 +5618,7 @@
 				<c02 level="subseries">
 					<did>
 						<unitid>7.4</unitid>
-						<unittitle>Character Research</unittitle>
+						<unittitle>Subseries 7.4: Character Research</unittitle>
 						<unitdate normal="2002/2008">2002 - 2008</unitdate>
 						<physdesc>
 							<extent type="boxes">Box: 15</extent>
@@ -5700,7 +5696,7 @@
 				<c02 level="subseries">
 					<did>
 						<unitid>7.5</unitid>
-						<unittitle>Writing Notes and Drafts</unittitle>
+						<unittitle>Subseries 7.5: Writing Notes and Drafts</unittitle>
 						<physdesc>
 							<extent type="boxes">Box: 15</extent>
 							<extent type="folders">Folders: 19 - 28</extent>

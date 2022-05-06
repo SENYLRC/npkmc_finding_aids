@@ -18,7 +18,7 @@
 				<address>
 					<addressline>3399 North Road <lb/>Poughkeepsie, NY 12601 <lb/>Phone:
 						845-575-5217 <lb/>Fax: 845-575-3150 <lb/>Email: library.archives@marist.edu<lb/>Website:
-						https://library.marist.edu/archives/</addressline>
+						https://archives.marist.edu/</addressline>
 				</address>
 				<date type="publication" normal="2005-04-11">April 11, 2005</date>
 			</publicationstmt>
@@ -95,7 +95,7 @@
 		<prefercite>
 			<head>Preferred Citation</head>
 			<p>[Description of item, date, location of item in order of series, box number, folder
-				number ], in The Henry and Elizabeth Eugle Collection, James A. Cannavino Library,
+				number ], in The Henry and Elizabeth Eugle Collection,  Archives and Special Collections,James A. Cannavino Library,
 				Marist College.</p>
 		</prefercite>
 		<arrangement>
@@ -112,7 +112,7 @@
 					<unittitle>1. The Hudson Valley Philharmonic Orchestra</unittitle>
 					<unitdate type="inclusive" normal="1960/1982">1960 - 1982</unitdate>
 					<physdesc>
-						<extent type="size">0.75 linear feet</extent>
+						<extent type="size">0.75 Linear Feet</extent>
 						<extent type="boxes">Box: 1</extent>
 						<extent type="folders">Folders: 1 - 27</extent>
 					</physdesc>
@@ -1066,7 +1066,7 @@
 					<unittitle>6. Nadia Koutzen</unittitle>
 					<unitdate type="inclusive" normal="1930/1984">1930 - 1984</unitdate>
 					<physdesc>
-						<extent type="size">0.75 linear feet</extent>
+						<extent type="size">0.75 Linear Feet</extent>
 						<extent type="boxes">Box: 1</extent>
 						<extent type="folders">Folders: 111 - 116</extent>
 					</physdesc>

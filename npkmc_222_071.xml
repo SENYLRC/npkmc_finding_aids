@@ -16,7 +16,7 @@
 				<address>
 					<addressline>3399 North Road <lb/>Poughkeepsie, NY 12601 <lb/>Phone:
 						845-575-5217 <lb/>Fax: 845-575-3150 <lb/><lb/>Email: library.archives@marist.edu<lb/>Website:
-						https://library.marist.edu/archives/</addressline>
+						https://archives.marist.edu/</addressline>
 				</address>
 				<date type="publication" normal="2006-12-13">December 13, 2006</date>
 			</publicationstmt>
@@ -50,7 +50,7 @@
 				<corpname>Marist College Archives and Special Collections</corpname>
 			</repository>
 			<origination label="creator">
-				<corpname>Hudson River Sloop Clearwater, Inc.</corpname>
+				<persname>Enid Mastrianni</persname>
 			</origination>
 			<abstract>The Coffin Family Papers contains bills, promissory notes, receipts, account
 				ledgers, bonds, deeds and other documents relating to the business and personal
@@ -141,10 +141,6 @@
 						<unitid>1</unitid>
 						<unittitle>Folder 1: Robert Coffin’s Labor Receipts</unittitle>
 						<unitdate normal="1811/1859">1811-1859</unitdate>
-						<physdesc>
-							<extent type="boxes">Boxes: 1</extent>
-							<extent type="folders">Folders: 1-11</extent>
-						</physdesc>
 					</did>
 					<scopecontent>
 						<p>The documents in this collection consist of bills, promissory notes,

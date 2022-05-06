@@ -17,7 +17,7 @@
 				<address>
 					<addressline>3399 North Road <lb/>Poughkeepsie, NY 12601 <lb/>Phone:
 						845-575-5217 <lb/>Fax: 845-575-3150 <lb/>Email: library.archives@marist.edu<lb/>Website:
-						https://library.marist.edu/archives/</addressline>
+						https://archives.marist.edu/</addressline>
 				</address>
 				<date type="publication" normal="2003">Spring, 2003</date>
 			</publicationstmt>
@@ -66,15 +66,16 @@
 			<head>Related Collections</head>
 			<list>
 				<!--Hudson River Environmental Society Collection-->
-				<item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.empireadc.org/search/catalog/npkmc_223_071" xlink:title="The Hudson River Environmental Society Collection, 1963 - 2005" xlink:actuate="onRequest" xlink:show="new"/></item>
+				<item>The Hudson River Environmental Society Collection, 1963 - 2005</item>
 				<!--On the River: Video Documentary-->
-				<item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.empireadc.org/search/catalog/npkmc_222_082" xlink:title="On the River Collection, 1986 - 1993" xlink:actuate="onRequest" xlink:show="new"/></item>
+				<item>On the River Collection, 1986 - 1993</item>
 				<!--The Seymour Collection-->
-				<item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.empireadc.org/search/catalog/npkmc_222_081" xlink:title="Senator and Mrs. Whitney N. Seymour Jr. Papers: Records      Relating to the Storm King Case, 1962-1978" xlink:actuate="onRequest" xlink:show="new"/></item>
+				<item>Senator and Mrs. Whitney N. Seymour Jr. Papers: Records
+					Relating to the Storm King Case, 1962-1978</item>
 				<!--The Saunders Collection-->
-				<item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.empireadc.org/search/catalog/npkmc_222_094" xlink:title="Alexander Saunders Papers: Records Relating to the Storm King Case, 1962 - 1966" xlink:actuate="onRequest" xlink:show="new"/></item>
+				<item>Alexander Saunders Papers: Records Relating to the Storm King Case, 1962 - 1966</item>
 				<!--The HRVC Collection-->
-				<item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.empireadc.org/search/catalog/npkmc_221_0102" xlink:title="Hudson River Valley Commission Collection: Records Relating to the Storm King Case, 1966 – 1967" xlink:actuate="onRequest" xlink:show="new"/></item>
+				<item>Hudson River Valley Commission Collection: Records Relating to the Storm King Case, 1966 – 1967</item>
 			</list>
 		</relatedmaterial>
 

@@ -13,7 +13,7 @@
         <address>
           <addressline>3399 North Road <lb/>Poughkeepsie, NY 12601 <lb/>Phone: 845-575-5217
             <lb/>Fax: 845-575-3150 <lb/>Email: library.archives@marist.edu<lb/>Website:
-            https://library.marist.edu/archives/</addressline>
+            https://archives.marist.edu/</addressline>
         </address>
         <date type="publication" normal="2004">2004</date>
       </publicationstmt>
@@ -87,24 +87,23 @@
     <relatedmaterial>
       <head>Related Collections</head>
       <list type="marked">
-        <!--The Grim Collection-->
-        <item>
-          <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.empireadc.org/search/catalog/npkmc_222_158" xlink:title="The Grim Collection: Hudson River Fisheries Investigation, 1965 - 1968" xlink:actuate="onRequest" xlink:show="new"/></item>
+        <item>The Grim Collection: Hudson River Fisheries Investigation, 1965 - 1968&gt;</item>
         <item>Hudson River Environmental Society Library</item>
         <!--The HRVC Collection-->
-        <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.empireadc.org/search/catalog/npkmc_221_0102" xlink:title="Hudson River Valley Commission Collection: Records Relating to the Storm King Case, 1966 – 1967" xlink:actuate="onRequest" xlink:show="new"/></item>
+        <item>Hudson River Valley Commission Collection: Records Relating to the Storm King Case, 1966 – 1967</item>
         <!--On the River: Video Documentary-->
-        <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.empireadc.org/search/catalog/npkmc_222_082" xlink:title="On the River Collection, 1986 - 1993" xlink:actuate="onRequest" xlink:show="new"/></item>
+        <item>On the River Collection, 1986 - 1993</item>
         <!--The Saunders Collection-->
-        <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.empireadc.org/search/catalog/npkmc_222_094" xlink:title="Alexander Saunders Papers: Records Relating to the Storm King Case, 1962 - 1966" xlink:actuate="onRequest" xlink:show="new"/></item>
+        <item>Alexander Saunders Papers: Records Relating to the Storm King Case, 1962 - 1966</item>
         <!-->Scenic Hudson, Inc. Administrative History Collection-->
-        <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.empireadc.org/search/catalog/npkmc_221_254" xlink:title="Scenic Hudson, Inc. Administrative History Collection, 1960- 2000" xlink:actuate="onRequest" xlink:show="new"/></item>
+        <item>Scenic Hudson, Inc. Administrative History Collection, 1960- 2000</item>
         <!-->Scenic Hudson, Inc. Collection-->
-        <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.empireadc.org/search/catalog/npkmc_222_083" xlink:title="Scenic Hudson Decision Hearings Transcripts Collection, 1977- 1980" xlink:actuate="onRequest" xlink:show="new"/></item>
+        <item>Scenic Hudson Decision Hearings Transcripts Collection, 1977- 1980</item>
         <!--The Seymour Collection-->
-        <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.empireadc.org/search/catalog/npkmc_222_081" xlink:title="Senator and Mrs. Whitney N. Seymour Jr. Papers: Records           Relating to the Storm King Case, 1962-1978" xlink:actuate="onRequest" xlink:show="new"/></item>
+        <item>Senator and Mrs. Whitney N. Seymour Jr. Papers: Records
+          Relating to the Storm King Case, 1962-1978</item>
         <!--HV GREEN Collection-->
-        <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.empireadc.org/search/catalog/npkmc_222_181" xlink:title="Hudson Valley GREEN Collection, 1981 - 2002" xlink:actuate="onRequest" xlink:show="new"/></item>
+        <item>Hudson Valley GREEN Collection, 1981 - 2002</item>
       </list>
     </relatedmaterial>
     <bioghist encodinganalog="545">
@@ -144,9 +143,10 @@
         <did>
           <unitid>1</unitid>
           <unittitle>1. Meetings</unittitle>
-          <physdesc>0.67 Linear Feet</physdesc>
-          <physdesc>Boxes: 1-2</physdesc>
-          <physdesc>Folders: 1-20</physdesc>
+          <physdesc>
+            <extent type="size">0.67 Linear Feet</extent>
+            <extent type="boxes">Boxes: 1-2</extent>
+            <extent type="folders">Folders: 1-20</extent></physdesc>
         </did>
         <scopecontent>
           <p>Series contains handouts, minutes, and speeches taken place during Hudson River Valley
@@ -300,9 +300,10 @@
         <did>
           <unitid>2</unitid>
           <unittitle>2. Clippings</unittitle>
-          <physdesc>1 Linear Feet</physdesc>
-          <physdesc>Boxes: 3.5</physdesc>
-          <physdesc>Folders: 21-59 </physdesc>
+          <physdesc>
+            <extent type="size">1 Linear Feet</extent>
+          <extent type="boxes">Boxes: 3-5</extent>
+          <extent type="folders">Folders: 21-59 </extent></physdesc>
         </did>
         <scopecontent>
           <p>Series contains clippings on various environmental and economic concerns in the Hudson

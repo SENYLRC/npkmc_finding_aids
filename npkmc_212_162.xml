@@ -5,7 +5,7 @@
     <eadid countrycode="US" mainagencycode="US-NPkMC">npkmc_212_162</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper>The Mr. and Mrs. Henry Dain Papers</titleproper>
+        <titleproper>Mr. and Mrs. Henry Dain Papers</titleproper>
         <author>Processed by: Janet Rice and John Ansley, PhD; Finding Aid Encoding by: Monish M.
           Singh, 2005; Finding Aid Encoding Updated by: Abigail Bowen, 2021</author>
       </titlestmt>
@@ -14,7 +14,7 @@
         <address>
           <addressline>3399 North Road <lb/>Poughkeepsie, NY 12601 <lb/>Phone: 845-575-5217
             <lb/>Fax: 845-575-3150 <lb/>Email: library.archives@marist.edu<lb/>Website:
-            https://library.marist.edu/archives/</addressline>
+            https://archives.marist.edu/</addressline>
         </address>
         <date type="publication" normal="2005-08-22">August 22, 2005</date>
       </publicationstmt>
@@ -33,12 +33,12 @@
       </list>
     </revisiondesc>
   </eadheader>
-  
+
 
   <archdesc level="collection" relatedencoding="MARC">
     <did>
       <head>Descriptive Summary</head>
-      <unittitle label="title">The Mr. and Mrs. Henry Dain Papers</unittitle>
+      <unittitle label="title">Mr. and Mrs. Henry Dain Papers</unittitle>
       <unitdate normal="1963/1967">1963 - 1967</unitdate>
       <origination encodinganalog="100" label="creator">
         <persname>Henry Dain</persname>
@@ -122,14 +122,16 @@
       <p>The lengthy and controversial case set important precedents in environmental law and is
         generally credited with spawning the modern environmental movement. Scenic Hudson, Inc.
         continues to serve as an environmental watchdog in the Hudson Valley.</p>
-      
+
     </bioghist>
-    
+
     <relatedmaterial>
       <head>Related Collections</head>
       <list type="marked">
         <!--Cornwall Pump-->
-        <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.empireadc.org/search/catalog/npkmc_222_091" xlink:title="The Cornwall Pumped Storage Project Collection, 1953 - 1981" xlink:actuate="onRequest" xlink:show="new"/></item>
+        <item>The Cornwall Pumped Storage Project Collection, 1953 - 1981</item>
+        <!--The HRVC Collection-->
+        <item>Hudson River Valley Commission Collection: Records Relating to the Storm King Case, 1966 – 1967</item>
       </list>
     </relatedmaterial>
 

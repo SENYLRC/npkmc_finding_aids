@@ -18,7 +18,7 @@
 				<address>
 					<addressline>3399 North Road <lb/>Poughkeepsie, NY 12601 <lb/>Phone:
 						845-575-5217 <lb/>Fax: 845-575-3150 <lb/>Email: library.archives@marist.edu<lb/>Website:
-						https://library.marist.edu/archives/</addressline>
+						https://archives.marist.edu/</addressline>
 				</address>
 				<date type="publication" normal="2002">Summer 2002</date>
 			</publicationstmt>
@@ -46,7 +46,7 @@
 			<unitid countrycode="US" repositorycode="US-NPkMC">NPKMC-223-159</unitid>
 			<unitdate type="inclusive" normal="1900/2003">1900 - 2003</unitdate>
 			<physdesc>
-				<extent type="size">30 linear feet</extent>
+				<extent type="size">30 Linear Feet</extent>
 			</physdesc>
 			<repository>
 				<corpname>Marist College Archives and Special Collections</corpname>
@@ -145,7 +145,7 @@
 			<c01 level="series">
 				<did>
 					<unitid>1</unitid>
-					<unittitle>Student Plays Written for Festival</unittitle> 					<unitdate normal="1989/2002">1989 - 2002</unitdate>
+					<unittitle>1. Student Plays Written for Festival</unittitle> 					<unitdate normal="1989/2002">1989 - 2002</unitdate>
 					<physdesc>
 						<extent type="boxes">Boxes: 1 - 7</extent>
 					</physdesc>
@@ -156,7 +156,7 @@
 				<c02 level="subseries">
 					<did>
 						<unitid>1.1</unitid>
-						<unittitle>Subseries 1.: Theatre Workshop</unittitle>
+						<unittitle>Subseries 1.1: Theatre Workshop</unittitle>
 						<unitdate normal="1989">1989</unitdate>
 						<physdesc>
 							<extent type="boxes">Box: 1</extent>
@@ -3343,12 +3343,11 @@
 						number)</unittitle>
 					<note>
 						<p>This series consists of 724 titles which may be searched in the following
-							ways: 
-						<list type="marked">
-							<item>The entire series may be browsed by selecting the following link: <archref>
-									<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://bit.ly/3JJmBvl" xlink:title="Browse Series 4: James T. Cox Collection" xlink:actuate="onRequest" xlink:show="new"> </dao></archref></item>
+							ways: </p>
+							<p>The entire series may be browsed by selecting the following link: <archref>
+									<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://bit.ly/3JJmBvl" xlink:title="Browse Series 4: James T. Cox Collection" xlink:actuate="onRequest" xlink:show="new"> </dao></archref></p>
 							<!--https://marist.primo.exlibrisgroup.com/discovery/search?query=lds16,contains,James%20T.%20Cox&tab=Everything&search_scope=MyInst_and_CI&vid=01MARIST_INST:01MARIST&lang=en&offset=0.-->
-							<item>
+							<p>
 								This series may also be searched on the <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://library.marist.edu/" xlink:title="James A. Cannavino Library's on-line          catalog" xlink:actuate="onRequest" xlink:show="new"/>. You
 									may browse the collection by entering "James T. Cox" under a subject
 									search or you may search for a specific title or author by selecting the
@@ -3358,8 +3357,7 @@
 									keywords in the subsequent search boxes. This will allow you to search
 									within Series 4 of the James T. Cox Collection. I wonder if it is worth
 									talking with John to see if we can remove that text all together from
-									the finding aid.</item>
-						</list></p>
+									the finding aid.</p>
 					</note>
 				</did>
 			</c01>

@@ -16,7 +16,7 @@
 				<address>
 					<addressline>3399 North Road <lb/>Poughkeepsie, NY 12601 <lb/>Phone:
 						845-575-5217 <lb/>Fax: 845-575-3150 <lb/>Email: library.archives@marist.edu<lb/>Website:
-						https://library.marist.edu/archives/</addressline>
+						https://archives.marist.edu/</addressline>
 				</address>
 				<date type="publication" normal="2004-05-23">May 23, 2004</date>
 			</publicationstmt>
@@ -43,12 +43,12 @@
 			<unitid countrycode="US" repositorycode="US-NPkMC">NPKMC-222-181</unitid>
 			<unitdate type="inclusive" normal="1981/2002">1981 - 2002</unitdate>
 			<physdesc>
-				<extent type="size">20.67 linear feet</extent>
+				<extent type="size">20.67 Linear Feet</extent>
 			</physdesc>
 			<repository>
 				<corpname>Marist College Archives and Special Collections</corpname>
 			</repository>
-			<origination label="creator">Hudson Valley GREEN</origination>
+			<origination label="creator"><corpname>Hudson Valley GREEN</corpname></origination>
 			<abstract>The Hudson Valley GREEN (Grass Roots Energy <![CDATA[&]]> Environmental
 				Network) Collection documents the development of the environmental group and their
 				constant vigilance in protecting the environment in the Hudson River Valley Area.
@@ -71,21 +71,22 @@
 			<list>
 				<!--The Grim Collection-->
 				<item>
-					<archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.empireadc.org/search/catalog/npkmc_222_158" xlink:title="The Grim Collection: Hudson River Fisheries Investigation, 1965 - 1968" xlink:actuate="onRequest" xlink:show="new"/></item>
+					The Grim Collection: Hudson River Fisheries Investigation, 1965 - 1968</item>
 				<!--Hudson River Environmental Society Collection-->
-				<item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.empireadc.org/search/catalog/npkmc_223_071" xlink:title="The Hudson River Environmental Society Collection, 1963 - 2005" xlink:actuate="onRequest" xlink:show="new"/></item>
+				<item>The Hudson River Environmental Society Collection, 1963 - 2005</item>
 				<!--The HRVC Collection-->
-				<item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.empireadc.org/search/catalog/npkmc_221_0102" xlink:title="Hudson River Valley Commission Collection: Records Relating to the Storm King Case, 1966 – 1967" xlink:actuate="onRequest" xlink:show="new"/></item>
+				<item>Hudson River Valley Commission Collection: Records Relating to the Storm King Case, 1966 – 1967</item>
 				<!--On the River: Video Documentary-->
-				<item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.empireadc.org/search/catalog/npkmc_222_082" xlink:title="On the River Collection, 1986 - 1993" xlink:actuate="onRequest" xlink:show="new"/></item>
+				<item>On the River Collection, 1986 - 1993</item>
 				<!--The Saunders Collection-->
-				<item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.empireadc.org/search/catalog/npkmc_222_094" xlink:title="Alexander Saunders Papers: Records Relating to the Storm King Case, 1962 - 1966" xlink:actuate="onRequest" xlink:show="new"/></item>
+				<item>"Alexander Saunders Papers: Records Relating to the Storm King Case, 1962 - 1966</item>
 				<!-->Scenic Hudson, Inc. Administrative History Collection-->
-				<item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.empireadc.org/search/catalog/npkmc_221_254" xlink:title="Scenic Hudson, Inc. Administrative History Collection, 1960- 2000" xlink:actuate="onRequest" xlink:show="new"/></item>
+				<item>Scenic Hudson, Inc. Administrative History Collection, 1960- 2000</item>
 				<!-->Scenic Hudson, Inc. Collection-->
-				<item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.empireadc.org/search/catalog/npkmc_222_083" xlink:title="Scenic Hudson Decision Hearings Transcripts Collection, 1977- 1980" xlink:actuate="onRequest" xlink:show="new"/></item>
+				<item>Scenic Hudson Decision Hearings Transcripts Collection, 1977- 1980</item>
 				<!--The Seymour Collection-->
-				<item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.empireadc.org/search/catalog/npkmc_222_081" xlink:title="Senator and Mrs. Whitney N. Seymour Jr. Papers: Records      Relating to the Storm King Case, 1962-1978" xlink:actuate="onRequest" xlink:show="new"/></item>
+				<item>Senator and Mrs. Whitney N. Seymour Jr. Papers: Records
+					Relating to the Storm King Case, 1962-1978</item>
 			</list>
 		</relatedmaterial>
 
@@ -155,7 +156,7 @@
 					<unittitle>1. Subject Files</unittitle>
 					<unitdate/>
 					<physdesc>
-						<extent type="size">11 linear feet</extent>
+						<extent type="size">11 Linear Feet</extent>
 						<extent type="boxes">Boxes: 1 - 32</extent>
 						<extent type="folders">Folders: 1 - 318</extent>
 					</physdesc>
@@ -163,17 +164,17 @@
 				<scopecontent>
 					<p>Series contains superies seperated on the topics of Environmental Importance
 						and concern researched by Hudson Valley GREEN.</p>
-					<arrangement>
-						<p>Alphabetically and by Subject</p>
-					</arrangement>
 				</scopecontent>
+				<arrangement>
+					<p>Alphabetically and by Subject</p>
+				</arrangement>
 				<c02 level="subseries">
 					<did>
 						<unitid>1.1</unitid>
-						<unittitle>Subseries 1.: 765 Power Line</unittitle>
+						<unittitle>Subseries 1.1: 765 Power Line</unittitle>
 						<unitdate normal="1981/2002">1981 - 2002</unitdate>
 						<physdesc>
-							<extent type="size">1 linear feet</extent>
+							<extent type="size">1 Linear Feet</extent>
 							<extent type="boxes">Boxes: 1 - 3</extent>
 							<extent type="folders">Folders: 1 - 17</extent>
 						</physdesc>
@@ -313,7 +314,7 @@
 						<unitid>1.2</unitid>
 						<unittitle>Subseries 1.2: Conservation</unittitle>
 						<physdesc>
-							<extent type="size">0.33 linear feet</extent>
+							<extent type="size">0.33 Linear Feet</extent>
 							<extent type="boxes">Box: 4</extent>
 							<extent type="folders">Folders: 18 - 20</extent>
 						</physdesc>
@@ -352,7 +353,7 @@
 						<unittitle>Subseries 1.3: Consolidated Edison of New York v. Mid Hudson Nuclear Opponents,
 							Town of Red Hook</unittitle>
 						<physdesc>
-							<extent type="size">1.34 linear feet</extent>
+							<extent type="size">1.34 Linear Feet</extent>
 							<extent type="boxes">Boxes: 5 - 8</extent>
 							<extent type="folders">Folders: 21 - 47</extent>
 						</physdesc>
@@ -566,7 +567,7 @@
 						<unitid>1.4</unitid>
 						<unittitle>Subseries 1.4: Energy / Solid Waste</unittitle>
 						<physdesc>
-							<extent type="size">0.33 linear feet</extent>
+							<extent type="size">0.33 Linear Feet</extent>
 							<extent type="boxes">Box: 9</extent>
 							<extent type="folders">Folders: 48 - 52</extent>
 						</physdesc>
@@ -618,7 +619,7 @@
 						<unitid>1.5</unitid>
 						<unittitle>Subseries 1.5: Environmental Issues</unittitle>
 						<physdesc>
-							<extent type="size">2 linear feet</extent>
+							<extent type="size">2 Linear Feet</extent>
 							<extent type="boxes">Boxes: 10 - 15</extent>
 							<extent type="folders">Folders: 53 - 127</extent>
 						</physdesc>
@@ -1160,7 +1161,7 @@
 						<unitid>1.6</unitid>
 						<unittitle>Subseries 1.6: Environmental Organizations</unittitle>
 						<physdesc>
-							<extent type="size">1.67 linear feet</extent>
+							<extent type="size">1.67 Linear Feet</extent>
 							<extent type="boxes">Boxes: 16 - 20</extent>
 							<extent type="folders">Folders: 128 - 220</extent>
 						</physdesc>
@@ -1830,7 +1831,7 @@
 						<unitid>1.7</unitid>
 						<unittitle>Subseries 1.7: Hudsonia, James Bay, Long Island Sound Study</unittitle>
 						<physdesc>
-							<extent type="size">0.33 linear feet</extent>
+							<extent type="size">0.33 Linear Feet</extent>
 							<extent type="boxes">Box: 21</extent>
 							<extent type="folders">Folders: 221 - 227</extent>
 						</physdesc>
@@ -1896,7 +1897,7 @@
 						<unitid>1.8</unitid>
 						<unittitle>Subseries 1.8: Hudson River</unittitle>
 						<physdesc>
-							<extent type="size">0.33 linear feet</extent>
+							<extent type="size">0.33 Linear Feet</extent>
 							<extent type="boxes">Box: 22</extent>
 							<extent type="folders">Folders: 228 - 234</extent>
 						</physdesc>
@@ -1963,7 +1964,7 @@
 						<unitid>1.9</unitid>
 						<unittitle>Subseries 1.9: Iroquois Gas Transmission System</unittitle>
 						<physdesc>
-							<extent type="size">0.33 linear feet</extent>
+							<extent type="size">0.33 Linear Feet</extent>
 							<extent type="boxes">Box: 23</extent>
 							<extent type="folders">Folders: 235 - 244</extent>
 						</physdesc>
@@ -2052,7 +2053,7 @@
 						<unitid>1.10</unitid>
 						<unittitle>Subseries 1.10: Legislative Acts</unittitle>
 						<physdesc>
-							<extent type="size">0.33 linear feet</extent>
+							<extent type="size">0.33 Linear Feet</extent>
 							<extent type="boxes">Box: 24</extent>
 							<extent type="folders">Folders: 245 - 251</extent>
 						</physdesc>
@@ -2118,7 +2119,7 @@
 						<unitid>1.11</unitid>
 						<unittitle>Subseries 1.11: Nuclear Power Plants</unittitle>
 						<physdesc>
-							<extent type="size">0.33 linear feet</extent>
+							<extent type="size">0.33 Linear Feet</extent>
 							<extent type="boxes">Box: 25</extent>
 							<extent type="folders">Folders: 252 - 265</extent>
 						</physdesc>
@@ -2236,7 +2237,7 @@
 						<unittitle>Subseries 1.12: Nuclear Energy</unittitle>
 						<unitdate normal="1981/2002">1981 - 2002</unitdate>
 						<physdesc>
-							<extent type="size">0.67 linear feet</extent>
+							<extent type="size">0.67 Linear Feet</extent>
 							<extent type="boxes">Boxes: 26 - 27</extent>
 							<extent type="folders">Folders: 266 - 275</extent>
 						</physdesc>
@@ -2325,7 +2326,7 @@
 						<unitid>1.13</unitid>
 						<unittitle>Subseries 1.13: Power Sources / Renewable Energy</unittitle>
 						<physdesc>
-							<extent type="size">0.67 linear feet</extent>
+							<extent type="size">0.67 Linear Feet</extent>
 							<extent type="boxes">Box: 28</extent>
 							<extent type="folders">Folders: 276 - 294</extent>
 						</physdesc>
@@ -2698,7 +2699,7 @@
 					<unitid>2</unitid>
 					<unittitle>2. Printed Material</unittitle>
 					<physdesc>
-						<extent type="size">3 linear feet</extent>
+						<extent type="size">3 Linear Feet</extent>
 						<extent type="boxes">Boxes: 33 - 41</extent>
 						<extent type="folders">Folders: 319 - 478</extent>
 					</physdesc>
@@ -2707,10 +2708,10 @@
 					<p>Series contains various Newspapers and Magazines collected from other various
 						Environmental Organizations, and a complete collection of Hudson Valley
 						GREEN Times from 1981- 2002.</p>
-					<arrangement>
-						<p>Alphabetically and Chronologically</p>
-					</arrangement>
 				</scopecontent>
+				<arrangement>
+					<p>Alphabetically and Chronologically</p>
+				</arrangement>
 
 				<c02 level="subseries">
 					<did>
@@ -3904,19 +3905,20 @@
 					<unittitle>3. Government, State and Privately Funded Reports and
 						Documents</unittitle>
 					<physdesc>
-						<extent type="size">3.67 linear feet</extent>
+						<extent type="size">3.67 Linear Feet</extent>
 						<extent type="boxes">Boxes: 45 - 52</extent>
-						<extent type="folders">FoldersL 479 - 535</extent>
+						<extent type="folders">Folders: 479 - 535</extent>
 					</physdesc>
 				</did>
 				<scopecontent>
 					<p>Series contains a collection of comprehensive reports and documents funded by
 						various environmental and government organizations which discuss various
 						topics of concern in the environment.</p>
-					<arrangement>
-						<p>Arrangment: By subject</p>
-					</arrangement>
 				</scopecontent>
+				
+				<arrangement>
+					<p>Arrangment: By subject</p>
+				</arrangement>
 				<c02 level="subseries">
 					<did>
 						<unitid>3.1</unitid>
@@ -4462,7 +4464,7 @@
 					<unitid>4</unitid>
 					<unittitle>4. Background materials and Business Files</unittitle>
 					<physdesc>
-						<extent type="size">2 linear feet</extent>
+						<extent type="size">2 Linear Feet</extent>
 						<extent type="boxes">Boxes: 53 - 58</extent>
 						<extent type="folders">Folders: 536 - 623</extent>
 					</physdesc>
@@ -4470,10 +4472,10 @@
 				<scopecontent>
 					<p>Series contains documents pertaining to the formation and development of
 						Hudson Valley GREEN.</p>
-					<arrangement>
-						<p>By subject</p>
-					</arrangement>
 				</scopecontent>
+				<arrangement>
+					<p>By subject</p>
+				</arrangement>
 				<c02 level="subseries">
 					<did>
 						<unitid>4.1</unitid>
@@ -5180,7 +5182,7 @@
 					<unitid>5</unitid>
 					<unittitle>5. Audio-Visual Arrangements</unittitle>
 					<physdesc>
-						<extent type="size">0.33 linear feet</extent>
+						<extent type="size">0.33 Linear Feet</extent>
 						<extent type="boxes">Boxes: 59 - 60</extent>
 						<extent type="folders">Folders: 624 - 636</extent>
 					</physdesc>
@@ -5188,10 +5190,10 @@
 				<scopecontent>
 					<p>Series contains audiotapes and slides gathered and/ or created by Hudson
 						Valley GREEN.</p>
-					<arrangement>
-						<p>Arrangment: By subject</p>
-					</arrangement>
 				</scopecontent>
+				<arrangement>
+					<p>By subject</p>
+				</arrangement>
 				<c02 level="subseries">
 					<did>
 						<unitid>5.1</unitid>
@@ -5320,7 +5322,7 @@
 					<unittitle>6. Archives Files</unittitle>
 
 					<physdesc>
-						<extent type="size">0.67 linear feet</extent>
+						<extent type="size">0.67 Linear Feet</extent>
 						<extent type="boxes">Boxes: 61 - 62</extent>
 						<extent type="folders">Folders: 637 - 657</extent>
 					</physdesc>
@@ -5328,10 +5330,10 @@
 				<scopecontent>
 					<p>Series contains duplicate copies of Hudson Valley GREEN Times and the
 						original clippings from the Clippings Binder.</p>
-					<arrangement>
-						<p>Arrangment: Chronological</p>
-					</arrangement>
 				</scopecontent>
+				<arrangement>
+					<p>Chronological</p>
+				</arrangement>
 				<c02 level="file">
 					<did>
 						<container type="folder">637</container>

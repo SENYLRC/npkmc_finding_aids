@@ -6,7 +6,7 @@
 		<eadid countrycode="US" mainagencycode="US-NPkMC" url="http://www.marist.edu">npkmc_223_105</eadid>
 		<filedesc>
 			<titlestmt>
-				<titleproper>The Scrapbook Collection</titleproper>
+				<titleproper>Scrapbook Collection</titleproper>
 				<author>Ashley Polašèk<![CDATA[&]]> John Ansley, PhD, 2005; Finding Aid Encoded by:
 					Monish M. Singh, 2005; Finding Aid Encoding updated by: Abigail Bowen,
 					2022</author>
@@ -16,7 +16,7 @@
 				<address>
 					<addressline>3399 North Road<lb/>Poughkeepsie, NY 12601<lb/>Phone: 845-575-5217
 						<lb/>Fax: 845-575-3150<lb/>Email: library.archives@marist.edu<lb/>Website:
-						https://library.marist.edu/archives/</addressline>
+						https://archives.marist.edu/</addressline>
 				</address>
 				<date type="publication" normal="2005-05-16">May 16, 2005</date>
 			</publicationstmt>
@@ -40,7 +40,7 @@
 
 	<archdesc level="collection">
 		<did>
-			<unittitle>The Scrapbook Collection</unittitle>
+			<unittitle>Scrapbook Collection</unittitle>
 			<unitid countrycode="US" repositorycode="US-NPkMC">NPKMC-223-105</unitid>
 			<unitdate type="inclusive" normal="1931/1968">1931 - 1968</unitdate>
 			<physdesc>
@@ -112,9 +112,9 @@
 					<unittitle>1. Concert Program Scrapbooks</unittitle>
 
 					<physdesc>
-						<extent type="size">1 linear foot</extent>
-						<extent type="boxes">1 - 2</extent>
-						<extent type="items">1 - 8</extent>
+						<extent type="size">1 Linear Foot</extent>
+						<extent type="boxes">Boxes: 1 - 2</extent>
+						<extent type="items">Items: 1 - 8</extent>
 					</physdesc>
 				</did>
 				<scopecontent>
@@ -124,10 +124,11 @@
 						Productions, Carnegie Hall Performances, The Hudson Valley Philharmonic
 						Orchestra, and others. The scrapbooks also contain newspaper clippings that
 						are related to the concerts and performers.</p>
-					<arrangement>
-						<p>Chronological</p>
-					</arrangement>
 				</scopecontent>
+				
+				<arrangement>
+					<p>Chronological</p>
+				</arrangement>
 				<c02 level="item">
 					<did>
 						<unitid>1</unitid>
@@ -192,9 +193,9 @@
 					<unittitle>2. Baseball Scrapbooks</unittitle>
 
 					<physdesc>
-						<extent type="size">1 linear foot</extent>
-						<extent type="boxes">3 - 4</extent>
-						<extent type="items">9 - 11</extent>
+						<extent type="size">1 Linear Foot</extent>
+						<extent type="boxes">Boxes: 3 - 4</extent>
+						<extent type="items">Items: 9 - 11</extent>
 					</physdesc>
 				</did>
 				<scopecontent>
@@ -203,10 +204,11 @@
 						and photographs about Baseball. Many of the articles relate specifically
 						Elmer Steele, who originally played 1st base for the Poughkeepsie Baseball
 						team. The scrapbooks also contain telegrams and color postcards.</p>
-					<arrangement>
-						<p>Chronological</p>
-					</arrangement>
 				</scopecontent>
+				
+				<arrangement>
+					<p>Chronological</p>
+				</arrangement>
 				<c02 level="item">
 					<did>
 						<unitid>9</unitid>

@@ -17,7 +17,7 @@
 					<addressline>3399 North Road <lb/>Poughkeepsie, NY 12601 <lb/>Phone:
 						845-575-5217 <lb/>Fax: 845-575-3150 <lb/>&gt;Email:
 						library.archives@marist.edu<lb/>Website:
-						https://library.marist.edu/archives/</addressline>
+						https://archives.marist.edu/</addressline>
 				</address>
 				<date type="publication" normal="2007-01">January 2007</date>
 			</publicationstmt>
@@ -120,9 +120,9 @@
 					<unittitle>1. Marist Memorabilia</unittitle>
 
 					<physdesc>
-						<extent type="size">1.5 linear feet</extent>
 						<extent type="boxes">Boxes: 1 - 2</extent>
 						<extent type="folders">Folders: 1 - 7</extent>
+						<extent type="size">Items 8 - 15</extent>
 					</physdesc>
 				</did>
 				<scopecontent>

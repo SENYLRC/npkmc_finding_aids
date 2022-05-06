@@ -17,7 +17,7 @@
 				<address>
 					<addressline>3399 North Road<lb/>Poughkeepsie, NY 12601<lb/>Phone:
 						845-575-5217<lb/>Fax: 845-575-3150<lb/>Email: library.archives@marist.edu<lb/>Website:
-						https://library.marist.edu/archives/</addressline>
+						https://archives.marist.edu/</addressline>
 				</address>
 				<date type="publication" normal="2003">Spring, 2003</date>
 			</publicationstmt>
@@ -126,7 +126,7 @@
 		</bioghist>
 		<arrangement>
 			<head>Arrangement of the Collection</head>
-			<p>These records are organized into 3 series: 1. Testimony, 2. Legal Briefs, and 3.
+			<p>These records are organized into three series: 1. Testimony, 2. Legal Briefs, and 3.
 				Studies, Publicity Materials, and Stenographer’s Reports.</p>
 			<p>Series are arranged chronologically or by volume number</p>
 		</arrangement>
@@ -136,7 +136,7 @@
 					<unitid>1</unitid>
 					<unittitle>1. Testimony</unittitle>
 					<physdesc>
-						<extent type="size">0.30 linear feet</extent>
+						<extent type="size">0.30 Linear Feet</extent>
 						<extent type="boxes">Boxes: 1</extent>
 						<extent type="folders">Folders: 1 - 5</extent>
 					</physdesc>
@@ -191,7 +191,7 @@
 					<unitid>2</unitid>
 					<unittitle>2. Legal Briefs</unittitle>
 					<physdesc>
-						<extent type="size">0.30 linear feet</extent>
+						<extent type="size">0.30 Linear Feet</extent>
 						<extent type="boxes">2</extent>
 						<extent type="folders">6 - 17</extent>
 					</physdesc>
@@ -307,7 +307,7 @@
 					<unittitle>3. Studies, Publicity Materials, and Stenographer’s Reports</unittitle>
 
 					<physdesc>
-						<extent type="size">1.5 linear feet</extent>
+						<extent type="size">1.5 Linear Feet</extent>
 						<extent type="boxes">3 - 7</extent>
 						<extent type="folders">18 - 39</extent>
 					</physdesc>

@@ -17,7 +17,7 @@
 					<addressline>3399 North Road <lb/>Poughkeepsie, NY 12601 <lb/>Phone:
 						845-575-5217 <lb/>Fax: 845-575-3150 <lb/>Email:
 						library.archives@marist.edu<lb/>Website:
-						https://library.marist.edu/archives/</addressline>
+						https://archives.marist.edu/</addressline>
 				</address>
 				<date type="publication" normal="2005">Spring 2005</date>
 			</publicationstmt>
@@ -38,7 +38,7 @@
 	<!-- Archival Description portion of EAD -->
 	<archdesc level="collection">
 		<did>
-			<unittitle>SGeraldine Geller Collection</unittitle>
+			<unittitle>Geraldine Geller Collection</unittitle>
 			<unitid countrycode="US" repositorycode="US-NPkMC">NPkMC-222-116</unitid>
 			<unitdate type="inclusive" normal="1920/1950">1920's – 1950's</unitdate>
 			<physdesc>
@@ -136,7 +136,7 @@
 						1940s.</p>
 				</scopecontent>
 				<arrangement>
-					<p>Sub series ordered by subject and contents ordered alphabetically</p>
+					<p>Subseries ordered by subject and contents ordered alphabetically</p>
 				</arrangement>
 				<c02 level="subseries">
 					<did>
@@ -233,7 +233,6 @@
 						<unitid>1.3</unitid>
 						<unittitle>Subseries 1.3: Food and Household Products</unittitle>
 						<physdesc>
-							<extent type="size">1.25 Linear Feet</extent>
 							<extent type="boxes">Box: 1</extent>
 							<extent type="folders">Folders: 10 - 15</extent>
 						</physdesc>
@@ -744,7 +743,7 @@
 						and 1950s on people, events, and other miscellaneous subjects.</p>
 				</scopecontent>
 				<arrangement>
-					<p>Sub Series are ordered by subject and contents ordered alphabetically.</p>
+					<p>Subseries are ordered by subject and contents ordered alphabetically.</p>
 				</arrangement>
 				<c02 level="subseries">
 					<did>

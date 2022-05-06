@@ -6,7 +6,7 @@
 		<eadid countrycode="US" mainagencycode="US-NPkMC" url="http://www.marist.edu">npkmc_222_092</eadid>
 		<filedesc>
 			<titlestmt>
-				<titleproper>The Walt Hawver Collection</titleproper>
+				<titleproper>Walt Hawver Collection</titleproper>
 				<author>Ashley Polašèk<![CDATA[&]]> John Ansley, PhD, 2005; Finding Aid Encoded by:
 					Monish M. Singh, 2005; Finding Aid Encoding updated by: Connor Johnson,
 					2022</author>
@@ -17,7 +17,7 @@
 				<address>
 					<addressline>3399 North Road <lb/>Poughkeepsie, NY 12601 <lb/> &gt;Phone:
 						845-575-5217 <lb/>Fax: 845-575-3150 <lb/>Email: library.archives@marist.edu<lb/>Website:
-						https://library.marist.edu/archives/</addressline>
+						https://archives.marist.edu/</addressline>
 				</address>
 				<date type="publication" normal="2005-03-07">March 7, 2005</date>
 			</publicationstmt>
@@ -38,7 +38,7 @@
 	<!-- Archival Description portion of EAD -->
 	<archdesc level="collection">
 		<did>
-			<unittitle>The Walt Hawver Collection</unittitle>
+			<unittitle>Walt Hawver Collection</unittitle>
 			<unitid countrycode="US" repositorycode="US-NPkMC">NPkMC-222-092</unitid>
 			<unitdate type="inclusive" normal="1939/1998">1939 - 1998</unitdate>
 			<physdesc>
@@ -121,8 +121,8 @@
 					<unitid>1</unitid>
 					<unittitle>1. Early Albany: 1939-1977</unittitle>
 					<physdesc>
-						<extent type="boxes">1</extent>
-						<extent type="folders">1 - 26</extent>
+						<extent type="boxes">Box: 1</extent>
+						<extent type="folders">Folders: 1 - 26</extent>
 					</physdesc>
 				</did>
 				<scopecontent>
@@ -323,8 +323,8 @@
 					<unitid>2</unitid>
 					<unittitle>2. Minorities and Drug Policy</unittitle>
 					<physdesc>
-						<extent type="boxes">1</extent>
-						<extent type="folders">27 - 33</extent>
+						<extent type="boxes">Box: 1</extent>
+						<extent type="folders">Folders: 27 - 33</extent>
 					</physdesc>
 				</did>
 				<scopecontent>
@@ -393,8 +393,8 @@
 					<unittitle>3. Labor Strikes, the Fort Worth Star-Telegram and the Gathering of
 						Small Papers</unittitle>
 					<physdesc>
-						<extent type="boxes">2</extent>
-						<extent type="folders">34 - 64</extent>
+						<extent type="boxes">Box: 2</extent>
+						<extent type="folders">Folders: 34 - 64</extent>
 					</physdesc>
 				</did>
 				<scopecontent>
@@ -633,8 +633,8 @@
 					<unittitle>4. Purchase of Television Properties: WKBW Buffalo, WPVI Philadelphia,
 						KFSN Fresno, WTNH New Haven, WTVD Durham</unittitle>
 					<physdesc>
-						<extent type="boxes">2</extent>
-						<extent type="folders">65 - 96</extent>
+						<extent type="boxes">Box: 2</extent>
+						<extent type="folders">Folders: 65 - 96</extent>
 					</physdesc>
 				</did>
 				<scopecontent>
@@ -877,8 +877,8 @@
 					<unittitle>5. The Kansas City Star/Times, Fairchild Publications and Capital Cities
 						Radio</unittitle>
 					<physdesc>
-						<extent type="boxes">3</extent>
-						<extent type="folders">97 - 127</extent>
+						<extent type="boxes">Box: 3</extent>
+						<extent type="folders">Folders: 97 - 127</extent>
 					</physdesc>
 				</did>
 				<scopecontent>
@@ -1116,8 +1116,8 @@
 					<unitid>6</unitid>
 					<unittitle>6. The Acquisition of KTRK in 1970</unittitle>
 					<physdesc>
-						<extent type="boxes">3</extent>
-						<extent type="folders">128 - 146</extent>
+						<extent type="boxes">Box: 3</extent>
+						<extent type="folders">Folders: 128 - 146</extent>
 					</physdesc>
 				</did>
 				<scopecontent>
@@ -1266,8 +1266,8 @@
 					<unitid>7</unitid>
 					<unittitle>7. Marvin Zindler</unittitle>
 					<physdesc>
-						<extent type="boxes">3</extent>
-						<extent type="folders">147 - 163</extent>
+						<extent type="boxes">Box: 3</extent>
+						<extent type="folders">Folders: 147 - 163</extent>
 					</physdesc>
 				</did>
 				<scopecontent>
@@ -1275,7 +1275,7 @@
 						articles about Capital Cities Employee Marvin Zindler.</p>
 				</scopecontent>
 				<arrangement>
-					<p>Arrangemnet: By subject</p>
+					<p>By subject</p>
 				</arrangement>
 				<c02 level="file">
 					<did>
@@ -1397,8 +1397,8 @@
 					<unitid>8</unitid>
 					<unittitle>8. Television History</unittitle>
 					<physdesc>
-						<extent type="boxes">4</extent>
-						<extent type="folders">163 - 193</extent>
+						<extent type="boxes">Box: 4</extent>
+						<extent type="folders">Folders: 163 - 193</extent>
 					</physdesc>
 				</did>
 				<scopecontent>
@@ -1643,8 +1643,8 @@
 					<unitid>9</unitid>
 					<unittitle>9. ABC and Disney</unittitle>
 					<physdesc>
-						<extent type="boxes">5</extent>
-						<extent type="folders">194 - 201</extent>
+						<extent type="boxes">Box: 5</extent>
+						<extent type="folders">Folders: 194 - 201</extent>
 					</physdesc>
 				</did>
 				<arrangement>
@@ -1712,8 +1712,8 @@
 						through 1994</unittitle>
 					<unitdate normal="1955/1995">1955 - 1995</unitdate>
 					<physdesc>
-						<extent type="boxes">5</extent>
-						<extent type="folders">202 - 279</extent>
+						<extent type="boxes">Box: 5</extent>
+						<extent type="folders">Folders: 202 - 279</extent>
 					</physdesc>
 				</did>
 				<scopecontent>
@@ -2030,8 +2030,8 @@
 					<unitid>11</unitid>
 					<unittitle>11. Ratings and Consultants</unittitle>
 					<physdesc>
-						<extent type="boxes">6</extent>
-						<extent type="folders">245 - 273</extent>
+						<extent type="boxes">Box: 6</extent>
+						<extent type="folders">Folders: 245 - 273</extent>
 					</physdesc>
 				</did>
 				<scopecontent>
@@ -2177,7 +2177,7 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 264</container>
+						<container type="folder">264</container>
 						<unittitle>Society of Professional Journalists National Convention, October
 							19-22, 1989 audio cassette tape 3</unittitle>
 						<container type="box">6</container>
@@ -2185,7 +2185,7 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 265</container>
+						<container type="folder">265</container>
 						<unittitle>Society of Professional Journalists National Convention, October
 							19-22, 1989 audio cassette tape 4</unittitle>
 						<container type="box">6</container>
@@ -2193,7 +2193,7 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 266</container>
+						<container type="folder">266</container>
 						<unittitle>Society of Professional Journalists National Convention, October
 							19-22, 1989 audio cassette tape 6</unittitle>
 						<container type="box">6</container>
@@ -2201,7 +2201,7 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 267</container>
+						<container type="folder">267</container>
 						<unittitle>Society of Professional Journalists National Convention, October
 							19-22, 1989 audio cassette tape 13</unittitle>
 						<container type="box">6</container>
@@ -2209,7 +2209,7 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 268</container>
+						<container type="folder">268</container>
 						<unittitle>Society of Professional Journalists National Convention, October
 							19-22, 1989 audio cassette tape 14</unittitle>
 						<container type="box">6</container>
@@ -2217,7 +2217,7 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 269</container>
+						<container type="folder">269</container>
 						<unittitle>Society of Professional Journalists National Convention, October
 							19-22, 1989 audio cassette tape 17</unittitle>
 						<container type="box">6</container>
@@ -2225,7 +2225,7 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 270</container>
+						<container type="folder">270</container>
 						<unittitle>Society of Professional Journalists National Convention, October
 							19-22,</unittitle>
 						<container type="box">6</container>
@@ -2233,7 +2233,7 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 271</container>
+						<container type="folder">271</container>
 						<unittitle>Society of Professional Journalists National Convention, October
 							19-22, 1989 audio cassette tape 29</unittitle>
 						<container type="box">6</container>
@@ -2241,7 +2241,7 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 272</container>
+						<container type="folder">272</container>
 						<unittitle>Society of Professional Journalists National Convention, October
 							19-22, 1989 audio cassette tape 38</unittitle>
 						<container type="box">6</container>
@@ -2249,7 +2249,7 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 273</container>
+						<container type="folder">273</container>
 						<unittitle>Society of Professional Journalists National Convention, October
 							19-22, 1989 audio cassette tape 3</unittitle>
 						<container type="box">6</container>
@@ -2262,7 +2262,7 @@
 					<unittitle>12. News Consultants</unittitle>
 					<physdesc>
 						<extent type="boxes">Boxes: 7 - 8</extent>
-						<extent type="folders">274 - 349</extent>
+						<extent type="folders">Folders: 274 - 349</extent>
 					</physdesc>
 				</did>
 				<scopecontent>
@@ -2870,8 +2870,8 @@
 					<unittitle>13. KTRK Memorandums</unittitle>
 					<unitdate type="inclusive" normal="1970/1981">1970 - 1981</unitdate>
 					<physdesc>
-						<extent type="boxes">9</extent>
-						<extent type="folders">350 - 356</extent>
+						<extent type="boxes">Box: 9</extent>
+						<extent type="folders">Folders: 350 - 356</extent>
 					</physdesc>
 				</did>
 				<scopecontent>
@@ -2936,8 +2936,8 @@
 					<unittitle>14. Reports, Interview Transcripts and photographs: CCB
 						leadership</unittitle>
 					<physdesc>
-						<extent type="boxes">9</extent>
-						<extent type="folders">357 - 375</extent>
+						<extent type="boxes">Box: 9</extent>
+						<extent type="folders">Folders: 357 - 375</extent>
 					</physdesc>
 				</did>
 				<scopecontent>
@@ -3090,7 +3090,7 @@
 					<unitdate normal="1954/1994">1954 - 1994</unitdate>
 					<physdesc>
 						<extent type="boxes">Boxes: 10 - 11</extent>
-						<extent type="folders">376 - 505</extent>
+						<extent type="folders">Folders: 376 - 505</extent>
 					</physdesc>
 				</did>
 				<scopecontent>
@@ -3109,7 +3109,7 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 377</container>
+						<container type="folder">377</container>
 						<unittitle>Adkins, Luther: executive Vice President- Fort Worth
 							Star-Telegram / Joseph Donth - Star- Telegram 6/3/86</unittitle>
 						<container type="box">10</container>
@@ -3117,7 +3117,7 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 378</container>
+						<container type="folder">378</container>
 						<unittitle>Appleton, Richard: price comm. Executive VP-ex
 							KFSN-WPVI-WTVD</unittitle>
 						<container type="box">10</container>
@@ -3125,63 +3125,63 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 379</container>
+						<container type="folder">379</container>
 						<unittitle>Arcara, Jim: ABC/Cap Cities radio stations 3/1/90</unittitle>
 						<container type="box">10</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 380</container>
+						<container type="folder">380</container>
 						<unittitle>Arcara, Jim: CCB radio11/8/90</unittitle>
 						<container type="box">10</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 381</container>
+						<container type="folder">381</container>
 						<unittitle>Arcara, Jim: executive VP radio- Cap Cities</unittitle>
 						<container type="box">10</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 382</container>
+						<container type="folder">382</container>
 						<unittitle> Ballow, Robert: labor attorney Cap Cities 7/31/86</unittitle>
 						<container type="box">10</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 383</container>
+						<container type="folder">383</container>
 						<unittitle>Berkley, Gary: Bellview, Ill 1/29/91</unittitle>
 						<container type="box">10</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 384</container>
+						<container type="folder">384</container>
 						<unittitle>Beuth, Philip: WKBW- TV Buffalo, NY 1 of 3</unittitle>
 						<container type="box">10</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 385</container>
+						<container type="folder">385</container>
 						<unittitle>Beuth, Philip: WKBW- TV Buffalo, NY 2 of 3</unittitle>
 						<container type="box">10</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 386</container>
+						<container type="folder">386</container>
 						<unittitle>Beuth, Philip: WKBW- TV Buffalo, NY 3 of 3</unittitle>
 						<container type="box">10</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 387</container>
+						<container type="folder">387</container>
 						<unittitle>Beuth, Philip: 9/14/88: re: Fresno / Lois Rasmussen
 							KFSN</unittitle>
 						<container type="box">10</container>
@@ -3189,7 +3189,7 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 388</container>
+						<container type="folder">388</container>
 						<unittitle>Bibb, Dick: Fort Worth Star-Telegram 6/3/86 and Jerry Flemmons:
 							author “Amon” 6/3/86</unittitle>
 						<container type="box">10</container>
@@ -3197,7 +3197,7 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 389</container>
+						<container type="folder">389</container>
 						<unittitle>Blockus, Ray: ed. Page and Tom Bigler: columnist
 							6/10/86</unittitle>
 						<container type="box">10</container>
@@ -3205,21 +3205,21 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 390</container>
+						<container type="folder">390</container>
 						<unittitle>Bradley, Charles: WPVI openings 3/13/86</unittitle>
 						<container type="box">10</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 391</container>
+						<container type="folder">391</container>
 						<unittitle>Buffet, Warren: on Thomas Murphy NAB 4/91</unittitle>
 						<container type="box">10</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 392</container>
+						<container type="folder">392</container>
 						<unittitle>Buffet, Warren: Berkshire Hanthaway, Omaha Nebraska
 							6/16/86</unittitle>
 						<container type="box">10</container>
@@ -3227,21 +3227,21 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 393</container>
+						<container type="folder">393</container>
 						<unittitle>Buffet, Warren: at CCB management meeting</unittitle>
 						<container type="box">10</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 394</container>
+						<container type="folder">394</container>
 						<unittitle>Bures, Paul and Ernie Greup (informal)</unittitle>
 						<container type="box">10</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 395</container>
+						<container type="folder">395</container>
 						<unittitle>Bures, Paul: re: minorities- Durham- reading (off speed)
 							4/15/88</unittitle>
 						<container type="box">10</container>
@@ -3249,7 +3249,7 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 396</container>
+						<container type="folder">396</container>
 						<unittitle>Bures, Paul: general manager WTVD, g.s.m. KTRK
 							7/25/85</unittitle>
 						<container type="box">10</container>
@@ -3257,7 +3257,7 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 397</container>
+						<container type="folder">397</container>
 						<unittitle>Burg, George: Assistant to the publisher Kansas City Star-Times
 							5/20/86</unittitle>
 						<container type="box">10</container>
@@ -3265,35 +3265,35 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 398</container>
+						<container type="folder">398</container>
 						<unittitle>Burke, Dan: president and CEO Cap Cities 7/15/85</unittitle>
 						<container type="box">10</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 399</container>
+						<container type="folder">399</container>
 						<unittitle>Burke, Dan: 6/30/92 (main tape)</unittitle>
 						<container type="box">10</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 400</container>
+						<container type="folder">400</container>
 						<unittitle>Burke, Dan: CCB Managers Meeting Phoenix Comments</unittitle>
 						<container type="box">10</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 401</container>
+						<container type="folder">401</container>
 						<unittitle>Burke, Dan: final, Phoenix 2/10/94</unittitle>
 						<container type="box">10</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 402</container>
+						<container type="folder">402</container>
 						<unittitle>Butler, Jack: retired executive editor Fort Worth Star-Telegram
 							6/2/86</unittitle>
 						<container type="box">10</container>
@@ -3301,14 +3301,14 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 403</container>
+						<container type="folder">403</container>
 						<unittitle>Coady, Michael: Sr. VP- Fairchild 7/29/86</unittitle>
 						<container type="box">10</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 404</container>
+						<container type="folder">404</container>
 						<unittitle>Collins, Gene: operations manager, WTEN-TV Albany, NY.
 							1955-70</unittitle>
 						<container type="box">10</container>
@@ -3316,84 +3316,84 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 405</container>
+						<container type="folder">405</container>
 						<unittitle>Condon, Joe: 40 years of WROW-AM-FM, Albany</unittitle>
 						<container type="box">10</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 406</container>
+						<container type="folder">406</container>
 						<unittitle>Connor, Richard: publisher, times-herald 6/11/86</unittitle>
 						<container type="box">10</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 407</container>
+						<container type="folder">407</container>
 						<unittitle>Cushman, Glen: Oregon News Papers 1/5/91</unittitle>
 						<container type="box">10</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 408</container>
+						<container type="folder">408</container>
 						<unittitle>Daniels, Aaron: pres. ABC radio nets 12/13/90</unittitle>
 						<container type="box">10</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 409</container>
+						<container type="folder">409</container>
 						<unittitle>Dickler, Gerry: NY 9/88</unittitle>
 						<container type="box">10</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 410</container>
+						<container type="folder">410</container>
 						<unittitle>Dickler, Gerry: “rights”/Book 11/2/88</unittitle>
 						<container type="box">10</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 411</container>
+						<container type="folder">411</container>
 						<unittitle>Dickler, Gerry: SECY., Cap Cities 7/28/86</unittitle>
 						<container type="box">10</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 412</container>
+						<container type="folder">412</container>
 						<unittitle>Doerfler, Ron</unittitle>
 						<container type="box">10</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 413</container>
+						<container type="folder">413</container>
 						<unittitle>Doerfler, Ron: 6/29/92</unittitle>
 						<container type="box">10</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 414</container>
+						<container type="folder">414</container>
 						<unittitle>Doerfler, Ron: Chief finance officer- CCC 3/1/90</unittitle>
 						<container type="box">10</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 415</container>
+						<container type="folder">415</container>
 						<unittitle>Doerfler, Ron: Chief finance ABC 12/14/90</unittitle>
 						<container type="box">10</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 416</container>
+						<container type="folder">416</container>
 						<unittitle>Dougherty, Joseph: President CCC Inc Broadcast Division NY
 							7/18/85</unittitle>
 						<container type="box">10</container>
@@ -3401,84 +3401,84 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 417</container>
+						<container type="folder">417</container>
 						<unittitle>Dougherty, Joseph: 5/17/90 (1 of 2)</unittitle>
 						<container type="box">10</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 418</container>
+						<container type="folder">418</container>
 						<unittitle>Dougherty, Joseph: 5/17/90 (2 of 2)</unittitle>
 						<container type="box">10</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 419</container>
+						<container type="folder">419</container>
 						<unittitle>Duncan, Dale: editor, Wilkes-Barre Times-Herald 6/86</unittitle>
 						<container type="box">10</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 420</container>
+						<container type="folder">420</container>
 						<unittitle>Edwards, Marc: KFSN Fresno 7/25/88</unittitle>
 						<container type="box">10</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 421</container>
+						<container type="folder">421</container>
 						<unittitle>Fairchild, John: 2/28/90</unittitle>
 						<container type="box">10</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 422</container>
+						<container type="folder">422</container>
 						<unittitle>Fletcher, Floyd: WTVD 7/24/85</unittitle>
 						<container type="box">10</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 423</container>
+						<container type="folder">423</container>
 						<unittitle>Fletcher, Floyd: WTVD Durham 7/26/85 (1 of 2)</unittitle>
 						<container type="box">10</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 424</container>
+						<container type="folder">424</container>
 						<unittitle>Fletcher, Floyd: WTVD Durham 7/26/85 (2 of 2)</unittitle>
 						<container type="box">10</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 425</container>
+						<container type="folder">425</container>
 						<unittitle>Fisher, Jim: K.C. columnist 5/21/86 (1 of 2)</unittitle>
 						<container type="box">10</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 426</container>
+						<container type="folder">426</container>
 						<unittitle>Fisher, Jim and Palmer/ Baker KC 5/21/86 (2 of 2)</unittitle>
 						<container type="box">10</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 427</container>
+						<container type="folder">427</container>
 						<unittitle>Fitzgerald, Ruth: Ex. secretary of Murphy 12/14/90</unittitle>
 						<container type="box">10</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 428</container>
+						<container type="folder">428</container>
 						<unittitle>Goldman, Harry: original general manager and part owner WROW-TV
 							and WROW radio, Albany NY</unittitle>
 						<container type="box">10</container>
@@ -3486,7 +3486,7 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 429</container>
+						<container type="folder">429</container>
 						<unittitle>Golias, Paul: Managing Editor- Citizens Voice WBPA
 							6/11/86</unittitle>
 						<container type="box">10</container>
@@ -3494,49 +3494,49 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 430</container>
+						<container type="folder">430</container>
 						<unittitle>Greup, Ernie: Ed Wall WTVD- Durham (phone) 7/25/88</unittitle>
 						<container type="box">10</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 431</container>
+						<container type="folder">431</container>
 						<unittitle>Greup, Ernie: WTVD 7/25/85</unittitle>
 						<container type="box">10</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 432</container>
+						<container type="folder">432</container>
 						<unittitle>Greup, Ernie; Miriam Bly 7/25/85</unittitle>
 						<container type="box">10</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 433</container>
+						<container type="folder">433</container>
 						<unittitle>Griffith, Bill: M.E. Times leader 6/10/86</unittitle>
 						<container type="box">10</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 434</container>
+						<container type="folder">434</container>
 						<unittitle>Hale, Jim: publisher Kansas City Star-Times 5/20/86</unittitle>
 						<container type="box">10</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 435</container>
+						<container type="folder">435</container>
 						<unittitle>Jackson, Andy: VP, Cap Cities 7/29/86</unittitle>
 						<container type="box">10</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 436</container>
+						<container type="folder">436</container>
 						<unittitle>Jackson, Andy: VP, community relations, CCC NYC- 2/27/90 and
 							Gerry Dickler</unittitle>
 						<container type="box">10</container>
@@ -3544,7 +3544,7 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 437</container>
+						<container type="folder">437</container>
 						<unittitle>James, Bill: WJR general manager, Cap Cities Cable president
 							1969-86</unittitle>
 						<container type="box">10</container>
@@ -3552,14 +3552,14 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 438</container>
+						<container type="folder">438</container>
 						<unittitle>Johnson, Ken: re: KTRK 1970-85 8/12/85</unittitle>
 						<container type="box">10</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 439</container>
+						<container type="folder">439</container>
 						<unittitle>Johnson, Ken: KTRK pres/general manager 5/15/85 re: Buffalo
 							1961-65/Albany 1965-70</unittitle>
 						<container type="box">10</container>
@@ -3567,7 +3567,7 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 440</container>
+						<container type="folder">440</container>
 						<unittitle>Keller, Charles: CCC Vice president, special projects
 							3/13/86</unittitle>
 						<container type="box">10</container>
@@ -3575,14 +3575,14 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 441</container>
+						<container type="folder">441</container>
 						<unittitle>Keller, Charles: Cap Cities/ABC 11/8/90</unittitle>
 						<container type="box">10</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 442</container>
+						<container type="folder">442</container>
 						<unittitle>Kuykendall, Faires: Forth Worth Star-Telegram circulation
 							director 1938-83</unittitle>
 						<container type="box">10</container>
@@ -3590,7 +3590,7 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 443</container>
+						<container type="folder">443</container>
 						<unittitle>Leighton, George: announcer WROW-WTEN-TV Albany
 							1950-70</unittitle>
 						<container type="box">10</container>
@@ -3598,7 +3598,7 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 444</container>
+						<container type="folder">444</container>
 						<unittitle>Lesko, Emil, Charley Schilling: printers and Babe Knapp
 							6/10/86</unittitle>
 						<container type="box">10</container>
@@ -3606,7 +3606,7 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 445</container>
+						<container type="folder">445</container>
 						<unittitle>Lynch, Richard: Sr. VP, Fairchild also Wilkes-Barre strike
 							7/29/86</unittitle>
 						<container type="box">10</container>
@@ -3614,7 +3614,7 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 446</container>
+						<container type="folder">446</container>
 						<unittitle>Marshall, Pluria: National Black Media Coalition 7/22/86 and Pete
 							Hoffman: McHugh Hoffman Fairfax, Va., 7/22/86</unittitle>
 						<container type="box">10</container>
@@ -3622,21 +3622,21 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 447</container>
+						<container type="folder">447</container>
 						<unittitle>Marshall, Pluria: National Black Media Coalition</unittitle>
 						<container type="box">10</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 448</container>
+						<container type="folder">448</container>
 						<unittitle>Masucci, Jim: re: KTRK 70-85 8/12/85</unittitle>
 						<container type="box">10</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 449</container>
+						<container type="folder">449</container>
 						<unittitle>Masucci, Jim: CCB VP Programming. KTRK- Operations Manager.
 							Albany 1956-70 5/15/85</unittitle>
 						<container type="box">10</container>
@@ -3644,21 +3644,21 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 450</container>
+						<container type="folder">450</container>
 						<unittitle>Matson, Patti: 6/26/90</unittitle>
 						<container type="box">10</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 451</container>
+						<container type="folder">451</container>
 						<unittitle>McCurdy, Gene: WPHL Phil., ex WPVI-TV</unittitle>
 						<container type="box">10</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 452</container>
+						<container type="folder">452</container>
 						<unittitle>McGovern, Philip: Senior VP Fairchild/Cap Cities
 							7/29/86</unittitle>
 						<container type="box">10</container>
@@ -3666,63 +3666,63 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 453</container>
+						<container type="folder">453</container>
 						<unittitle>McGuff, Joe: editor, Kansas City Star Times 5/20/86</unittitle>
 						<container type="box">10</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 454</container>
+						<container type="folder">454</container>
 						<unittitle>McIntyre, Bruce: 10/14/91</unittitle>
 						<container type="box">10</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 455</container>
+						<container type="folder">455</container>
 						<unittitle>McIntyre, Bruce: Oakland press 1/30/91</unittitle>
 						<container type="box">10</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 456</container>
+						<container type="folder">456</container>
 						<unittitle>Meek, Philip: pres publishing 12/13/90</unittitle>
 						<container type="box">10</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 457</container>
+						<container type="folder">457</container>
 						<unittitle>Meek, Philip: Fort Worth Star-Telegram 6/3/86</unittitle>
 						<container type="box">10</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 458</container>
+						<container type="folder">458</container>
 						<unittitle>Meek, Philip: Fort Worth/other 6/3/86</unittitle>
 						<container type="box">10</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 459</container>
+						<container type="folder">459</container>
 						<unittitle>Meek, Philip: pres/publishing CCC NYC 2/27/90</unittitle>
 						<container type="box">10</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 460</container>
+						<container type="folder">460</container>
 						<unittitle>Miller, Jon: operations manager, WTVD formerly WPVI</unittitle>
 						<container type="box">10</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 461</container>
+						<container type="folder">461</container>
 						<unittitle>Miller, Jon: Q-101 WJDQ Meridian, Miss. Meridian Advertiser Paper
 							commercial announcement. 30 sec.</unittitle>
 						<container type="box">10</container>
@@ -3730,14 +3730,14 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 462</container>
+						<container type="folder">462</container>
 						<unittitle>Miller, Jon</unittitle>
 						<container type="box">10</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 463</container>
+						<container type="folder">463</container>
 						<unittitle>Moore, Art: director, promotion WPVI, Philadelphia
 							3/14/86</unittitle>
 						<container type="box">10</container>
@@ -3745,42 +3745,42 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 464</container>
+						<container type="folder">464</container>
 						<unittitle>Murphy, Thomas: (Back Up) copy</unittitle>
 						<container type="box">10</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 465</container>
+						<container type="folder">465</container>
 						<unittitle>Murphy, Thomas: 6/29/92</unittitle>
 						<container type="box">10</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 466</container>
+						<container type="folder">466</container>
 						<unittitle>Murphy, Thomas: 10/31/85</unittitle>
 						<container type="box">10</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 467</container>
+						<container type="folder">467</container>
 						<unittitle>Murphy, Thomas: Phoenix Jan 1985</unittitle>
 						<container type="box">10</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 468</container>
+						<container type="folder">468</container>
 						<unittitle>Murphy, Thomas: IRTS: honor 1990</unittitle>
 						<container type="box">10</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 469</container>
+						<container type="folder">469</container>
 						<unittitle>Nesbitt, Alan: pres-general manager WTVD re: WPVI-TV
 							1975-1986</unittitle>
 						<container type="box">10</container>
@@ -3788,28 +3788,28 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 470</container>
+						<container type="folder">470</container>
 						<unittitle>Nesbitt, Alan: WPVI Experiences 1988</unittitle>
 						<container type="box">10</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 471</container>
+						<container type="folder">471</container>
 						<unittitle>Nesbitt, Alan: (WKBW years) / Jim Fisher, KC Star</unittitle>
 						<container type="box">10</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 472</container>
+						<container type="folder">472</container>
 						<unittitle>Newby, Charles: re: Wilkes Barre Strike 6/3/86</unittitle>
 						<container type="box">10</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 473</container>
+						<container type="folder">473</container>
 						<unittitle>Orne, Peter: pres-general manager WTNH, New Haven, Conn 1971-85
 							(1 of 2)</unittitle>
 						<container type="box">10</container>
@@ -3817,35 +3817,35 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 474</container>
+						<container type="folder">474</container>
 						<unittitle>Orne, Peter: (2 of 2)</unittitle>
 						<container type="box">10</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 475</container>
+						<container type="folder">475</container>
 						<unittitle>Palmer, Cruise/Bill W.W. Baker: 5/21/86 KC Star Times</unittitle>
 						<container type="box">10</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 476</container>
+						<container type="folder">476</container>
 						<unittitle>Peebles, Bob: WROW, Albany, NY 1959-85</unittitle>
 						<container type="box">10</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 477</container>
+						<container type="folder">477</container>
 						<unittitle>Pengelly, Allen/Dave Ward: early KTRK</unittitle>
 						<container type="box">10</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 479</container>
+						<container type="folder">479</container>
 						<unittitle>Pogan, Charles “gig”: VP Programming - cap cities, program
 							director WTEN-TV 19__-71</unittitle>
 						<container type="box">10</container>
@@ -3853,35 +3853,35 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 480</container>
+						<container type="folder">480</container>
 						<unittitle>Pollack, Larry: WPVI pres- 1975-86</unittitle>
 						<container type="box">10</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 481</container>
+						<container type="folder">481</container>
 						<unittitle>Pollack, Larry: WPVI pres- 1975-86 (backup)</unittitle>
 						<container type="box">10</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 482</container>
+						<container type="folder">482</container>
 						<unittitle>Potash, Warren: RAB/NY- 11/9/90</unittitle>
 						<container type="box">10</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 483</container>
+						<container type="folder">483</container>
 						<unittitle>Quello, James: FCC Commissioner 7/21/86</unittitle>
 						<container type="box">10</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 484</container>
+						<container type="folder">484</container>
 						<unittitle>Rosenbloom, Joel and Roger Wallenburg, Wilmer, Cutler, and
 							Pirckering: Cap Cities FCC attorneys, Wash. 7/23/86</unittitle>
 						<container type="box">10</container>
@@ -3889,7 +3889,7 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 485</container>
+						<container type="folder">485</container>
 						<unittitle>Rosenblum, Marty: Sr. VP, Fairchild (40 yr employee)
 							7/29/86</unittitle>
 						<container type="box">10</container>
@@ -3897,7 +3897,7 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 486</container>
+						<container type="folder">486</container>
 						<unittitle>Schiffman, Ben: financial officer Kansas Star-Times,
 							retired</unittitle>
 						<container type="box">10</container>
@@ -3905,49 +3905,49 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 487</container>
+						<container type="folder">487</container>
 						<unittitle>Schiffman, Ben: KC (backup)</unittitle>
 						<container type="box">10</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 488</container>
+						<container type="folder">488</container>
 						<unittitle>Schrutt, Norm: 10/24/91</unittitle>
 						<container type="box">10</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 489</container>
+						<container type="folder">489</container>
 						<unittitle>Schrutt, Norm: Phone/Atlanta: 1/2/91</unittitle>
 						<container type="box">10</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 490</container>
+						<container type="folder">490</container>
 						<unittitle>Sias, John: pres CCC/ABC 3/12/80</unittitle>
 						<container type="box">10</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 491</container>
+						<container type="folder">491</container>
 						<unittitle>Sias, John: pres ABC-TV net 12/13/90</unittitle>
 						<container type="box">10</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 492</container>
+						<container type="folder">492</container>
 						<unittitle>Somerset, Joseph: ex VP radio Cap Cities 1974</unittitle>
 						<container type="box">10</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 493</container>
+						<container type="folder">493</container>
 						<unittitle>Sullivan, Lil: receptionist 1952-77 WTNH and D. Carmen Iannucci,
 							chief engineer 1951-83 WTNH</unittitle>
 						<container type="box">10</container>
@@ -3955,7 +3955,7 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 494</container>
+						<container type="folder">494</container>
 						<unittitle>Tinsley, Jack: exec ed. Fort Worth Star-Telegram
 							6/2/86</unittitle>
 						<container type="box">10</container>
@@ -3963,28 +3963,28 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 495</container>
+						<container type="folder">495</container>
 						<unittitle>Udzilla, Ted and Jane</unittitle>
 						<container type="box">10</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 496</container>
+						<container type="folder">496</container>
 						<unittitle>Udzilla, Ted and Joe Schocklee: 6/10/86</unittitle>
 						<container type="box">10</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 497</container>
+						<container type="folder">497</container>
 						<unittitle>Vartigan, Ralph: announcer WTEN-TV Albany 1953-70</unittitle>
 						<container type="box">10</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 498</container>
+						<container type="folder">498</container>
 						<unittitle>Walbridge, Bill: KTRK<![CDATA[&]]> Cap Cities Corporate
 							7/10/85</unittitle>
 						<container type="box">10</container>
@@ -3992,21 +3992,21 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 499</container>
+						<container type="folder">499</container>
 						<unittitle>Watlach, Bob: pre-press manager T-L 6/10/86</unittitle>
 						<container type="box">10</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 500</container>
+						<container type="folder">500</container>
 						<unittitle>Wienstein, Irv: anchor WKBW TV 1964-85</unittitle>
 						<container type="box">10</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 501</container>
+						<container type="folder">501</container>
 						<unittitle>Wilkes Barre Strike: Readings, news stories, documents, 1 of
 							2</unittitle>
 						<container type="box">10</container>
@@ -4014,7 +4014,7 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 502</container>
+						<container type="folder">502</container>
 						<unittitle>Wilkes Barre Strike: Readings, news stories, documents, 2 of
 							2</unittitle>
 						<container type="box">10</container>
@@ -4022,7 +4022,7 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 503</container>
+						<container type="folder">503</container>
 						<unittitle>WROW/WTEN reunion: 6/3/94 / State Museum Vartigan/Collins
 							Hawver</unittitle>
 						<container type="box">10</container>
@@ -4030,7 +4030,7 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 504</container>
+						<container type="folder">504</container>
 						<unittitle>WTVD: 1) Peggy Mann 2) Marie Brown 3) Ervin Hester 4) Miriam Bly
 							7/25/85</unittitle>
 						<container type="box">10</container>
@@ -4038,7 +4038,7 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Item 505</container>
+						<container type="folder">505</container>
 						<unittitle>Zenick, Gerald: Associate ME 1968-present: Wilkes Barre Fort
 							Worth Star- Telegram Strike 6/2/86</unittitle>
 						<container type="box">10</container>
@@ -4050,8 +4050,8 @@
 					<unitid>16</unitid>
 					<unittitle>16. Capital Cities/ABC: the Early Years: 1954-1986 Edits</unittitle>
 					<physdesc>
-						<extent type="boxes">11</extent>
-						<extent type="folders">506 - 531</extent>
+						<extent type="boxes">Box: 11</extent>
+						<extent type="folders">Folders: 506 - 531</extent>
 					</physdesc>
 				</did>
 				<scopecontent>
@@ -4278,8 +4278,8 @@
 					<unittitle>17. Capital Cities/ABC: the Early Years: 1954-1986 Questions, Suggestions
 						and Correspondence</unittitle>
 					<physdesc>
-						<extent type="boxes">11</extent>
-						<extent type="folders">532 - 551</extent>
+						<extent type="boxes">Box: 11</extent>
+						<extent type="folders">Folders: 532 - 551</extent>
 					</physdesc>
 				</did>
 				<scopecontent>
@@ -4457,8 +4457,8 @@
 					<unittitle>18. Drafts and rewrites of Chapters 1-10 and chapter 18 of Capital
 						Cities/ABC: The Early Years: 1954-1986</unittitle>
 					<physdesc>
-						<extent type="boxes">11</extent>
-						<extent type="folders">552 - 566</extent>
+						<extent type="boxes">Box: 11</extent>
+						<extent type="folders">Folders: 552 - 566</extent>
 					</physdesc>
 				</did>
 				<scopecontent>
@@ -4525,8 +4525,8 @@
 					<unittitle>19. Miscellany</unittitle>
 					<unitdate type="inclusive" normal="1939/1998">1953 - 1983</unitdate>
 					<physdesc>
-						<extent type="boxes">12</extent>
-						<extent type="folders">567 - 586</extent>
+						<extent type="boxes">Box: 12</extent>
+						<extent type="folders">Folders: 567 - 586</extent>
 					</physdesc>
 				</did>
 				<scopecontent>

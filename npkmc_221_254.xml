@@ -17,7 +17,7 @@
 					<addressline>3399 North Road <lb/>Poughkeepsie, NY 12601 <lb/>Phone:
 						845-575-5217 <lb/>Fax: 845-575-3150 <lb/>Email:
 						library.archives@marist.edu<lb/>Website:
-						https://library.marist.edu/archives/</addressline>
+						https://archives.marist.edu/</addressline>
 				</address>
 				<date type="publication" normal="2004-06-28">June 28, 2004</date>
 			</publicationstmt>
@@ -117,16 +117,15 @@
 		<relatedmaterial>
 			<head>Related Collections</head>
 			<list type="marked">
-				<item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.empireadc.org/search/catalog/npkmc_222_158" xlink:title="The Grim Collection: Hudson River Fisheries Investigation, 1965 - 1968" xlink:actuate="onRequest" xlink:show="new"/></item>
+				<item>The Grim Collection: Hudson River Fisheries Investigation, 1965 - 1968&gt;</item>
 				<item>Hudson River Environmental Society Library</item>
-				<item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.empireadc.org/search/catalog/npkmc_221_0102" xlink:title="Hudson River Valley Commission Collection: Records Relating to the Storm King Case, 1966 – 1967" xlink:actuate="onRequest" xlink:show="new"/></item>
-				<item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.empireadc.org/search/catalog/npkmc_222_082" xlink:title="On the River Collection, 1986 - 1993" xlink:actuate="onRequest" xlink:show="new"/></item>
-				<!-->Scenic Hudson, Inc. Collection-->
-				<item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.empireadc.org/search/catalog/npkmc_222_083" xlink:title="Scenic Hudson Decision Hearings Transcripts Collection, 1977- 1980" xlink:actuate="onRequest" xlink:show="new"/></item>
-				<item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.empireadc.org/search/catalog/npkmc_222_094" xlink:title="Alexander Saunders Papers: Records Relating to the Storm King Case, 1962 - 1966" xlink:actuate="onRequest" xlink:show="new"/></item>
-				<!--The Seymour Collection-->
-				<item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.empireadc.org/search/catalog/npkmc_222_081" xlink:title="Senator and Mrs. Whitney N. Seymour Jr. Papers: Records      Relating to the Storm King Case, 1962-1978" xlink:actuate="onRequest" xlink:show="new"/></item>
-				<item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="hhttps://www.empireadc.org/search/catalog/npkmc_222_181" xlink:title="Hudson Valley GREEN Collection, 1981 - 2002" xlink:actuate="onRequest" xlink:show="new"/></item>
+				<item>Hudson River Valley Commission Collection: Records Relating to the Storm King Case, 1966 – 1967</item>
+				<item>On the River Collection, 1986 - 1993</item>
+				<item>Scenic Hudson Decision Hearings Transcripts Collection, 1977- 1980</item>
+				<item>Alexander Saunders Papers: Records Relating to the Storm King Case, 1962 - 1966</item>
+				<item>Senator and Mrs. Whitney N. Seymour Jr. Papers: Records
+					Relating to the Storm King Case, 1962-1978</item>
+				<item>Hudson Valley GREEN Collection, 1981 - 2002</item>
 			</list>
 		</relatedmaterial>
 		<prefercite>
@@ -150,10 +149,9 @@
 			<c01 level="series">
 				<did>
 					<unitid>1</unitid>
-					<unittitle>Background Material</unittitle>
-					<!--					<unitdate normal="yyyy/yyyy">yyyy-yyyy</unitdate>-->
+					<unittitle>1. Background Material</unittitle>
 					<physdesc>
-						<extent type="size">0.67 linear feet</extent>
+						<extent type="size">0.67 Linear Feet</extent>
 						<extent type="boxes">Boxes: 1 - 2</extent>
 						<extent type="folders">Folders: 1 - 19</extent>
 					</physdesc>
@@ -304,10 +302,10 @@
 			<c01 level="series">
 				<did>
 					<unitid>2</unitid>
-					<unittitle>Meetings</unittitle>
+					<unittitle>2. Meetings</unittitle>
 					<unitdate normal="1970/1998">1970-1998</unitdate>
 					<physdesc>
-						<extent type="size">1 linear foot</extent>
+						<extent type="size">1 Linear Foot</extent>
 						<extent type="boxes">Boxes: 3 - 5</extent>
 						<extent type="folders">Folders: 20 - 79</extent>
 					</physdesc>
@@ -758,10 +756,10 @@
 			<c01 level="series">
 				<did>
 					<unitid>3</unitid>
-					<unittitle>Legal papers</unittitle>
+					<unittitle>3. Legal papers</unittitle>
 					<unitdate normal="1965/1981">1965-1981</unitdate>
 					<physdesc>
-						<extent type="size">3.33 linear feet</extent>
+						<extent type="size">3.33 Linear Feet</extent>
 						<extent type="boxes">Boxes: 6 - 15</extent>
 						<extent type="folders">Folders: 80 - 135</extent>
 					</physdesc>
@@ -775,14 +773,14 @@
 				</arrangement>
 				<c02 level="file">
 					<did>
-						<container type="folder">Folder 80</container>
+						<container type="folder">80</container>
 						<unittitle>Reply Brief of Sierra Club, 1976</unittitle>
 						<container type="box">6</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Folder 81</container>
+						<container type="folder">81</container>
 						<unittitle>Scenic Hudson vs. Federal Power Commission<![CDATA[&]]>Edison,
 							etc.</unittitle>
 						<container type="box">6</container>
@@ -790,140 +788,140 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Folder 82</container>
+						<container type="folder">82</container>
 						<unittitle>Order Denying Petitions for Rehearing, 07/14/1977</unittitle>
 						<container type="box">6</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Folder 83</container>
+						<container type="folder">83</container>
 						<unittitle>Legislative Effort</unittitle>
 						<container type="box">6</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Folder 84</container>
+						<container type="folder">84</container>
 						<unittitle>Supplemental Petition at SHPC, 12/18/1973</unittitle>
 						<container type="box">6</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Folder 85</container>
+						<container type="folder">85</container>
 						<unittitle>Lobbying Reports, 1977-1979</unittitle>
 						<container type="box">6</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Folder 86</container>
+						<container type="folder">86</container>
 						<unittitle>Lobbying Reports, 1980-1981</unittitle>
 						<container type="box">6</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Folder 87</container>
+						<container type="folder">87</container>
 						<unittitle>Area of National Concern</unittitle>
 						<container type="box">6</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Folder 88</container>
+						<container type="folder">88</container>
 						<unittitle>Heritage Conservation<![CDATA[&]]>Recreation Service</unittitle>
 						<container type="box">6</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Folder 89</container>
+						<container type="folder">89</container>
 						<unittitle>The Catskill Center Legislation</unittitle>
 						<container type="box">6</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Folder 90</container>
+						<container type="folder">90</container>
 						<unittitle>Hudson River Valley Commission Legislation</unittitle>
 						<container type="box">6</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Folder 91</container>
+						<container type="folder">91</container>
 						<unittitle>Case 26974 - Comparing Nuclear<![CDATA[&]]>Fuel</unittitle>
 						<container type="box">6</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Folder 92</container>
+						<container type="folder">92</container>
 						<unittitle>FPC Project # 2338, 1969-1978</unittitle>
 						<container type="box">6</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Folder 93</container>
+						<container type="folder">93</container>
 						<unittitle>Testimony Before the FPC - Abraham Groonman</unittitle>
 						<container type="box">6</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Folder 94</container>
+						<container type="folder">94</container>
 						<unittitle>Testimony Before the FPC - Thomas W. Fluhr</unittitle>
 						<container type="box">6</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Folder 95</container>
+						<container type="folder">95</container>
 						<unittitle>Testimony Before the FPC - Thomas F. Wright</unittitle>
 						<container type="box">6</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Folder 96</container>
+						<container type="folder">96</container>
 						<unittitle>Testimony Before the FPC - Torris Eide</unittitle>
 						<container type="box">6</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Folder 97</container>
+						<container type="folder">97</container>
 						<unittitle>Testimony Before the FPC - Fred C. Stein</unittitle>
 						<container type="box">6</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Folder 98</container>
+						<container type="folder">98</container>
 						<unittitle>Mary Harris Bell vs. Con Edison</unittitle>
 						<container type="box">7</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Folder 99</container>
+						<container type="folder">99</container>
 						<unittitle>H.R. 7052 - A Bill to Amend the Federal Power Act</unittitle>
 						<container type="box">7</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Folder 100</container>
+						<container type="folder">100</container>
 						<unittitle>Case 70126: Reply Brief of Applicant Power Authority</unittitle>
 						<container type="box">7</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Folder 101</container>
+						<container type="folder">101</container>
 						<unittitle>Statements Submitted to the Commission Public Meeting,
 							06/29/1965</unittitle>
 						<container type="box">8</container>
@@ -931,91 +929,91 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Folder 102</container>
+						<container type="folder">102</container>
 						<unittitle>Hearings</unittitle>
 						<container type="box">8</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Folder 103</container>
+						<container type="folder">103</container>
 						<unittitle>Hearings</unittitle>
 						<container type="box">8</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Folder 104</container>
+						<container type="folder">104</container>
 						<unittitle>Stenographers’ Report, FPC-Con Ed, pg. 680-813</unittitle>
 						<container type="box">8</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Folder 105</container>
+						<container type="folder">105</container>
 						<unittitle>Stenographers’ Report, FPC-Con Ed, pg. 1412-1577</unittitle>
 						<container type="box">8</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Folder 106</container>
+						<container type="folder">106</container>
 						<unittitle>Stenographers’ Report, FPC-Con Ed, pg. 2575-2797</unittitle>
 						<container type="box">8</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Folder 107</container>
+						<container type="folder">107</container>
 						<unittitle>Stenographers’ Report, FPC-Con Ed, pg. 2780-2946</unittitle>
 						<container type="box">9</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Folder 108</container>
+						<container type="folder">108</container>
 						<unittitle>Stenographers’ Report, FPC-Con Ed, pg. 2947-3080</unittitle>
 						<container type="box">9</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Folder 109</container>
+						<container type="folder">109</container>
 						<unittitle>Stenographers’ Report, FPC-Con Ed, pg. 3081-3259</unittitle>
 						<container type="box">9</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Folder 110</container>
+						<container type="folder">110</container>
 						<unittitle>Stenographers’ Report, FPC-Con Ed, pg. 3260-3458</unittitle>
 						<container type="box">9</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Folder 111</container>
+						<container type="folder">111</container>
 						<unittitle>Stenographers’ Report, FPC-Con Ed, pg. 3853-4105</unittitle>
 						<container type="box">9</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Folder 112</container>
+						<container type="folder">112</container>
 						<unittitle>Stenographers’ Report, FPC-Con Ed, pg. 4106-4301</unittitle>
 						<container type="box">10</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Folder 113</container>
+						<container type="folder">113</container>
 						<unittitle>Stenographers’ Report, FPC-Con Ed, pg. 4302-4489</unittitle>
 						<container type="box">10</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Folder 114</container>
+						<container type="folder">114</container>
 						<unittitle>Stenographers’ Report, FPC-Con Ed, pg. 4490-4887
 							(4490-4682)</unittitle>
 						<container type="box">10</container>
@@ -1023,7 +1021,7 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Folder 115</container>
+						<container type="folder">115</container>
 						<unittitle>Stenographers’ Report, FPC-Con Ed, pg. 4490-4887
 							(4683-4887)</unittitle>
 						<container type="box">10</container>
@@ -1031,147 +1029,140 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Folder 116</container>
+						<container type="folder">116</container>
 						<unittitle>Volume 1, 08/19/1974</unittitle>
 						<container type="box">11</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Folder 117</container>
+						<container type="folder">117</container>
 						<unittitle>Volume 2, 10/08/1974</unittitle>
 						<container type="box">11</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Folder 118</container>
+						<container type="folder">118</container>
 						<unittitle>Volume 3, 10/09/1974</unittitle>
 						<container type="box">11</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Folder 119</container>
+						<container type="folder">119</container>
 						<unittitle>Volume 4, 10/22/1974</unittitle>
 						<container type="box">12</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Folder 120</container>
+						<container type="folder">120</container>
 						<unittitle>Volume 6, 10/24/1974</unittitle>
 						<container type="box">12</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Folder 121</container>
+						<container type="folder">121</container>
 						<unittitle>Volume 6, 10/24/1974</unittitle>
 						<container type="box">12</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Folder 122</container>
+						<container type="folder">122</container>
 						<unittitle>Volume 7, 10/25/1974</unittitle>
 						<container type="box">12</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container/>
-						<unittitle/>
-						<container type="box">12</container>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container type="folder">Folder 123</container>
+						<container type="folder">123</container>
 						<unittitle>Volume 8, 10/29/1974</unittitle>
 						<container type="box">13</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Folder 124</container>
+						<container type="folder">124</container>
 						<unittitle>Volume 10, 10/31/1974</unittitle>
 						<container type="box">13</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Folder 125</container>
+						<container type="folder">125</container>
 						<unittitle>Volume 11, 11/01/1974</unittitle>
 						<container type="box">13</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Folder 126</container>
+						<container type="folder">126</container>
 						<unittitle>Volume 12, 11/12/1974</unittitle>
 						<container type="box">13</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Folder 127</container>
+						<container type="folder">127</container>
 						<unittitle>Volume 13, 11/13/1974</unittitle>
 						<container type="box">14</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Folder 128</container>
+						<container type="folder">128</container>
 						<unittitle>Volume 14, 11/14/1974</unittitle>
 						<container type="box">14</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Folder 129</container>
+						<container type="folder">129</container>
 						<unittitle>Volume 15a, 11/15/1974</unittitle>
 						<container type="box">14</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Folder 130</container>
+						<container type="folder">130</container>
 						<unittitle>Volume 15, 11/15/1974</unittitle>
 						<container type="box">14</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Folder 131</container>
+						<container type="folder">131</container>
 						<unittitle>Volume 17, 11/20/1974</unittitle>
 						<container type="box">14</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Folder 132</container>
+						<container type="folder">132</container>
 						<unittitle>Volume 18, 11/21/1974</unittitle>
 						<container type="box">15</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Folder 133</container>
+						<container type="folder">133</container>
 						<unittitle>Volume 19, 11/22/1974</unittitle>
 						<container type="box">15</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Folder 134</container>
+						<container type="folder">134</container>
 						<unittitle>Volume 21, 11/26/1974</unittitle>
 						<container type="box">15</container>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="folder">Folder 135</container>
+						<container type="folder">135</container>
 						<unittitle>Volume 28, 12/13/1974</unittitle>
 						<container type="box">15</container>
 					</did>
@@ -1180,10 +1171,10 @@
 			<c01 level="series">
 				<did>
 					<unitid>4</unitid>
-					<unittitle>General Correspondence</unittitle>
+					<unittitle>4. General Correspondence</unittitle>
 					<unitdate normal="1963/1997">1963-1997</unitdate>
 					<physdesc>
-						<extent type="size">1.33 linear feet</extent>
+						<extent type="size">1.33 Linear Feet</extent>
 						<extent type="boxes">Boxes: 16 - 19</extent>
 						<extent type="folders">Folders: 136 - 173</extent>
 					</physdesc>
@@ -1466,10 +1457,10 @@
 			<c01 level="series">
 				<did>
 					<unitid>5</unitid>
-					<unittitle>Printed Material</unittitle>
+					<unittitle>5. Printed Material</unittitle>
 					<unitdate normal="1964/2000">1964-2000</unitdate>
 					<physdesc>
-						<extent type="size">8.67 linear foot</extent>
+						<extent type="size">8.67 Linear Feet</extent>
 						<extent type="boxes">Boxes: 20 - 46</extent>
 						<extent type="folders">Folders: 174 - 544</extent>
 					</physdesc>
@@ -1485,7 +1476,7 @@
 				<c02 level="subseries">
 					<did>
 						<unitid>5.1</unitid>
-						<unittitle>Environmental Guide Books</unittitle>
+						<unittitle>Subseries 5.1: Environmental Guide Books</unittitle>
 					</did>
 					<scopecontent>
 						<p>Guide Books</p>
@@ -1572,7 +1563,7 @@
 				<c02 level="subseries">
 					<did>
 						<unitid>5.2</unitid>
-						<unittitle>Environmental Reports</unittitle>
+						<unittitle>Subseries 5.2: Environmental Reports</unittitle>
 					</did>
 					<scopecontent>
 						<p>Reports on the Hudson River, progress reports, the Hudson River Valley,
@@ -1686,13 +1677,6 @@
 					</c03>
 					<c03 level="file">
 						<did>
-							<container type="folder">199</container>
-							<unittitle/>
-							<container type="box">22</container>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
 							<container type="folder">200</container>
 							<unittitle>Air Pollution in New York City</unittitle>
 							<container type="box">23</container>
@@ -1774,7 +1758,7 @@
 				<c02 level="subseries">
 					<did>
 						<unitid>5.3</unitid>
-						<unittitle>Sub Series 5.3: Environmental Research</unittitle>
+						<unittitle>Subseries 5.3: Environmental Research</unittitle>
 					</did>
 					<scopecontent>
 						<p>American Heritage, NYC, transportation, and engineering; Energy,
@@ -1910,13 +1894,6 @@
 					</c03>
 					<c03 level="file">
 						<did>
-							<container/>
-							<unittitle/>
-							<container type="box">25</container>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
 							<container type="folder">228</container>
 							<unittitle>Power Plant Performance</unittitle>
 							<container type="box">26</container>
@@ -2012,7 +1989,7 @@
 				<c02 level="subseries">
 					<did>
 						<unitid>5.4</unitid>
-						<unittitle>Books</unittitle>
+						<unittitle>Subseries 5.4: Books</unittitle>
 					</did>
 					<scopecontent>
 						<p>Environmental books</p>
@@ -2063,7 +2040,7 @@
 				<c02 level="subseries">
 					<did>
 						<unitid>5.5</unitid>
-						<unittitle>Scenic Hudson News</unittitle>
+						<unittitle>Subseries 5.5: Scenic Hudson News</unittitle>
 						<unitdate normal="1970/2000">1970-2000</unitdate>
 					</did>
 					<scopecontent>
@@ -2375,7 +2352,7 @@
 				<c02 level="subseries">
 					<did>
 						<unitid>5.6</unitid>
-						<unittitle>Scenic Hudson Inc. Publications and Reports</unittitle>
+						<unittitle>Subseries 5.6: Scenic Hudson Inc. Publications and Reports</unittitle>
 						<unitdate normal="1965/2000">1965-2000</unitdate>
 					</did>
 					<scopecontent>
@@ -2810,7 +2787,7 @@
 				<c02 level="subseries">
 					<did>
 						<unitid>5.7</unitid>
-						<unittitle>Reports</unittitle>
+						<unittitle>Subseries 5.7: Reports</unittitle>
 						<unitdate normal="1975/1979">1975-1979</unitdate>
 					</did>
 					<scopecontent>
@@ -3090,7 +3067,7 @@
 				<c02 level="subseries">
 					<did>
 						<unitid>5.8</unitid>
-						<unittitle>Pamphlets and Brochures</unittitle>
+						<unittitle>Subseries 5.8: Pamphlets and Brochures</unittitle>
 						<unitdate normal="1963/2001">1963-2001</unitdate>
 					</did>
 					<scopecontent>
@@ -3863,7 +3840,7 @@
 				<c02 level="subseries">
 					<did>
 						<unitid>5.9</unitid>
-						<unittitle>Magazines</unittitle>
+						<unittitle>Subseries 5.9: Magazines</unittitle>
 						<unitdate normal="1964/1999">1964-1999</unitdate>
 					</did>
 					<scopecontent>
@@ -4118,7 +4095,7 @@
 				<c02 level="subseries">
 					<did>
 						<unitid>5.10</unitid>
-						<unittitle>Misc. Printed Material</unittitle>
+						<unittitle>Subseries 5.10: Misc. Printed Material</unittitle>
 						<unitdate normal="1965/1979">1965-1979</unitdate>
 					</did>
 					<scopecontent>
@@ -4258,10 +4235,10 @@
 			<c01 level="series">
 				<did>
 					<unitid>6</unitid>
-					<unittitle>Events</unittitle>
+					<unittitle>6. Events</unittitle>
 					<unitdate normal="1966/1976">1966-1976</unitdate>
 					<physdesc>
-						<extent type="size">1.33 linear feet</extent>
+						<extent type="size">1.33 Linear Feet</extent>
 						<extent type="boxes">Boxes: 47 - 50</extent>
 						<extent type="folders">Folders: 545 - 605</extent>
 					</physdesc>
@@ -4704,9 +4681,9 @@
 			<c01 level="series">
 				<did>
 					<unitid>7</unitid>
-					<unittitle>Maps</unittitle>
+					<unittitle>7. Maps</unittitle>
 					<physdesc>
-						<extent type="size">0.33 linear feet</extent>
+						<extent type="size">0.33 Linear Feet</extent>
 						<extent type="boxes">Box: 51</extent>
 						<extent type="folders">Folders: 606 - 609</extent>
 					</physdesc>
@@ -4749,9 +4726,9 @@
 			<c01 level="series">
 				<did>
 					<unitid>8</unitid>
-					<unittitle>Subject Files</unittitle>
+					<unittitle>8. Subject Files</unittitle>
 					<physdesc>
-						<extent type="size">3.67 linear feet</extent>
+						<extent type="size">3.67 Linear Feet</extent>
 						<extent type="boxes">Boxes: 52 - 63</extent>
 						<extent type="folders">Folders: 610 - 763</extent>
 					</physdesc>
@@ -4873,13 +4850,6 @@
 					<did>
 						<container type="folder">625</container>
 						<unittitle>Burke Estate, Hastings on Hudson</unittitle>
-						<container type="box">52</container>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container/>
-						<unittitle/>
 						<container type="box">52</container>
 					</did>
 				</c02>
@@ -5479,13 +5449,6 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container/>
-						<unittitle/>
-						<container type="box">59</container>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
 						<container type="folder">708</container>
 						<unittitle>Palisades Interstate Park, Commission Correspondence</unittitle>
 						<container type="box">60</container>
@@ -5890,9 +5853,9 @@
 			<c01 level="series">
 				<did>
 					<unitid>9</unitid>
-					<unittitle>Adjudicatory Hearings</unittitle>
+					<unittitle>9. Adjudicatory Hearings</unittitle>
 					<physdesc>
-						<extent type="size">2 linear feet</extent>
+						<extent type="size">2 Linear Feet</extent>
 						<extent type="boxes">Boxes: 64 - 67</extent>
 						<extent type="folders">Folders: 764 - 795</extent>
 					</physdesc>
@@ -6132,9 +6095,9 @@
 			<c01 level="series">
 				<did>
 					<unitid>10</unitid>
-					<unittitle>Alsen Coal</unittitle>
+					<unittitle>10. Alsen Coal</unittitle>
 					<physdesc>
-						<extent type="size">0.67 linear feet</extent>
+						<extent type="size">0.67 Linear Feet</extent>
 						<extent type="boxes">Boxes: 68 - 69</extent>
 						<extent type="folders">Folders: 796 - 806</extent>
 					</physdesc>
@@ -6227,9 +6190,9 @@
 			<c01 level="series">
 				<did>
 					<unitid>11</unitid>
-					<unittitle>Danskammer Coal</unittitle>
+					<unittitle>11. Danskammer Coal</unittitle>
 					<physdesc>
-						<extent type="size">3 linear feet</extent>
+						<extent type="size">3 Linear Feet</extent>
 						<extent type="boxes">Boxes: 70 - 78</extent>
 						<extent type="folders">Folders: 807 - 868</extent>
 					</physdesc>
@@ -6336,13 +6299,6 @@
 					<did>
 						<container type="folder">820</container>
 						<unittitle>Misc. Legal</unittitle>
-						<container type="box">71</container>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container/>
-						<unittitle/>
 						<container type="box">71</container>
 					</did>
 				</c02>
@@ -6562,13 +6518,6 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container/>
-						<unittitle/>
-						<container type="box">74</container>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
 						<container type="folder">851</container>
 						<unittitle>Scenic Hudson Interrogatories</unittitle>
 						<container type="box">75</container>
@@ -6612,13 +6561,6 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container/>
-						<unittitle/>
-						<container type="box">75</container>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
 						<container type="folder">857</container>
 						<unittitle>O &amp; R Coal Conversion 1981</unittitle>
 						<container type="box">76</container>
@@ -6642,13 +6584,6 @@
 					<did>
 						<container type="folder">860</container>
 						<unittitle>O &amp; R Coal Conversion visual photos</unittitle>
-						<container type="box">76</container>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container/>
-						<unittitle/>
 						<container type="box">76</container>
 					</did>
 				</c02>
@@ -6712,10 +6647,10 @@
 			<c01 level="series">
 				<did>
 					<unitid>12</unitid>
-					<unittitle>Federal Power Commission</unittitle>
+					<unittitle>12. Federal Power Commission</unittitle>
 					<unitdate normal="1964/1967">1964-1967</unitdate>
 					<physdesc>
-						<extent type="size">0.67 linear feet</extent>
+						<extent type="size">0.67 Linear Feet</extent>
 						<extent type="boxes">Boxes: 79 - 80</extent>
 						<extent type="folders">Boxes: 869 - 880</extent>
 					</physdesc>
@@ -6818,9 +6753,9 @@
 			<c01 level="series">
 				<did>
 					<unitid>13</unitid>
-					<unittitle>Harvard University-Black Rock Forest</unittitle>
+					<unittitle>13. Harvard University-Black Rock Forest</unittitle>
 					<physdesc>
-						<extent type="size">0.67 linear feet</extent>
+						<extent type="size">0.67 Linear Feet</extent>
 						<extent type="boxes">Boxes: 81 - 82</extent>
 						<extent type="folders">Folders: 881 - 895</extent>
 					</physdesc>
@@ -6941,9 +6876,9 @@
 			<c01 level="series">
 				<did>
 					<unitid>14</unitid>
-					<unittitle>Hudson Highlands</unittitle>
+					<unittitle>14. Hudson Highlands</unittitle>
 					<physdesc>
-						<extent type="size">0.33 linear feet</extent>
+						<extent type="size">0.33 Linear Feet</extent>
 						<extent type="boxes">Box: 83</extent>
 						<extent type="folders">Folders: 896 - 904</extent>
 					</physdesc>
@@ -7021,10 +6956,10 @@
 			<c01 level="series">
 				<did>
 					<unitid>15</unitid>
-					<unittitle>Indian Point</unittitle>
+					<unittitle>15. Indian Point</unittitle>
 					<unitdate normal="1971/1976">1971-1976</unitdate>
 					<physdesc>
-						<extent type="size">3 linear feet</extent>
+						<extent type="size">3 Linear Feet</extent>
 						<extent type="boxes">Boxes: 84 - 92</extent>
 						<extent type="folders">Folders: 905 - 981</extent>
 					</physdesc>
@@ -7591,9 +7526,9 @@
 			<c01 level="series">
 				<did>
 					<unitid>16</unitid>
-					<unittitle>Land Purchases</unittitle>
+					<unittitle>16. Land Purchases</unittitle>
 					<physdesc>
-						<extent type="size">0.33 linear feet</extent>
+						<extent type="size">0.33 Linear Feet</extent>
 						<extent type="boxes">Box: 93</extent>
 						<extent type="folders">Folders: 982 - 984</extent>
 					</physdesc>
@@ -7631,10 +7566,10 @@
 			<c01 level="series">
 				<did>
 					<unitid>17</unitid>
-					<unittitle>Marcy-South Transmission Lines</unittitle>
+					<unittitle>17. Marcy-South Transmission Lines</unittitle>
 					<unitdate normal="1965/1987">1964-1987</unitdate>
 					<physdesc>
-						<extent type="size">3.33 linear feet</extent>
+						<extent type="size">3.33 Linear Feet</extent>
 						<extent type="boxes">Boxes: 94 - 103</extent>
 						<extent type="folders">Folders: 985 - 1045</extent>
 					</physdesc>
@@ -8078,9 +8013,9 @@
 			<c01 level="series">
 				<did>
 					<unitid>18</unitid>
-					<unittitle>Paper Recycling</unittitle>
+					<unittitle>18. Paper Recycling</unittitle>
 					<physdesc>
-						<extent type="size">0.67 linear feet</extent>
+						<extent type="size">0.67 Linear Feet</extent>
 						<extent type="boxes">Boxes: 104 - 105</extent>
 						<extent type="folders">Folders: 1046 - 1056</extent>
 					</physdesc>
@@ -8138,9 +8073,9 @@
 			<c01 level="series">
 				<did>
 					<unitid>19</unitid>
-					<unittitle>Springside</unittitle>
+					<unittitle>19. Springside</unittitle>
 					<physdesc>
-						<extent type="size">0.33 linear feet</extent>
+						<extent type="size">0.33 Linear Feet</extent>
 						<extent type="boxes">Box: 106</extent>
 						<extent type="folders">Folders: 1057 - 1065</extent>
 					</physdesc>
@@ -8219,9 +8154,9 @@
 			<c01 level="series">
 				<did>
 					<unitid>20</unitid>
-					<unittitle>Storm King Mountain</unittitle>
+					<unittitle>S20. torm King Mountain</unittitle>
 					<physdesc>
-						<extent type="size">1.33 linear feet</extent>
+						<extent type="size">1.33 Linear Feet</extent>
 						<extent type="boxes">Boxes: 107 - 110</extent>
 						<extent type="folders">Folders: 1066 - 1101</extent>
 					</physdesc>
@@ -8491,10 +8426,10 @@
 			<c01 level="series">
 				<did>
 					<unitid>21</unitid>
-					<unittitle>Transportation</unittitle>
+					<unittitle>21. Transportation</unittitle>
 
 					<physdesc>
-						<extent type="size">0.67 linear feet</extent>
+						<extent type="size">0.67 Linear Feet</extent>
 						<extent type="boxes">Boxes: 111 - 112</extent>
 						<extent type="folders">Folders: 1102 - 1121</extent>
 					</physdesc>
@@ -8651,10 +8586,10 @@
 			<c01 level="series">
 				<did>
 					<unitid>22</unitid>
-					<unittitle>Wallace Fund</unittitle>
+					<unittitle>22. Wallace Fund</unittitle>
 					<unitdate normal="1985/1998">1985-1998</unitdate>
 					<physdesc>
-						<extent type="size">5.33 linear feet</extent>
+						<extent type="size">5.33 Linear Feet</extent>
 						<extent type="boxes">Boxes: 113 - 128</extent>
 						<extent type="folders">Folders: 1122 - 1254</extent>
 					</physdesc>
@@ -9603,9 +9538,9 @@
 			<c01 level="series">
 				<did>
 					<unitid>23</unitid>
-					<unittitle>West Meets East</unittitle>
+					<unittitle>23. West Meets East</unittitle>
 					<physdesc>
-						<extent type="size">0.33 linear feet</extent>
+						<extent type="size">0.33 Linear Feet</extent>
 						<extent type="boxes">Box: 129</extent>
 						<extent type="folders">Folders: 1255 - 1263</extent>
 					</physdesc>
@@ -9683,9 +9618,9 @@
 			<c01 level="series">
 				<did>
 					<unitid>24</unitid>
-					<unittitle>Environmental Studies</unittitle>
+					<unittitle>24. Environmental Studies</unittitle>
 					<physdesc>
-						<extent type="size">3.67 linear feet</extent>
+						<extent type="size">3.67 Linear Feet</extent>
 						<extent type="boxes">Boxes: 130 - 145</extent>
 						<extent type="folders">Folders: 1264 - 1394</extent>
 					</physdesc>
@@ -10791,9 +10726,9 @@
 			<c01 level="series">
 				<did>
 					<unitid>25</unitid>
-					<unittitle>Exhibits</unittitle>
+					<unittitle>25. Exhibits</unittitle>
 					<physdesc>
-						<extent type="size">0.67 linear feet</extent>
+						<extent type="size">0.67 Linear Feet</extent>
 						<extent type="boxes">Boxes: 146 - 147</extent>
 						<extent type="folders">Folders: 1395 - 1419</extent>
 					</physdesc>
@@ -10983,10 +10918,10 @@
 			<c01 level="series">
 				<did>
 					<unitid>26</unitid>
-					<unittitle>Clippings</unittitle>
+					<unittitle>26. Clippings</unittitle>
 					<unitdate normal="1959/2000">1959-2000</unitdate>
 					<physdesc>
-						<extent type="size">7.25 linear feet</extent>
+						<extent type="size">7.25 Linear Feet</extent>
 						<extent type="boxes">Boxes: 148 - 168</extent>
 						<extent type="folders">Folders: 1420 - 1639</extent>
 					</physdesc>
@@ -12543,10 +12478,10 @@
 			<c01 level="series">
 				<did>
 					<unitid>27</unitid>
-					<unittitle>Photographs</unittitle>
+					<unittitle>27. Photographs</unittitle>
 					<unitdate normal="1975/1999">1975-1999</unitdate>
 					<physdesc>
-						<extent type="size">2.67 linear feet</extent>
+						<extent type="size">2.67 Linear Feet</extent>
 						<extent type="boxes">Boxes: 169 - 176</extent>
 						<extent type="folders">Folders: 1640 - 1736</extent>
 					</physdesc>
@@ -13245,9 +13180,9 @@
 			<c01 level="series">
 				<did>
 					<unitid>28</unitid>
-					<unittitle>Hanging Photographs</unittitle>
+					<unittitle>28. Hanging Photographs</unittitle>
 					<physdesc>
-						<extent type="size">1 linear foot</extent>
+						<extent type="size">1 Linear Foot</extent>
 						<extent type="boxes">Box: 177</extent>
 						<extent type="folders">Folder: 1737</extent>
 					</physdesc>
@@ -13269,9 +13204,9 @@
 			<c01 level="series">
 				<did>
 					<unitid>29</unitid>
-					<unittitle>Audio-Visual Oversized Materials</unittitle>
+					<unittitle>29. Audio-Visual Oversized Materials</unittitle>
 					<physdesc>
-						<extent type="size">4.33 linear feet</extent>
+						<extent type="size">4.33 Linear Feet</extent>
 						<extent type="boxes">Boxes: 178 - 197</extent>
 						<extent type="folders">Folders: 1738 - 1930</extent>
 					</physdesc>

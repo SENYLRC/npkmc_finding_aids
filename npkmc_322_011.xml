@@ -16,7 +16,7 @@
 				<address>
 					<addressline>3399 North Road <lb/>Poughkeepsie, NY 12601 <lb/>Phone:
 						845-575-5217 <lb/>Fax: 845-575-3150 <lb/>Email: library.archives@marist.edu<lb/>Website:
-						https://library.marist.edu/archives/</addressline></address>
+						https://archives.marist.edu/</addressline></address>
 				<date type="publication" normal="2010-06-01">June 1, 2010</date>
 			</publicationstmt>
 		</filedesc>
@@ -51,7 +51,12 @@
 				<corpname>Marist College <lb/>Archives and Special Collections </corpname>
 			</repository>
 			<origination label="creator"><persname>The Reese Family</persname></origination>
-			<abstract/>
+			<abstract>The papers of Reese family document the professional and personal lives of several of
+				the ancestors of Frances Gallatin Stevens Reese and her husband, Willis Livingston
+				Mesier Reese. The papers contain indentures, personal, political, and business
+				correspondence, military documents, manuscripts of prose and poetry, scrapbooks,
+				bills of lading, invoices, promissory notes, canceled checks, financial ledgers,
+				diaries, passports, newspaper clippings and photographs.</abstract>
 			<langmaterial>
 				<language>English</language>
 			</langmaterial>
@@ -11010,7 +11015,6 @@
 							<container type="folder">5</container>
 							<unittitle>Letter to Marion Rathbone Oliver from Helen H.
 								Taft</unittitle>
-							<unitdate label="Date"/>
 							<container type="box">58</container>
 						</did>
 					</c03>

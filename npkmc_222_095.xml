@@ -15,7 +15,7 @@
 				<address>
 					<addressline>3399 North Road <lb/>Poughkeepsie, NY 12601 <lb/>Phone: 845-575-5217
 						<lb/>Fax: 845-575-3150 <lb/>Email: library.archives@marist.edu<lb/>Website:
-						https://library.marist.edu/archives/</addressline>
+						https://archives.marist.edu/</addressline>
 				</address>
 				<date type="publication" normal="2006-07">July, 2006</date>
 			</publicationstmt>
@@ -69,29 +69,32 @@
 			<head>Related Collections</head>
 			<list>
 				<!--Dain Collection-->
-				<item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.empireadc.org/search/catalog/npkmc_212_162" xlink:title="The Mr. and Mrs. Henry Dain Papers, 1963 - 1967" xlink:actuate="onRequest" xlink:show="new"/></item>
+				<item>The Mr. and Mrs. Henry Dain Papers, 1963 - 1967</item>
 				<!--Hudson River Environmental Society Collection-->
-				<item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.empireadc.org/search/catalog/npkmc_223_071" xlink:title="The Hudson River Environmental Society Collection, 1963 - 2005" xlink:actuate="onRequest" xlink:show="new"/></item>
+				<item>The Hudson River Environmental Society Collection, 1963 - 2005</item>
 			<item>Hudson River Environmental Society Library</item>
 				<!--Hudson River Valley Commission Collection: Records Relating to the Storm King Case,
 				1966 – 1967-->
-				<item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.empireadc.org/search/catalog/npkmc_221_102" xlink:title="Hudson River Valley Commission Collection: Records Relating to the Storm King Case,      1966 – 1967" xlink:actuate="onRequest" xlink:show="new"/></item>
+				<item>Hudson River Valley Commission Collection: Records Relating to the Storm King Case,
+					1966 – 1967</item>
 				<!--Hudson River Valley Commission Collection: Records Relating to the 1965 – 1970
 				Surveys-->
-				<item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.empireadc.org/search/catalog/npkmc_222_096" xlink:title="Hudson River Valley Commission Collection: Records Relating to the 1965 – 1970      Surveys" xlink:actuate="onRequest" xlink:show="new"/></item>
-				<item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.empireadc.org/search/catalog/npkmc_221_081" xlink:title="Hudson River Valley Greenway Council Collection, 1989-1996" xlink:actuate="onRequest" xlink:show="new"/></item>
+				<item>Hudson River Valley Commission Collection: Records Relating to the 1965 – 1970
+					Surveys</item>
+				<item>Hudson River Valley Greenway Council Collection, 1989-1996</item>
 				<!--HV GREEN Collection-->
-				<item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.empireadc.org/search/catalog/npkmc_222_181" xlink:title="Hudson Valley GREEN Collection, 1981 - 2002" xlink:actuate="onRequest" xlink:show="new"/></item>
+				<item>Hudson Valley GREEN Collection, 1981 - 2002</item>
 				<!--On the River: Video Documentary-->
-				<item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.empireadc.org/search/catalog/npkmc_222_082" xlink:title="On the River Collection, 1986 - 1993" xlink:actuate="onRequest" xlink:show="new"/></item>
+				<item>On the River Collection, 1986 - 1993</item>
 				<!--The Saunders Collection-->
-				<item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.empireadc.org/search/catalog/npkmc_222_094" xlink:title="Alexander Saunders Papers: Records Relating to the Storm King Case, 1962 - 1966" xlink:actuate="onRequest" xlink:show="new"/></item>
+				<item>Alexander Saunders Papers: Records Relating to the Storm King Case, 1962 - 1966</item>
 							<!-->Scenic Hudson Collection: Records Relating to the Storm King Case, 1963 – 1981-->
-				<item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.empireadc.org/search/catalog/npkmc_221_183" xlink:title="Scenic Hudson Collection: Records Relating to the Storm King Case, 1963 – 1981" xlink:actuate="onRequest" xlink:show="new"/></item>
+				<item>Scenic Hudson Collection: Records Relating to the Storm King Case, 1963 – 1981</item>
 				<!-->Scenic Hudson, Inc. Administrative History Collection-->
-				<item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.empireadc.org/search/catalog/npkmc_221_254" xlink:title="Scenic Hudson, Inc. Administrative History Collection, 1960- 2000" xlink:actuate="onRequest" xlink:show="new"/></item>
+				<item>Scenic Hudson, Inc. Administrative History Collection, 1960- 2000</item>
 				<!--The Seymour Collection-->
-				<item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.empireadc.org/search/catalog/npkmc_222_081" xlink:title="Senator and Mrs. Whitney N. Seymour Jr. Papers: Records      Relating to the Storm King Case, 1962-1978" xlink:actuate="onRequest" xlink:show="new"/></item>
+				<item>Senator and Mrs. Whitney N. Seymour Jr. Papers: Records
+					Relating to the Storm King Case, 1962-1978</item>
 			</list>
 		</relatedmaterial>
 		<scopecontent>
@@ -173,18 +176,19 @@
 						<unittitle>1. Hudson River Conservation Society Files</unittitle>
 						<unitdate normal="1939/1959">1939 - 1959</unitdate>
 					<physdesc>
-						<extent type="size">19 linear feet</extent>
-						<extent type="boxes">1 - 55</extent>
-						<extent type="folders">1 - 177</extent>
+						<extent type="size">19 Linear Feet</extent>
+						<extent type="boxes">Boxes: 1 - 55</extent>
+						<extent type="folders">Folders: 1 - 177</extent>
 					</physdesc>
 				</did>
 				<scopecontent>
 					<p>A collection of materials gathered by the Hudson River Conservation Society,
 						dealing with their own activities to preserve the Hudson River. </p>
-					<arrangement>
-						<p>Original Order (alphabetical)</p>
-					</arrangement>
+					
 				</scopecontent>
+				<arrangement>
+					<p>Original Order (alphabetical)</p>
+				</arrangement>
 				<c02 level="file">
 					<did>
 						<container type="folder">1</container>
@@ -5761,19 +5765,19 @@
 						<unittitle>2. Scrapbooks</unittitle>
 						<unitdate normal="1939/1959">1939 - 1959</unitdate>
 					<physdesc>
-						<extent type="size">5 linear foot</extent>
-						<extent type="boxes">56 - 61</extent>
-						<extent type="folders">772 - 781</extent>
+						<extent type="size">5 Linear Feet</extent>
+						<extent type="boxes">Boxes: 56 - 61</extent>
+						<extent type="folders">Folders: 772 - 781</extent>
 					</physdesc>
 				</did>
 				<scopecontent>
 					<p>A collection of various newspaper articles organized in scrapbooks dealing
 						with issues of the environment and legislation pertaining to that which the
 						Society was interested in. </p>
-					<arrangement>
-						<p>Original Order (chronological/ topical)</p>
-					</arrangement>
 				</scopecontent>
+				<arrangement>
+					<p>Original Order (chronological/ topical)</p>
+				</arrangement>
 				<c02 level="item">
 					<did>
 						<container type="folder">772</container>
