@@ -1,0 +1,3336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
+  <!-- Header Portion of EAD -->
+  <eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+    <eadid countrycode="US" mainagencycode="US-NPkMC" url="http://www.marist.edu">npkmc_225_122</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Lowell Thomas Papers: Objects</titleproper>
+        <author>Processed by: Angelo Galeazzi, MS, MLS; Finding Aid Encoded by: Monish M.
+					Singh, 2009; Finding Aid Encoding updated by: Abigail Bowen and Connor Johnson,
+					2022</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Marist College <lb/>Archives and Special Collections </publisher>
+        <address>
+          <addressline>3399 North Road <lb/>Poughkeepsie, NY 12601 <lb/>Phone:
+						845-575-5217 <lb/>Fax: 845-575-3150 <lb/>Email:
+						library.archives@marist.edu<lb/>Website:
+						https://archives.marist.edu/</addressline>
+        </address>
+        <date type="publication" normal="2009-10-30">2009 October 30</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Monish M. Singh <date>2009</date>
+			</creation>
+      <langusage>Finding aid written in <language langcode="eng" scriptcode="Latn">English</language></langusage>
+      <descrules><abbr>DACS</abbr>Describing Archives: A Content Standard. Chicago: Society of
+				American Archivists, 2013.</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <list>
+        <item>April 2022, EAD updated by Abigail Bowen and Connor Johnson</item>
+      </list>
+    </revisiondesc>
+  </eadheader>
+  <!-- Archival Description portion of EAD -->
+  <archdesc level="collection">
+    <did>
+      <unittitle>Lowell Thomas Papers: Objects</unittitle>
+      <unitid countrycode="US" repositorycode="US-NPkMC">npkmc-225-122</unitid>
+      <unitdate type="inclusive">1789 - 1984</unitdate>
+      <unitdate type="bulk">1900 - 1981</unitdate>
+      <physdesc>
+        <extent type="size">1203 Linear Feet</extent>
+      </physdesc>
+      <repository>
+        <corpname>Marist College Archives and Special Collections</corpname>
+      </repository>
+      <origination label="creator">
+        <persname>Thomas, Lowell, 1892-1981</persname>
+      </origination>
+      <abstract>The Lowell Thomas Papers encompasses a wide range of materials documenting the
+				life, family, and professional career of Lowell Thomas. These materials include
+				correspondence, administrative and financial documents, manuscripts, printed
+				materials, photographic materials, motion picture films, audio recordings, and
+				memorabilia. </abstract>
+      <langmaterial>The language of the materials is predominately English. Other languages
+				include: <language>Arabic, </language><language>Chinese,
+					</language><language>French, </language><language>German,
+					</language><language>Hebrew, </language><language>Hindi,
+					</language><language>Italian, </language><language>Spanish</language> and
+					<language>Swedish</language>. </langmaterial>
+    </did>
+    <scopecontent>
+      <head>Collection Overview</head>
+      <p>This series consists of a wide range of memorabilia and realia, including portraits,
+				photographic equipment, furniture, clothing, hats, and other items belonging to
+				Lowell Thomas, Lowell Thomas, Jr., or Harry G. Thomas. Of particular interest is the
+				collection of printing plates used to produce, among other materials, promotional
+				posters for Thomas's travelogues. The series is divided into eight subseries, some
+				divided further into sub subseries, all arranged by subject. A project to create
+				digital images of these objects is on-going.</p>
+    </scopecontent>
+    <acqinfo>
+      <p>The Lowell Thomas Papers were donated to Marist College by the Thomas family in
+				2006.</p>
+    </acqinfo>
+    <bioghist encodinganalog="545">
+      <head>Historical Note</head>
+      <p>Lowell Jackson Thomas was born in Woodington, Ohio on 6 April 1892 to two school
+				teachers, Harry G. Thomas and Harriet Wagner Thomas. The family did not remain in
+				Darke County, Ohio for very long because Lowell's father wanted to become a doctor.
+				Harry G. Thomas's pursuit of a medical degree led the family to Kirkman, Iowa where
+				five-year-old Lowell was enrolled in school for the first time. Harry's studies soon
+				led him to the University of Nebraska. Upon graduation, Harry G. Thomas followed his
+				brother's suggestion to begin his medical practice in the twin mining boom towns of
+				Cripple Creek and Victor, Colorado. It was here in the rugged American West that
+				Lowell spent the better part of his childhood and young adult years.</p>
+      <p>
+        <extref href="https://archives.marist.edu/LTPHistoricalNote/views/index.html">Read more</extref>
+      </p>
+    </bioghist>
+    <accessrestrict>
+      <p>There are no restrictions on this collection</p>
+    </accessrestrict>
+    <userestrict>
+      <head>Notice of Copyright</head>
+      <p>Individuals requesting reproductions expressly assume the responsibility for
+				compliance with all pertinent provisions of the Copyright Act, 17 U.S.C. ss101 et
+				seq. Patrons further agree to indemnify and hold harmless the Marist College
+				Archives and Special Collections and its staff in connection with any disputes
+				arising from the Copyright Act, over the reproduction of material at the request of
+				patrons. For more information please visit the following website:
+				http://www.loc.gov/copyright/title17/.</p>
+    </userestrict>
+    <prefercite>
+      <head>Preferred Citation</head>
+      <p>[Description of item, date, location of item in order of series, box number, folder
+				number ], in the Lowell Thomas Object Collection, Archives and Special Collections,
+				James A. Cannavino Library, Marist College.</p>
+    </prefercite>
+    <relatedmaterial>
+      <head>Related Collections</head>
+      <p>
+        <extref href="https://www.empireadc.org/search/catalog/npkmc_3699">Lowell Thomas Film Collection</extref>
+      </p>
+      <p>
+        <extref href="https://www.empireadc.org/search/catalog/npkmc_224_114">Lowell Thomas Memorabilia Collection</extref>
+      </p>
+      <p>
+        <extref href="https://www.empireadc.org/search/catalog/npkmc_227_262">Lowell Thomas Papers: Graphic Materials</extref>
+      </p>
+      <p>
+        <extref href="https://www.empireadc.org/search/catalog/npkmc_227_251">Lowell Thomas Papers: Sound Recordings</extref>
+      </p>
+      <p>
+        <extref href="https://www.empireadc.org/search/catalog/npkmc_225_061">Lowell Thomas Papers: Textual Materials</extref>
+      </p>
+    </relatedmaterial>
+    <arrangement>
+      <head>Arrangement of the Collection</head>
+      <p>These records are organized into 8 series: 1) Family, with three subseries, 2) Clubs, 3) Equipment, 4) Sports, 5) Tibet, 6) World War I/Travelogues, 7) World War II, 8) Miscellany, with two subseries. Subseries 8.2 has seven subseries.   </p>
+    </arrangement>
+    <note>
+      <p>The Marist College Archives and Special Collections staff wishes to express their deep appreciation to all of the parties that helped the Lowell Thomas Project come to fruition.</p>
+      <p>
+        <extref href="https://archives.marist.edu/LTPHistoricalNote/views/acknowledgements.html">Read more</extref>
+      </p>
+    </note>
+    <dsc type="combined">
+      <c01 level="series">
+        <did>
+          <unitid>1</unitid>
+          <unittitle>1. Family</unittitle>
+          <physdesc>
+            <extent type="boxes">Boxes: 1647 - 1667</extent>
+          </physdesc>
+        </did>
+        <scopecontent>
+          <p>Series contains objects from Lowell Thomas, Lowell Thomas Jr., and Harry G. Thomas.</p>
+        </scopecontent>
+        <arrangement>
+          <p>By person</p>
+        </arrangement>
+        <c02 level="subseries">
+          <did>
+            <unitid>1.1</unitid>
+            <unittitle>Subseries 1.1: Lowell Thomas</unittitle>
+            <physdesc>
+              <extent type="boxes">Boxes: 1647 - 1664</extent>
+            </physdesc>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="folder">1</container>
+              <unittitle>Lowell Thomas’s “Open Road” style Stetson fedora hat in Silver
+							Belly 3x fur felt. Sold by Norman Sims “Hatter”, Salt Lake City, Utah.
+							Size, 7¼ inches. Lowell Thomas’s initials stamped in gold on the
+							sweatband</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">1647</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="folder">1</container>
+              <unittitle>Lowell Thomas’s red wine colored wool felt Egyptian fez hat.
+							Circular/round hat with flat top and black thread tassel with straw
+							interior. Interior dark green in color. Stamped on sweatband is a
+							nighttime desert landscape with two pyramids, palm trees and
+							obelisk</unittitle>
+              <unitdate label="Date">circa 1940s</unitdate>
+              <container type="box">1648</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="folder">1</container>
+              <unittitle>Lowell Thomas’s sun helmet (safari or desert sun hat). Very fine
+							cotton twill hat of sturdy construction with asymmetrical, angled brim,
+							flat crown that has a cross-the-hat top leather band and buckle, and
+							pleated fabric band. Deep pink cotton interior with crossed web for air
+							flow. Medium size</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">1649</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="folder">1</container>
+              <unittitle>LC Smith Corona typewriter</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">1650</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="folder">1-2</container>
+              <unittitle>Two glass bottles from Cripple Creek <![CDATA[&amp;]]> Victor
+							Company, one bearing “The Pioneer Bottling Works. Victor, Co.” trademark
+							and the other “The Standard Bottling Mfg. Co. Cripple Creek Colo.”
+							[items are located in Lowell Thomas Gallery]</unittitle>
+              <unitdate label="Date">circa early 1900s</unitdate>
+              <container type="box">1651</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="folder">1</container>
+              <unittitle>One VIEW-MASTER viewing device</unittitle>
+              <unitdate label="Date">circa 1960s</unitdate>
+              <container type="box">1652</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="folder">1</container>
+              <unittitle>Gramophone speaker with black cast iron base, black neck and wood
+							end. Manufacturer logo inside horn reads “Music Master, Reproducer,
+							Philadelphia, PA, USA”</unittitle>
+              <unitdate label="Date">circa 1920s</unitdate>
+              <container type="box">1653</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="folder">1</container>
+              <unittitle>Stewart Warner radio made in Chicago, Illinois by the Stewart
+							Warner Speed Corporation. Metal sides and hinged wooden top; contains
+							five vacuum tubes. Measures approximately 8¼ x 9 x 20 ½
+							inches.</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">1654</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="folder">1</container>
+              <unittitle>Portrait of Lowell Thomas by Joseph A. Maturo (signed Jos. A.
+							Maturo). Measures 38 x 29 inches.</unittitle>
+              <unitdate label="Date">circa 1930s</unitdate>
+              <container type="box">1655</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="folder">1</container>
+              <unittitle>1968 desk calendar (used) torn off to Monday May, 13. Still in
+							plastic faux wood finish calendar holder</unittitle>
+              <unitdate label="Date">1968</unitdate>
+              <container type="box">1656</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="folder">2</container>
+              <unittitle>Empty plastic faux wood finish desk calendar holder</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">1656</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="folder">3</container>
+              <unittitle>Empty brown metal desk calendar holder</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">1656</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="folder">4</container>
+              <unittitle>Empty black art deco desk calendar holder</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">1656</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="folder">5</container>
+              <unittitle>Worn bound desk note pad and pencil (used), inscribed with the
+							name “Lowell Thomas” in gold lettering on the cover</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">1656</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="folder">6</container>
+              <unittitle>Large block of Lucite containing a large steel nut and note card.
+							Note reads “Mr. Lowell Thomas: This is a nut off the right hand side
+							recoil mechanism of one of Count Felix von Luckner’s guns. Removed from
+							the wreck of the SEEADLER on the reef at the isle of Mopelia, French
+							Oceania, on April 25th, 1956 by Ralph Varady, Sincerely, Ralph Varady,
+							Honolulu, Sept. 26th 1958”. Measures 6 x 6 x 2 inches</unittitle>
+              <unitdate label="Date">1958</unitdate>
+              <container type="box">1656</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="folder">7</container>
+              <unittitle>Dark brown/black bifold wallet bearing the name “Lowell Thomas”
+							in gold lettering. Wallet contains two business cards of differing sizes
+							2 x 3 and 1½ x 3 inches respectively. Typeface on cards reads “Mr.
+							Lowell Thomas”</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">1656</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="folder">8</container>
+              <unittitle>1965 desk calendar (used) torn off to Tuesday, January 5.
+							Contained in distinctive green leather desk calendar holder with 24k
+							gold inlay reading “Lowell Thomas” on cover flap. Small gold tag on
+							bottom reads “A<![CDATA[&amp;]]>M Leatherlines Inc., New York, N.Y., Genuine
+							Leather, 24k tooled”</unittitle>
+              <unitdate label="Date">1965</unitdate>
+              <container type="box">1656</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="folder">9</container>
+              <unittitle>Desktop pen holder and clock in distinctive green and gold
+							leather motif with gold typeface reading “Lowell Thomas” centered in
+							front of the clock. Small gold tag on bottom reads “A<![CDATA[&amp;]]>M
+							Leatherlines Inc., New York, N.Y., Genuine Leather, 24k tooled” Measures
+							10 x 4½ inches</unittitle>
+              <unitdate label="Date">1965</unitdate>
+              <container type="box">1656</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="folder">10</container>
+              <unittitle>Small desktop lighter in distinctive green and gold leather
+							motif. Small gold tag on bottom reads “A<![CDATA[&amp;]]>M Leatherlines
+							Inc., New York, N.Y., Genuine Leather, 24k tooled” Measures 2 x 3½
+							inches</unittitle>
+              <unitdate label="Date">1965</unitdate>
+              <container type="box">1656</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="folder">11</container>
+              <unittitle>Desktop ashtray in distinctive green and gold leather motif.
+							Small gold tag on bottom reads “A<![CDATA[&amp;]]>M Leatherlines Inc., New
+							York, N.Y., Genuine Leather, 24k tooled” Measures 1½ x 8½ inches</unittitle>
+              <unitdate label="Date">1965</unitdate>
+              <container type="box">1656</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="folder">12</container>
+              <unittitle>A large metallic letter “T” measuring 9½ x 6½ inches</unittitle>
+              <unitdate label="Date">1965</unitdate>
+              <container type="box">1656</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="folder">13</container>
+              <unittitle>CBS NEWS lapel pin measuring 1½ x 2 inches</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">1656</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="folder">1</container>
+              <unittitle>Lowell Thomas’s Distinguished Service Award, presented to him by
+							the National Association of Broadcasting, Chicago, Illinois, April,
+							1968. Measures 11½ x 15 inches</unittitle>
+              <unitdate label="Date">1968</unitdate>
+              <container type="box">1657</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="folder">2</container>
+              <unittitle>Lowell Thomas’s 1981 Audio - Visual Media Educator Recognition
+							Award, presented to him August 5, 1981 by the National Audio Visual
+							Association. Measures 10 x 15 inches</unittitle>
+              <unitdate label="Date">1981</unitdate>
+              <container type="box">1657</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="folder">3</container>
+              <unittitle>Small red change purse containing eight assorted keys</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">1657</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="folder">4</container>
+              <unittitle>Unidentified brass object measuring 4 x 1½ inches</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">1657</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="folder">5</container>
+              <unittitle>Small circular tape measure, measuring 2 x ¼ inches</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">1657</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="folder">6</container>
+              <unittitle>Small fold-out magnifying glass</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">1657</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="folder">7</container>
+              <unittitle>Two small replacement vacuum tubes for a tape recorder, wrapped
+							in paper</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">1657</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="folder">8</container>
+              <unittitle>Small empty plastic container once containing “Tape Recorder Head
+							Cleaning Fluid.” Measures 3½ x 2 inches</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">1657</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="folder">9</container>
+              <unittitle>Reel to reel rewind setup produced by the Craig Movie Supply
+							Company. In original box. Measures approximately 6 x 4½ x 3½ inches</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">1657</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="folder">10</container>
+              <unittitle>Four Philadelphia Evening Bulletin delegate signs</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">1657</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="folder">11</container>
+              <unittitle>Circular photo frame. Measures 6½ x 6½ inches</unittitle>
+              <unitdate label="Date">late 1800s - early 1900s</unitdate>
+              <container type="box">1657</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="folder">1</container>
+              <unittitle>Lowell Thomas Inn dinnerware cup, black and yellow motif</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">1658</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="folder">2</container>
+              <unittitle>Lowell Thomas Inn dinnerware saucer, black and yellow motif</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">1658</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="folder">3</container>
+              <unittitle>Lowell Thomas Inn dinnerware bowl, black and yellow motif</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">1658</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="folder">4</container>
+              <unittitle>Lowell Thomas Inn dinnerware dish, black and yellow motif</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">1658</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="folder">5</container>
+              <unittitle>Lowell Thomas Inn dinnerware dinner dish, black and yellow motif</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">1658</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="folder">1</container>
+              <unittitle>Large, worn, brown steamer trunk with the word “Beirut” hand
+							painted on side. Trunk is empty and measures 31 x 17 x 13
+							inches</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">1659</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="folder">1</container>
+              <unittitle>Recognition plaque given to Lowell Thomas on 6 May 1981 by the
+							University of South Carolina to honor the establishment of a scholarship
+							in broadcast journalism</unittitle>
+              <unitdate label="Date">1981 May 6</unitdate>
+              <container type="box">1660</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="folder">1</container>
+              <unittitle>Lowell Thomas Board Game from Parker Brothers</unittitle>
+              <unitdate label="Date">1937</unitdate>
+              <container type="box">1661</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="folder">1</container>
+              <unittitle>Gold framed embroidery textiles [Indian?][Tibetan?]. Measure 30 ½
+							x 28½ inches [items are located in Marist College Special Collections
+							hanging storage area]</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">1662</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="folder">1</container>
+              <unittitle>Reddish-orange silk scarf with an intricate design
+							[Indian?][Tibetan?]</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">1663</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="folder">2</container>
+              <unittitle>Decorative sash, purple with a pattern of shapes that are blue,
+							gold, pink and orange in color. There is also an intricate design of
+							colorful beads on one side [Indian?][Tibetan?]</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">1663</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="folder">3</container>
+              <unittitle>Decorative bag with a complex design. The primary colors are red,
+							burgundy, green, pink, yellow and blue. Tassels are affixed to the bag
+							[Indian or Tibetan?]</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">1663</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="folder">4</container>
+              <unittitle>Decorative bag, mainly burgundy in color. There is a design of
+							shells and two tassels affixed to bag [Indian?][Tibetan?]</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">1663</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="folder">5</container>
+              <unittitle>Decorative bag with a pattern in colors of green, burgundy, pink,
+							and yellow [Indian?][Tibetan?]</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">1663</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="folder">1</container>
+              <unittitle>Lowell Thomas’s Honorary Doctorate from Marist College with
+							President Dennis J. Murray’s signature. Latin language. Measures 18 x 22
+							inches (including frame)</unittitle>
+              <unitdate label="Date">1981 May 16</unitdate>
+              <container type="box">1664</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid>1.2</unitid>
+            <unittitle>Subseries 1.2: Lowell Thomas, Jr.</unittitle>
+            <physdesc>
+              <extent type="boxes">Boxes: 1665 - 1666</extent>
+            </physdesc>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="folder">1</container>
+              <unittitle>Brown, long sleeve, button down military shirt with Air Force
+								patch insignia on left sleeve. Collar label reads “Custom Tailored by
+								Schwartz, Cincinnati, Dry Clean Only”</unittitle>
+              <unitdate label="Date">circa 1940S</unitdate>
+              <container type="box">1665</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="folder">2</container>
+              <unittitle>Pair of khaki colored men’s shorts, Abercrombie <![CDATA[&amp;]]>
+								Fitch</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">1665</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="folder">3</container>
+              <unittitle>Large tan raincoat lining</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">1665</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="folder">4</container>
+              <unittitle>Khaki colored long sleeve button down shirt size 15½ - 35. Collar
+								label reads “Saks <![CDATA[&amp;]]> Co. 611 5th Ave., N.Y.”</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">1665</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="folder">5</container>
+              <unittitle>Pair of khaki colored men’s shorts</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">1665</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="folder">6</container>
+              <unittitle>Brown heavyweight riding pants with tan leather patches at the
+								inside knee</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">1665</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="folder">7</container>
+              <unittitle>Tan heavyweight riding pants with light tan leather patches at
+								the inside knee</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">1665</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="folder">1</container>
+              <unittitle>Large brown raincoat lining</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">1666</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="folder">2</container>
+              <unittitle>Dark tan heavyweight riding pants with leather patches at the
+								inside knee</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">1666</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="folder">3</container>
+              <unittitle>Light tan heavyweight riding pants with leather patches at the
+								inside knee</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">1666</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="folder">4</container>
+              <unittitle>Light tan riding pants with lace up leg bottoms</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">1666</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="folder">5</container>
+              <unittitle>Worn, dark brown leather briefcase, with a brass clasp and
+								initials “L.T. jr.” on front</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">1666</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="folder">6</container>
+              <unittitle>Copper potato chip award given to Lowell Thomas Jr. in 1954.
+								Inscribed “Chip off the old block, From the National Potato Chip
+								Institute, to Lowell Thomas Jr., 1954”. Includes marble stand. Measures
+								approximately 4¾ x 4½ inches</unittitle>
+              <unitdate label="Date">1954</unitdate>
+              <container type="box">1666</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid>1.3</unitid>
+            <unittitle>Subseries 1.3: Harry G. Thomas</unittitle>
+            <physdesc>
+              <extent type="boxes">Box: 1667</extent>
+            </physdesc>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="folder">1</container>
+              <unittitle>Wooden box containing stainless steel physician’s tools.
+								Measuring approximately 12 x 6 x 2 inches</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">1667</container>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unitid>2</unitid>
+          <unittitle>2. Clubs</unittitle>
+          <physdesc>
+            <extent type="boxes">Boxes: 1668 - 1669</extent>
+          </physdesc>
+        </did>
+        <scopecontent>
+          <p>Series contains objects from The Explorers Club</p>
+        </scopecontent>
+        <arrangement>
+          <p>By Club</p>
+        </arrangement>
+        <c02 level="subseries">
+          <did>
+            <unitid>2.1</unitid>
+            <unittitle>Subseries 2.1: The Explorers Club</unittitle>
+            <physdesc>
+              <extent type="boxes">Boxes: 1668 - 1669</extent>
+            </physdesc>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="folder">1</container>
+              <unittitle>Bronze bust of Lowell Thomas, measuring 9 x 14¼ inches. American
+								Sculptor Philip Kraczkowski was commissioned by The Explorers Club to
+								sculpt the bust</unittitle>
+              <unitdate label="Date">circa 1969</unitdate>
+              <container type="box">1668</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="folder">1</container>
+              <unittitle>The Explorers Club 75th Anniversary Award. Bronze medallion
+								encased in Lucite reading “Lowell Thomas Award, The Explorers Club 1905,
+								Lowell Thomas”</unittitle>
+              <unitdate label="Date">1980 October 17</unitdate>
+              <container type="box">1669</container>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unitid>3</unitid>
+          <unittitle>3. Equipment</unittitle>
+          <physdesc>
+            <extent type="boxes">Boxes: 1670 - 1697</extent>
+          </physdesc>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="folder">1</container>
+            <unittitle>Cine Kodak 16mm [millimeter] movie camera, manufactured by
+							Eastman Kodak (Rochester, New York) from 1925-1931. Leather covered
+							metal camera body. Measures 5 x 9 inches</unittitle>
+            <unitdate label="Date">circa 1925 - 1935</unitdate>
+            <container type="box">1670</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">1</container>
+            <unittitle>DeVry Motion Picture Camera 7 x 9 inches manufactured by DeVry
+							Corporation (Chicago, Illinois). Equipped with Kodak Anastigmat
+							lens</unittitle>
+            <unitdate label="Date">circa 1930s</unitdate>
+            <container type="box">1671</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">1</container>
+            <unittitle>Camerette 16, 35 [51 x 39 inches] standard reflex movie camera
+							with lens. Manufactured in Éclair, Paris. With Éclair Tripod</unittitle>
+            <unitdate label="Date">undated</unitdate>
+            <container type="box">1672</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">1</container>
+            <unittitle>Kodascope radio rewind universal splicer, measuring approximately
+							6½ x 29½ x 5½ inches</unittitle>
+            <unitdate label="Date">undated</unitdate>
+            <container type="box">1673</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">1</container>
+            <unittitle>BUHL 8 (inch), 3.9 lens for carousel/ektagraphic slide projector,
+							boxed</unittitle>
+            <unitdate label="Date">undated</unitdate>
+            <container type="box">1674</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">1</container>
+            <unittitle>Black hard shell lantern slide carrying case. With silver clasp
+							and key. Measures approximately 10½ x 8½ x 5½ inches</unittitle>
+            <unitdate label="Date">undated</unitdate>
+            <container type="box">1675</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">1</container>
+            <unittitle>Leather camera case. Enclosed in the case is Kodak film. Measures
+							10¼ x 8 x 8 1/2 inches</unittitle>
+            <unitdate label="Date">undated</unitdate>
+            <container type="box">1676</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">1</container>
+            <unittitle>Cine Kodak Model B movie camera case. Manufactured by the Eastman
+							Kodak Company. Measures 10½ x 4½ x 7½ inches</unittitle>
+            <unitdate label="Date">undated</unitdate>
+            <container type="box">1677</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">2</container>
+            <unittitle>Camera box which contains a Kinoptik lens. Box measures
+							approximately 12 x 5 x 9¼ inches</unittitle>
+            <unitdate label="Date">undated</unitdate>
+            <container type="box">1677</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">1</container>
+            <unittitle>RCA Radiola with the head set. Measures 8½ x 6½ x 5
+							inches</unittitle>
+            <unitdate label="Date">undated</unitdate>
+            <container type="box">1678</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">1</container>
+            <unittitle>Motion picture camera equipment (6 pieces). Includes 2 Kinoptik
+							lenses (Paris F 2S Focale, 150 mm, No. 24818, Kinoptik Paris,
+							Odyssey)</unittitle>
+            <unitdate label="Date">undated</unitdate>
+            <container type="box">1679</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">1</container>
+            <unittitle>Trans Twinister/Gates M1568 model. Measures 7½ x 6¼ inches</unittitle>
+            <unitdate label="Date">undated</unitdate>
+            <container type="box">1680</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">2</container>
+            <unittitle>G. Nicks audio head set</unittitle>
+            <unitdate label="Date">undated</unitdate>
+            <container type="box">1680</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">1</container>
+            <unittitle>Philco radio (wooden case). Model 37-60, Palt. 10226-A. Measures
+							20 x 16 x 10 inches</unittitle>
+            <unitdate label="Date">undated</unitdate>
+            <container type="box">1681</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">1</container>
+            <unittitle>Bronze presentation plaque. Part of the radio “Star of Stars
+							Contest” by readers of Radio Guide, 1936. Most popular news commentator.
+							Measures 6 x 9 inches</unittitle>
+            <unitdate label="Date">1936</unitdate>
+            <container type="box">1682</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">2</container>
+            <unittitle>Graflex Camera (folding box camera). Measures 6 x 6 x 7 inches</unittitle>
+            <unitdate label="Date">undated</unitdate>
+            <container type="box">1682</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">1</container>
+            <unittitle>2 “Woodsman’s Pals” (machetes)</unittitle>
+            <unitdate label="Date">undated</unitdate>
+            <container type="box">1683</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">2</container>
+            <unittitle>Estwing Chisel Point Rock Hammer. Measures about 12 inches</unittitle>
+            <unitdate label="Date">undated</unitdate>
+            <container type="box">1683</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">1</container>
+            <unittitle>Gray Audiograph equipment. Measures 8½ x 9½ x 5
+							inches</unittitle>
+            <unitdate label="Date">undated</unitdate>
+            <container type="box">1684</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">1</container>
+            <unittitle>Realist 620 slide projector. Measures 12 x 7½ x 4½
+							inches</unittitle>
+            <unitdate label="Date">undated</unitdate>
+            <container type="box">1685</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">1</container>
+            <unittitle>Bell <![CDATA[&amp;]]> Howell Film Sound Projector. Measures 9 x 20 x
+							9 inches</unittitle>
+            <unitdate label="Date">undated</unitdate>
+            <container type="box">1686</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">1</container>
+            <unittitle>2 wooden book blocks. Measure 7 x 6 x 2¼ inches</unittitle>
+            <unitdate label="Date">undated</unitdate>
+            <container type="box">1687</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">1</container>
+            <unittitle>Needles from Speak O-Phone personal phonograph records</unittitle>
+            <unitdate label="Date">undated</unitdate>
+            <container type="box">1688</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">2</container>
+            <unittitle>Equipment possibly related to the development of film. A wooden
+							box contains a mirror as well as a light. Measures 13¼ x10½ x 3 inches</unittitle>
+            <unitdate label="Date">undated</unitdate>
+            <container type="box">1688</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">1-  2</container>
+            <unittitle>Black library card catalog cabinet with two drawers. Measures 12
+							x 12 x 4½ inches</unittitle>
+            <unitdate label="Date">circa 1930s</unitdate>
+            <container type="box">1689</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">1</container>
+            <unittitle>Black library card catalog cabinet with two drawers. Measures 12
+							x 12 x 4½ inches</unittitle>
+            <unitdate label="Date">circa 1930s</unitdate>
+            <container type="box">1690</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">2 - 3</container>
+            <unittitle>Wooden black lantern slide holder. The holder is open and
+							contains two tan straps at either end. Measures 12½ x 4 x 4 inches</unittitle>
+            <unitdate label="Date">undated</unitdate>
+            <container type="box">1690</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">1</container>
+            <unittitle>A green, metal film index card cabinet. Measures 16 x 6½ 5
+							inches</unittitle>
+            <unitdate label="Date">undated</unitdate>
+            <container type="box">1691</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">1</container>
+            <unittitle>Kodachrome 35 millimeter slide box. Holds up to 100 slides.
+							Measures 6 x 10 x 2½ inches</unittitle>
+            <unitdate label="Date">undated</unitdate>
+            <container type="box">1692</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">2</container>
+            <unittitle>Kodak 35 millimeter slide carousel. Holds up to 140 slides.
+							Measures approximately 10 x 10 x 2½ inches</unittitle>
+            <unitdate label="Date">circa 1970s</unitdate>
+            <container type="box">1692</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">3</container>
+            <unittitle>Kodak 35 millimeter slide carousel. It can hold up to 140 slides.
+							Measures approximately 10 x 10 x 2½ inches</unittitle>
+            <unitdate label="Date">circa 1970s</unitdate>
+            <container type="box">1692</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">4</container>
+            <unittitle>Kodak 35 millimeter slide carousel. It can hold up to 80 slides.
+							Measures approximately 10 x 10 x 2½ inches</unittitle>
+            <unitdate label="Date">circa 1970s</unitdate>
+            <container type="box">1692</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">1</container>
+            <unittitle>One of several handmade wooden crates that housed Frank R.
+							Roberson’s glass plate negatives. Measures 16 x 11 x 10
+							inches</unittitle>
+            <unitdate label="Date">circa early 1900s</unitdate>
+            <container type="box">1693</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">1</container>
+            <unittitle>Wooden crate used to house glass plate negatives. Measures 13¼ x
+							7½ x 8 inches</unittitle>
+            <unitdate label="Date">circa 1920s</unitdate>
+            <container type="box">1694</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">1</container>
+            <unittitle>Brown, portable file cabinet used by Lowell Thomas, Jr. Measures
+							12½ 5½ x 12 inches</unittitle>
+            <unitdate label="Date">circa 1940s</unitdate>
+            <container type="box">1695</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">1</container>
+            <unittitle>Brown phonograph record album box. Measures 12 x 4½ x 13 inches</unittitle>
+            <unitdate label="Date">undated</unitdate>
+            <container type="box">1696</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">2</container>
+            <unittitle>Brown phonograph record album box. Measures 13 x 6½ x 13
+							inches</unittitle>
+            <unitdate label="Date">undated</unitdate>
+            <container type="box">1697</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">1</container>
+            <unittitle>Memorex Mark III computer memory disk. United States patent
+							number 3,474,073. Measures 1½ x 15 inches</unittitle>
+            <unitdate label="Date">circa 1970s</unitdate>
+            <container type="box">1697</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unitid>4</unitid>
+          <unittitle>4. Sports</unittitle>
+          <physdesc>
+            <extent type="boxes">Box: 1698</extent>
+          </physdesc>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="folder">1 - 2</container>
+            <unittitle>Vintage practice hockey puck, unused and still in original box.
+							Label on box reads “Alex Taylor Co. Inc., The House that Sport Built, 22
+							East 42nd St. New York, N.Y., No.P., Practice Puck”. Puck itself is
+							stamped with company logo and address</unittitle>
+            <unitdate label="Date">undated</unitdate>
+            <container type="box">1698</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">3 - 4</container>
+            <unittitle>Vintage Spalding Duro Seam Softball, unused and in original box
+							and wrapping</unittitle>
+            <unitdate label="Date">undated</unitdate>
+            <container type="box">1698</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unitid>5</unitid>
+          <unittitle>5. Tibet</unittitle>
+          <physdesc>
+            <extent type="boxes">Boxes: 1699 - 1712</extent>
+          </physdesc>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="folder">1</container>
+            <unittitle>Handmade wool Tibetan hat with distinctive
+							pointed ear flaps and asymmetrical design using colorful striped wool in
+							gold, blue, silver and black and hand-embroidered flowers. Vibrant red
+							interior</unittitle>
+            <unitdate label="Date">circa 1940s</unitdate>
+            <container type="box">1699</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">1</container>
+            <unittitle>Tibetan copper urn with holder and top.
+							Decoratively tooled exterior featuring brass appliqué. Measures 13½ x
+							16½ inches</unittitle>
+            <unitdate label="Date">circa 1940s</unitdate>
+            <container type="box">1700</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">1</container>
+            <unittitle>Tibetan Long Horn, three-piece, telescoping
+							extension stored in the closed position. Decorative metal clasp attached
+							to wide end of horn with additional decorative metal work at the end of
+							each extension and mouthpiece. The Rag-Dung is a ceremonial instrument
+							that is played to accompany chanting.</unittitle>
+            <unitdate label="Date">circa 1940s</unitdate>
+            <container type="box">1701</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">1</container>
+            <unittitle>A pair of well-worn wooden crutches used by
+							Lowell Thomas after he broke his hip from a horseback fall on leaving
+							Tibet</unittitle>
+            <unitdate label="Date">1949</unitdate>
+            <container type="box">1702</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">1</container>
+            <unittitle>Tibetan handcrafted beaded bangle bracelet in
+							geometric design. Glass beads of green, ochre, burgundy, dark blue and
+							white on padded cloth</unittitle>
+            <unitdate label="Date">circa 1940s</unitdate>
+            <container type="box">1703</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">2</container>
+            <unittitle>Loomed Tibetan cotton satchel in blue, pink and
+							burgundy on off-white field. Pull-tie closure, containing a collection
+							of exotic sea shells</unittitle>
+            <unitdate label="Date">circa 1940s</unitdate>
+            <container type="box">1703</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">3</container>
+            <unittitle>A set of raw leather reins</unittitle>
+            <unitdate label="Date">circa 1940s</unitdate>
+            <container type="box">1703</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">4</container>
+            <unittitle>Tibetan painted ceremonial mask depicting a fanged
+							mythological creature. Measures approximately 12 x 13 x 2 inches</unittitle>
+            <unitdate label="Date">circa 1940s</unitdate>
+            <container type="box">1703</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">5</container>
+            <unittitle>Tibetan painted ceremonial mask depicting a
+							mythological creature. Measures approximately 7 x 7 x 2 inches</unittitle>
+            <unitdate label="Date">circa 1940s</unitdate>
+            <container type="box">1703</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">6</container>
+            <unittitle>Carved circular wooden Tibetan bowl containing
+							four small dice and twenty-two copper coins. Measures 4 x 1½ inches</unittitle>
+            <unitdate label="Date">circa 1940s</unitdate>
+            <container type="box">1703</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">7</container>
+            <unittitle>Carved circular wooden Tibetan bowl containing
+							twenty-six metallic pegs. Measures 4 x 1½ inches</unittitle>
+            <unitdate label="Date">circa 1940s</unitdate>
+            <container type="box">1703</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">8</container>
+            <unittitle>Unidentified sewn circular leather disc measuring
+							7½ x 1 inches</unittitle>
+            <unitdate label="Date">circa 1940s</unitdate>
+            <container type="box">1703</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">1</container>
+            <unittitle>Brass Tibetan candle stand, silver plated with
+							etched and colored floral motif. Measures 7¾ x 8½ inches</unittitle>
+            <unitdate label="Date">circa 1940s</unitdate>
+            <container type="box">1704</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">2</container>
+            <unittitle>Brass Tibetan candle stand, with etched silver
+							and brass plating. Measures 7 x 7¼ inches</unittitle>
+            <unitdate label="Date">circa 1940s</unitdate>
+            <container type="box">1704</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">1</container>
+            <unittitle>Conical shaped Tibetan hat made of palm leaves
+							overlaid with fabric appliqué containing colorful felt flowers</unittitle>
+            <unitdate label="Date">circa 1940s</unitdate>
+            <container type="box">1705</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">2</container>
+            <unittitle>Traditional Tibetan apron of striped woven material
+							overlaid with gold, floral-patterned damask at upper corners. Woven
+							ribbon tie. Backed with synthetic turquoise fabric in geometric pattern</unittitle>
+            <unitdate label="Date">circa 1940s</unitdate>
+            <container type="box">1705</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">1</container>
+            <unittitle>Lowell Thomas’s personal circular/round
+							multi-colored fabric hat with flat top. Has a woven appearance and black
+							fabric interior. Gift of the Lamas of the Tibetan holy city of Lhasa
+							during Lowell Thomas’s 1949 visit</unittitle>
+            <unitdate label="Date">circa 1949</unitdate>
+            <container type="box">1706</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">2</container>
+            <unittitle>Lowell Thomas’s personal circular hat with flat
+							crown and brim in gold lacquer with Southeast Asian decorative motif.
+							Crown has air holes surrounded by stylized Asian symbols. Padded cloth
+							sweatband and red silk under chin ties</unittitle>
+            <unitdate label="Date">undated</unitdate>
+            <container type="box">1706</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">1</container>
+            <unittitle>Lowell Thomas’s personal Tibetan appliqué hat
+							with brim. Woven green silk head band and woven silk crown appliqué
+							outlined in red. Navy blue string to hold hat in place. Red silk lined
+							crown and lower brim. Golden rick rack trim at edge of brim and on hat
+							band</unittitle>
+            <unitdate label="Date">circa 1940s</unitdate>
+            <container type="box">1707</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">2</container>
+            <unittitle>Lowell Thomas’s personal hand sewn Tibetan style
+							long robe in aged cream silk with mandarin collar and fuchsia pink
+							partial lining</unittitle>
+            <unitdate label="Date">circa 1940s</unitdate>
+            <container type="box">1707</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">3</container>
+            <unittitle>Four ecru silk napkins/hand towels with colorful hand
+							embroidery depicting four Tibetan village scenes, two male and two
+							female: farming crops, hunting game, weaving fabric and churning butter.
+							Measures 17 x 9½ inches</unittitle>
+            <unitdate label="Date">circa 1940s</unitdate>
+            <container type="box">1707</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">4</container>
+            <unittitle>Three identical, colorful, woven Tibetan textiles.
+							Measures approximately 25 x 7 inches</unittitle>
+            <unitdate label="Date">circa 1940s</unitdate>
+            <container type="box">1707</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">5</container>
+            <unittitle>Tibetan flag in traditional colors with rising sun
+							motif from the late 1960s - 1970s</unittitle>
+            <unitdate label="Date">circa 1960s - 1970s</unitdate>
+            <container type="box">1707</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">1</container>
+            <unittitle>Collection of seven Tibetan ceremonial white silk
+							scarves with frayed edges</unittitle>
+            <unitdate label="Date">1949</unitdate>
+            <container type="box">1708</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">2</container>
+            <unittitle>Collection of four Tibetan ceremonial white scarves
+							in assorted fabrics with frayed fringe edges</unittitle>
+            <unitdate label="Date">1949</unitdate>
+            <container type="box">1708</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">3</container>
+            <unittitle>Lowell Thomas’s personal Tibetan ceremonial red silk
+							scarf. Handwritten note by Lowell Thomas accompanies scarf: “Tibetan
+							ceremonial scarves. Red scarves are usually given by Dalai Lama”</unittitle>
+            <unitdate label="Date">1949</unitdate>
+            <container type="box">1708</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">4</container>
+            <unittitle>Tibetan ceremonial red silk scarf</unittitle>
+            <unitdate label="Date">1949</unitdate>
+            <container type="box">1708</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">5</container>
+            <unittitle>Collection of seventeen handcrafted handheld fans,
+							embroidered on one or both sides in colorful floral designs. The fabrics
+							use an assortment of patterns, fabrics and shapes</unittitle>
+            <unitdate label="Date">1949</unitdate>
+            <container type="box">1708</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">1</container>
+            <unittitle>Stone carving of praying Buddha. Measures 8½ x 12
+							inches</unittitle>
+            <unitdate label="Date">undated</unitdate>
+            <container type="box">1709</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">2</container>
+            <unittitle>5 copper engraving plates. 2 measure 2½ x 1½
+							inches; 2 measure 1¾ x 1¾ inches; 1 measures 3 x 1½ inches; All have a
+							height of ¾ of an inch</unittitle>
+            <unitdate label="Date">undated</unitdate>
+            <container type="box">1709</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">1</container>
+            <unittitle>Seven pieces of Tibetan silver</unittitle>
+            <unitdate label="Date">undated</unitdate>
+            <container type="box">1710</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">2</container>
+            <unittitle>Tibetan beaded necklace with pendant. Round and
+							oblong beads inlaid with turquoise and silver</unittitle>
+            <unitdate label="Date">undated</unitdate>
+            <container type="box">1710</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">3</container>
+            <unittitle>Tibetan bracelet. Floret shaped beads inlaid with
+							turquoise and silver</unittitle>
+            <unitdate label="Date">undated</unitdate>
+            <container type="box">1710</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">1</container>
+            <unittitle>Hand sewn Tibetan Thangka. Measures 27 x 25
+							inches</unittitle>
+            <unitdate label="Date">undated</unitdate>
+            <container type="box">1711</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">1</container>
+            <unittitle>Tibetan flag given to Lowell Thomas by the fourteenth
+							Dalai Lama when they met in Lhasa in 1949. The flag is both machine and
+							hand stitched, and embroidered with colored thread. Measures 43½ x 45
+							inches [item stored in oversize tube]</unittitle>
+            <unitdate label="Date">circa 1940s</unitdate>
+            <container type="box">1712</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unitid>6</unitid>
+          <unittitle>6. World War I/Travelogues</unittitle>
+          <unitdate normal="1914/1918">1914 - 1918</unitdate>
+          <physdesc>
+            <extent type="boxes">Boxes: 1713 - 1721</extent>
+          </physdesc>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="folder">1</container>
+            <unittitle>World War I flannel-lined leather aviator’s helmet.
+							Laces up the back, adjustable straps with buckles at the chin. Built-in
+							ear flaps accommodate radio headset, and side snaps hold goggles in
+							place. Goggles are hinged for a custom fit</unittitle>
+            <unitdate label="Date">1914 -1918</unitdate>
+            <container type="box">1713</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">1</container>
+            <unittitle>World War I Pickelhaube, standard issue World War I
+							German infantry black spiked helmet. Features fluted spike, cruciform
+							spike base, squared visor rim, brass chin scales and red cockade around
+							chinstrap fitting</unittitle>
+            <unitdate label="Date">1914 -1918</unitdate>
+            <container type="box">1714</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">1</container>
+            <unittitle>World War I Italian “Adrian” M1916 helmet in
+							grey-green painted metal. Helmet made in two pieces: the helmet shell
+							and crest. Liner is Italian made leather with cloth head band in
+							grey-green wool</unittitle>
+            <unitdate label="Date">1914 -1918</unitdate>
+            <container type="box">1715</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">1</container>
+            <unittitle>Ceremonial knife/dagger, hand carved wooden handle
+							with decorative white metal discs. U-shaped stitched leather sheath
+							overlaid with traditional metalwork</unittitle>
+            <unitdate label="Date">circa 1918</unitdate>
+            <container type="box">1716</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">1</container>
+            <unittitle>Camel saddle of the Tuareg people, featuring tooled
+							leather with brass decorative strips and incised tin detailing.
+							Measuring approximately 31 x 14 x 37 inches</unittitle>
+            <unitdate label="Date">circa 1918</unitdate>
+            <container type="box">1717</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">1</container>
+            <unittitle>Turkish flag (white crescent moon and star on a red
+							background). Very worn; frayed on lower left corner and damaged with
+							numerous holes. Still rolled around a broken piece of the flag standard.
+							Measures approximately 21½ x 36½ inches</unittitle>
+            <unitdate label="Date">circa 1914 -1918</unitdate>
+            <container type="box">1718</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">2</container>
+            <unittitle>French flag (tri-colored: red, white and blue). Measures
+							approximately 34½ x 51½ inches</unittitle>
+            <unitdate label="Date">circa 1914 -1918</unitdate>
+            <container type="box">1718</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">1</container>
+            <unittitle>Plaster relief of T. E. Lawrence. Measures 7 x 11 x
+							1½ inches</unittitle>
+            <unitdate label="Date">undated</unitdate>
+            <container type="box">1719</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">1</container>
+            <unittitle>Red eye-glass container measuring approximately 4½ x
+							2 inches. Company logo inside of case reads “Fort and Goodwin Jewelers,
+							2 North Broad St., Trenton, N.J.”</unittitle>
+            <unitdate label="Date">circa 1917 - 1918</unitdate>
+            <container type="box">1720</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">2</container>
+            <unittitle>Mrs. Frances Ryan Thomas’s World War I Red Cross uniform
+							pin; showing wear at the center. Measures ¾ x ¾ inches [the pin is
+							inside item 1 (eye-glass container) where it was originally housed]</unittitle>
+            <unitdate label="Date">circa 1917 - 1918</unitdate>
+            <container type="box">1720</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">3</container>
+            <unittitle>Mrs. Frances Ryan Thomas’s World War I metallic eagle
+							Red Cross uniform pin. Measures 2½ x ¾ inches [the pin is inside item 1
+							(eye-glass container) where it was originally housed].</unittitle>
+            <unitdate label="Date">circa 1917 - 1918</unitdate>
+            <container type="box">1720</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">4</container>
+            <unittitle>Mrs. Frances Ryan Thomas’s World War I metallic bar Red
+							Cross uniform pin. Measures 1 x ¼ inches metallic bar. [the pin is
+							inside item 1 (eye-glass container) where it was originally housed]</unittitle>
+            <unitdate label="Date">circa 1917 - 1918</unitdate>
+            <container type="box">1720</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">1</container>
+            <unittitle>Lowell Thomas’s desert robe. Heavy deep brown wool
+							with intricate golden embroidery on square collar. Tie-front with fine
+							gold thread balls</unittitle>
+            <unitdate label="Date">circa 1918</unitdate>
+            <container type="box">1721</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unitid>7</unitid>
+          <unittitle>7. World War II</unittitle>
+          <unitdate normal="1945">1945</unitdate>
+          <physdesc>
+            <extent type="boxes">Boxes: 1722 - 1723</extent>
+          </physdesc>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="folder">1</container>
+            <unittitle>Lowell Thomas’s World War II uniform jacket in army green wool
+							twill from Luxemburg Civilian <![CDATA[&amp;]]> Military Tailors, New York.
+							“War Correspondent” patch appears over left pleated pocket with
+							button-flap. Circular patch on shoulder reads, “U.S. War Correspondent”</unittitle>
+            <unitdate label="Date">circa 1945</unitdate>
+            <container type="box">1722</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">2</container>
+            <unittitle>Lowell Thomas’s World War II uniform slacks with custom label
+							containing Lowell Thomas’s name, date of manufacture (3/22/45) and order
+							number (#A7742). Taupe wool twill with side pockets and back inset
+							pocket. Labels contain manufacturer’s information: “Luxemburg Civilian
+							<![CDATA[&amp;]]> Military Tailors, New York”</unittitle>
+            <unitdate label="Date">1945</unitdate>
+            <container type="box">1722</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">1</container>
+            <unittitle>Lowell Thomas’s World War II uniform hat, made by Luxemburg
+							Civilian <![CDATA[&amp;]]> Military Tailors, 485 Madison Ave., NYC. Green
+							woolen cap with leather brim and hat band with golden spread-winged
+							eagle front-center. Gold fabric interior, size 7 3/8 inches. is signed
+							by Lowell Thomas on the interior gold fabric; his name is printed in
+							black ink on the leather sweat band: “L. Thomas, N.B.C.,
+							N.Y.”</unittitle>
+            <unitdate label="Date">circa 1945</unitdate>
+            <container type="box">1723</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unitid>8</unitid>
+          <unittitle>8. Miscellany</unittitle>
+          <physdesc>
+            <extent type="boxes">Boxes: 1724 - 1743</extent>
+          </physdesc>
+        </did>
+        <scopecontent>
+          <p>Series contains minerals and printing plates</p>
+        </scopecontent>
+        <arrangement>
+          <p>Type</p>
+        </arrangement>
+        <c02 level="subseries">
+          <did>
+            <unitid>8.1</unitid>
+            <unittitle>Subseries 8.1: Minerals</unittitle>
+            <physdesc>
+              <extent type="boxes">Boxes: 1724 - 1727</extent>
+            </physdesc>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="folder">1</container>
+              <unittitle>A mud brick from the wall of an unearthed house at Mohenjo-Daro
+							in the Upper Indus Valley</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">1724</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="folder">2</container>
+              <unittitle>A piece of York Minster pillar</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">1724</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="folder">3</container>
+              <unittitle>Rock with tile (four pieces) as well as a piece of detached
+							sandstone off-white in color</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">1724</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="folder">4</container>
+              <unittitle>Stone from Richmond Castle. Note: “No question as to how
+							acquired, please?”</unittitle>
+              <unitdate label="Date">1971 September 14</unitdate>
+              <container type="box">1724</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="folder">5</container>
+              <unittitle>Quartz</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">1724</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="folder">6</container>
+              <unittitle>2 reddish-pink stones</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">1724</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="folder">7</container>
+              <unittitle>Two pieces of brownish-orange rock. One appears brick-like</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">1724</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="folder">8</container>
+              <unittitle>Black striped rock</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">1724</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="folder">9</container>
+              <unittitle>Several fragments of brown sandstone</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">1724</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="folder">1</container>
+              <unittitle>Brown sandstone from Reunion Hall at Princeton</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">1725</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="folder">2</container>
+              <unittitle>Black gneiss from the Firestone Library at Princeton</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">1725</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="folder">3</container>
+              <unittitle>White marble from Whig Hall at Princeton</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">1725</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="folder">4</container>
+              <unittitle>Broken piece of Greece pottery; reddish brown in color</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">1725</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="folder">5</container>
+              <unittitle>Broken Buddha, grayish in color</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">1725</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="folder">6</container>
+              <unittitle>Cylindrical shaped stonework marked with the letter Q</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">1725</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="folder">7</container>
+              <unittitle>Bone shaped rock</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">1725</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="folder">8</container>
+              <unittitle>Reddish-orange piece of brick. Accompanying note states: “St
+							Peter’s Tomb F1”</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">1725</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="folder">9</container>
+              <unittitle>Shiny grayish-white piece of rock</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">1725</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="folder">10</container>
+              <unittitle>Stone from the Rock of Cashel. Accompanying note states: “This is
+							a remarkable outcrop of limestone rising 200 feet. It was the seat of
+							Munster kings from 370 until 1101 when King Murtagh O’Brien granted the
+							Rock to the Church. St. Patrick visited Cashel in AD 450 and baptized
+							the King Aengus. The buildings on the Rock include a tenth century round
+							tower, Cormac’s Chapel, the Cathedral, the Hall of the Vicars Choral,
+							and Saint Patrick’s Cross, as well as some modern tombs and enclosing
+							walls”</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">1725</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="folder">1</container>
+              <unittitle>A piece of the London Bridge. Accompanying note states: “This
+							particular piece came from Sir John Rennie’s (1761-1821) famous
+							five-arch bridge over the Thames River. The stone was removed during
+							demolition. Included with this artifact is information outlining the
+							London Bridge’s history”</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">1726</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="folder">2</container>
+              <unittitle>Quartz</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">1726</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="folder">3</container>
+              <unittitle>Several pieces of the window cusps of Happisburgh Church,
+							Norfolk, England</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">1726</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="folder">4</container>
+              <unittitle>A center piece of decorative flooring from Curium, Cyprus</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">1726</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="folder">5</container>
+              <unittitle>Mosaic from Salamis in Cyprus</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">1726</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="folder">6</container>
+              <unittitle>Quartz</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">1726</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="folder">7</container>
+              <unittitle>Brick</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">1726</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="folder">8</container>
+              <unittitle>Stone</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">1726</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="folder">9</container>
+              <unittitle>Stone</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">1726</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="folder">10</container>
+              <unittitle>Stone</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">1726</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="folder">1</container>
+              <unittitle>Petrified wood</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">1727</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="folder">2</container>
+              <unittitle>Lapis Lazuli. Accompanying note states it is from the tomb of
+							Baber at Kabul</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">1727</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="folder">3</container>
+              <unittitle>Fossil</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">1727</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="folder">4</container>
+              <unittitle>Quartz left over from the construction of the Quaker Hill Country
+							Club’s fire place</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">1727</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="folder">5</container>
+              <unittitle>Red stone with bits of quartz left over from the construction of
+							the Quaker Hill Country Club’s fireplace</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">1727</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="folder">6</container>
+              <unittitle>Brownish-red and gray rock left over from the construction of the
+							Quaker Hill Country Club’s fireplace</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">1727</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="folder">7</container>
+              <unittitle>Small piece of purple fluorite</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">1727</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="folder">8</container>
+              <unittitle>Gray rock</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">1727</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="folder">9</container>
+              <unittitle>Four small stones. [items housed in a box labeled Genuine Powders
+							from the Depot Pharmacy, Victor, Colorado]</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">1727</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid>8.2</unitid>
+            <unittitle>Subseries 8.2: Printing plates</unittitle>
+            <unitdate normal="1933/1941">1933 - 1941</unitdate>
+            <physdesc>
+              <extent type="boxes">Boxes: 1728 - 1730</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Series contains images of softball, travelogues, Tibet, Kabluk of the Eskimo, Lowell Thomas, Jr. Literary Digest, and Miscellany</p>
+          </scopecontent>
+          <arrangement>
+            <p>Original Order/Alphabetical/Chronological/Subject</p>
+          </arrangement>
+          <c03 level="subseries">
+            <did>
+              <unitid>8.2.1</unitid>
+              <unittitle>Subseries 8.2.1: Softball</unittitle>
+              <unitdate normal="1933/1941">1933 - 1941</unitdate>
+              <physdesc>
+                <extent type="boxes">Boxes: 1728 - 1730</extent>
+              </physdesc>
+            </did>
+            <c04 level="item">
+              <did>
+                <container type="folder">1</container>
+                <unittitle>Baseball field lined with people. Measures 3½ x 4½ inches</unittitle>
+                <unitdate label="Date">circa 1933 - 1941</unitdate>
+                <container type="box">1728</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">2</container>
+                <unittitle>Man seated on ground, member of the softball team. Measures 3½ x
+							3½ inches</unittitle>
+                <unitdate label="Date">circa 1933 - 1941</unitdate>
+                <container type="box">1728</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">3</container>
+                <unittitle>Man in flannel shirt up at bat. Measures 4¾ x 2 inches</unittitle>
+                <unitdate label="Date">circa 1933 - 1941</unitdate>
+                <container type="box">1728</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">4</container>
+                <unittitle>Man catching the ball while another slides into base. Measures 3½
+							x 4½ inches</unittitle>
+                <unitdate label="Date">circa 1933 - 1941</unitdate>
+                <container type="box">1728</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">5</container>
+                <unittitle>A man running. Measures 3½ x 4½ inches</unittitle>
+                <unitdate label="Date">circa 1933 - 1941</unitdate>
+                <container type="box">1728</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">6</container>
+                <unittitle>A profile of a member of the softball team. The cap is in a
+							backwards position. Measures 4½ x 3¼ inches</unittitle>
+                <unitdate label="Date">circa 1933 - 1941</unitdate>
+                <container type="box">1728</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">7</container>
+                <unittitle>Lowell Thomas and President Franklin Delano Roosevelt. Measures
+							3½ x 4½ inches</unittitle>
+                <unitdate label="Date">circa 1933 - 1941</unitdate>
+                <container type="box">1728</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">8</container>
+                <unittitle>A sign states “Softball…So What?” Measures 1½ x 8 inches</unittitle>
+                <unitdate label="Date">circa 1933 - 1941</unitdate>
+                <container type="box">1728</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">9</container>
+                <unittitle>Three men. Measures 7½ x 9 inches</unittitle>
+                <unitdate label="Date">circa 1933 - 1941</unitdate>
+                <container type="box">1728</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">10</container>
+                <unittitle>Ballplayer with his hat sideways. Measures 12 x 9 inches</unittitle>
+                <unitdate label="Date">circa 1933 - 1941</unitdate>
+                <container type="box">1728</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">11</container>
+                <unittitle>A group of boys. Measures 12 x 9 inches</unittitle>
+                <unitdate label="Date">circa 1933 - 1941</unitdate>
+                <container type="box">1728</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">12</container>
+                <unittitle>Three children at a table in a library. Measures 12 x 9 inches</unittitle>
+                <unitdate label="Date">circa 1933 - 1941</unitdate>
+                <container type="box">1728</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">13</container>
+                <unittitle>Boys lying down in the sand. Measures 12 x 9 inches</unittitle>
+                <unitdate label="Date">circa 1933 - 1941</unitdate>
+                <container type="box">1728</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">14</container>
+                <unittitle>Boys lying down in the sand. Measures 12 x 9 inches</unittitle>
+                <unitdate label="Date">circa 1933 - 1941</unitdate>
+                <container type="box">1728</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">1</container>
+                <unittitle>Anna May Wong playing softball. Measures 3½ x 4¾ inches</unittitle>
+                <unitdate label="Date">1937 August 16</unitdate>
+                <container type="box">1729</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">2</container>
+                <unittitle>Anna May Wong talking to a man. Measures 3½ x 4¾ inches</unittitle>
+                <unitdate label="Date">1937 August 16</unitdate>
+                <container type="box">1729</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">3</container>
+                <unittitle>Anna May Wong shaking hands with a man [Lowell Thomas?]. Measures
+							4¾ x 3½ inches</unittitle>
+                <unitdate label="Date">1937 August 16</unitdate>
+                <container type="box">1729</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">4</container>
+                <unittitle>A man adjusting his suspenders. Measures 3½ x 4¾ inches</unittitle>
+                <unitdate label="Date">circa 1933 - 1941</unitdate>
+                <container type="box">1729</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">5</container>
+                <unittitle>A man catching a ball. Measures 5½ x 4-5 inches</unittitle>
+                <unitdate label="Date">circa 1933 - 1941</unitdate>
+                <container type="box">1729</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">6</container>
+                <unittitle>Three men riding on burros. Measures 3¼ x 4¾ inches</unittitle>
+                <unitdate label="Date">1937</unitdate>
+                <container type="box">1729</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">7</container>
+                <unittitle>Profile of a man wearing a cap. Measures 4¾ x 3½ inches</unittitle>
+                <unitdate label="Date">circa 1933 - 1941</unitdate>
+                <container type="box">1729</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">8</container>
+                <unittitle>Men on baseball field. Measures 4¾ x 3½ inches</unittitle>
+                <unitdate label="Date">circa 1933 - 1941</unitdate>
+                <container type="box">1729</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">9</container>
+                <unittitle>A man in uniform standing next to woman with members of the
+							softball team behind them. Measures 3½ x 4¾ inches</unittitle>
+                <unitdate label="Date">circa 1933 - 1941</unitdate>
+                <container type="box">1729</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">10</container>
+                <unittitle>A man with back turned speaking with a woman. Measures 3½ x 4¾
+							inches</unittitle>
+                <unitdate label="Date">circa 1933 - 1941</unitdate>
+                <container type="box">1729</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">11</container>
+                <unittitle>A man holding a bat. Measures 4 x 2/ ½ inches</unittitle>
+                <unitdate label="Date">circa 1933 - 1941</unitdate>
+                <container type="box">1729</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">12</container>
+                <unittitle>Three men. Measures 3½ x 4¾ inches</unittitle>
+                <unitdate label="Date">circa 1933 - 1941</unitdate>
+                <container type="box">1729</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">13</container>
+                <unittitle>A man receiving a hotdog at the softball barbeque. Measures 3½ x
+							4 inches</unittitle>
+                <unitdate label="Date">circa 1933 - 1941</unitdate>
+                <container type="box">1729</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">14</container>
+                <unittitle>Two men lying on the ground. Measures 3½ x 4¾ inches</unittitle>
+                <unitdate label="Date">circa 1933 - 1941</unitdate>
+                <container type="box">1729</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">15</container>
+                <unittitle>Three men and a small girl. Measures 3½ x 4¾ inches</unittitle>
+                <unitdate label="Date">circa 1933 - 1941</unitdate>
+                <container type="box">1729</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">16</container>
+                <unittitle>A softball team. Measures 3½ x 4¾ inches</unittitle>
+                <unitdate label="Date">circa 1933 - 1941</unitdate>
+                <container type="box">1729</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">17</container>
+                <unittitle>Four men seated. Measures 3½ x 4¾ inches</unittitle>
+                <unitdate label="Date">circa 1933 - 1941</unitdate>
+                <container type="box">1729</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">18</container>
+                <unittitle>A softball team. Measures 3½ x 4¾ inches</unittitle>
+                <unitdate label="Date">circa 1933 - 1941</unitdate>
+                <container type="box">1729</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">19</container>
+                <unittitle>Two men talking. Measures 3½ x 4¾ inches</unittitle>
+                <unitdate label="Date">circa 1933 - 1941</unitdate>
+                <container type="box">1729</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">20</container>
+                <unittitle>Maine Lumberjacks musical troupe next to an automobile. Measures
+							3½ x 4½ inches</unittitle>
+                <unitdate label="Date">circa 1933 - 1941</unitdate>
+                <container type="box">1729</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">21</container>
+                <unittitle>People on a lunch line at a softball barbeque. Measures 5 x 3¼
+							inches</unittitle>
+                <unitdate label="Date">circa 1933 - 1941</unitdate>
+                <container type="box">1729</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">22</container>
+                <unittitle>Several seated men with one holding a radio. Measures 3½ x 4¾
+							inches</unittitle>
+                <unitdate label="Date">circa 1933 - 1941</unitdate>
+                <container type="box">1729</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">23</container>
+                <unittitle>A man dressed in a costume with a dollar symbol wearing a star
+							hat. He also appears to be holding a wand. Measures 4½ x 3½ inches</unittitle>
+                <unitdate label="Date">circa 1933 - 1941</unitdate>
+                <container type="box">1729</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">24</container>
+                <unittitle>A three-quarter profile of a man. Measures 3¾ x 4¾ inches</unittitle>
+                <unitdate label="Date">circa 1933 - 1941</unitdate>
+                <container type="box">1729</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">25</container>
+                <unittitle>A large crowd of people. Measures 5¾ x 9 inches</unittitle>
+                <unitdate label="Date">circa 1933 - 1941</unitdate>
+                <container type="box">1729</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">1</container>
+                <unittitle>Heywood Broun swinging the bat with the catcher behind him.
+							Measures 7½ x 9 inches</unittitle>
+                <unitdate label="Date">circa 1933 - 1941</unitdate>
+                <container type="box">1730</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">2</container>
+                <unittitle>A man up at bat [Heywood Broun?]. A woman is standing next to
+							him. Measures 3¾ x 4¾ inches</unittitle>
+                <unitdate label="Date">circa 1933 - 1941</unitdate>
+                <container type="box">1730</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">3</container>
+                <unittitle>Lowell Thomas dressed as a cowboy as part of his Nine Old Men
+							softball team. Robert Ripley is beside Thomas. Measures 5¼ x 7¼ inches</unittitle>
+                <unitdate label="Date">circa 1933 - 1941</unitdate>
+                <container type="box">1730</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">4</container>
+                <unittitle>Softball team; Lowell Thomas is sitting on the ground. Measures
+							2¾ x 4¼ inches</unittitle>
+                <unitdate label="Date">circa 1933 - 1941</unitdate>
+                <container type="box">1730</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">5</container>
+                <unittitle>Babe Ruth swinging a bat. Wooden block measures 5½ x 5 inches
+							[circular plate]</unittitle>
+                <unitdate label="Date">circa 1933 - 1941</unitdate>
+                <container type="box">1730</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">6</container>
+                <unittitle>Woman in catcher’s pose. Measures 4¼ x 2¼ inches</unittitle>
+                <unitdate label="Date">circa 1933 - 1941</unitdate>
+                <container type="box">1730</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">7</container>
+                <unittitle>Woman swinging a bat. Measures 5 x 2¼ inches</unittitle>
+                <unitdate label="Date">circa 1933 - 1941</unitdate>
+                <container type="box">1730</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">8</container>
+                <unittitle>Man with a mustache swinging a bat. There is a small crowd behind
+							him. Measures 3¾ x 5 inches</unittitle>
+                <unitdate label="Date">circa 1933 - 1941</unitdate>
+                <container type="box">1730</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">9</container>
+                <unittitle>Two men talking. On the far end is a man with a cap and shirt
+							with the number 20 on it as well as a man in a sports coat and tie.
+							Measures 3¼ x 4¼ inches</unittitle>
+                <unitdate label="Date">circa 1933 - 1941</unitdate>
+                <container type="box">1730</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">10</container>
+                <unittitle>A man up at bat. Measures 4½ x 2 inches</unittitle>
+                <unitdate label="Date">circa 1933 - 1941</unitdate>
+                <container type="box">1730</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">11</container>
+                <unittitle>Three men ridding burros. Measures 3¾ x 4¾ inches</unittitle>
+                <unitdate label="Date">circa 1933 - 1941</unitdate>
+                <container type="box">1730</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">12</container>
+                <unittitle>Eleanor Roosevelt with Westbrook Pegler. Measures 9½ x 7½ inches</unittitle>
+                <unitdate label="Date">1933</unitdate>
+                <container type="box">1730</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">13</container>
+                <unittitle>Robert L. Johnson correspondence. Measures 7½ x 5¼ inches</unittitle>
+                <unitdate label="Date">circa 1933 - 1941</unitdate>
+                <container type="box">1730</container>
+              </did>
+            </c04>
+          </c03>
+          <c03 level="subseries">
+            <did>
+              <unitid>8.2.2</unitid>
+              <unittitle>Subseries 8.2.2: Travelogues</unittitle>
+              <unitdate normal="1919/1923">1919 - 1923</unitdate>
+              <physdesc>
+                <extent type="boxes">Box: 1731</extent>
+              </physdesc>
+            </did>
+            <c04 level="item">
+              <did>
+                <container type="folder">1</container>
+                <unittitle>General Allenby and his wife. Measures 3¾ by 4½ inches</unittitle>
+                <unitdate label="Date">circa 1919</unitdate>
+                <container type="box">1731</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">2</container>
+                <unittitle>Man on a camel next to a palm tree. Used for With Allenby in
+									Palestine and with Lawrence in Arabia travelogue posters, advertisements
+									and promotional brochures. Measures 10 x 2¼ inches</unittitle>
+                <unitdate label="Date">circa 1919</unitdate>
+                <container type="box">1731</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">3</container>
+                <unittitle>“Come to the Land of Enchantment.” Used for With Allenby in
+									Palestine and with Lawrence in Arabia travelogue posters, advertisements
+									and promotional brochures. Measures 3½ by 4½ inches</unittitle>
+                <unitdate label="Date">circa 1919</unitdate>
+                <container type="box">1731</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">4</container>
+                <unittitle>“Come to the Land of Enchantment,” Used for With Allenby in
+									Palestine and with Lawrence in Arabia travelogue posters, advertisements
+									and promotional brochures. Measures 3 x 4½ inches</unittitle>
+                <unitdate label="Date">circa 1919</unitdate>
+                <container type="box">1731</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">5</container>
+                <unittitle>“Come to the Land of Enchantment in the Carnagey-Timothy Tours of
+									the World.” Used for With Allenby in Palestine and with Lawrence in
+									Arabia travelogue posters, advertisements and promotional brochures.
+									Measures 1½ x 4 inches</unittitle>
+                <unitdate label="Date">circa 1919</unitdate>
+                <container type="box">1731</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">6</container>
+                <unittitle>“With Allenby in Palestine - On no stage of whatever kind had
+									been presented anything more impressive and fascinating. The Morning
+									Post London.” Used for With Allenby in Palestine and with Lawrence in
+									Arabia travelogue posters, advertisements and promotional brochures.
+									Measures 6½ x 4½ inches</unittitle>
+                <unitdate label="Date">circa 1919</unitdate>
+                <container type="box">1731</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">7</container>
+                <unittitle>Soldier and woman dressed in Arab garments, camel in background
+									Used for With Allenby in Palestine and with Lawrence in Arabia
+									travelogue posters, advertisements and promotional brochures. Measures
+									2¼ x 3½ inches</unittitle>
+                <unitdate label="Date">circa 1919</unitdate>
+                <container type="box">1731</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">8</container>
+                <unittitle>Lowell Thomas and T. E. Lawrence in Arab robes. Measures 5 x 4
+									inches</unittitle>
+                <unitdate label="Date">circa 1919</unitdate>
+                <container type="box">1731</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">9</container>
+                <unittitle>An individual being fanned by another, incense burning on right.
+									Used for With Allenby in Palestine and with Lawrence in Arabia
+									travelogue posters, advertisements and promotional brochures. Measures 1
+									x 4 inches</unittitle>
+                <unitdate label="Date">circa 1919</unitdate>
+                <container type="box">1731</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">10</container>
+                <unittitle>“Come to the land of enchantment.” Used for With Allenby in
+									Palestine and with Lawrence in Arabia travelogue posters, advertisements
+									and promotional brochures. Measures 2 x 4½ inches</unittitle>
+                <unitdate label="Date">circa 1919</unitdate>
+                <container type="box">1731</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">11</container>
+                <unittitle>Lowell Thomas on horseback. Used for With Allenby in Palestine
+									and with Lawrence in Arabia travelogue posters, advertisements and
+									promotional brochures. Measures 4 x 4¼ inches</unittitle>
+                <unitdate label="Date">circa 1919</unitdate>
+                <container type="box">1731</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">12</container>
+                <unittitle>Several camels in a row. Used for With Allenby in Palestine and
+									with Lawrence in Arabia travelogue posters, advertisements and
+									promotional brochures. Measures 1¼ x 4 inches</unittitle>
+                <unitdate label="Date">circa 1919</unitdate>
+                <container type="box">1731</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">13</container>
+                <unittitle>Lowell Thomas on camelback. Used for With Allenby in Palestine
+									and with Lawrence in Arabia travelogue posters, advertisements and
+									promotional brochures. Measures 3¼ x 3¾ inches</unittitle>
+                <unitdate label="Date">circa 1919</unitdate>
+                <container type="box">1731</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">14</container>
+                <unittitle>“Lowell Jackson Thomas Greatest Alaskan Travelogue.” The print
+									contains snow covered mountain tops with a body of water and Lowell
+									Thomas dressed in a bear suit standing next to a dog. Measures 7¾ x 5
+									and 2¼ inches</unittitle>
+                <unitdate label="Date">circa 1915 - 1916</unitdate>
+                <container type="box">1731</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">15</container>
+                <unittitle>Three plates of Lowell Thomas probably from the early days of the
+									travelogues. Measures 9¼ x 3¾ inches</unittitle>
+                <unitdate label="Date">circa 1919 - 1923</unitdate>
+                <container type="box">1731</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">16</container>
+                <unittitle>Portrait of Lowell Thomas used for his travelogues. Measures 4½ x
+									3 inches</unittitle>
+                <unitdate label="Date">circa 1919 - 1923</unitdate>
+                <container type="box">1731</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">17</container>
+                <unittitle>Print of a man in a suit wearing a hat. Used for Hindustan or
+									Through Romantic India travelogue. Measures 3½ by 2 inches</unittitle>
+                <unitdate label="Date">circa 1923</unitdate>
+                <container type="box">1731</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">18</container>
+                <unittitle>A person wearing beads, holding a stick with a tea kettle on it.
+									Possibly used for the Romantic India travelogue. Measures 3½ x 4½ inches</unittitle>
+                <unitdate label="Date">circa 1923</unitdate>
+                <container type="box">1731</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">19</container>
+                <unittitle>Man in Arab[?] garments tugging at a stubborn animal. Possibly
+									used for With Allenby in Palestine and with Lawrence in Arabia
+									travelogue posters, advertisements and promotional brochures. Measures
+									3½ x 1½ inches</unittitle>
+                <unitdate label="Date">circa 1920s</unitdate>
+                <container type="box">1731</container>
+              </did>
+            </c04>
+          </c03>
+          <c03 level="subseries">
+            <did>
+              <unitid>8.2.3</unitid>
+              <unittitle>Subseries 8.2.3: Tibet</unittitle>
+              <unitdate normal="1949">1949</unitdate>
+              <physdesc>
+                <extent type="boxes">Boxes: 1732 - 1738</extent>
+              </physdesc>
+            </did>
+            <c04 level="item">
+              <did>
+                <container type="folder">1</container>
+                <unittitle>Lhasa street scene. [4 copies] Measures 3 x 4½ inches</unittitle>
+                <unitdate label="Date">1949</unitdate>
+                <container type="box">1732</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">2</container>
+                <unittitle>Corresponding caption plate for item 3 below. Measures 1¼ x 1¼
+							inches</unittitle>
+                <unitdate label="Date">1949</unitdate>
+                <container type="box">1732</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">3</container>
+                <unittitle>Lowell Thomas standing next to unidentified man; caption: “There
+							were many fascinating sights to be seen on the rocky road to Lhasa. So
+							many, in fact, that the travelers don’t seem to have shaved every
+							morning.” [4 copies] Measures approximately 3 x 4½ inches</unittitle>
+                <unitdate label="Date">1949</unitdate>
+                <container type="box">1732</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">4</container>
+                <unittitle>Caption: “Paying with Tibetan copper coins the coolies who helped
+							us on one day’s journey. Their daily wage, less than fifty cents, is a
+							good sum in the Orient.” [4 copies] Measures approximately 3 x 4½ inches</unittitle>
+                <unitdate label="Date">1949</unitdate>
+                <container type="box">1732</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">5</container>
+                <unittitle>Chief abbot, the Jokang in the distance. Caption: “The chief
+							abbot of the Jokang poses against the background of its golden roof. In
+							Lhasa the cathedral, politically important, stands beside the Foreign
+							Office.” [4 copies] Measures approximately 3 x 4½ inches</unittitle>
+                <unitdate label="Date">1949</unitdate>
+                <container type="box">1732</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">6</container>
+                <unittitle>Split plate - one of the “Rice Heap” and the other of “Jewel
+							Park.” The “Rice Heap” is the Drepung monastery. “The Jewel Park” was
+							photographed with five high lamas who served as advisers to the Dalai
+							Lama. [4 copies] Measures approximately 3 x 5 inches</unittitle>
+                <unitdate label="Date">1949</unitdate>
+                <container type="box">1732</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">7</container>
+                <unittitle>Split plate - one of a Tibetan abbey and the other of Lowell
+							Thomas and Dorje Changwaba. [4 copies] Measures approximately 3 x 5
+							inches</unittitle>
+                <unitdate label="Date">1949</unitdate>
+                <container type="box">1732</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">8</container>
+                <unittitle>Interior of a Sera Temple. [4 copies] Measures approximately 3 x
+							4½ inches</unittitle>
+                <unitdate label="Date">1949</unitdate>
+                <container type="box">1732</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">9</container>
+                <unittitle>The home of Tsarong Shape. [4 copies] Measures approximately 3 x
+							4½inches</unittitle>
+                <unitdate label="Date">1949</unitdate>
+                <container type="box">1732</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">10</container>
+                <unittitle>Split plate - one of a Tibetan woman wearing a silk dress and hat
+							and the other of a person painting a Buddha. [4 copies] Measures
+							approximately 3 x 5 inches</unittitle>
+                <unitdate label="Date">1949</unitdate>
+                <container type="box">1732</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">1</container>
+                <unittitle>Lowell Thomas and the rescue team. Front row: Major A.K. Bose,
+							nurse Emily Bateman, Roy Bisbee and Dr. Pal. [4 copies] Measures
+							approximately 2 x 3 inches</unittitle>
+                <unitdate label="Date">1949</unitdate>
+                <container type="box">1733</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">2</container>
+                <unittitle>Corresponding caption plate for item 1 above. Measures ¾ x 2
+							inches</unittitle>
+                <unitdate label="Date">1949</unitdate>
+                <container type="box">1733</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">3</container>
+                <unittitle>A plate containing three images: One image is of shaggy,
+							buffalo-like yaks on the plain of Phari; another is of Lowell Thomas in
+							an improvised sedan with Dr. Pal on the left and Captain Patil at right;
+							the third is of common folks at Lhasa. [4 copies] Measures approximately
+							5½ x 5 inches</unittitle>
+                <unitdate label="Date">1949</unitdate>
+                <container type="box">1733</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">4</container>
+                <unittitle>A bazaar at Lhasa. [4 copies] Measures approximately are 3 x 4½
+							inches</unittitle>
+                <unitdate label="Date">1949</unitdate>
+                <container type="box">1733</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">5</container>
+                <unittitle>Lhasa monastery with a monk spinning a prayer wheel. [4 copies]
+							Measures approximately 3 x 4½ inches</unittitle>
+                <unitdate label="Date">1949</unitdate>
+                <container type="box">1733</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">6</container>
+                <unittitle>Lowell Thomas on the outskirts of Lhasa. In the distance is the
+							Potala Palace. [4 copies] Measures approximately 3 x 4½ inches</unittitle>
+                <unitdate label="Date">1949</unitdate>
+                <container type="box">1733</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">7</container>
+                <unittitle>The Dalai Lama’s family. [4 copies] Measures approximately 3 x 4½
+							inches</unittitle>
+                <unitdate label="Date">1949</unitdate>
+                <container type="box">1733</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">8</container>
+                <unittitle>Monks serving as the Dalai Lama’s personal bodyguard. [4 copies]
+							Measures approximately 3 x 4½ inches</unittitle>
+                <unitdate label="Date">1949</unitdate>
+                <container type="box">1733</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">9</container>
+                <unittitle>The aged abbots of Drepung Gompa. [4 copies] Measures
+							approximately 3 x 4½ inches</unittitle>
+                <unitdate label="Date">1949</unitdate>
+                <container type="box">1733</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">10</container>
+                <unittitle>A Tibetan army general. [4 copies] Measures approximately 2 x 3
+							inches</unittitle>
+                <unitdate label="Date">1949</unitdate>
+                <container type="box">1733</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">11</container>
+                <unittitle>Corresponding caption plate for item 10 above. Measures 1 x 1¼
+							inches</unittitle>
+                <unitdate label="Date">1949</unitdate>
+                <container type="box">1733</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">12</container>
+                <unittitle>Woman and her daughter overlooking the Holy City. [4 copies]
+							Measures approximately 2 x 3 inches</unittitle>
+                <unitdate label="Date">1949</unitdate>
+                <container type="box">1733</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">13</container>
+                <unittitle>Corresponding caption plate for item 12 above. Measures 1¼ x 1¼
+							inches</unittitle>
+                <unitdate label="Date">1949</unitdate>
+                <container type="box">1733</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">14</container>
+                <unittitle>Yak-buttered tea in a porcelain cup. [4 copies] Measures
+							approximately 2 x 3 inches</unittitle>
+                <unitdate label="Date">1949</unitdate>
+                <container type="box">1733</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">15</container>
+                <unittitle>Corresponding caption plate for item 14 above. Measures 1½ x 1½
+							inches</unittitle>
+                <unitdate label="Date">1949</unitdate>
+                <container type="box">1733</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">1</container>
+                <unittitle>The Dalai Lama flanked by chrysanthemums. On the right is the
+							regent Tokra. [4 copies] Measures approximately 4½ x 7½ inches</unittitle>
+                <unitdate label="Date">1949</unitdate>
+                <container type="box">1734</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">2</container>
+                <unittitle>Panchen Lama. [43 copies] Measures approximately 4½ x 7½ inches</unittitle>
+                <unitdate label="Date">1949</unitdate>
+                <container type="box">1734</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">3</container>
+                <unittitle>Three men who are members of the Kashag. [4 copies] Measures
+							approximately 4½ x 7½ inches</unittitle>
+                <unitdate label="Date">1949</unitdate>
+                <container type="box">1734</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">4</container>
+                <unittitle>Corresponding caption plate for item 3 above. Measures ½ x 7½
+							inches</unittitle>
+                <unitdate label="Date">1949</unitdate>
+                <container type="box">1734</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">5</container>
+                <unittitle>Monk who acts as proctor at the Sera monastery in Lhasa. [4
+							copies] Measures 2 x 3 inches</unittitle>
+                <unitdate label="Date">1949</unitdate>
+                <container type="box">1734</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">6</container>
+                <unittitle>Lowell Thomas stopping a noble on horseback. [3 copies] Measures
+							3 x 4½ inches</unittitle>
+                <unitdate label="Date">1949</unitdate>
+                <container type="box">1734</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">7</container>
+                <unittitle>An actor playing a demon attacking a high ranking lama during the
+							summer festival. [4 copies] Measures 2 x 3 inches</unittitle>
+                <unitdate label="Date">1949</unitdate>
+                <container type="box">1734</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">1</container>
+                <unittitle>The stone staircase leading into the main temple of Potala. [4
+							copies] Measures 4½ x 3 inches</unittitle>
+                <unitdate label="Date">1949</unitdate>
+                <container type="box">1735</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">2</container>
+                <unittitle>Corresponding caption plate for item 1 above. Measures 1 x 1¼
+							inches</unittitle>
+                <unitdate label="Date">1949</unitdate>
+                <container type="box">1735</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">3</container>
+                <unittitle>Across the valley from the Potala. [8 copies] Two measure
+							approximately 3½ x 7½ inches; two measure approximately 4½ x 7½ inches;
+							four larger ones measure 10½ x 11 inches</unittitle>
+                <unitdate label="Date">1949</unitdate>
+                <container type="box">1735</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">1</container>
+                <unittitle>Handmade wooden crate that originally housed Tibet printing
+							plates. Measures approximately 10½ x 8½ x 7½ inches</unittitle>
+                <unitdate label="Date">1949</unitdate>
+                <container type="box">1736</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">1</container>
+                <unittitle>Handmade wooden crate that originally housed Tibet printing
+							plates. Measures approximately 10½ x 8½ x 7½ inches</unittitle>
+                <unitdate label="Date">1949</unitdate>
+                <container type="box">1737</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">1</container>
+                <unittitle>Handmade wooden crate that originally housed Tibet printing
+							plates. Measures approximately 10½ x 8½ x 7½ inches</unittitle>
+                <unitdate label="Date">1949</unitdate>
+                <container type="box">1738</container>
+              </did>
+            </c04>
+          </c03>
+          <c03 level="subseries">
+            <did>
+              <unitid>8.2.4</unitid>
+              <unittitle>Subseries 8.2.4: Kabluk of the
+									Eskimo</unittitle>
+              <unitdate normal="1932">1932</unitdate>
+              <physdesc>
+                <extent type="box">Boxes: 1739</extent>
+              </physdesc>
+            </did>
+            <c04 level="item">
+              <did>
+                <container type="folder">1</container>
+                <unittitle>Kabluk of the Eskimo: Lowell Thomas. This print contains an
+									Eskimo hunting a bear as well as an Eskimo in a canoe. Lowell Thomas’s
+									name appears in the upper corner. Measures 7½ x 7½ inches</unittitle>
+                <unitdate label="Date">1932</unitdate>
+                <container type="box">1739</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">2</container>
+                <unittitle>Kabluk of the Eskimo: Lowell Thomas. This print contains an
+									Eskimo a hunting bear. Also shown is an iceberg. Measures 7½ x 7½ inches</unittitle>
+                <unitdate label="Date">1932</unitdate>
+                <container type="box">1739</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">3</container>
+                <unittitle>Kabluk of the Eskimo: Lowell Thomas. Measures 9 x 6 inches</unittitle>
+                <unitdate label="Date">1932</unitdate>
+                <container type="box">1739</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">4</container>
+                <unittitle>Eskimo hunting scene. Measures 6 x 7½ inches</unittitle>
+                <unitdate label="Date">1932</unitdate>
+                <container type="box">1739</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">5</container>
+                <unittitle>Eskimo village scene. Measures 4¼ x 6¼ inches</unittitle>
+                <unitdate label="Date">1932</unitdate>
+                <container type="box">1739</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">6</container>
+                <unittitle>A person dressed in Eskimo attire. [circular plate] Wooden block
+									measures 3¼ x 6¼ inches</unittitle>
+                <unitdate label="Date">1932</unitdate>
+                <container type="box">1739</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">7</container>
+                <unittitle>Boys’ edition Kabluk of the Eskimo: Lowell Thomas. Measures 6¾ x
+									2½ inches</unittitle>
+                <unitdate label="Date">1932</unitdate>
+                <container type="box">1739</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">8</container>
+                <unittitle>Kabluk of the Eskimo: Lowell Thomas. Measures 7 x 2½ inches</unittitle>
+                <unitdate label="Date">1932</unitdate>
+                <container type="box">1739</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">9</container>
+                <unittitle>Kabluk of the Eskimo: Lowell Thomas. Measures 5¾ x 2½ inches</unittitle>
+                <unitdate label="Date">1932</unitdate>
+                <container type="box">1739</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">10</container>
+                <unittitle>Plate reads: Kabluk of the Eskimo: Lowell Thomas. [2 copies] One
+									plate measures 2 x 1¼ inches; the other 2 x 4¼ inches</unittitle>
+                <unitdate label="Date">1932</unitdate>
+                <container type="box">1739</container>
+              </did>
+            </c04>
+          </c03>
+          <c03 level="subseries">
+            <did>
+              <unitid>8.2.5</unitid>
+              <unittitle>Subseries 8.2.5: Lowell Thomas,
+									Jr.</unittitle>
+              <unitdate normal="1946">1946</unitdate>
+              <physdesc>
+                <extent type="boxes">Box: 1740</extent>
+              </physdesc>
+            </did>
+            <c04 level="item">
+              <did>
+                <container type="folder">1</container>
+                <unittitle>Bikini and a Flight Around the World lecture circular. Measures
+									11¾ x 15¾ inches</unittitle>
+                <unitdate label="Date">1946</unitdate>
+                <container type="box">1740</container>
+              </did>
+            </c04>
+          </c03>
+          <c03 level="subseries">
+            <did>
+              <unitid>8.2.6</unitid>
+              <unittitle>Subseries 8.2.6: Literary Digest</unittitle>
+              <unitdate normal="1931">1931</unitdate>
+              <physdesc>
+                <extent type="boxes">Box: 1741</extent>
+              </physdesc>
+            </did>
+            <c04 level="item">
+              <did>
+                <container type="folder">1-6</container>
+                <unittitle>Printing plate for the cover of Literary Digest (Lowell Thomas is
+									seated next to a globe). [6 copies] Four measure 10¼ x 9 inches and two
+									measure 8¾ x 9 inches</unittitle>
+                <unitdate label="Date">1931 September 19</unitdate>
+                <container type="box">1741</container>
+              </did>
+            </c04>
+          </c03>
+          <c03 level="subseries">
+            <did>
+              <unitid>8.2.7</unitid>
+              <unittitle>Subseries 8.2.7: Miscellany</unittitle>
+              <physdesc>
+                <extent type="boxes">Boxes: 1742 - 1743</extent>
+              </physdesc>
+            </did>
+            <c04 level="item">
+              <did>
+                <container type="folder">1</container>
+                <unittitle>Correspondence from Lowell Thomas to Mr. Leland. Measures 6 x 4½
+									inches</unittitle>
+                <unitdate label="Date">1962 May 3</unitdate>
+                <container type="box">1742</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">2</container>
+                <unittitle>Correspondence from Lowell Thomas to Mr. Leland. Measures 3 x 2¼
+									inches</unittitle>
+                <unitdate label="Date">1961 March 29</unitdate>
+                <container type="box">1742</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">3</container>
+                <unittitle>Lowell Thomas broadcasting for CBS. Measures 3 x 4½ inches</unittitle>
+                <unitdate label="Date">undated</unitdate>
+                <container type="box">1742</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">4</container>
+                <unittitle>Lowell Thomas standing by the fireplace at Quaker Hill. Measures
+									2¼ x 2¼ inches</unittitle>
+                <unitdate label="Date">circa 1960s</unitdate>
+                <container type="box">1742</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">5</container>
+                <unittitle>Lowell Thomas standing next to a table. Measures 2¼ x 2¼ inches</unittitle>
+                <unitdate label="Date">undated</unitdate>
+                <container type="box">1742</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">6</container>
+                <unittitle>Lowell Thomas surrounded by New Guinea village natives (High
+									Adventure with Lowell Thomas). Measures 3¾ x 3¼ inches</unittitle>
+                <unitdate label="Date">1957</unitdate>
+                <container type="box">1742</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">7</container>
+                <unittitle>Lowell Thomas and Lowell Thomas, Jr. grasping a flag pole in
+									Alaska. Measures 3¾ x 3¼ inches</unittitle>
+                <unitdate label="Date">circa 1950s</unitdate>
+                <container type="box">1742</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">8</container>
+                <unittitle>Printing plate for “Out West.” Includes advertisements. Measures
+									3 x 2 inches</unittitle>
+                <unitdate label="Date">1872 March 28</unitdate>
+                <container type="box">1742</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">9</container>
+                <unittitle>Christ Church, Quaker Hill. Measures 5 x 6½ inches</unittitle>
+                <unitdate label="Date">undated</unitdate>
+                <container type="box">1742</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">10</container>
+                <unittitle>Lowell Thomas business card wrapped in blue protective paper.
+									Typeface on paper reads “Mr. Lowell Thomas” and is stamped “24 March
+									1926”. Measures 2½ x 3½ inches</unittitle>
+                <unitdate label="Date">1926 March 24</unitdate>
+                <container type="box">1742</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="folder">1</container>
+                <unittitle>Brown Renault wine and champagne case (“Liberty and Prosperity”)
+									that originally housed printing plates pertaining to Lawrence of Arabia
+									or Allenby In Palestine and other miscellaneous items. Measures 12 x 14
+									x 4½ inches</unittitle>
+                <unitdate label="Date">undated</unitdate>
+                <container type="box">1743</container>
+              </did>
+            </c04>
+          </c03>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

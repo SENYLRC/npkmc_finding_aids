@@ -1,81 +1,77 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:isbn:1-931666-22-9" xmlns:ns2="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
-	
-	<!--Header portion of EAD -->
-	<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
-		<eadid countrycode="US" mainagencycode="US-NPkMC" url="http://www.marist.edu">npkmc_223_161</eadid>
-		<filedesc>
-			<titlestmt>
-				<titleproper>Brother Gerard Matthew Weiss Papers</titleproper>
-				<author>Rita Popot <![CDATA[&]]> John Ansley, PhD; Finding Aid Encoded by: Monish M.
+  <!--Header portion of EAD -->
+  <eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+    <eadid countrycode="US" mainagencycode="US-NPkMC" url="http://www.marist.edu">npkmc_223_161</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Brother Gerard Matthew Weiss Papers</titleproper>
+        <author>Rita Popot <![CDATA[&amp;]]> John Ansley, PhD; Finding Aid Encoded by: Monish M.
 					Singh, 20XX; Finding Aid Encoding updated by: Abigail Bowen, 2022</author>
-			</titlestmt>
-			<publicationstmt>
-				<publisher>Marist College <lb/>Archives and Special Collections </publisher>
-				<address>
-					<addressline>3399 North Road <lb/>Poughkeepsie, NY 12601 <lb/>Phone:
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Marist College <lb/>Archives and Special Collections </publisher>
+        <address>
+          <addressline>3399 North Road <lb/>Poughkeepsie, NY 12601 <lb/>Phone:
 						845-575-5217 <lb/>Fax: 845-575-3150 <lb/><lb/>Email: library.archives@marist.edu<lb/>Website:
 						https://archives.marist.edu/</addressline>
-				</address>
-				<date type="publication" normal="2004-08-06">August 6, 2004</date>
-			</publicationstmt>
-		</filedesc>
-		<profiledesc>
-			<creation>Monish M. Singh <date>2004</date>
+        </address>
+        <date type="publication" normal="2004-08-06">August 6, 2004</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Monish M. Singh <date>2004</date>
 			</creation>
-			<langusage> Finding aid written in <language langcode="eng">English.</language>
+      <langusage> Finding aid written in <language langcode="eng">English.</language>
 			</langusage>
-			<descrules><abbr>DACS</abbr>Describing Archives: A Content Standard. Chicago: Society of
+      <descrules><abbr>DACS</abbr>Describing Archives: A Content Standard. Chicago: Society of
 				American Archivists, 2013.</descrules>
-		</profiledesc>
-		<revisiondesc>
-			<list>
-				<item>March 2022, EAD updated by Abigail Bowen</item>
-			</list>
-		</revisiondesc>
-	</eadheader>
-
-	<!-- Archival Description portion of EAD -->
-
-	<archdesc level="collection">
-		<did>
-			<unittitle>Brother Gerard Matthew Weiss Papers</unittitle>
-			<unitid countrycode="US" repositorycode="US-NPkMC">NPKMC-223-161</unitid>
-			<unitdate type="inclusive" normal="1879/1964">1879 – 1964</unitdate>
-			<physdesc>
-				<extent type="size">1 Linear Foot</extent>
-			</physdesc>
-			<repository>
-				<corpname>Marist College Archives and Special Collections</corpname>
-			</repository>
-			<origination label="creator"><persname>Brother Gerard Matthew
-				Weiss</persname></origination>
-			<abstract>The Weiss Papers is documentation by Brother Gerard Weiss of his family from
+    </profiledesc>
+    <revisiondesc>
+      <list>
+        <item>March 2022, EAD updated by Abigail Bowen</item>
+      </list>
+    </revisiondesc>
+  </eadheader>
+  <!-- Archival Description portion of EAD -->
+  <archdesc level="collection">
+    <did>
+      <unittitle>Brother Gerard Matthew Weiss Papers</unittitle>
+      <unitid countrycode="US" repositorycode="US-NPkMC">NPKMC-223-161</unitid>
+      <unitdate type="inclusive" normal="1879/1964">1879 – 1964</unitdate>
+      <physdesc>
+        <extent type="size">1 Linear Foot</extent>
+      </physdesc>
+      <repository>
+        <corpname>Marist College Archives and Special Collections</corpname>
+      </repository>
+      <origination label="creator">
+        <persname>Brother Gerard Matthew
+				Weiss</persname>
+      </origination>
+      <abstract>The Weiss Papers is the documentation by Brother Gerard Weiss of his family from
 				1879-1964. The collection includes correspondence, mortgage deeds, insurance
 				policies, newspaper clippings, diaries and photographs pertaining to the Weiss
 				family.</abstract>
-			<langmaterial>
-				<language langcode="eng">MEnglish</language>
-			</langmaterial>
-			<physloc>Please contact the Marist College Archives and Special Collections for
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <physloc>Please contact the Marist College Archives and Special Collections for
 				information regarding use and access of this collection.</physloc>
-		</did>
-
-		<scopecontent>
-			<head>Collection Overview</head>
-			<p>The Weiss Papers consists of various sermons written by Edson E. Weiss, various
+    </did>
+    <scopecontent>
+      <head>Collection Overview</head>
+      <p>The Weiss Papers consists of various sermons written by Edson E. Weiss, various
 				photographs, letters of correspondence from Edson Weiss to Orin and Andrew Weiss,
 				and newspaper articles on Marist and local historical sites.</p>
-		</scopecontent>
-
-		<acqinfo>
-			<p>The Weiss Papers was donated to Marist College Library in memory of Brother Gerard
+    </scopecontent>
+    <acqinfo>
+      <p>The Weiss Papers was donated to Marist College Library in memory of Brother Gerard
 				Matthew Weiss.</p>
-		</acqinfo>
-
-		<bioghist encodinganalog="545">
-			<head>Historical Note</head>
-			<p>Brother Gerard Matthew Weiss was a long-time Spanish language professor at Marist
+    </acqinfo>
+    <bioghist encodinganalog="545">
+      <head>Historical Note</head>
+      <p>Brother Gerard Matthew Weiss was a long-time Spanish language professor at Marist
 				College. He received his Bachelor of Arts Degree from Marian College (now Marist
 				College) in 1949 and his Masters Degree from St. John’s University. From 1957-1975
 				Brother Gerard was Professor of Spanish at Marist College and during that period of
@@ -87,2147 +83,2137 @@
 				Henderson Weiss (the wife of Andrew J. Weiss), pictures, and various letters of
 				correspondence and documents originating from Edson Weiss to his sons Orin (also
 				knows as Orion) and Andrew Weiss.</p>
-		</bioghist>
-
-		<accessrestrict>
-			<p>There are no restrictions on this collection</p>
-		</accessrestrict>
-		<userestrict>
-			<head>Notice of Copyright</head>
-			<p>Individuals requesting reproductions expressly assume the responsibility for
+    </bioghist>
+    <accessrestrict>
+      <p>There are no restrictions on this collection</p>
+    </accessrestrict>
+    <userestrict>
+      <head>Notice of Copyright</head>
+      <p>Individuals requesting reproductions expressly assume the responsibility for
 				compliance with all pertinent provisions of the Copyright Act, 17 U.S.C. ss101 et
 				seq. Patrons further agree to indemnify and hold harmless the Marist College
 				Archives and Special Collections and its staff in connection with any disputes
 				arising from the Copyright Act, over the reproduction of material at the request of
 				patrons. For more information please visit the following website:
 				http://www.loc.gov/copyright/title17/.</p>
-		</userestrict>
-		<prefercite>
-			<head>Preferred Citation</head>
-			<p>[Description of item, date, location of item in order of series, box number, folder
+    </userestrict>
+    <prefercite>
+      <head>Preferred Citation</head>
+      <p>[Description of item, date, location of item in order of series, box number, folder
 				number ], in the Brother Gerard Matthew Weiss Papers, Archives and Special
 				Collections, James A. Cannavino Library, Marist College.</p>
-		</prefercite>
-		<arrangement>
-			<head>Arrangement of the Collection</head>
-			<p>These records are organized into two series and an appendix: 1) Family History as catalogued by
+    </prefercite>
+    <arrangement>
+      <head>Arrangement of the Collection</head>
+      <p>These records are organized into two series and an appendix: 1) Family History as catalogued by
 				Brother Gerard Matthew Weiss, 2) Additional Materials not identified in the
 				inventory by Brother Weiss, and 3) Appendix</p>
-		</arrangement>
-
-		<dsc type="combined">
-			<c01 level="series">
-				<did>
-					<unitid>1</unitid>
-					<unittitle>1. Family History as catalogued by Brother Gerard Matthew Weiss (see
+    </arrangement>
+    <dsc type="combined">
+      <c01 level="series">
+        <did>
+          <unitid>1</unitid>
+          <unittitle>1. Family History as catalogued by Brother Gerard Matthew Weiss (see
 						appendix for a transcription of the Weiss inventory)</unittitle>
-					<physdesc>
-						<extent type="size">0.66 linear feet</extent>
-						<extent type="boxes">1 - 2</extent>
-						<extent type="folders">1 - 16</extent>
-					</physdesc>
-				</did>
-				<scopecontent>
-					<p>Series contains a collection of letters, legal papers, mortgage papers,
+          <physdesc>
+            <extent type="boxes">Boxes: 1 - 2</extent>
+            <extent type="folders">Folders: 1 - 16</extent>
+          </physdesc>
+        </did>
+        <scopecontent>
+          <p>Series contains a collection of letters, legal papers, mortgage papers,
 						insurance policies, photographs and newspaper clippings preserved and
 						catalogued by Brother Gerard Weiss. Materials are arranged in original order
 						as described in Brother Weiss’s inventory that can be found in the Appendix.
 						Please note that not all items that are listed in the catalogue appear in
 						the collection.</p>
-					<arrangement>
-						<p>Numerically by catalogue number</p>
-					</arrangement>
-				</scopecontent>
-				<c02 level="file">
-					<did>
-						<container type="folder">1</container>
-						<unittitle>Catalogues</unittitle>
-						<container type="box">1</container>
-					</did>
-					<c03 level="item">
-						<did>
-							<unitid>1</unitid>
-							<unittitle>Original catalogue created by Brother Weiss</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>2</unitid>
-							<unittitle>Transcribed catalogue by Rita M. Popot (see
+        </scopecontent>
+        <arrangement>
+          <p>Numerically by catalogue number</p>
+        </arrangement>
+        <c02 level="file">
+          <did>
+            <container type="folder">1</container>
+            <unittitle>Catalogues</unittitle>
+            <container type="box">1</container>
+          </did>
+          <c03 level="item">
+            <did>
+              <unitid>1</unitid>
+              <unittitle>Original catalogue created by Brother Weiss</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>2</unitid>
+              <unittitle>Transcribed catalogue by Rita M. Popot (see
 								appendix)</unittitle>
-						</did>
-					</c03>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container type="folder">2</container>
-						<unittitle>Items catalogued as numbers 1-50</unittitle>
-						<container type="box">1</container>
-					</did>
-
-					<c03 level="item">
-						<did>
-							<unitid>1</unitid>
-							<unittitle>1B, December 23, 1965, letter from E.E. Weiss to Linden B.
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">2</container>
+            <unittitle>Items catalogued as numbers 1-50</unittitle>
+            <container type="box">1</container>
+          </did>
+          <c03 level="item">
+            <did>
+              <unitid>1</unitid>
+              <unittitle>1B, December 23, 1965, letter from E.E. Weiss to Linden B.
 								Johnson about school taxes and the plight of old people</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>2</unitid>
-							<unittitle>2, October 8, 1945, letter from the Kingston Associate
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>2</unitid>
+              <unittitle>2, October 8, 1945, letter from the Kingston Associate
 								Superintendent for Business Management to E.E. Weiss</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>3</unitid>
-							<unittitle>3, January 21, 1966, letter from Governor Rockefeller’s
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>3</unitid>
+              <unittitle>3, January 21, 1966, letter from Governor Rockefeller’s
 								office to E.E. Weiss</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>4</unitid>
-							<unittitle>4, October 5, 1965, letter to The Kingston School District
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>4</unitid>
+              <unittitle>4, October 5, 1965, letter to The Kingston School District
 								Board of Education</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>5</unitid>
-							<unittitle>5, January6, 1966, letter from The White House Assistant to
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>5</unitid>
+              <unittitle>5, January6, 1966, letter from The White House Assistant to
 								the President to E.E. Weiss</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>6</unitid>
-							<unittitle>6, not dated, notes on capacitors</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>7</unitid>
-							<unittitle>9A, September 1, 1964, letter to Senator Hubert Humphrey from
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>6</unitid>
+              <unittitle>6, not dated, notes on capacitors</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>7</unitid>
+              <unittitle>9A, September 1, 1964, letter to Senator Hubert Humphrey from
 								E.E. Weiss regarding a telecast on Channel 6</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>8</unitid>
-							<unittitle>9B, copy of letter sent to Senator Hubert
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>8</unitid>
+              <unittitle>9B, copy of letter sent to Senator Hubert
 								Humphrey</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>9</unitid>
-							<unittitle>12, March 8, 1966, letter from Congressional Representative
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>9</unitid>
+              <unittitle>12, March 8, 1966, letter from Congressional Representative
 								Joseph Y. Resnick to E.E. Weiss thanking him for his view of retired
 								home owners</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>10</unitid>
-							<unittitle>13, January 25, 1966, letter to Mr. Resnick from E.E. Weiss
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>10</unitid>
+              <unittitle>13, January 25, 1966, letter to Mr. Resnick from E.E. Weiss
 								responding to a four-page report asking for letters from retired
 								home owners</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>11</unitid>
-							<unittitle>16, October 1964, letter from the Ulster County Community
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>11</unitid>
+              <unittitle>16, October 1964, letter from the Ulster County Community
 								College to E.E. Weiss thanking him for his constructive comment in
 								regard to a radio statement</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>12</unitid>
-							<unittitle>17, September 29, 1964, letter to Dale B. Lake from E.E.
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>12</unitid>
+              <unittitle>17, September 29, 1964, letter to Dale B. Lake from E.E.
 								Weiss in regards to Mr. Lake’s misuse of grammar during a radio
 								announcement</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>13</unitid>
-							<unittitle>18, December 7, 1964, letter to Mr. Beckwith from E.E. Weiss
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>13</unitid>
+              <unittitle>18, December 7, 1964, letter to Mr. Beckwith from E.E. Weiss
 								in regards to Mr. Beckwith’s comment that “Life Line is Highly
 								Controversial”</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>14</unitid>
-							<unittitle>9, December 10, 1964, letter from Bob Beckwith to E.E. Weiss
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>14</unitid>
+              <unittitle>9, December 10, 1964, letter from Bob Beckwith to E.E. Weiss
 								in response to letter labeled document 18</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>15</unitid>
-							<unittitle>20, November 15, 1963, letter to American Standard from E.E.
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>15</unitid>
+              <unittitle>20, November 15, 1963, letter to American Standard from E.E.
 								Weiss asking for a replacement part for his Arcoflame
 								burner</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>16</unitid>
-							<unittitle>21, July 8, 1965, letter to the Ruberoid Co. from E.E. Weiss
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>16</unitid>
+              <unittitle>21, July 8, 1965, letter to the Ruberoid Co. from E.E. Weiss
 								requesting information pamphlets and booklets about their
 								product</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>17</unitid>
-							<unittitle>25A, September 4, 1907, fire insurance policy for the
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>17</unitid>
+              <unittitle>25A, September 4, 1907, fire insurance policy for the
 								dwelling owned by Andrew J. Weiss</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>18</unitid>
-							<unittitle>26, September 4, 1907, fire insurance policy from the German
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>18</unitid>
+              <unittitle>26, September 4, 1907, fire insurance policy from the German
 								Company for Andrew J. Weiss</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>19</unitid>
-							<unittitle>27A, June 15, 1907, Dwelling House Insurance (Royal
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>19</unitid>
+              <unittitle>27A, June 15, 1907, Dwelling House Insurance (Royal
 								Company)</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>20</unitid>
-							<unittitle>28, December 14, 1904, receipt of interest on mortgage
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>20</unitid>
+              <unittitle>28, December 14, 1904, receipt of interest on mortgage
 								payment paid by Andrew J. Weiss to O.A. Weiss</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>21</unitid>
-							<unittitle>29, July 11, 1907, Receipt for interest on mortgage payment
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>21</unitid>
+              <unittitle>29, July 11, 1907, Receipt for interest on mortgage payment
 								paid by Andrew J. Weiss to O.A. Weiss</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>22</unitid>
-							<unittitle>30, January 3, 1903, Receipt of interest on mortgage paid by
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>22</unitid>
+              <unittitle>30, January 3, 1903, Receipt of interest on mortgage paid by
 								Andrew J. Weiss to J.M. Davis</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>23</unitid>
-							<unittitle>31, June 16, 1903, payment of interest for mortgage paid by
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>23</unitid>
+              <unittitle>31, June 16, 1903, payment of interest for mortgage paid by
 								Andrew J. Weiss to J.M. Davis (agent)</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>24</unitid>
-							<unittitle>32, January 3, 1904, payment of interest paid by Andrew J.
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>24</unitid>
+              <unittitle>32, January 3, 1904, payment of interest paid by Andrew J.
 								Weiss to J.M. Davis (agent)</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>25</unitid>
-							<unittitle>33, December 29, 1906, payment of acct. of mortgage paid by
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>25</unitid>
+              <unittitle>33, December 29, 1906, payment of acct. of mortgage paid by
 								Andrew J. Weiss to O.A. Weiss</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>26</unitid>
-							<unittitle>34, December 23, 1906, Payment of acct of mortgage by Andrew
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>26</unitid>
+              <unittitle>34, December 23, 1906, Payment of acct of mortgage by Andrew
 								J. Weiss to O.A. Weiss</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>27</unitid>
-							<unittitle>35, July 3, 1901, Bill for $800 to be paid to Sophia le
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>27</unitid>
+              <unittitle>35, July 3, 1901, Bill for $800 to be paid to Sophia le
 								Marrill</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>28</unitid>
-							<unittitle>36, June 17, 1904, bill from Davis<![CDATA[&]]>Co. to Andrew
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>28</unitid>
+              <unittitle>36, June 17, 1904, bill from Davis<![CDATA[&amp;]]>Co. to Andrew
 								J. Weiss in regards to fire insurance</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>29</unitid>
-							<unittitle>37, June 17, 1905, fire insurance policy to Andrew J. Weiss
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>29</unitid>
+              <unittitle>37, June 17, 1905, fire insurance policy to Andrew J. Weiss
 								from Northwestern National Insurance Co.</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>30</unitid>
-							<unittitle>39, August 21, 1922, fire insurance to Andrew J. Weiss from
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>30</unitid>
+              <unittitle>39, August 21, 1922, fire insurance to Andrew J. Weiss from
 								The Mercantile Insurance Company of America</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>31</unitid>
-							<unittitle>40A, May 2, 1944, letter to Edson Weiss from John von
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>31</unitid>
+              <unittitle>40A, May 2, 1944, letter to Edson Weiss from John von
 								Blechen</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>32</unitid>
-							<unittitle>40B, May 2, 1944, envelope that item 40A came in</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>33</unitid>
-							<unittitle>41, July 17, 1944, letter to Edson Everette Weiss from 03780
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>32</unitid>
+              <unittitle>40B, May 2, 1944, envelope that item 40A came in</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>33</unitid>
+              <unittitle>41, July 17, 1944, letter to Edson Everette Weiss from 03780
 								Steve Ave Minneapolis, Minnesota</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>34</unitid>
-							<unittitle>42, September 5, 1944, letter to Edson Everette Weiss from
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>34</unitid>
+              <unittitle>42, September 5, 1944, letter to Edson Everette Weiss from
 								O.A. Weiss</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>35</unitid>
-							<unittitle>43, June 14, 1902, mortgage paid to Andrew J. Weiss from
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>35</unitid>
+              <unittitle>43, June 14, 1902, mortgage paid to Andrew J. Weiss from
 								Elizabeth herring</unittitle>
-						</did>
-					</c03>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container type="folder">3</container>
-						<unittitle>Items catalogued as numbers 51-100</unittitle>
-						<container type="box">1</container>
-					</did>
-					<c03 level="item">
-						<did>
-							<unitid>1</unitid>
-							<unittitle>65, Tuesday June 17- Wednesday June 25, letter from G.G. to
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">3</container>
+            <unittitle>Items catalogued as numbers 51-100</unittitle>
+            <container type="box">1</container>
+          </did>
+          <c03 level="item">
+            <did>
+              <unitid>1</unitid>
+              <unittitle>65, Tuesday June 17- Wednesday June 25, letter from G.G. to
 								Ed talking about the weather and personal news at home</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>2</unitid>
-							<unittitle>66, not dated, envelope containing oboe data and
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>2</unitid>
+              <unittitle>66, not dated, envelope containing oboe data and
 								drawings</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>3</unitid>
-							<unittitle>67, August 21, 1922, letter from Theodore C. Steve Co. to
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>3</unitid>
+              <unittitle>67, August 21, 1922, letter from Theodore C. Steve Co. to
 								Andrew J. Weiss in regards to the bill for the fire insurance
 								policy</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>4</unitid>
-							<unittitle>69, September 4, 1928, fire insurance from Superior Insurance
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>4</unitid>
+              <unittitle>69, September 4, 1928, fire insurance from Superior Insurance
 								Company to Andrew J. Weiss</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>5</unitid>
-							<unittitle>71, August 15, 1904, bill from Minneapolis Gas Light Company
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>5</unitid>
+              <unittitle>71, August 15, 1904, bill from Minneapolis Gas Light Company
 								to Andrew J. Weiss</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>6</unitid>
-							<unittitle>73, November 4, 1943, letter from Bob at The Elastic Stop
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>6</unitid>
+              <unittitle>73, November 4, 1943, letter from Bob at The Elastic Stop
 								Nuts Corp. to O.A. Weiss</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>7</unitid>
-							<unittitle>74, letter from Bob at the Elastic Stop Nuts Corp. to Orin A.
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>7</unitid>
+              <unittitle>74, letter from Bob at the Elastic Stop Nuts Corp. to Orin A.
 								Weiss as an acknowledgement of a letter O.A. Weiss sent between
 								November 4, 1943 and November 19, 1943</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>8</unitid>
-							<unittitle>75, June 30, 1944, receipt from Georgia M. Erickson to E.
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>8</unitid>
+              <unittitle>75, June 30, 1944, receipt from Georgia M. Erickson to E.
 								Weiss</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>9</unitid>
-							<unittitle>78, July 12, 1944, court judgment where the family of A.J.
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>9</unitid>
+              <unittitle>78, July 12, 1944, court judgment where the family of A.J.
 								Weiss (deceased) will not be responsible for the debt of A.A.
 								Weiss.</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>10</unitid>
-							<unittitle>83, not dated, sermon on Matthew 4, 13</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>11</unitid>
-							<unittitle>87A, October 22, 1964, letter to Mr. Agor from E.E. W.
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>10</unitid>
+              <unittitle>83, not dated, sermon on Matthew 4, 13</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>11</unitid>
+              <unittitle>87A, October 22, 1964, letter to Mr. Agor from E.E. W.
 								thanking for editorial on LBJ</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>12</unitid>
-							<unittitle>87B, October 19, 1969, envelope from letter from Mr.
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>12</unitid>
+              <unittitle>87B, October 19, 1969, envelope from letter from Mr.
 								Agor</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>13</unitid>
-							<unittitle>89C, December 25, 1941, envelope from letter from Ruth to
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>13</unitid>
+              <unittitle>89C, December 25, 1941, envelope from letter from Ruth to
 								Andrew and Edson</unittitle>
-						</did>
-					</c03>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container type="folder">4</container>
-						<unittitle>Items catalogued as numbers 101-150</unittitle>
-						<container type="box">1</container>
-					</did>
-					<c03 level="item">
-						<did>
-							<unitid>1</unitid>
-							<unittitle>107, Saturday, card to Ed from Ponnil expressing sympathy for
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">4</container>
+            <unittitle>Items catalogued as numbers 101-150</unittitle>
+            <container type="box">1</container>
+          </did>
+          <c03 level="item">
+            <did>
+              <unitid>1</unitid>
+              <unittitle>107, Saturday, card to Ed from Ponnil expressing sympathy for
 								father’s death</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>2</unitid>
-							<unittitle>109, Saturday morning, letter to Orin from G.G.E thanking him
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>2</unitid>
+              <unittitle>109, Saturday morning, letter to Orin from G.G.E thanking him
 								for birthday remembrance</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>3</unitid>
-							<unittitle>111, not dated, sermon on 1 Corinthians 29, 15</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>4</unitid>
-							<unittitle>112, not dated, sermon on Romans 14.7-10</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>5</unitid>
-							<unittitle>113, not dated, sermon on James 1, 25 Genesis 28, 20,
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>3</unitid>
+              <unittitle>111, not dated, sermon on 1 Corinthians 29, 15</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>4</unitid>
+              <unittitle>112, not dated, sermon on Romans 14.7-10</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>5</unitid>
+              <unittitle>113, not dated, sermon on James 1, 25 Genesis 28, 20,
 								22</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>6</unitid>
-							<unittitle>114, not dated, sermon on the gospel where the man sends off
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>6</unitid>
+              <unittitle>114, not dated, sermon on the gospel where the man sends off
 								3 servants</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>7</unitid>
-							<unittitle>115, not dated, sermon on Ezekiel 11, 19th</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>8</unitid>
-							<unittitle>116, not dated, sermon on Acts 3, 8</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>9</unitid>
-							<unittitle>117, not dated, sermon on the First Book of
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>7</unitid>
+              <unittitle>115, not dated, sermon on Ezekiel 11, 19th</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>8</unitid>
+              <unittitle>116, not dated, sermon on Acts 3, 8</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>9</unitid>
+              <unittitle>117, not dated, sermon on the First Book of
 								Romans</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>10</unitid>
-							<unittitle>118, not dated, sermon on John</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>11</unitid>
-							<unittitle>119, not dated, sermon on John 1 and Revelation 5,
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>10</unitid>
+              <unittitle>118, not dated, sermon on John</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>11</unitid>
+              <unittitle>119, not dated, sermon on John 1 and Revelation 5,
 								9</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>12</unitid>
-							<unittitle>120, not dated, sermon on John 1</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>13</unitid>
-							<unittitle>121, not dated, sermon on John 10, 26</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>14</unitid>
-							<unittitle>122, not dated, sermon on Hebrews 9, 15 and John
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>12</unitid>
+              <unittitle>120, not dated, sermon on John 1</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>13</unitid>
+              <unittitle>121, not dated, sermon on John 10, 26</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>14</unitid>
+              <unittitle>122, not dated, sermon on Hebrews 9, 15 and John
 								1</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>15</unitid>
-							<unittitle>123, not dated, sermon on Isaiah 61, 3</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>16</unitid>
-							<unittitle>124, not dated, sermon on the relationship of Jacob and
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>15</unitid>
+              <unittitle>123, not dated, sermon on Isaiah 61, 3</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>16</unitid>
+              <unittitle>124, not dated, sermon on the relationship of Jacob and
 								Laban</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>17</unitid>
-							<unittitle>125, not dated, sermon not described</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>18</unitid>
-							<unittitle>126, not dated, sermon of Galatians 4, 22, 19</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>19</unitid>
-							<unittitle>127, not dated, sermon on Luke 29, 13, 14</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>20</unitid>
-							<unittitle>128, not dated, sermon on Ezekiel</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>21</unitid>
-							<unittitle>129, not dated, sermon on Mark 2, 10</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>22</unitid>
-							<unittitle>130, not dated, sermon on Meal. 4, 2</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>23</unitid>
-							<unittitle>131, not dated, sermon PS 62, 2 and John 13, 2</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>24</unitid>
-							<unittitle>135, 1952, letter from Edson Weiss to Jim and Jane telling
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>17</unitid>
+              <unittitle>125, not dated, sermon not described</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>18</unitid>
+              <unittitle>126, not dated, sermon of Galatians 4, 22, 19</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>19</unitid>
+              <unittitle>127, not dated, sermon on Luke 29, 13, 14</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>20</unitid>
+              <unittitle>128, not dated, sermon on Ezekiel</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>21</unitid>
+              <unittitle>129, not dated, sermon on Mark 2, 10</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>22</unitid>
+              <unittitle>130, not dated, sermon on Meal. 4, 2</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>23</unitid>
+              <unittitle>131, not dated, sermon PS 62, 2 and John 13, 2</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>24</unitid>
+              <unittitle>135, 1952, letter from Edson Weiss to Jim and Jane telling
 								them about his recent move to New York</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>25</unitid>
-							<unittitle>136, January 17, 1952, letter to Edson from Marie on Masonic
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>25</unitid>
+              <unittitle>136, January 17, 1952, letter to Edson from Marie on Masonic
 								temple paper</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>26</unitid>
-							<unittitle>140A, February 5, 1952, letter to Sou Pewey form E. Weiss
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>26</unitid>
+              <unittitle>140A, February 5, 1952, letter to Sou Pewey form E. Weiss
 								commenting on the increase in real estate taxes in NYC. 140B,
 								February 5, 1952, letter to Mayor Impellitteri from E. Weiss
 								discussing the increase in real estate taxes</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>27</unitid>
-							<unittitle>142, February 8, 1952, letter to I. Rvins from
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>27</unitid>
+              <unittitle>142, February 8, 1952, letter to I. Rvins from
 								Edson</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>28</unitid>
-							<unittitle>144, not dated, sermon on Mark 26-29</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>29</unitid>
-							<unittitle>145, not dated, sermon on Our Redemption, Isaiah 42, 16 and
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>28</unitid>
+              <unittitle>144, not dated, sermon on Mark 26-29</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>29</unitid>
+              <unittitle>145, not dated, sermon on Our Redemption, Isaiah 42, 16 and
 								Rev. 5, 9</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>30</unitid>
-							<unittitle>146, not dated, sermon on 2 Corinthians 9, 11</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>31</unitid>
-							<unittitle>147, not dated, sermon on Genesis 4, 9, 10, Isaiah 40, 1, 2
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>30</unitid>
+              <unittitle>146, not dated, sermon on 2 Corinthians 9, 11</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>31</unitid>
+              <unittitle>147, not dated, sermon on Genesis 4, 9, 10, Isaiah 40, 1, 2
 								and 1 Timothy 6,12</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>32</unitid>
-							<unittitle>148, not dated, sermon on 1Corinthians3, 20</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>33</unitid>
-							<unittitle>149, not dated, sermon Col. 3, 1-4</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>34</unitid>
-							<unittitle>150, not dated, sermon on SS. 2,3,4</unittitle>
-						</did>
-					</c03>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container type="folder">5</container>
-						<unittitle>Items catalogued as numbers 151-200</unittitle>
-						<container type="box">1</container>
-					</did>
-					<c03 level="item">
-						<did>
-							<unitid>1</unitid>
-							<unittitle>151, not dated, sermon on Acts 11, 26</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>2</unitid>
-							<unittitle>152, not dated, sermon on Luke 4, 8 and Col. 3,
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>32</unitid>
+              <unittitle>148, not dated, sermon on 1Corinthians3, 20</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>33</unitid>
+              <unittitle>149, not dated, sermon Col. 3, 1-4</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>34</unitid>
+              <unittitle>150, not dated, sermon on SS. 2,3,4</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">5</container>
+            <unittitle>Items catalogued as numbers 151-200</unittitle>
+            <container type="box">1</container>
+          </did>
+          <c03 level="item">
+            <did>
+              <unitid>1</unitid>
+              <unittitle>151, not dated, sermon on Acts 11, 26</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>2</unitid>
+              <unittitle>152, not dated, sermon on Luke 4, 8 and Col. 3,
 								1-3</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>3</unitid>
-							<unittitle>153, not dated, sermon on Matthew 22, 11, 12</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>4</unitid>
-							<unittitle>154, not dated, sermon on 1 Cor. 6, 20</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>5</unitid>
-							<unittitle>155, not dated, sermon on Matthew 26, 29-9</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>6</unitid>
-							<unittitle>159, not dated, sermon on John 6, 6-8 and Jer.
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>3</unitid>
+              <unittitle>153, not dated, sermon on Matthew 22, 11, 12</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>4</unitid>
+              <unittitle>154, not dated, sermon on 1 Cor. 6, 20</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>5</unitid>
+              <unittitle>155, not dated, sermon on Matthew 26, 29-9</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>6</unitid>
+              <unittitle>159, not dated, sermon on John 6, 6-8 and Jer.
 								13-23</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>7</unitid>
-							<unittitle>160, not dated, sermon on 1 Tim 1-15 and Luke 10,
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>7</unitid>
+              <unittitle>160, not dated, sermon on 1 Tim 1-15 and Luke 10,
 								42</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>8</unitid>
-							<unittitle>161, not dated, sermon on Ezekiel 2, 19, 22</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>9</unitid>
-							<unittitle>162, not dated, sermon on Exodus 32, 26 and Ezekiel 3, 17,
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>8</unitid>
+              <unittitle>161, not dated, sermon on Ezekiel 2, 19, 22</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>9</unitid>
+              <unittitle>162, not dated, sermon on Exodus 32, 26 and Ezekiel 3, 17,
 								21, 18th and 33, and 2 Cor. 7, 10</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>10</unitid>
-							<unittitle>163, not dated, sermon, Ezekiel 2, 19-22</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>11</unitid>
-							<unittitle>164, not dated, sermon on Matthew 13, 30</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>12</unitid>
-							<unittitle>165, not dated, sermon on Meal? 4, 2</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>13</unitid>
-							<unittitle>166, not dated, sermon on Exodus 20, 8-10</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>14</unitid>
-							<unittitle>167, not dated, sermon on Isaiah 42, 16</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>15</unitid>
-							<unittitle>168, not dated, sermon Col. 1, 28 and John 1, 29</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>16</unitid>
-							<unittitle>169, not dated, sermon on Col. 1, 28</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>17</unitid>
-							<unittitle>171, not dated, letter from Bette Weiss (cousin) to
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>10</unitid>
+              <unittitle>163, not dated, sermon, Ezekiel 2, 19-22</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>11</unitid>
+              <unittitle>164, not dated, sermon on Matthew 13, 30</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>12</unitid>
+              <unittitle>165, not dated, sermon on Meal? 4, 2</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>13</unitid>
+              <unittitle>166, not dated, sermon on Exodus 20, 8-10</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>14</unitid>
+              <unittitle>167, not dated, sermon on Isaiah 42, 16</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>15</unitid>
+              <unittitle>168, not dated, sermon Col. 1, 28 and John 1, 29</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>16</unitid>
+              <unittitle>169, not dated, sermon on Col. 1, 28</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>17</unitid>
+              <unittitle>171, not dated, letter from Bette Weiss (cousin) to
 								Orin</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>18</unitid>
-							<unittitle>176, not dated, unidentified sermon</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>19</unitid>
-							<unittitle>l 77, not dated, sermon on Malach? 3, 10</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>20</unitid>
-							<unittitle>178, not dated, sermon on Prov. 3, 56 and Acts 16,
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>18</unitid>
+              <unittitle>176, not dated, unidentified sermon</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>19</unitid>
+              <unittitle>l 77, not dated, sermon on Malach? 3, 10</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>20</unitid>
+              <unittitle>178, not dated, sermon on Prov. 3, 56 and Acts 16,
 								30</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>21</unitid>
-							<unittitle>179, not dated, sermon on Romans 14, 7-10 and Numbers 14, 23,
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>21</unitid>
+              <unittitle>179, not dated, sermon on Romans 14, 7-10 and Numbers 14, 23,
 								24</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>22</unitid>
-							<unittitle>180, not dated, sermon on John 10, 16</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>23</unitid>
-							<unittitle>181, not dated, sermon on Joel 2, 18l 17, 12, 13 and Jer. 6,
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>22</unitid>
+              <unittitle>180, not dated, sermon on John 10, 16</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>23</unitid>
+              <unittitle>181, not dated, sermon on Joel 2, 18l 17, 12, 13 and Jer. 6,
 								16</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>24</unitid>
-							<unittitle>182, not dated, sermon on Proverbs 20, 1</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>25</unitid>
-							<unittitle>183, not dated, sermon on Ezekiel, 1, 19, 20</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>26</unitid>
-							<unittitle>184, not dated, sermon on 1 Tim 1, 14, 15</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>27</unitid>
-							<unittitle>185, not dated, sermon on Hebrews 11, 25</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>28</unitid>
-							<unittitle>186, not dated, sermon on Luke 10, 42 and john 21,
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>24</unitid>
+              <unittitle>182, not dated, sermon on Proverbs 20, 1</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>25</unitid>
+              <unittitle>183, not dated, sermon on Ezekiel, 1, 19, 20</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>26</unitid>
+              <unittitle>184, not dated, sermon on 1 Tim 1, 14, 15</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>27</unitid>
+              <unittitle>185, not dated, sermon on Hebrews 11, 25</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>28</unitid>
+              <unittitle>186, not dated, sermon on Luke 10, 42 and john 21,
 								17</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>29</unitid>
-							<unittitle>187, 1909, card from Edna to Orin</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>30</unitid>
-							<unittitle>190A, July 30, 1979, card to Gladys from Lucy Aita and
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>29</unitid>
+              <unittitle>187, 1909, card from Edna to Orin</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>30</unitid>
+              <unittitle>190A, July 30, 1979, card to Gladys from Lucy Aita and
 								daughter Joan</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>31</unitid>
-							<unittitle>190B, 1979, bookmarker from Florence wishing Gladys a Happy
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>31</unitid>
+              <unittitle>190B, 1979, bookmarker from Florence wishing Gladys a Happy
 								Easter</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>32</unitid>
-							<unittitle>193, Thursday Morning, letter from Edson to G.G.</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>33</unitid>
-							<unittitle>194, September 26, 1919, insurance policy to Andrew J. Weiss
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>32</unitid>
+              <unittitle>193, Thursday Morning, letter from Edson to G.G.</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>33</unitid>
+              <unittitle>194, September 26, 1919, insurance policy to Andrew J. Weiss
 								from Insurance Company of North America and the Fire Ass. Of
 								Phil.</unittitle>
-						</did>
-					</c03>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container type="folder">6</container>
-						<unittitle>Items catalogued as numbers 200-244</unittitle>
-						<container type="box">1</container>
-					</did>
-
-					<c03 level="item">
-						<did>
-							<unitid>1</unitid>
-							<unittitle>203, December 8, 1902, receipt from A.J. Weiss to Elizabeth
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">6</container>
+            <unittitle>Items catalogued as numbers 200-244</unittitle>
+            <container type="box">1</container>
+          </did>
+          <c03 level="item">
+            <did>
+              <unitid>1</unitid>
+              <unittitle>203, December 8, 1902, receipt from A.J. Weiss to Elizabeth
 								J. Herring in the sum of $28 for the interest on loan of
 								$800</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>2</unitid>
-							<unittitle>204, June 13, 1904, receipts form A.J. Weiss to J. Wassett in
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>2</unitid>
+              <unittitle>204, June 13, 1904, receipts form A.J. Weiss to J. Wassett in
 								the sum of $24 in interest on loan</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>3</unitid>
-							<unittitle>205, December 10, 1902, receipts for fire insurance policy of
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>3</unitid>
+              <unittitle>205, December 10, 1902, receipts for fire insurance policy of
 								1902</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>4</unitid>
-							<unittitle>206, Filed December 11, 1888, legal document giving M.J.
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>4</unitid>
+              <unittitle>206, Filed December 11, 1888, legal document giving M.J.
 								Robertson power of attorney over Lewy Robertson</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>5</unitid>
-							<unittitle>207, Filed November 1885, papers giving power of attorney
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>5</unitid>
+              <unittitle>207, Filed November 1885, papers giving power of attorney
 								from Matt J. Robertson to Leway Robertson</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>6</unitid>
-							<unittitle>208, June 13, 1902, warranty deed for dwelling of A.J.
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>6</unitid>
+              <unittitle>208, June 13, 1902, warranty deed for dwelling of A.J.
 								Weiss</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>7</unitid>
-							<unittitle>209, June 17, 1925, fire and or tornado insurance from Royal
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>7</unitid>
+              <unittitle>209, June 17, 1925, fire and or tornado insurance from Royal
 								Insurance Co. to A.J. Weiss</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>8</unitid>
-							<unittitle>211, August 28, 1916, fire insurance policy from Germania
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>8</unitid>
+              <unittitle>211, August 28, 1916, fire insurance policy from Germania
 								Fire Insurance Co. to A.J. Weiss</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>9</unitid>
-							<unittitle>212, July 24, 1905, tornado insurance policy from The
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>9</unitid>
+              <unittitle>212, July 24, 1905, tornado insurance policy from The
 								Northwestern National Insurance Co. to A.J. Weiss</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>10</unitid>
-							<unittitle>213, filed on April 20, 1908, assignment of mortgage to
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>10</unitid>
+              <unittitle>213, filed on April 20, 1908, assignment of mortgage to
 								August Weiss and Oscar A. Weiss</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>11</unitid>
-							<unittitle>214, November 12, 1909, assignment of mortgage from Augusta
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>11</unitid>
+              <unittitle>214, November 12, 1909, assignment of mortgage from Augusta
 								Weiss to Oscar A. Weiss</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>12</unitid>
-							<unittitle>215, filed July 5, 1901, mortgage deed from August Mechin to
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>12</unitid>
+              <unittitle>215, filed July 5, 1901, mortgage deed from August Mechin to
 								Sophia Merrill</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>13</unitid>
-							<unittitle>216, May 24, 1902, earnest money contract of sale as receipt
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>13</unitid>
+              <unittitle>216, May 24, 1902, earnest money contract of sale as receipt
 								for purchase of house from Augusta Mechin to A.J. Weiss</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>14</unitid>
-							<unittitle>217, filed July 2, 1904, assignment of mortgage from Sophia
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>14</unitid>
+              <unittitle>217, filed July 2, 1904, assignment of mortgage from Sophia
 								le Manill to Augusta Weiss</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>15</unitid>
-							<unittitle>218, filed January 17, 1905, assignment of mortgage from
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>15</unitid>
+              <unittitle>218, filed January 17, 1905, assignment of mortgage from
 								Elizabeth Herring to Mrs. Augusta Weiss</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>16</unitid>
-							<unittitle>219, filed June 13, 1902, mortgage deed from Andrew Weiss to
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>16</unitid>
+              <unittitle>219, filed June 13, 1902, mortgage deed from Andrew Weiss to
 								Elizabeth Herring</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>17</unitid>
-							<unittitle>223, July 1944, an affidavit stating that Orin and Edson
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>17</unitid>
+              <unittitle>223, July 1944, an affidavit stating that Orin and Edson
 								could receive at Veissor estate</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>18</unitid>
-							<unittitle>226, June 25 and 26, 1969, letter from Edson to G.G. talking
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>18</unitid>
+              <unittitle>226, June 25 and 26, 1969, letter from Edson to G.G. talking
 								about the weather and politics</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>19</unitid>
-							<unittitle>231, August 21, 1944, letter from Mary to Mom</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>20</unitid>
-							<unittitle>232, not dated, sermon on Luke 16, 26</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>21</unitid>
-							<unittitle>233, not dated, sermon on Acts 11, 26 and Proverbs 18,
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>19</unitid>
+              <unittitle>231, August 21, 1944, letter from Mary to Mom</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>20</unitid>
+              <unittitle>232, not dated, sermon on Luke 16, 26</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>21</unitid>
+              <unittitle>233, not dated, sermon on Acts 11, 26 and Proverbs 18,
 								24</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>22</unitid>
-							<unittitle>238, March 27, 1951, letter from Edson to Gladys</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>23</unitid>
-							<unittitle>239, March 29, 1952, letter from Ed to Gladys</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>24</unitid>
-							<unittitle>240, April 1, 1952, letter from Gladys and Edison to the
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>22</unitid>
+              <unittitle>238, March 27, 1951, letter from Edson to Gladys</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>23</unitid>
+              <unittitle>239, March 29, 1952, letter from Ed to Gladys</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>24</unitid>
+              <unittitle>240, April 1, 1952, letter from Gladys and Edison to the
 								Folks</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>25</unitid>
-							<unittitle>243, Thursday, letter from Ed to Orin discussing Ed’s move to
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>25</unitid>
+              <unittitle>243, Thursday, letter from Ed to Orin discussing Ed’s move to
 								New York and leaving the house in Minnesota</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>26</unitid>
-							<unittitle>244, not dated, pictures of leaves</unittitle>
-						</did>
-					</c03>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container type="folder">7</container>
-						<unittitle>Numbered newspaper clippings</unittitle>
-						<container type="box">1</container>
-					</did>
-					<c03 level="item">
-						<did>
-							<unitid>1</unitid>
-							<unittitle>47, not dated, clipping titled “Protecting the American Home”
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>26</unitid>
+              <unittitle>244, not dated, pictures of leaves</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">7</container>
+            <unittitle>Numbered newspaper clippings</unittitle>
+            <container type="box">1</container>
+          </did>
+          <c03 level="item">
+            <did>
+              <unitid>1</unitid>
+              <unittitle>47, not dated, clipping titled “Protecting the American Home”
 								comes from A Hero of Ticonderoga by Rowland Robinson</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>2</unitid>
-							<unittitle>49, © 1948, Walt Disney Production World Rights Reserved
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>2</unitid>
+              <unittitle>49, © 1948, Walt Disney Production World Rights Reserved
 								No.1-15 of a banged up cat that tries to see in the dark</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>3</unitid>
-							<unittitle>50, © 1948, Walt Disney Production of a turtle who stopped
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>3</unitid>
+              <unittitle>50, © 1948, Walt Disney Production of a turtle who stopped
 								suddenly</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>4</unitid>
-							<unittitle>51, © 1948, Walt Disney Production of a black panther that
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>4</unitid>
+              <unittitle>51, © 1948, Walt Disney Production of a black panther that
 								worries about gray hairs because they will really show</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>5</unitid>
-							<unittitle>52, © 1948, Walt Disney Production no. 3-2 of a monkey who
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>5</unitid>
+              <unittitle>52, © 1948, Walt Disney Production no. 3-2 of a monkey who
 								thought his tail was a snake when there is a lead on the top of the
 								tip</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>6</unitid>
-							<unittitle>53, © 1948, Walt Disney Production of one goat asking another
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>6</unitid>
+              <unittitle>53, © 1948, Walt Disney Production of one goat asking another
 								goat is it ate any good books lately</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>7</unitid>
-							<unittitle>54, not dated, cartoon of Donald Duck holding a gold bag,
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>7</unitid>
+              <unittitle>54, not dated, cartoon of Donald Duck holding a gold bag,
 								sweating with the sun coming down on him</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>8</unitid>
-							<unittitle>55, not dated, illustration by Fishchette of four crows on
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>8</unitid>
+              <unittitle>55, not dated, illustration by Fishchette of four crows on
 								one branch wearing hats of different nations (America, Russia,
 								India, Latin America)</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>9</unitid>
-							<unittitle>56, not fated, from the Saturday Evening Post and
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>9</unitid>
+              <unittitle>56, not fated, from the Saturday Evening Post and
 								illustration of a hillbilly bear a Walt Disney character with music
 								in the background</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>10</unitid>
-							<unittitle>57, © 1948, Walt Disney Production No.1-21 of an octopus tied
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>10</unitid>
+              <unittitle>57, © 1948, Walt Disney Production No.1-21 of an octopus tied
 								up in knots with the caption that reads “Ever have one of those days
 								when nothing seems to go right?”</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>11</unitid>
-							<unittitle>58, © 1948, Walt Disney Production No. 8-6 of a cat quietly
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>11</unitid>
+              <unittitle>58, © 1948, Walt Disney Production No. 8-6 of a cat quietly
 								coming down the stairs with the caption that reads “Boy, what a
 								night he must’ve had! He just yelled at me to quit
 								stomping!”</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>12</unitid>
-							<unittitle>59, © 1948, Walt Disney Production of an alligator in a sway
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>12</unitid>
+              <unittitle>59, © 1948, Walt Disney Production of an alligator in a sway
 								yelling “Chloe…Chloooeee!”</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>13</unitid>
-							<unittitle>60, © 1948, Walt Disney Production No. 12-7 of two beavers
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>13</unitid>
+              <unittitle>60, © 1948, Walt Disney Production No. 12-7 of two beavers
 								talking about a third in it’s dam and the caption reads “I’ll say
 								she’s prudish. She calls it a Darn!”</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>14</unitid>
-							<unittitle>61, © 1948, Walt Disney Production No. 5-1 of two beavers
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>14</unitid>
+              <unittitle>61, © 1948, Walt Disney Production No. 5-1 of two beavers
 								talking about recipes made up of different types of wood</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>15</unitid>
-							<unittitle>62, not dated, three illustrations of a man taking a picture
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>15</unitid>
+              <unittitle>62, not dated, three illustrations of a man taking a picture
 								of some moneys in the Saturday Evening Post by nick
 								Ruble</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>16</unitid>
-							<unittitle>63, not dated, illustration by I. Alexander caption reads
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>16</unitid>
+              <unittitle>63, not dated, illustration by I. Alexander caption reads
 								“It’s past your bed tie son, put your toys away.”</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>17</unitid>
-							<unittitle>64, © 1949, a comic book on “The Amazing story of
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>17</unitid>
+              <unittitle>64, © 1949, a comic book on “The Amazing story of
 								Measurement” prepaid and distributed by the Larkin Rule
 								Co.</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>18</unitid>
-							<unittitle>93, not dated, illustration of a worker doing nothing but
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>18</unitid>
+              <unittitle>93, not dated, illustration of a worker doing nothing but
 								balancing things on his desk</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>19</unitid>
-							<unittitle>94, 1946, illustration in the N.Y. Tribune called “Paper
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>19</unitid>
+              <unittitle>94, 1946, illustration in the N.Y. Tribune called “Paper
 								Profits” by Webster</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>20</unitid>
-							<unittitle>106, November 22, 1923, title “Robbed of Jewels” person in
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>20</unitid>
+              <unittitle>106, November 22, 1923, title “Robbed of Jewels” person in
 								question Mrs. Ray van Chief of Buffalo, N.Y.</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>21</unitid>
-							<unittitle>191, not dated, picture of a cat grasping a mouse some one
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>21</unitid>
+              <unittitle>191, not dated, picture of a cat grasping a mouse some one
 								has written “Now tell me! Is you a mouse or is you a
 								man”</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>22</unitid>
-							<unittitle>195, not dated, illustrations of Mickey Mouse in 1931 and the
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>22</unitid>
+              <unittitle>195, not dated, illustrations of Mickey Mouse in 1931 and the
 								other of him in 1933</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>23</unitid>
-							<unittitle>196, © 1949, Walt Disney Production No. 2-26 of two
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>23</unitid>
+              <unittitle>196, © 1949, Walt Disney Production No. 2-26 of two
 								alligators</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>24</unitid>
-							<unittitle>197, © 1949, Walt Disney Production No. 2-26 of three
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>24</unitid>
+              <unittitle>197, © 1949, Walt Disney Production No. 2-26 of three
 								monkeys</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>25</unitid>
-							<unittitle>198, © 1949, Walt Disney Production of two monkeys with one
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>25</unitid>
+              <unittitle>198, © 1949, Walt Disney Production of two monkeys with one
 								picking has up and the other lifting his feet</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>26</unitid>
-							<unittitle>199, not dated, New York Times picture of Mickey in 1947
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>26</unitid>
+              <unittitle>199, not dated, New York Times picture of Mickey in 1947
 								after 20 years</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>27</unitid>
-							<unittitle>200, not dated, 1927 illustration of the first Mickey Mouse
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>27</unitid>
+              <unittitle>200, not dated, 1927 illustration of the first Mickey Mouse
 								silent picture</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>28</unitid>
-							<unittitle>220, not dated, picture of Mark Twain in his latter year
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>28</unitid>
+              <unittitle>220, not dated, picture of Mark Twain in his latter year
 								writing bed</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>29</unitid>
-							<unittitle>224, not dated, picture of two men handcuffed together these
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>29</unitid>
+              <unittitle>224, not dated, picture of two men handcuffed together these
 								en were kidnapped by gem bandits</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>30</unitid>
-							<unittitle>225, not dated, Walt Disney Production of greedy hillbilly
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>30</unitid>
+              <unittitle>225, not dated, Walt Disney Production of greedy hillbilly
 								wolf with musical notes floating around him</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>31</unitid>
-							<unittitle>234, © 1936, Illustration 4-13 of Beetle Bailey</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>32</unitid>
-							<unittitle>235, © 1936, Thimble Theatre staring Popeye No. 12-10 by
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>31</unitid>
+              <unittitle>234, © 1936, Illustration 4-13 of Beetle Bailey</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>32</unitid>
+              <unittitle>235, © 1936, Thimble Theatre staring Popeye No. 12-10 by
 								Ralph Stern and Bill Zaboly</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>33</unitid>
-							<unittitle>237, © 1944, comic strip titled “They’ll do it Every Time” by
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>33</unitid>
+              <unittitle>237, © 1944, comic strip titled “They’ll do it Every Time” by
 								Jimmy Halto Illustration No. 6-20</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>34</unitid>
-							<unittitle>241, not dated, picture of Mark Twain’s Hartford
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>34</unitid>
+              <unittitle>241, not dated, picture of Mark Twain’s Hartford
 								house</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>35</unitid>
-							<unittitle>242, not dated, picture of Mark Twain writing in his favorite
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>35</unitid>
+              <unittitle>242, not dated, picture of Mark Twain writing in his favorite
 								place, his bed</unittitle>
-						</did>
-					</c03>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container type="folder">8</container>
-						<unittitle>Letters and Notes by Edson E. Weiss</unittitle>
-						<container type="box">1</container>
-					</did>
-					<c03 level="item">
-						<did>
-							<unitid>1</unitid>
-							<unittitle>Letters and Notes for 1950</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>2</unitid>
-							<unittitle>Letters and Notes for 1951</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>3</unitid>
-							<unittitle>Letters and Notes for 1952</unittitle>
-						</did>
-					</c03>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container type="folder">9</container>
-						<unittitle>Notes on Various Topics A-W by Orin Weiss</unittitle>
-						<container type="box">1</container>
-					</did>
-					<c03 level="item">
-						<did>
-							<unitid>1</unitid>
-							<unittitle>Accuracy, July 8, 1937</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>2</unitid>
-							<unittitle>Aesop, July 10, 1937</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>3</unitid>
-							<unittitle>Art, November 28, 1936</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>4</unitid>
-							<unittitle>A.S.M.E., 1938</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>5</unitid>
-							<unittitle>Atom, 1937</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>6</unitid>
-							<unittitle>Bible, April 26, 1938</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>7</unitid>
-							<unittitle>Books, October 11, 1936</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>8</unitid>
-							<unittitle>Brisbane, May 10, 1937</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>9</unitid>
-							<unittitle>Buildings, November 9, 1937</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>10</unitid>
-							<unittitle>Business, August 3, 1936</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>11</unitid>
-							<unittitle>Charts, not dated</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>12</unitid>
-							<unittitle>Crime, January 5, 1937</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>13</unitid>
-							<unittitle>Criticism, December 7, 1936</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>14</unitid>
-							<unittitle>“Culored Folks”, July 10, 1937</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>15</unitid>
-							<unittitle>Depressions, November 28, 1936</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>16</unitid>
-							<unittitle>Description, January 27, 1936</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>17</unitid>
-							<unittitle>Economics, April 1, 1935</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>18</unitid>
-							<unittitle>Education, December 7, 1936</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>19</unitid>
-							<unittitle>Employment, January 9, 1937</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>20</unitid>
-							<unittitle>Examinations, May 27, 1938</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>21</unitid>
-							<unittitle>Farmers, August 29, 1936</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>22</unitid>
-							<unittitle>Fools, September 21, 1937</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>23</unitid>
-							<unittitle>Freud, August 26, 1938</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>24</unitid>
-							<unittitle>Ghetto, April 15, 1937</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>25</unitid>
-							<unittitle>Gifts, January 27, 1936</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>26</unitid>
-							<unittitle>Glass (Carter), August 29, 1936</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>27</unitid>
-							<unittitle>Gold, January 5, 1937</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>28</unitid>
-							<unittitle>Gorki, February 23, 1938</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>29</unitid>
-							<unittitle>Government, November 20, 1936</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>30</unitid>
-							<unittitle>Happiness, October 11, 1936</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>31</unitid>
-							<unittitle>ypocrisy, July 10, 1937</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>32</unitid>
-							<unittitle>Inventions, June 27, 1936</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>33</unitid>
-							<unittitle>Jews, May 10, 1937</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>34</unitid>
-							<unittitle>Joy, not dated</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>35</unitid>
-							<unittitle>law, May 10, 1937</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>36</unitid>
-							<unittitle>Lectured, October 13, 1936</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>37</unitid>
-							<unittitle>Lending, December 1936</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>38</unitid>
-							<unittitle>Life- A Study in Caution and Values, August 21,
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">8</container>
+            <unittitle>Letters and Notes by Edson E. Weiss</unittitle>
+            <container type="box">1</container>
+          </did>
+          <c03 level="item">
+            <did>
+              <unitid>1</unitid>
+              <unittitle>Letters and Notes for 1950</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>2</unitid>
+              <unittitle>Letters and Notes for 1951</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>3</unitid>
+              <unittitle>Letters and Notes for 1952</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">9</container>
+            <unittitle>Notes on Various Topics A-W by Orin Weiss</unittitle>
+            <container type="box">1</container>
+          </did>
+          <c03 level="item">
+            <did>
+              <unitid>1</unitid>
+              <unittitle>Accuracy, July 8, 1937</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>2</unitid>
+              <unittitle>Aesop, July 10, 1937</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>3</unitid>
+              <unittitle>Art, November 28, 1936</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>4</unitid>
+              <unittitle>A.S.M.E., 1938</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>5</unitid>
+              <unittitle>Atom, 1937</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>6</unitid>
+              <unittitle>Bible, April 26, 1938</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>7</unitid>
+              <unittitle>Books, October 11, 1936</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>8</unitid>
+              <unittitle>Brisbane, May 10, 1937</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>9</unitid>
+              <unittitle>Buildings, November 9, 1937</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>10</unitid>
+              <unittitle>Business, August 3, 1936</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>11</unitid>
+              <unittitle>Charts, not dated</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>12</unitid>
+              <unittitle>Crime, January 5, 1937</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>13</unitid>
+              <unittitle>Criticism, December 7, 1936</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>14</unitid>
+              <unittitle>“Culored Folks”, July 10, 1937</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>15</unitid>
+              <unittitle>Depressions, November 28, 1936</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>16</unitid>
+              <unittitle>Description, January 27, 1936</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>17</unitid>
+              <unittitle>Economics, April 1, 1935</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>18</unitid>
+              <unittitle>Education, December 7, 1936</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>19</unitid>
+              <unittitle>Employment, January 9, 1937</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>20</unitid>
+              <unittitle>Examinations, May 27, 1938</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>21</unitid>
+              <unittitle>Farmers, August 29, 1936</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>22</unitid>
+              <unittitle>Fools, September 21, 1937</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>23</unitid>
+              <unittitle>Freud, August 26, 1938</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>24</unitid>
+              <unittitle>Ghetto, April 15, 1937</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>25</unitid>
+              <unittitle>Gifts, January 27, 1936</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>26</unitid>
+              <unittitle>Glass (Carter), August 29, 1936</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>27</unitid>
+              <unittitle>Gold, January 5, 1937</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>28</unitid>
+              <unittitle>Gorki, February 23, 1938</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>29</unitid>
+              <unittitle>Government, November 20, 1936</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>30</unitid>
+              <unittitle>Happiness, October 11, 1936</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>31</unitid>
+              <unittitle>ypocrisy, July 10, 1937</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>32</unitid>
+              <unittitle>Inventions, June 27, 1936</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>33</unitid>
+              <unittitle>Jews, May 10, 1937</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>34</unitid>
+              <unittitle>Joy, not dated</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>35</unitid>
+              <unittitle>law, May 10, 1937</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>36</unitid>
+              <unittitle>Lectured, October 13, 1936</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>37</unitid>
+              <unittitle>Lending, December 1936</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>38</unitid>
+              <unittitle>Life- A Study in Caution and Values, August 21,
 								1933</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>39</unitid>
-							<unittitle>Liquor, July 10, 1937</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>40</unitid>
-							<unittitle>Living, August 22, 1936</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>41</unitid>
-							<unittitle>Markets, February 23, 1938</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>42</unitid>
-							<unittitle>Marriage, November 28, 1936</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>43</unitid>
-							<unittitle>Marx, march 28, 1938</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>44</unitid>
-							<unittitle>Night Spots, July 10, 1937</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>45</unitid>
-							<unittitle>Of Mother, June 6, 1936</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>46</unitid>
-							<unittitle>Photography, July 30, 1935</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>47</unitid>
-							<unittitle>Production, December 1936</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>48</unitid>
-							<unittitle>Psychology, September 2, 1937</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>49</unitid>
-							<unittitle>Reading, August 26, 1938</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>50</unitid>
-							<unittitle>Salesmanship, October 11, 1936</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>51</unitid>
-							<unittitle>Smith, not dated</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>52</unitid>
-							<unittitle>Social Welfare, November 2, 1936</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>53</unitid>
-							<unittitle>Society, October 11, 1936</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>54</unitid>
-							<unittitle>Taxes, May 10, 1937</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>55</unitid>
-							<unittitle>War, January 27, 1936</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>56</unitid>
-							<unittitle>We-O’Learys are a Strange Crowd, September 5,
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>39</unitid>
+              <unittitle>Liquor, July 10, 1937</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>40</unitid>
+              <unittitle>Living, August 22, 1936</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>41</unitid>
+              <unittitle>Markets, February 23, 1938</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>42</unitid>
+              <unittitle>Marriage, November 28, 1936</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>43</unitid>
+              <unittitle>Marx, march 28, 1938</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>44</unitid>
+              <unittitle>Night Spots, July 10, 1937</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>45</unitid>
+              <unittitle>Of Mother, June 6, 1936</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>46</unitid>
+              <unittitle>Photography, July 30, 1935</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>47</unitid>
+              <unittitle>Production, December 1936</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>48</unitid>
+              <unittitle>Psychology, September 2, 1937</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>49</unitid>
+              <unittitle>Reading, August 26, 1938</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>50</unitid>
+              <unittitle>Salesmanship, October 11, 1936</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>51</unitid>
+              <unittitle>Smith, not dated</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>52</unitid>
+              <unittitle>Social Welfare, November 2, 1936</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>53</unitid>
+              <unittitle>Society, October 11, 1936</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>54</unitid>
+              <unittitle>Taxes, May 10, 1937</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>55</unitid>
+              <unittitle>War, January 27, 1936</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>56</unitid>
+              <unittitle>We-O’Learys are a Strange Crowd, September 5,
 								1936</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>57</unitid>
-							<unittitle>Wine, 1933</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>58</unitid>
-							<unittitle>Women, August 22, 1936</unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>59</unitid>
-							<unittitle>Writing, July 30, 1935</unittitle>
-						</did>
-					</c03>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container type="folder">11</container>
-						<unittitle>Diary B</unittitle>
-						<container type="box">2</container>
-					</did>
-					<c03 level="item">
-						<did>
-							<unitid>1</unitid>
-							<unittitle>133, 1901, diary to Jennie Henderson from her
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>57</unitid>
+              <unittitle>Wine, 1933</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>58</unitid>
+              <unittitle>Women, August 22, 1936</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>59</unitid>
+              <unittitle>Writing, July 30, 1935</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">11</container>
+            <unittitle>Diary B</unittitle>
+            <container type="box">2</container>
+          </did>
+          <c03 level="item">
+            <did>
+              <unitid>1</unitid>
+              <unittitle>133, 1901, diary to Jennie Henderson from her
 								father</unittitle>
-							<container type="box">2</container>
-						</did>
-					</c03>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container type="folder">12</container>
-						<unittitle>Diary C</unittitle>
-						<container type="box">2</container>
-					</did>
-
-					<c03 level="item">
-						<did>
-							<unitid>1</unitid>
-							<unittitle>134, 1902, diary to Jennie from Papa</unittitle>
-							<container type="box">2</container>
-						</did>
-					</c03>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container type="folder">13</container>
-						<unittitle>Diary D</unittitle>
-						<container type="box">2</container>
-					</did>
-					<c03 level="item">
-						<did>
-							<unitid>1</unitid>
-							<unittitle>172, 1903, diary to Mrs. A.J. Weiss from Papa</unittitle>
-							<container type="box">2</container>
-						</did>
-					</c03>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container type="folder">14</container>
-						<unittitle>Diary E</unittitle>
-						<container type="box">2</container>
-					</did>
-					<c03 level="item">
-						<did>
-							<unitid>1</unitid>
-							<unittitle>173, 1899, diary to Jennie Henderson from her brother
+              <container type="box">2</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">12</container>
+            <unittitle>Diary C</unittitle>
+            <container type="box">2</container>
+          </did>
+          <c03 level="item">
+            <did>
+              <unitid>1</unitid>
+              <unittitle>134, 1902, diary to Jennie from Papa</unittitle>
+              <container type="box">2</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">13</container>
+            <unittitle>Diary D</unittitle>
+            <container type="box">2</container>
+          </did>
+          <c03 level="item">
+            <did>
+              <unitid>1</unitid>
+              <unittitle>172, 1903, diary to Mrs. A.J. Weiss from Papa</unittitle>
+              <container type="box">2</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">14</container>
+            <unittitle>Diary E</unittitle>
+            <container type="box">2</container>
+          </did>
+          <c03 level="item">
+            <did>
+              <unitid>1</unitid>
+              <unittitle>173, 1899, diary to Jennie Henderson from her brother
 								Charles</unittitle>
-							<container type="box">2</container>
-						</did>
-					</c03>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container type="folder">15</container>
-						<unittitle>Diary F</unittitle>
-						<container type="box">2</container>
-					</did>
-
-					<c03 level="item">
-						<did>
-							<unitid>1</unitid>
-							<unittitle>174, June 18, 1902, wedding book with pictures of A.J. Weiss
+              <container type="box">2</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">15</container>
+            <unittitle>Diary F</unittitle>
+            <container type="box">2</container>
+          </did>
+          <c03 level="item">
+            <did>
+              <unitid>1</unitid>
+              <unittitle>174, June 18, 1902, wedding book with pictures of A.J. Weiss
 								and Jennie H. Weiss and a picture of the house at 3708 Stevens Ave.
 								with wedding invitation numbered 87A folded inside</unittitle>
-							<container type="box">2</container>
-						</did>
-					</c03>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container type="folder">16</container>
-						<unittitle>Photographs numbered for the catalogue by Brother
+              <container type="box">2</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">16</container>
+            <unittitle>Photographs numbered for the catalogue by Brother
 							Weiss</unittitle>
-						<container type="box">2</container>
-					</did>
-					<c03 level="item">
-						<did>
-							<unitid>1</unitid>
-							<unittitle>P1, October 11, 1902, picture of A.J. Weiss at age 34 years 3
+            <container type="box">2</container>
+          </did>
+          <c03 level="item">
+            <did>
+              <unitid>1</unitid>
+              <unittitle>P1, October 11, 1902, picture of A.J. Weiss at age 34 years 3
 								month and 12 days to Miss Henderson</unittitle>
-							<container type="box">2</container>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>2</unitid>
-							<unittitle>P2, August 15, 1902, picture of Jennie B. Henderson at age 24
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>2</unitid>
+              <unittitle>P2, August 15, 1902, picture of Jennie B. Henderson at age 24
 								years 4 months 35 days</unittitle>
-							<container type="box">2</container>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>3</unitid>
-							<unittitle>P3, December 1, 1899, picture of Jennie Henderson at the age
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>3</unitid>
+              <unittitle>P3, December 1, 1899, picture of Jennie Henderson at the age
 								of 20</unittitle>
-							<container type="box">2</container>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>4</unitid>
-							<unittitle>P4, not dated picture of the living room in the house at 3708
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>4</unitid>
+              <unittitle>P4, not dated picture of the living room in the house at 3708
 								Stevens Ave</unittitle>
-							<container type="box">2</container>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>5</unitid>
-							<unittitle>P5, not dated, Jennie’s mother called the
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>5</unitid>
+              <unittitle>P5, not dated, Jennie’s mother called the
 								“madman”</unittitle>
-							<container type="box">2</container>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>6</unitid>
-							<unittitle>P7, not dated, photo of Jennie naked sitting pool
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>6</unitid>
+              <unittitle>P7, not dated, photo of Jennie naked sitting pool
 								side</unittitle>
-							<container type="box">2</container>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>7</unitid>
-							<unittitle>P8, not dated, photo of Albert McCall</unittitle>
-							<container type="box">2</container>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>8</unitid>
-							<unittitle>P9a-e, not dated, photos of the Minnesota River</unittitle>
-							<container type="box">2</container>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>9</unitid>
-							<unittitle>P10, not dated, photo of desk lamp</unittitle>
-							<container type="box">2</container>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>10</unitid>
-							<unittitle>P11, not dated, photo of nook shelves and drawers</unittitle>
-							<container type="box">2</container>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>11</unitid>
-							<unittitle>P12a-b, not dated, photos of Steve and John or John and
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>7</unitid>
+              <unittitle>P8, not dated, photo of Albert McCall</unittitle>
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>8</unitid>
+              <unittitle>P9a-e, not dated, photos of the Minnesota River</unittitle>
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>9</unitid>
+              <unittitle>P10, not dated, photo of desk lamp</unittitle>
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>10</unitid>
+              <unittitle>P11, not dated, photo of nook shelves and drawers</unittitle>
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>11</unitid>
+              <unittitle>P12a-b, not dated, photos of Steve and John or John and
 								Steve</unittitle>
-							<container type="box">2</container>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>12</unitid>
-							<unittitle>P13, not dated, photo of William and his youngest
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>12</unitid>
+              <unittitle>P13, not dated, photo of William and his youngest
 								girl</unittitle>
-							<container type="box">2</container>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>13</unitid>
-							<unittitle>P14, not dated, photo of Lockhead in hanger</unittitle>
-							<container type="box">2</container>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>14</unitid>
-							<unittitle>P15, not dated, photo of an airplane used for mail service on
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>13</unitid>
+              <unittitle>P14, not dated, photo of Lockhead in hanger</unittitle>
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>14</unitid>
+              <unittitle>P15, not dated, photo of an airplane used for mail service on
 								the field with a bi-plane beside it</unittitle>
-							<container type="box">2</container>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>15</unitid>
-							<unittitle>P16, March 21, 1898, photo of Melvin at the age of 19
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>15</unitid>
+              <unittitle>P16, March 21, 1898, photo of Melvin at the age of 19
 								years</unittitle>
-							<container type="box">2</container>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>16</unitid>
-							<unittitle>P17, 1921, picture of Mabel Jackson addressed to
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>16</unitid>
+              <unittitle>P17, 1921, picture of Mabel Jackson addressed to
 								Orin</unittitle>
-							<container type="box">2</container>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>17</unitid>
-							<unittitle>P19, July 31, 1899, photo of dog Bingo and Jim</unittitle>
-							<container type="box">2</container>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>18</unitid>
-							<unittitle>P20, March 2, 1899, Mrs. Frank Rogers</unittitle>
-							<container type="box">2</container>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>19</unitid>
-							<unittitle>P21, June 4, 1899, Family Portrait</unittitle>
-							<container type="box">2</container>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>20</unitid>
-							<unittitle>P22, September 1898, photo of Flora McCall at the age of
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>17</unitid>
+              <unittitle>P19, July 31, 1899, photo of dog Bingo and Jim</unittitle>
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>18</unitid>
+              <unittitle>P20, March 2, 1899, Mrs. Frank Rogers</unittitle>
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>19</unitid>
+              <unittitle>P21, June 4, 1899, Family Portrait</unittitle>
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>20</unitid>
+              <unittitle>P22, September 1898, photo of Flora McCall at the age of
 								15</unittitle>
-							<container type="box">2</container>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>21</unitid>
-							<unittitle>P23, November 9, 1901, photo oh Jennie Henderson (mother) on
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>21</unitid>
+              <unittitle>P23, November 9, 1901, photo oh Jennie Henderson (mother) on
 								her 45th birthday</unittitle>
-							<container type="box">2</container>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>22</unitid>
-							<unittitle>P24, May 30, 1900, Bishop Rogers</unittitle>
-							<container type="box">2</container>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>23</unitid>
-							<unittitle>P25, September 1901, photo taken in Hamilton,
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>22</unitid>
+              <unittitle>P24, May 30, 1900, Bishop Rogers</unittitle>
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>23</unitid>
+              <unittitle>P25, September 1901, photo taken in Hamilton,
 								Minn.</unittitle>
-							<container type="box">2</container>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>24</unitid>
-							<unittitle>P26, April 1, 1899, Fred J. Fowler</unittitle>
-							<container type="box">2</container>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>25</unitid>
-							<unittitle>P27, not dated, photo of Billy and his sister (Irish
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>24</unitid>
+              <unittitle>P26, April 1, 1899, Fred J. Fowler</unittitle>
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>25</unitid>
+              <unittitle>P27, not dated, photo of Billy and his sister (Irish
 								neighbors)</unittitle>
-							<container type="box">2</container>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>26</unitid>
-							<unittitle>P28, May 10, 1908, photo of Dr Henrie Lysne</unittitle>
-							<container type="box">2</container>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>27</unitid>
-							<unittitle>P29, not dated, photo of Mery Youngs Plane</unittitle>
-							<container type="box">2</container>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>28</unitid>
-							<unittitle>P30, not dated, John’s friend Margaret in front of
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>26</unitid>
+              <unittitle>P28, May 10, 1908, photo of Dr Henrie Lysne</unittitle>
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>27</unitid>
+              <unittitle>P29, not dated, photo of Mery Youngs Plane</unittitle>
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>28</unitid>
+              <unittitle>P30, not dated, John’s friend Margaret in front of
 								Lockhead</unittitle>
-							<container type="box">2</container>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>29</unitid>
-							<unittitle>P32, August 11, 1899, photo of May Clark and Chas. Henderson
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>29</unitid>
+              <unittitle>P32, August 11, 1899, photo of May Clark and Chas. Henderson
 								on the carriage road near the house</unittitle>
-							<container type="box">2</container>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>30</unitid>
-							<unittitle>89A, December 25, 1941, to Andrew and Edson from Ruth a
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>30</unitid>
+              <unittitle>89A, December 25, 1941, to Andrew and Edson from Ruth a
 								homemade Christmas card with a few family photos inside</unittitle>
-							<container type="box">2</container>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>31</unitid>
-							<unittitle>89B, December 25, 1941, to Andrew and Edson from Ruth a
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>31</unitid>
+              <unittitle>89B, December 25, 1941, to Andrew and Edson from Ruth a
 								homemade Christmas card with a few family photos inside</unittitle>
-							<container type="box">2</container>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<unitid>32</unitid>
-							<unittitle>December 1879, Jennie Belle Henderson age 9
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitid>32</unitid>
+              <unittitle>December 1879, Jennie Belle Henderson age 9
 								months</unittitle>
-							<container type="box">2</container>
-						</did>
-					</c03>
-				</c02>
-			</c01>
-
-			<c01 level="series">
-				<did>
-					<unitid>2</unitid>
-					<unittitle>2. Additional Materials not identified in the inventory by Brother
+              <container type="box">2</container>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unitid>2</unitid>
+          <unittitle>2. Additional Materials not identified in the inventory by Brother
 						Weiss</unittitle>
-					<physdesc>
-						<extent type="boxes">Box: 3</extent>
-						<extent type="folders">Folders: 17 - 26</extent>
-					</physdesc>
-				</did>
-				<scopecontent>
-					<p>Series contains letters, contracts, and photographs not numbered for the
+          <physdesc>
+            <extent type="boxes">Box: 3</extent>
+            <extent type="folders">Folders: 17 - 26</extent>
+          </physdesc>
+        </did>
+        <scopecontent>
+          <p>Series contains letters, contracts, and photographs not numbered for the
 						inventory by Brother Weiss. </p>
-					<arrangement>
-						<p>By Subject</p>
-					</arrangement>
-				</scopecontent>
-				<c02 level="file">
-					<did>
-						<container type="folder">17</container>
-						<unittitle>Correspondence not numbered for inventory</unittitle>
-						<container type="box">3</container>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container type="folder">18</container>
-						<unittitle>Newspaper clippings not numbered for inventory</unittitle>
-						<container type="box">3</container>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container type="folder">19</container>
-						<unittitle>Newspaper clippings on local historical sites not numbered for
+        </scopecontent>
+        <arrangement>
+          <p>By Subject</p>
+        </arrangement>
+        <c02 level="file">
+          <did>
+            <container type="folder">17</container>
+            <unittitle>Correspondence not numbered for inventory</unittitle>
+            <container type="box">3</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">18</container>
+            <unittitle>Newspaper clippings not numbered for inventory</unittitle>
+            <container type="box">3</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">19</container>
+            <unittitle>Newspaper clippings on local historical sites not numbered for
 							inventory</unittitle>
-						<container type="box">3</container>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container type="folder">20</container>
-						<unittitle>Notebook for Jennie Henderson not numbered for
+            <container type="box">3</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">20</container>
+            <unittitle>Notebook for Jennie Henderson not numbered for
 							inventory</unittitle>
-						<container type="box">3</container>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container type="folder">21</container>
-						<unittitle>Newspaper clippings on Marist College not numbered for
+            <container type="box">3</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">21</container>
+            <unittitle>Newspaper clippings on Marist College not numbered for
 							inventory</unittitle>
-						<container type="box">3</container>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container type="folder">22</container>
-						<unittitle>Unidentified photographs</unittitle>
-						<container type="box">3</container>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container type="folder">23</container>
-						<unittitle>Unidentified Miscellaneous family photos</unittitle>
-						<container type="box">3</container>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container type="folder">24</container>
-						<unittitle>Unidentified Tin Types</unittitle>
-						<container type="box">3</container>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container type="folder">25</container>
-						<unittitle>Unidentified black and white portraits</unittitle>
-						<container type="box">3</container>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container type="folder">26</container>
-						<unittitle>Miscellaneous Black and White Photos (small, 2x2 -
+            <container type="box">3</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">22</container>
+            <unittitle>Unidentified photographs</unittitle>
+            <container type="box">3</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">23</container>
+            <unittitle>Unidentified Miscellaneous family photos</unittitle>
+            <container type="box">3</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">24</container>
+            <unittitle>Unidentified Tin Types</unittitle>
+            <container type="box">3</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">25</container>
+            <unittitle>Unidentified black and white portraits</unittitle>
+            <container type="box">3</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">26</container>
+            <unittitle>Miscellaneous Black and White Photos (small, 2x2 -
 							2x4)</unittitle>
-						<container type="box">3</container>
-					</did>
-				</c02>
-			</c01>
-			<c01 level="series">
-				<did>
-					<unitid>3</unitid>
-					<unittitle>3. Appendix</unittitle>
-					<dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88686" xlink:title="Appendix for Brother Gerard Matthew Weiss Collection" xlink:actuate="onRequest" xlink:show="new"/>
-					
-
-					<!--https://maristarchives.catalogaccess.com/archives/88686-->
-				</did>
-			</c01>
-		</dsc>
-	</archdesc>
+            <container type="box">3</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unitid>3</unitid>
+          <unittitle>3. Appendix</unittitle>
+          <dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maristarchives.catalogaccess.com/archives/88686" xlink:title="Appendix for Brother Gerard Matthew Weiss Collection" xlink:actuate="onRequest" xlink:show="new"/>
+          <!--https://maristarchives.catalogaccess.com/archives/88686-->
+        </did>
+      </c01>
+    </dsc>
+  </archdesc>
 </ead>

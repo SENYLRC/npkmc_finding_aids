@@ -1,297 +1,298 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
 <ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:isbn:1-931666-22-9" xmlns:ns2="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
-	<!-- Header Portion of EAD -->
-	<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
-		<eadid countrycode="US" mainagencycode="US-NPkMC" url="http://www.marist.edu">npkmc_224_066</eadid>
-		<filedesc>
-			<titlestmt>
-				<titleproper>Thomas Steininger Collection</titleproper>
-				<author>Ashley Polašèk <![CDATA[&]]> John Ansley, PhD, 2005; Finding Aid Encoded by:
+  <!-- Header Portion of EAD -->
+  <eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+    <eadid countrycode="US" mainagencycode="US-NPkMC" url="http://www.marist.edu">npkmc_224_066</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Thomas Steininger Collection</titleproper>
+        <author>Ashley Polašèk <![CDATA[&amp;]]> John Ansley, PhD, 2005; Finding Aid Encoded by:
 					Monish M. Singh, 2006; Finding Aid Encoding updated by: Connor Johnson,
 					2022</author>
-			</titlestmt>
-			<publicationstmt>
-				<publisher>Marist College <lb/>Archives and Special Collections </publisher>
-				<address>
-					<addressline>3399 North Road <lb/>Poughkeepsie, NY 12601 <lb/>Phone:
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Marist College <lb/>Archives and Special Collections </publisher>
+        <address>
+          <addressline>3399 North Road <lb/>Poughkeepsie, NY 12601 <lb/>Phone:
 						845-575-5217 <lb/>Fax: 845-575-3150 Email:
 						library.archives@marist.edu<lb/>Website:
 						https://archives.marist.edu/</addressline>
-				</address>
-				<date type="publication" normal="2007-01">January 2007</date>
-			</publicationstmt>
-		</filedesc>
-		<profiledesc>
-			<creation>Monish M. Singh <date>2006</date>
+        </address>
+        <date type="publication" normal="2007-01">January 2007</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Monish M. Singh <date>2006</date>
 			</creation>
-			<langusage> Finding aid written in <language langcode="eng">English.</language>
+      <langusage> Finding aid written in <language langcode="eng">English.</language>
 			</langusage>
-			<descrules><abbr>DACS</abbr>Describing Archives: A Content Standard. Chicago: Society of
+      <descrules><abbr>DACS</abbr>Describing Archives: A Content Standard. Chicago: Society of
 				American Archivists, 2013.</descrules>
-		</profiledesc>
-		<revisiondesc>
-			<list>
-				<item>April 2022, EAD updated by Connor Johnson</item>
-			</list>
-		</revisiondesc>
-	</eadheader>
-	<!-- Archival Description portion of EAD -->
-	<archdesc level="collection">
-		<did>
-			<unittitle>Thomas Steininger Collection</unittitle>
-			<unitid countrycode="US" repositorycode="US-NPkMC">NPkMC-224-066</unitid>
-			<unitdate type="inclusive" normal="1937/1966">1937 - 1966</unitdate>
-			<physdesc>
-				<extent type="size">0.75 Linear Feet</extent>
-			</physdesc>
-			<repository>
-				<corpname>Marist College Archives and Special Collections</corpname>
-			</repository>
-			<origination label="creator"><persname>Thomas Steininger</persname></origination>
-			<abstract>This collection contains various mementos collected by Thomas Steininger
+    </profiledesc>
+    <revisiondesc>
+      <list>
+        <item>April 2022, EAD updated by Connor Johnson</item>
+      </list>
+    </revisiondesc>
+  </eadheader>
+  <!-- Archival Description portion of EAD -->
+  <archdesc level="collection">
+    <did>
+      <unittitle>Thomas Steininger Collection</unittitle>
+      <unitid countrycode="US" repositorycode="US-NPkMC">NPkMC-224-066</unitid>
+      <unitdate type="inclusive" normal="1937/1966">1937 - 1966</unitdate>
+      <physdesc>
+        <extent type="size">0.75 Linear Feet</extent>
+      </physdesc>
+      <repository>
+        <corpname>Marist College Archives and Special Collections</corpname>
+      </repository>
+      <origination label="creator">
+        <persname>Thomas Steininger</persname>
+      </origination>
+      <abstract>This collection contains various mementos collected by Thomas Steininger
 				throughout his years with the Marist Brothers in St. Ann’s Hermitage. Included in
 				the collection are pamphlets, letters and various religious mementos from the Marist
 				Brothers.</abstract>
-			<langmaterial>
-				<language langcode="eng">English</language>
-			</langmaterial>
-		</did>
-		<scopecontent>
-			<head>Collection Overview</head>
-			<p>The Thomas Steininger collection contains Bulletins of Studies from St. Ann’s
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+    </did>
+    <scopecontent>
+      <head>Collection Overview</head>
+      <p>The Thomas Steininger collection contains Bulletins of Studies from St. Ann’s
 				Hermitage, holy pictures and mementos of the Marist Brothers, post cards, playbills
 				and programs from St. Ann’s Hermitage, prayer books, retreat notes and various other
 				mementos from Thomas Steininger’s years with the Marist Brothers.</p>
-		</scopecontent>
-		<acqinfo>
-			<p>The collection was donated to Marist College from Jo Steininger, widow of the late
+    </scopecontent>
+    <acqinfo>
+      <p>The collection was donated to Marist College from Jo Steininger, widow of the late
 				Thomas Steininger.</p>
-		</acqinfo>
-		<bioghist encodinganalog="545">
-			<head>Historical Note</head>
-			<p>The late Brother Thomas Steininger studied with the Marist Brothers starting in 1937,
+    </acqinfo>
+    <bioghist encodinganalog="545">
+      <head>Historical Note</head>
+      <p>The late Brother Thomas Steininger studied with the Marist Brothers starting in 1937,
 				and continued for about eight years. He attended the retreat of 1940, where he took
 				extensive notes. Thomas Steininger also participated in programs at St. Ann’s
 				Hermitage, such as the “Musicale” in honor of Saint Cecilia, where he played the
 				piano in the orchestral accompaniment. </p>
-		</bioghist>
-		<accessrestrict>
-			<p>No Restrictions</p>
-		</accessrestrict>
-		<arrangement>
-			<head>Arrangement of the Collection</head>
-			<p>These records are organized into two series: Series 1. Material on Marist Brothershas
-				one subseries, 2. Personal Possessions of Thomas Steininger has one subserie </p>
-		</arrangement>
-		<userestrict>
-			<head>Notice of Copyright</head>
-			<p>Individuals requesting reproductions expressly assume the responsibility for
+    </bioghist>
+    <accessrestrict>
+      <p>There are no restrictions on this collection</p>
+    </accessrestrict>
+    <arrangement>
+      <head>Arrangement of the Collection</head>
+      <p>These records are organized into two series: 1. Material on Marist Brothers and 2. Personal Possessions of Thomas Steininger</p>
+      <p>The series are arranged by subject</p>
+    </arrangement>
+    <userestrict>
+      <head>Notice of Copyright</head>
+      <p>Individuals requesting reproductions expressly assume the responsibility for
 				compliance with all pertinent provisions of the Copyright Act, 17 U.S.C. ss101 et
 				seq. Patrons further agree to indemnify and hold harmless the Marist College
 				Archives and Special Collections and its staff in connection with any disputes
 				arising from the Copyright Act, over the reproduction of material at the request of
 				patrons. For more information please visit the following website:
 				http://www.loc.gov/copyright/title17/.</p>
-		</userestrict>
-		<prefercite>
-			<head>Preferred Citation</head>
-			<p>[Description of item, date, location of item in order of series, box number, folder
-				number ], in The Thomas Steininger Collection, Archives and Special Collections,
+    </userestrict>
+    <prefercite>
+      <head>Preferred Citation</head>
+      <p>[Description of item, date, location of item in order of series, box number, folder
+				number ], in the Thomas Steininger Collection, Archives and Special Collections,
 				James A. Cannavino Library, Marist College.</p>
-			<p>The series are arranged by subject</p>
-		</prefercite>
-		<dsc type="combined">
-			<c01 level="series">
-				<did>
-					<unitid>1</unitid>
-					<unittitle>Material on Marist Brothers</unittitle>
-					<physdesc>
-						<extent type="size">0.25 Linear Feet</extent>
-						<extent type="boxes">Box: 1</extent>
-						<extent type="folders">Folders: 1 - 10</extent>
-					</physdesc>
-				</did>
-				<arrangement>
-					<p>By subject</p>
-				</arrangement>
-				<c02 level="file">
-					<did>
-						<container type="folder">1</container>
-						<unittitle>Stella Maris</unittitle>
-						<container type="box">1</container>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container type="folder">2</container>
-						<unittitle>Bulletin of Studies</unittitle>
-						<container type="box">1</container>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container type="folder">3</container>
-						<unittitle>Holy pictures and mementos of Marist Brothers</unittitle>
-						<container type="box">1</container>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container type="folder">4</container>
-						<unittitle>Memento Cards</unittitle>
-						<container type="box">1</container>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container type="folder">5</container>
-						<unittitle>Post cards</unittitle>
-						<container type="box">1</container>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container type="folder">6</container>
-						<unittitle>Principles of Christian and Religious Perfection</unittitle>
-						<container type="box">1</container>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container type="folder">7</container>
-						<unittitle>Marcellin Champagnat pamphlet</unittitle>
-						<container type="box">1</container>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container type="folder">8</container>
-						<unittitle>Playbills and programs</unittitle>
-						<container type="box">1</container>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container type="folder">9</container>
-						<unittitle>The Decade: 1946 Central Catholic High School
+    </prefercite>
+    <dsc type="combined">
+      <c01 level="series">
+        <did>
+          <unitid>1</unitid>
+          <unittitle>1. Material on Marist Brothers</unittitle>
+          <physdesc>
+            <extent type="size">0.25 Linear Feet</extent>
+            <extent type="boxes">Box: 1</extent>
+            <extent type="folders">Folders: 1 - 10</extent>
+          </physdesc>
+        </did>
+        <arrangement>
+          <p>By subject</p>
+        </arrangement>
+        <c02 level="file">
+          <did>
+            <container type="folder">1</container>
+            <unittitle>Stella Maris</unittitle>
+            <container type="box">1</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">2</container>
+            <unittitle>Bulletin of Studies</unittitle>
+            <container type="box">1</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">3</container>
+            <unittitle>Holy pictures and mementos of Marist Brothers</unittitle>
+            <container type="box">1</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">4</container>
+            <unittitle>Memento Cards</unittitle>
+            <container type="box">1</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">5</container>
+            <unittitle>Post cards</unittitle>
+            <container type="box">1</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">6</container>
+            <unittitle>Principles of Christian and Religious Perfection</unittitle>
+            <container type="box">1</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">7</container>
+            <unittitle>Marcellin Champagnat pamphlet</unittitle>
+            <container type="box">1</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">8</container>
+            <unittitle>Playbills and programs</unittitle>
+            <container type="box">1</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">9</container>
+            <unittitle>The Decade: 1946 Central Catholic High School
 							yearbook</unittitle>
-						<container type="box">1</container>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container type="folder">10</container>
-						<unittitle>Marist College catalog</unittitle>
-						<container type="box">1</container>
-					</did>
-				</c02>
-			</c01>
-			<c01 level="series">
-				<did>
-					<unitid>2</unitid>
-					<unittitle>2. Personal Possessions of Thomas Steininger</unittitle>
-					<physdesc>
-						<extent type="size">0.5 Linear Feet</extent>
-						<extent type="boxes">Box: 2</extent>
-						<extent type="folders">Folders: 11 - 23</extent>
-					</physdesc>
-				</did>
-				<arrangement>
-					<p>By subject</p>
-				</arrangement>
-				<c02 level="file">
-					<did>
-						<container type="folder">11</container>
-						<unittitle>Letters to parents</unittitle>
-						<container type="box">2</container>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container type="folder">12</container>
-						<unittitle>1940 Retreat notes</unittitle>
-						<container type="box">2</container>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container type="folder">13</container>
-						<unittitle>Photos</unittitle>
-						<container type="box">2</container>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container type="folder">14</container>
-						<unittitle>Prayer books</unittitle>
-						<container type="box">2</container>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container type="folder">15</container>
-						<unittitle>Misc. papers</unittitle>
-						<container type="box">2</container>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container type="folder">16</container>
-						<unittitle>Cardinal Mercier pamphlet</unittitle>
-						<container type="box">2</container>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container type="folder">17</container>
-						<unittitle>Crucifix</unittitle>
-						<container type="box">2</container>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container type="folder">18</container>
-						<unittitle>Holy water vial</unittitle>
-						<container type="box">2</container>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container type="folder">19</container>
-						<unittitle>Rosary</unittitle>
-						<container type="box">2</container>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container type="folder">20</container>
-						<unittitle>Box of crucifixes, pins and religious items</unittitle>
-						<container type="box">2</container>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container type="folder">21</container>
-						<unittitle>Box with crucifix</unittitle>
-						<container type="box">2</container>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container type="folder">22</container>
-						<unittitle>Cardinal collar</unittitle>
-						<container type="box">2</container>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container type="folder">23</container>
-						<unittitle>Rope cincture</unittitle>
-						<container type="box">2</container>
-					</did>
-				</c02>
-			</c01>
-		</dsc>
-	</archdesc>
+            <container type="box">1</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">10</container>
+            <unittitle>Marist College catalog</unittitle>
+            <container type="box">1</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unitid>2</unitid>
+          <unittitle>2. Personal Possessions of Thomas Steininger</unittitle>
+          <physdesc>
+            <extent type="size">0.5 Linear Feet</extent>
+            <extent type="boxes">Box: 2</extent>
+            <extent type="folders">Folders: 11 - 23</extent>
+          </physdesc>
+        </did>
+        <arrangement>
+          <p>By subject</p>
+        </arrangement>
+        <c02 level="file">
+          <did>
+            <container type="folder">11</container>
+            <unittitle>Letters to parents</unittitle>
+            <container type="box">2</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">12</container>
+            <unittitle>1940 Retreat notes</unittitle>
+            <container type="box">2</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">13</container>
+            <unittitle>Photos</unittitle>
+            <container type="box">2</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">14</container>
+            <unittitle>Prayer books</unittitle>
+            <container type="box">2</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">15</container>
+            <unittitle>Misc. papers</unittitle>
+            <container type="box">2</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">16</container>
+            <unittitle>Cardinal Mercier pamphlet</unittitle>
+            <container type="box">2</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">17</container>
+            <unittitle>Crucifix</unittitle>
+            <container type="box">2</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">18</container>
+            <unittitle>Holy water vial</unittitle>
+            <container type="box">2</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">19</container>
+            <unittitle>Rosary</unittitle>
+            <container type="box">2</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">20</container>
+            <unittitle>Box of crucifixes, pins and religious items</unittitle>
+            <container type="box">2</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">21</container>
+            <unittitle>Box with crucifix</unittitle>
+            <container type="box">2</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">22</container>
+            <unittitle>Cardinal collar</unittitle>
+            <container type="box">2</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">23</container>
+            <unittitle>Rope cincture</unittitle>
+            <container type="box">2</container>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
 </ead>

@@ -1,0 +1,2678 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--https://www.loc.gov/ead/ead.xsd-->
+<ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:isbn:1-931666-22-9" xmlns:ns2="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
+  <!--Header portion of EAD -->
+  <eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+    <eadid countrycode="US" mainagencycode="US-NPkMC" url="http://www.marist.edu">npkmc_0234_061</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Mitchell Stephens Papers</titleproper>
+        <author>Processed by: Autumn Holladay, MLIS, 2023; Finding Aid Encoded by: Autumn Holladay, 2023.
+          </author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Marist College <lb/>Archives and Special Collections </publisher>
+        <address>
+          <addressline>3399 North Road <lb/>Poughkeepsie, NY 12601 <lb/>Phone: 845-575-5217
+            <lb/>Fax: 845-575-3150 <lb/>Email: library.archives@marist.edu<lb/>Website:
+            https://archives.marist.edu/</addressline>
+        </address>
+        <date type="publication" normal="2023-04-06">April 6, 2023</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Autumn Holladay <date normal="2023-04-06">April 6, 2023</date>
+      </creation>
+      <langusage>Finding aid written in <language langcode="eng" scriptcode="Latn">English</language></langusage>
+      <descrules><abbr>DACS</abbr>Describing Archives: A Content Standard. Chicago: Society of
+        American Archivists, 2013.</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <head>Descriptive Summary</head>
+      <unittitle label="title">Mitchell Stephens Papers</unittitle>
+      <unitdate type="inclusive" normal="1936/2022">1936 - 2022</unitdate>
+      <!--added in a persname for the creator information -->
+      <origination label="creator">
+        <persname>Mitchell Stephens</persname>
+      </origination>
+      <!--added in collection number -->
+      <unitid countrycode="US" repositorycode="US-NpkMC">npkmc-234-061</unitid>
+      <physdesc>
+        <extent>6.25 Linear Feet</extent>
+        <extent>15 Boxes</extent>
+        <extent>269 Folders</extent>
+      </physdesc>
+      <langmaterial>
+        <language>Material is in English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Marist College <lb/>Archives and Special Collections </corpname>
+      </repository>
+      <abstract> Published in 2017, The Voice of America: Lowell Thomas and the Invention of 20th Century Journalism by Mitchell Stephens is the first completed biography ever written on Lowell Thomas, an innovative journalist of the 20th century. The Mitchell Stephens Papers Collection includes research materials and drafts for the biography.</abstract>
+      <physloc>Please contact the Marist College Archives and Special Collections for information
+        regarding use and access of this collection.</physloc>
+    </did>
+    <!--description looks realy good! I added two small things in (see comments above). But everything looks really good and is well described!-->
+    <acqinfo>
+      <head>Acquisitions Information</head>
+      <!--missing Acquisitions information. Mitch donated the collection to ASC in December 2022. -->
+      <p>Collection was donated to Marist College Archives and Special Collections by Mitchell Stephens on December 1, 2022.</p>
+    </acqinfo>
+    <accruals>
+      <head>Accruals Information</head>
+      <p>No accruals are expected.</p>
+    </accruals>
+    <accessrestrict>
+      <head>Restrictions to Access</head>
+      <p>There are no restrictions on this collection.</p>
+    </accessrestrict>
+    <phystech>
+      <head>Physical Access Restriction</head>
+      <p>Collection contains digital materials on a USB external hard drive which must be accessed with a computer.</p>
+    </phystech>
+    <userestrict>
+      <head>Notice of Copyright</head>
+      <p>Individuals requesting reproductions expressly assume the responsibility for compliance
+        with all pertinent provisions of the Copyright Act, 17 U.S.C. ss101 et seq. Patrons further
+        agree to indemnify and hold harmless the Marist College Archives and Special Collections and
+        its staff in connection with any disputes arising from the Copyright Act, over the
+        reproduction of material at the request of patrons. For more information please visit the
+        following website: http://www.loc.gov/copyright/title17/.</p>
+    </userestrict>
+    <prefercite>
+      <head>Preferred Citation</head>
+      <p>[Description of item, date, location of item in order of series, box number, folder number
+        ], in the Mitchell Stephens Papers, Archives and Special Collections, James A. Cannavino Library,
+        Marist College.</p>
+    </prefercite>
+    <!--<relatedmaterial>
+      <head>Related Collections</head>
+      <!-\-Fred Crawford Papers-\->
+      <p><extref href="https://www.empireadc.org/search/catalog/npkmc_222_218"></extref></p>
+      <!-\-Lowell Thomas Papers: Textual Materials, 1789 - 1984-\->
+      <p><extref href="https://www.empireadc.org/search/catalog/npkmc_225_061"></extref></p>
+    </relatedmaterial>-->
+    <bioghist>
+      <head>Historical Note</head>
+      <p>Mitchell Stephens was born on August 16, 1949 in New York City. Stephens is a NYU Professor of Journalism and Mass Communication and author of numerous articles and 8 books including The New York Times "Notable Book of the Year,” A History of News. Before working on The Voice of America, Mitchell Stephens was interviewed by director Richard Moulton on a documentary he was doing on Lowell Thomas. Mitchell Stephens would work with Moulton again on the documentary Voice of America: Lowell Thomas and the Rise of Broadcast News (2019) in which Anne T. Donaghy, the granddaughter of Lowell Thomas, was an executive producer. While conducting projects with Richard Moulton, Mitchell Stephens began researching and writing The Voice of America. Stephens began researching and drafting the Lowell Thomas biography in 2014. While researching for the Lowell Thomas biography, Mitchell Stephens traveled to Ohio, Colorado, Yukon, Alaska and many of the same places Lowell Thomas visited and reported. Although Stephens did not read the manuscript drafts, he would consult the outline of the unfinished Lowell Thomas biography by Fred Crawford as the basis for his own book. Stephens would also consult many original materials including journals, travelogues, correspondences, photographs, and footage within the Lowell Thomas Collection at the Archives and Special Collections at Marist College.</p>
+    </bioghist>
+    <arrangement>
+      <head>Arrangement of the Collection</head>
+      <p>These records are organized into 6 series: 1) Manuscript Drafts, 2) Research Materials,  2.1) Chapter 1. A Portrait of the Journalist as a Young Cowboy, 2.2) Chapter 2. Two Scoops in Chicago, 2.3) Chapter 3. See America First, 2.4) Chapter 4. Too Good to Be True 2.5) Chapter 5. Something More Colossal Than Anything of its Kind Ever Tried, 2.6) Chapter 6. A Blue-Eyed, Beardless Man in Arab Robes, 2.7) Chapter 7. Come with Me to the Land of History, Mystery and Romance, 2.8) Chapter 8. How Dull It Is to Pause 2.9) Chapter 9. Having the Ear of America, 2.10) Chapter 10. The Voice of God, 2.11) Chapter 11. Catching Up with the War, 2.12) Chapter 12. The Very Roof of the World, 2.13) Chapter 13. An Entirely New Form of Entertainment, 2.15) Chapter 14. To Strive, To Seek, To Find and Not to Yield, 2.15) Additional Materials, 3) Correspondence, 4) Maps, 5) Photographs, 6) Digital Materials, 6.1) Manuscripts and Research Materials, 6.2) Lowell Thomas Photographs from Richard Moulton.</p>
+    </arrangement>
+    <scopecontent>
+      <!-- missing scope and content note-->
+      <head>Collection Overview</head>
+      <p>This collection consists of materials created or saved by Mitchell Stephens, including his manuscript drafts and notes for The Voice of America: Lowell Thomas and the Invention of 20th Century Journalism, as well as articles on journalism and communication. Much of the collection consists of copies from the Lowell Thomas Collection at Marist College that have been annotated by Stephens. The collection also includes correspondence between Stephens and Richard Moulton and Anne T. Donaghy.</p>
+    </scopecontent>
+    <dsc type="combined">
+      <head>Deatiled Description of the Collection</head>
+      <c01 level="series">
+        <did>
+          <unitid>1.</unitid>
+          <unittitle>1. Manuscript Drafts </unittitle>
+          <unitdate normal="2014/2016">2014-2016</unitdate>
+          <physdesc>
+            <extent type="size">About 1.67 linear feet</extent>
+            <extent type="boxes">Boxes: 1 - 4</extent>
+            <extent type="folders">Folders: 78</extent>
+          </physdesc>
+        </did>
+        <scopecontent>
+          <p>Series contains chapter drafts, notes, and corrections of the The Voice of America: Lowell Thomas and the Invention of the 20th- Century Journalism. </p>
+        </scopecontent>
+        <arrangement>
+          <p>Each chapter draft has been placed in its own folder and organized by the order of chapters as it appears in the book then chronologically by date. Discarded chapters or those with different titles are placed at the end. The folder titles correspond with the headers of each document which have the chapter number and title. Sometimes the chapter numbers change between drafts. The series also contains fact checks and corrections of chapters. The three notebooks are titled by the style and brand of the book as they were not given a title by Mitchell Stephens.</p>
+        </arrangement>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">1</container>
+            <unittitle>Prologue</unittitle>
+            <unitdate normal="2014-10-30">October 30, 2014</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">2</container>
+            <unittitle>Prologue</unittitle>
+            <unitdate normal="2014-10-30">October 30, 2014</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">3</container>
+            <unittitle>Prologue and 1. A Portrait of the Journalist</unittitle>
+            <unitdate normal="2014-10-30">October 30, 2014</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">4</container>
+            <unittitle>Prologue</unittitle>
+            <unitdate normal="2015-03-22">March 22, 2015</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">5</container>
+            <unittitle>Prologue and 1. A Portrait of the Journalist</unittitle>
+            <unitdate normal="2015-03-25">March, 25, 2015</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">6</container>
+            <unittitle>Prologue</unittitle>
+            <unitdate normal="2015-03-31">March 31, 2015</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">7</container>
+            <unittitle>2. Two Scoops in Chicago</unittitle>
+            <unitdate normal="2014-07-27">July 27, 2014</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">8</container>
+            <unittitle>2. Two Scoops in Chicago</unittitle>
+            <unitdate normal="2015-03-28">March 28, 2015</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">9</container>
+            <unittitle>3. "See America First"</unittitle>
+            <unitdate normal="2014-07-27">July 27, 2014</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">10</container>
+            <unittitle>3. "See America First"</unittitle>
+            <unitdate normal="2014-07-27">July 27, 2014</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">11</container>
+            <unittitle>3. "See America First"</unittitle>
+            <unitdate normal="2014-07-27">July 27, 2007</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">12</container>
+            <unittitle>3. "See America First"</unittitle>
+            <unitdate normal="2015-03-28">March 28, 2015</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">13</container>
+            <unittitle>4. Too Good to Be True</unittitle>
+            <unitdate normal="2014-08-14">August 14, 2014</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">14</container>
+            <unittitle>4. Too Good to Be True</unittitle>
+            <unitdate normal="2014-08-14">August 14, 2014</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">15</container>
+            <unittitle>4. Too Good to Be True</unittitle>
+            <unitdate normal="2014-08-14">August 14, 2014</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">16</container>
+            <unittitle>4. Too Good to Be True</unittitle>
+            <unitdate normal="2014-08-14">August 14, 2014</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">17</container>
+            <unittitle>4. Too Good to Be True</unittitle>
+            <unitdate normal="2014-08-14">August 14, 2014</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">18</container>
+            <unittitle>4. Too Good to Be True</unittitle>
+            <unitdate normal="2014-08-14">August 14, 2014</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">19</container>
+            <unittitle>4. Too Good to Be True</unittitle>
+            <unitdate normal="2014-08-14">August 14, 2014</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">20</container>
+            <unittitle>4. Too Good to Be True</unittitle>
+            <unitdate normal="2014-08-14">August 14, 2014</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">21</container>
+            <unittitle>4. Too Good to Be True</unittitle>
+            <unitdate normal="2014-08-14">August 14, 2014</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">22</container>
+            <unittitle>4. Too Good to Be True</unittitle>
+            <unitdate normal="2014-08-14">August 14, 2014</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">23</container>
+            <unittitle>4. Too Good to Be True</unittitle>
+            <unitdate normal="2014-08-14">August 14, 2014</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">1</container>
+            <unittitle>4. Too Good to Be True</unittitle>
+            <unitdate normal="2015-03-28">March 28, 2015</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">2</container>
+            <unittitle>4. Too Good to Be True</unittitle>
+            <unitdate>undated</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">3</container>
+            <unittitle>5. Something More Colossal Than Anything of Its Kind Ever Tried</unittitle>
+            <unitdate normal="2015-03-03">March 03, 2015</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">4</container>
+            <unittitle>5. Something More Colossal Than Anything of Its Kind Ever Tried</unittitle>
+            <unitdate normal="2015-03-29">March 29, 2015</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">5</container>
+            <unittitle>5. Something More Colossal Than Anything of Its Kind Ever Tried</unittitle>
+            <unitdate> undated</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">6</container>
+            <unittitle>6. A Blue-Eyed, Beardless Man in Arab Robes</unittitle>
+            <unitdate normal="2014-10-11">October 11, 2014</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">7</container>
+            <unittitle>5. A Blue-Eyed, Beardless Man in Arab Robes</unittitle>
+            <unitdate normal="2014-10-11">October 11, 2014</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">8</container>
+            <unittitle>5. A Blue-Eyed, Beardless Man in Arab Robes</unittitle>
+            <unitdate normal="2014-10-11">October 11, 2014</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">9</container>
+            <unittitle>5. A Blue-Eyed, Beardless Man in Arab Robes</unittitle>
+            <unitdate normal="2014-10-11">October 11, 2014</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">10</container>
+            <unittitle>6. Come with Me to the Land of History, Mystery and Romance</unittitle>
+            <unitdate normal="2015-01-17">January 17, 2015</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">11</container>
+            <unittitle>6. Come with Me to the Land of History, Mystery and Romance</unittitle>
+            <unitdate normal="2015-01-17">January 17, 2015</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">12</container>
+            <unittitle>6. Come with Me to the Land of History, Mystery and Romance</unittitle>
+            <unitdate normal="2015-01-17">January 17, 2015</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">13</container>
+            <unittitle>6. Come with Me to the Land of History, Mystery and Romance</unittitle>
+            <unitdate normal="2015-01-17">January 17, 2015</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">14</container>
+            <unittitle>7. Come with Me to the Land of History, Mystery and Romance</unittitle>
+            <unitdate normal="2015-03-29">March 29, 2015</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">15</container>
+            <unittitle>8. How Dull It Is to Pause</unittitle>
+            <unitdate normal="2016-04-11">April 11, 2016</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">16</container>
+            <unittitle>9. Having the Ear of America</unittitle>
+            <unitdate normal="2015-10-09">October 09, 2015</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">17</container>
+            <unittitle>9. Having the Ear of America</unittitle>
+            <unitdate normal="2015-12-21">December 21, 2015</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">18</container>
+            <unittitle>9. Having the Ear of America</unittitle>
+            <unitdate normal="2016-05-23">May 23, 2016</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">19</container>
+            <unittitle>9. The Voice of God</unittitle>
+            <unitdate normal="2015-08-14">August 14, 2015</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">20</container>
+            <unittitle>9. The Voice of God</unittitle>
+            <unitdate normal="2015-08-21">August 21, 2015</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">1</container>
+            <unittitle>9. The Voice of God</unittitle>
+            <unitdate normal="2015-08-21">August 21, 2015</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">2</container>
+            <unittitle>10. The Voice of God</unittitle>
+            <unitdate normal="2015-09-04">September 04, 2015</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">3</container>
+            <unittitle>10. The Voice of God</unittitle>
+            <unitdate normal="2015-10-09">October 09, 2015</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">4</container>
+            <unittitle>10. The Voice of God</unittitle>
+            <unitdate normal="2015-12-21">December 21, 2015</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">5</container>
+            <unittitle>10. The Voice of God</unittitle>
+            <unitdate normal="2016-04-15">April 04, 2015</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">6</container>
+            <unittitle>11. Catching Up with the War</unittitle>
+            <unitdate normal="2015-11-10">November 10, 2015</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">7</container>
+            <unittitle>11. Catching Up with the War</unittitle>
+            <unitdate normal="2015-11-19">November 19, 2015</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">8</container>
+            <unittitle>11. Catching Up with the War</unittitle>
+            <unitdate normal="2016-01-13">January 13, 2016</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">9</container>
+            <unittitle>11. Catching Up with the War</unittitle>
+            <unitdate normal="2016-04-26">April 26, 2016</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">10</container>
+            <unittitle>12. The Very Roof of the World</unittitle>
+            <unitdate normal="2016-01-07">January 07, 2016</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">11</container>
+            <unittitle>12. The Very Roof of the World</unittitle>
+            <unitdate normal="2016-01-13">January 13, 2016</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">12</container>
+            <unittitle>12. The Very Roof of the World</unittitle>
+            <unitdate normal="2016-01-29">January 29, 2016</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">13</container>
+            <unittitle>14. To Strive, To Seek, To Find, and Not to Yield</unittitle>
+            <unitdate normal="2016-04-25">April 25, 2016</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">14</container>
+            <unittitle>14. To Strive, To Seek, To Find, and Not to Yield</unittitle>
+            <unitdate normal="2016-05-18">May 18, 2016</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">15</container>
+            <unittitle>8. Rainbows Flying in Aeroplanes</unittitle>
+            <unitdate normal="2015-08-03">August 03, 2015</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">16</container>
+            <unittitle>8. Rainbows Flying in Aeroplanes</unittitle>
+            <unitdate normal="2016-10-09">October 09, 2016</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">17</container>
+            <unittitle>8. Rainbows Flying in Aeroplanes</unittitle>
+            <unitdate normal="2016-12-21">December 21, 2016</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">18</container>
+            <unittitle>8. Land, Sea and Air</unittitle>
+            <unitdate>undated</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">19</container>
+            <unittitle>8. Land, Sea and Air</unittitle>
+            <unitdate>undated</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">20</container>
+            <unittitle>8. Land, Sea and Air</unittitle>
+            <unitdate>undated</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">1</container>
+            <unittitle>13. High Adventure</unittitle>
+            <unitdate normal="2016-02-26">February 26, 2016</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">2</container>
+            <unittitle>Untitled</unittitle>
+            <unitdate>undated</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">3</container>
+            <unittitle>Lowell of America - first half</unittitle>
+            <unitdate normal="2015-04-02">April 02, 2015</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">4</container>
+            <unittitle>Lowell of America Draft: First Half</unittitle>
+            <unitdate normal="2015-04-05">April 05, 2015</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">5</container>
+            <unittitle>The Voice of America Style Sheet</unittitle>
+            <unitdate>undated</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">6</container>
+            <unittitle>Index</unittitle>
+            <unitdate>undated</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">7</container>
+            <unittitle>Page 11 CK (Chapter 1 Check)</unittitle>
+            <unitdate normal="2016-07-11">July 11, 2016</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">8</container>
+            <unittitle>Page 160 CK (Chapter 8 Check)</unittitle>
+            <unitdate>undated</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">9</container>
+            <unittitle>Page 205 CK (Chapter 13 Check)</unittitle>
+            <unitdate>undated</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">10</container>
+            <unittitle>Page 265 CK (Chapter 13 Check)</unittitle>
+            <unitdate normal="2016-06">June 2016</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">11</container>
+            <unittitle>Page 302 CK (Chapter 14 Check)</unittitle>
+            <unitdate normal="2016-07">July 2016</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">12</container>
+            <unittitle>Melvis Acosta (Corrections)</unittitle>
+            <unitdate>undated</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">13</container>
+            <unittitle>College Ruled Compposition Notebook</unittitle>
+            <unitdate>undated</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">14</container>
+            <unittitle>Staples Notebook</unittitle>
+            <unitdate normal="2014">2014</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">15</container>
+            <unittitle>Meade Notebook</unittitle>
+            <unitdate normal="2015">2015</unitdate>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unitid>2.</unitid>
+          <unittitle>2. Research Materials</unittitle>
+          <unitdate normal="2000">1936-2016</unitdate>
+          <physdesc>
+            <extent type="size">About 3.75 linear feet</extent>
+            <extent type="boxes">Boxes: 9</extent>
+            <extent type="folders">Folders: 179</extent>
+          </physdesc>
+        </did>
+        <scopecontent>
+          <p>This series consists of 15 subseries pertaining to materials used for research on Lowell Thomas.  The first 14 subseries coincide with the 14 chapters of the Lowell Thomas biography, The Voice of America: Lowell Thomas and the Invention of 20th Century Journalism. The last subseries consists of new research materials. Many of the materials are copies of Lowell Thomas’ journals, letters, travelogues, and articles.</p>
+        </scopecontent>
+        <arrangement>
+          <p>The subseries are arranged by chapter titles in the order they appear in The Voice of America: Lowell Thomas and the Invention of 20th Century Journalism and the folders are arranged alphabetically. Original folder titles were kept.  Items should be kept in orginal order as some pages are double sided with Stephen’s original work being front facing.</p>
+        </arrangement>
+        <c02 level="subseries">
+          <did>
+            <unitid>2.1</unitid>
+            <unittitle>Subseries 2.1: Chapter 1. A Portrait of the Journalist as a Young Cowboy</unittitle>
+            <unitdate normal="2014/2015">2014 - 2015</unitdate>
+            <physdesc>
+              <extent type="boxes">Boxes: .5</extent>
+              <extent type="folders">Folders: 13 </extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Subseries includes research materials on Lowell Thomas’ early life including information on his family and where he grew up in Victor, Colorado such as copies of: Dr. Harry G. Thomas, “Cripple Creek at the Turn of the Century,” a chapter of an unfinished memoir by Lowell Thomas’ father and a transcript of a 1951 interview between Dr. Harry Thomas and Dick Roelofs; and 1997 Victor Elks Lodge #367 100th Anniversary book.  Subseries includes History of Colorado, The Victor Record 1910-1911 on microfilm.  </p>
+          </scopecontent>
+          <arrangement>
+            <p>Alphabetical</p>
+          </arrangement>
+          <c03 level="file">
+            <did>
+              <container type="box">5</container>
+              <container type="folder">1</container>
+              <unittitle>Dr. Harry Thomas</unittitle>
+              <unitdate normal="2015">2015</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">5</container>
+              <container type="folder">2</container>
+              <unittitle>Dr. Harry Thomas</unittitle>
+              <unitdate normal="2015">2015</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">5</container>
+              <container type="folder">3</container>
+              <unittitle>Dr. Harry Thomas</unittitle>
+              <unitdate normal="2015">2015</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">5</container>
+              <container type="folder">4</container>
+              <unittitle>Dr. Harry Thomas</unittitle>
+              <unitdate normal="2015">2015</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">5</container>
+              <container type="folder">5</container>
+              <unittitle>Dr. Harry Thomas</unittitle>
+              <unitdate normal="2015">2015</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">5</container>
+              <container type="folder">6</container>
+              <unittitle>Dr. Harry Thomas</unittitle>
+              <unitdate normal="2015">2015</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">5</container>
+              <container type="folder">7</container>
+              <unittitle>Victor</unittitle>
+              <unitdate normal="2014">2014</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">5</container>
+              <container type="folder">8</container>
+              <unittitle>Victor</unittitle>
+              <unitdate normal="2014">2014</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">5</container>
+              <container type="folder">9</container>
+              <unittitle>Victor</unittitle>
+              <unitdate normal="2014">2014</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">5</container>
+              <container type="folder">10</container>
+              <unittitle>Victor</unittitle>
+              <unitdate normal="2014">2014</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">5</container>
+              <container type="folder">11</container>
+              <unittitle>Victor</unittitle>
+              <unitdate normal="2014">2014</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">5</container>
+              <container type="folder">12</container>
+              <unittitle>Victor</unittitle>
+              <unitdate normal="2014">2014</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">5</container>
+              <container type="folder">13</container>
+              <unittitle>Victor (The Victor Record Microfilm)</unittitle>
+              <unitdate>undated</unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid>2.2</unitid>
+            <unittitle>Subseries 2.2: Chapter 2. Two Scoops in Chicago</unittitle>
+            <unitdate normal="2014">2014</unitdate>
+            <physdesc>
+              <extent type="boxes">Boxes: .5</extent>
+              <extent type="folders">Folders: 10</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Series contains research on Chicago in 1915 including copies of letters between Lowell Thomas and his parents between 1915 – 1916; and copies of Lowell Thomas’ journal from 1915.</p>
+          </scopecontent>
+          <arrangement>
+            <p>Alphabetical</p>
+          </arrangement>
+          <c03 level="file">
+            <did>
+              <container type="box">5</container>
+              <container type="folder">14</container>
+              <unittitle>Chicago</unittitle>
+              <unitdate normal="2014">2014</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">5</container>
+              <container type="folder">15</container>
+              <unittitle>Chicago</unittitle>
+              <unitdate normal="2014">2014</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">5</container>
+              <container type="folder">16</container>
+              <unittitle>Chicago</unittitle>
+              <unitdate normal="2014">2014</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">5</container>
+              <container type="folder">17</container>
+              <unittitle>Chicago</unittitle>
+              <unitdate normal="2014">2014</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">5</container>
+              <container type="folder">18</container>
+              <unittitle>Chicago</unittitle>
+              <unitdate normal="2014">2014</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">5</container>
+              <container type="folder">19</container>
+              <unittitle>Chicago</unittitle>
+              <unitdate normal="2014">2014</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">6</container>
+              <container type="folder">1</container>
+              <unittitle>Journal from 1915</unittitle>
+              <unitdate>undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">6</container>
+              <container type="folder">2</container>
+              <unittitle>Journal from 1915</unittitle>
+              <unitdate>undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">6</container>
+              <container type="folder">3</container>
+              <unittitle>Parents</unittitle>
+              <unitdate>undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">6</container>
+              <container type="folder">4</container>
+              <unittitle>Parents</unittitle>
+              <unitdate>undated</unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid>2.3</unitid>
+            <unittitle>Subseries 2.3: Chapter 3. See America First</unittitle>
+            <unitdate normal="2014">2014</unitdate>
+            <physdesc>
+              <extent type="boxes">Boxes: 1</extent>
+              <extent type="folders">Folders: 21</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Series contains annotated copies of Lowell Thomas’ correspondence with his wife Frances Thomas and copies of Thomas’ journal during his early trips to Alaska. Also contains articles Stephens used as background information on Alaska.</p>
+          </scopecontent>
+          <arrangement>
+            <p>Alphabetical</p>
+          </arrangement>
+          <c03 level="file">
+            <did>
+              <container type="box">6</container>
+              <container type="folder">5</container>
+              <unittitle>Alaska</unittitle>
+              <unitdate>undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">6</container>
+              <container type="folder">6</container>
+              <unittitle>Alaska</unittitle>
+              <unitdate>undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">6</container>
+              <container type="folder">7</container>
+              <unittitle>Alaska</unittitle>
+              <unitdate>undated.</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">6</container>
+              <container type="folder">8</container>
+              <unittitle>Alaska - Dans</unittitle>
+              <unitdate normal="2014">2014</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">6</container>
+              <container type="folder">9</container>
+              <unittitle>Alaska - Dans</unittitle>
+              <unitdate normal="2014">2014</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">6</container>
+              <container type="folder">10</container>
+              <unittitle>Fran</unittitle>
+              <unitdate>undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">6</container>
+              <container type="folder">11</container>
+              <unittitle>Fran</unittitle>
+              <unitdate>undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">6</container>
+              <container type="folder">12</container>
+              <unittitle>Fran</unittitle>
+              <unitdate>undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">6</container>
+              <container type="folder">13</container>
+              <unittitle>Fran</unittitle>
+              <unitdate>undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">6</container>
+              <container type="folder">14</container>
+              <unittitle>Letters to Fran - Alaska II - Princeton</unittitle>
+              <unitdate>undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">6</container>
+              <container type="folder">15</container>
+              <unittitle>Letters to Fran - Alaska II - Princeton</unittitle>
+              <unitdate>undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">7</container>
+              <container type="folder">1</container>
+              <unittitle>Letters to Fran - Alaska II - Princeton</unittitle>
+              <unitdate>undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">7</container>
+              <container type="folder">2</container>
+              <unittitle>Letters to Fran - Alaska II - Princeton</unittitle>
+              <unitdate>undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">7</container>
+              <container type="folder">3</container>
+              <unittitle>Letters to Fran - Alaska II - Princeton</unittitle>
+              <unitdate>undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">7</container>
+              <container type="folder">4</container>
+              <unittitle>More Fran Letters</unittitle>
+              <unitdate>undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">7</container>
+              <container type="folder">5</container>
+              <unittitle>More Fran Letters</unittitle>
+              <unitdate>undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">7</container>
+              <container type="folder">6</container>
+              <unittitle>More Fran Letters</unittitle>
+              <unitdate>undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">7</container>
+              <container type="folder">7</container>
+              <unittitle>More Fran Letters</unittitle>
+              <unitdate>undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">7</container>
+              <container type="folder">8</container>
+              <unittitle>New Chicago Journal</unittitle>
+              <unitdate>undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">7</container>
+              <container type="folder">9</container>
+              <unittitle>New Chicago Journal</unittitle>
+              <unitdate>undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">7</container>
+              <container type="folder">10</container>
+              <unittitle>Untitled (Klondike Gold Rush)</unittitle>
+              <unitdate normal="2014">2014</unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid>2.4</unitid>
+            <unittitle>Subseries 2.4: Chapter 4. Too Good to Be True</unittitle>
+            <unitdate>undated</unitdate>
+            <physdesc>
+              <extent type="boxes">Boxes: .5</extent>
+              <extent type="folders">Folders: 11</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Series contains Includes annotated copies of Lowell Thomas’ journal and travelogue from 1916 to the beginning of World War I.</p>
+          </scopecontent>
+          <arrangement>
+            <p>Alphabetical</p>
+          </arrangement>
+          <c03 level="file">
+            <did>
+              <container type="box">7</container>
+              <container type="folder">11</container>
+              <unittitle>Princeton</unittitle>
+              <unitdate>undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">7</container>
+              <container type="folder">12</container>
+              <unittitle>Princeton</unittitle>
+              <unitdate>undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">7</container>
+              <container type="folder">13</container>
+              <unittitle>Princeton</unittitle>
+              <unitdate>undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">7</container>
+              <container type="folder">14</container>
+              <unittitle>Princeton</unittitle>
+              <unitdate>undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">8</container>
+              <container type="folder">1</container>
+              <unittitle>Travelogue</unittitle>
+              <unitdate>undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">8</container>
+              <container type="folder">2</container>
+              <unittitle>Travelogue</unittitle>
+              <unitdate>undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">8</container>
+              <container type="folder">3</container>
+              <unittitle>Travelogue</unittitle>
+              <unitdate>undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">8</container>
+              <container type="folder">4</container>
+              <unittitle>Travelogue</unittitle>
+              <unitdate>undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">8</container>
+              <container type="folder">5</container>
+              <unittitle>Travelogue</unittitle>
+              <unitdate>undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">8</container>
+              <container type="folder">6</container>
+              <unittitle>Travelogue</unittitle>
+              <unitdate>undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">8</container>
+              <container type="folder">7</container>
+              <unittitle>Travelogue</unittitle>
+              <unitdate>undated</unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid>2.5</unitid>
+            <unittitle>Subseries 2.5: Chapter 5. Something More Colossal Than Anything of its Kind Ever Tried (WWI)</unittitle>
+            <unitdate>undated</unitdate>
+            <physdesc>
+              <extent type="boxes">Boxes: .5</extent>
+              <extent type="folders">Folders: 7</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Series contains annotated copies of Lowell Thomas’ travelogue and journal before World War I and copies of articles on WWI and Harry Chase.</p>
+          </scopecontent>
+          <arrangement>
+            <p>Alphabetical</p>
+          </arrangement>
+          <c03 level="file">
+            <did>
+              <container type="box">8</container>
+              <container type="folder">8</container>
+              <unittitle>Europe (Before)</unittitle>
+              <unitdate>undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">8</container>
+              <container type="folder">9</container>
+              <unittitle>Europe (Before)</unittitle>
+              <unitdate>undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">8</container>
+              <container type="folder">10</container>
+              <unittitle>Europe (Before)</unittitle>
+              <unitdate>undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">8</container>
+              <container type="folder">11</container>
+              <unittitle>Europe (Before)</unittitle>
+              <unitdate>undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">8</container>
+              <container type="folder">12</container>
+              <unittitle>Harry Chase</unittitle>
+              <unitdate>undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">8</container>
+              <container type="folder">13</container>
+              <unittitle>WWI Getting Ready</unittitle>
+              <unitdate>undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">8</container>
+              <container type="folder">14</container>
+              <unittitle>WWI Getting Ready</unittitle>
+              <unitdate>undated</unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid>2.6</unitid>
+            <unittitle>Subseries 2.6: Chapter 6. A Blue-Eyed, Beardless Man in Arab Robes (Middle East and WWI)</unittitle>
+            <unitdate normal="2014">2014</unitdate>
+            <physdesc>
+              <extent type="boxes">Boxes: 1</extent>
+              <extent type="folders">Folders: 17</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Series contains copies of Lowell Thomas’ field journals of Arabia and the Middle East. Many of the research materials in this subseries are related to series 2.7: Chapter 7. Come with Me to the Land of History, Mystery and Romance. </p>
+          </scopecontent>
+          <arrangement>
+            <p>Alphabetical</p>
+          </arrangement>
+          <c03 level="file">
+            <did>
+              <container type="box">8</container>
+              <container type="folder">15</container>
+              <unittitle>Arabia</unittitle>
+              <unitdate>undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">8</container>
+              <container type="folder">16</container>
+              <unittitle>Arabia</unittitle>
+              <unitdate>undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">8</container>
+              <container type="folder">17</container>
+              <unittitle>Egypt and Palestine</unittitle>
+              <unitdate normal="2014">2014</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">9</container>
+              <container type="folder">1</container>
+              <unittitle>Egypt and Palestine</unittitle>
+              <unitdate normal="2014">2014</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">9</container>
+              <container type="folder">2</container>
+              <unittitle>Egypt and Palestine</unittitle>
+              <unitdate normal="2014">2014</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">9</container>
+              <container type="folder">3</container>
+              <unittitle>Egypt and Palestine</unittitle>
+              <unitdate normal="2014">2014</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">9</container>
+              <container type="folder">4</container>
+              <unittitle>Egypt and Palestine</unittitle>
+              <unitdate normal="2014">2014</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">9</container>
+              <container type="folder">5</container>
+              <unittitle>Egypt and Palestine</unittitle>
+              <unitdate normal="2014">2014</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">9</container>
+              <container type="folder">6</container>
+              <unittitle>Egypt and Palestine</unittitle>
+              <unitdate normal="2014">2014</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">9</container>
+              <container type="folder">7</container>
+              <unittitle>Europe After</unittitle>
+              <unitdate>undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">9</container>
+              <container type="folder">8</container>
+              <unittitle>Germany</unittitle>
+              <unitdate>undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">9</container>
+              <container type="folder">9</container>
+              <unittitle>Germany</unittitle>
+              <unitdate>undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">9</container>
+              <container type="folder">10</container>
+              <unittitle>Germany</unittitle>
+              <unitdate>undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">9</container>
+              <container type="folder">11</container>
+              <unittitle>Germany</unittitle>
+              <unitdate>undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">9</container>
+              <container type="folder">12</container>
+              <unittitle>Germany</unittitle>
+              <unitdate>undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">9</container>
+              <container type="folder">13</container>
+              <unittitle>LT and Dr. John Mack</unittitle>
+              <unitdate>undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">9</container>
+              <container type="folder">14</container>
+              <unittitle>The Shooting</unittitle>
+              <unitdate>undated</unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid>2.7</unitid>
+            <unittitle>Subseries 2.7: Chapter 7. Come with Me to the Land of History, Mystery and Romance</unittitle>
+            <unitdate normal="2014/2015">2014-2015</unitdate>
+            <physdesc>
+              <extent type="boxes">Boxes: .75</extent>
+              <extent type="folders">Folders: 15</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Series contains materials on Lowell Thomas and T.E. Lawrence in the 1920s including copies of “With Allenby in Palestine.” There are also copies and criticisms of “The Show” and of Lawrence in Arabia.</p>
+          </scopecontent>
+          <arrangement>
+            <p>Alphabetical</p>
+          </arrangement>
+          <c03 level="file">
+            <did>
+              <container type="box">9</container>
+              <container type="folder">15</container>
+              <unittitle>The Show</unittitle>
+              <unitdate normal="2015">2015</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">9</container>
+              <container type="folder">16</container>
+              <unittitle>The Show</unittitle>
+              <unitdate normal="2015">2015</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">9</container>
+              <container type="folder">17</container>
+              <unittitle>The Show</unittitle>
+              <unitdate normal="2015">2015</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">9</container>
+              <container type="folder">18</container>
+              <unittitle>The Show</unittitle>
+              <unitdate normal="2015">2015</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">9</container>
+              <container type="folder">19</container>
+              <unittitle>The Show</unittitle>
+              <unitdate normal="2015">2015</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">10</container>
+              <container type="folder">1</container>
+              <unittitle>The Show</unittitle>
+              <unitdate normal="2015">2015</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">10</container>
+              <container type="folder">2</container>
+              <unittitle>The Show</unittitle>
+              <unitdate normal="2015">2015</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">10</container>
+              <container type="folder">3</container>
+              <unittitle>The Show</unittitle>
+              <unitdate normal="2015">2015</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">10</container>
+              <container type="folder">4</container>
+              <unittitle>The Show</unittitle>
+              <unitdate normal="2015">2015</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">10</container>
+              <container type="folder">5</container>
+              <unittitle>Untitiled (With Allenby in Palestine)</unittitle>
+              <unitdate normal="2014">2014</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">10</container>
+              <container type="folder">6</container>
+              <unittitle>Untitiled (With Allenby in Palestine)</unittitle>
+              <unitdate normal="2000">2014</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">10</container>
+              <container type="folder">7</container>
+              <unittitle>Untitiled (With Allenby in Palestine)</unittitle>
+              <unitdate normal="2014">2014</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">10</container>
+              <container type="folder">8</container>
+              <unittitle>Untitiled (With Allenby in Palestine)</unittitle>
+              <unitdate normal="2014">2014</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">10</container>
+              <container type="folder">9</container>
+              <unittitle>Untitiled (With Allenby in Palestine)</unittitle>
+              <unitdate normal="2014">2014</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">10</container>
+              <container type="folder">10</container>
+              <unittitle>Untitiled (With Allenby in Palestine)</unittitle>
+              <unitdate normal="2014">2014</unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid>2.8</unitid>
+            <unittitle>Subseries 2.8: Chapter 8. How Dull It Is to Pause</unittitle>
+            <unitdate>undated</unitdate>
+            <physdesc>
+              <extent type="boxes">Boxes: .25</extent>
+              <extent type="folders">Folders: 3</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Series contains information regarding the Fred Crawford papers at Marist College includes a copy of Crawfords list of Books by Lowell Thomas. Also included is a copy of Good Evening Everybody by Lowell Thomas.</p>
+          </scopecontent>
+          <arrangement>
+            <p>Alphabetical</p>
+          </arrangement>
+          <c03 level="file">
+            <did>
+              <container type="box">10</container>
+              <container type="folder">11</container>
+              <unittitle>Misc. LT</unittitle>
+              <unitdate>undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">10</container>
+              <container type="folder">12</container>
+              <unittitle>Misc. LT</unittitle>
+              <unitdate>undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">10</container>
+              <container type="folder">13</container>
+              <unittitle>Misc. LT</unittitle>
+              <unitdate>undated</unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid>2.9</unitid>
+            <unittitle>Chapter 9. Having the Ear of America</unittitle>
+            <unitdate normal="2015/2016">2015 - 2016</unitdate>
+            <physdesc>
+              <extent type="boxes">Boxes: .75</extent>
+              <extent type="folders">Folders: 12</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Series contains copies of articles on the history of early radio in the 1920s and 1930s, as well as annotated copies of Lowell Thomas’ scripts of radio shows.</p>
+          </scopecontent>
+          <arrangement>
+            <p>Alphabetical</p>
+          </arrangement>
+          <c03 level="file">
+            <did>
+              <container type="box">10</container>
+              <container type="folder">14</container>
+              <unittitle>Radio</unittitle>
+              <unitdate normal="2015/2016">2015 - 2016</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">10</container>
+              <container type="folder">15</container>
+              <unittitle>Radio</unittitle>
+              <unitdate normal="2015/2016">2015 - 2016</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">10</container>
+              <container type="folder">16</container>
+              <unittitle>Radio</unittitle>
+              <unitdate normal="2015/2016">2015 - 2016</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">10</container>
+              <container type="folder">17</container>
+              <unittitle>Radio</unittitle>
+              <unitdate normal="2015/2016">2015 - 2016</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">10</container>
+              <container type="folder">18</container>
+              <unittitle>Radio</unittitle>
+              <unitdate normal="2015/2016">2015 - 2016</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">10</container>
+              <container type="folder">19</container>
+              <unittitle>Radio</unittitle>
+              <unitdate normal="2015/2016">2015 - 2016</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">11</container>
+              <container type="folder">1</container>
+              <unittitle>Scripts Early</unittitle>
+              <unitdate>undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">11</container>
+              <container type="folder">2</container>
+              <unittitle>Scripts Early</unittitle>
+              <unitdate>undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">11</container>
+              <container type="folder">3</container>
+              <unittitle>Scripts Early</unittitle>
+              <unitdate>undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">11</container>
+              <container type="folder">4</container>
+              <unittitle>Scripts Early</unittitle>
+              <unitdate>undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">11</container>
+              <container type="folder">5</container>
+              <unittitle>Scripts Early</unittitle>
+              <unitdate>undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">11</container>
+              <container type="folder">6</container>
+              <unittitle>Scripts Early</unittitle>
+              <unitdate>undated</unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid>2.10</unitid>
+            <unittitle>Subseries 2.10: Chapter 10. The Voice of God</unittitle>
+            <unitdate normal="2015">2015</unitdate>
+            <physdesc>
+              <extent type="boxes">Boxes: .25</extent>
+              <extent type="folders">Folders: 4</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Series contains copies of newspaper articles on clubs Lowell Thomas was involved in during the 1930s and 40s. Also includes copies of articles on T.E. Lawrence’s death and broadcast in 1935. There are also copies of essays and articles on television and shows in the 1940s.</p>
+          </scopecontent>
+          <arrangement>
+            <p>Alphabetical</p>
+          </arrangement>
+          <c03 level="file">
+            <did>
+              <container type="box">11</container>
+              <container type="folder">7</container>
+              <unittitle>Clubs 1940s</unittitle>
+              <unitdate>undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">11</container>
+              <container type="folder">8</container>
+              <unittitle>Lawrence Death Broadcast</unittitle>
+              <unitdate>undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">11</container>
+              <container type="folder">9</container>
+              <unittitle>Newsreel Fox</unittitle>
+              <unitdate normal="2015">2015</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">11</container>
+              <container type="folder">10</container>
+              <unittitle>TV 1940s</unittitle>
+              <unitdate normal="2015">2015</unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid>2.11</unitid>
+            <unittitle>Subseries 2.11: Chapter 11. Catching Up with the War (WWII)</unittitle>
+            <unitdate normal="1936/2015">1936 - 2015</unitdate>
+            <physdesc>
+              <extent type="boxes">Boxes: 1</extent>
+              <extent type="folders">Folders:15 </extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Series contains a 1936 Sunoco Oil Election Year Facts edited by Lowell Thomas, copies of essays on the Holocaust along with copies of Lowell Thomas’ journals and reports on World War II.</p>
+          </scopecontent>
+          <arrangement>
+            <p>Alphabetical</p>
+          </arrangement>
+          <c03 level="file">
+            <did>
+              <container type="box">11</container>
+              <container type="folder">11</container>
+              <unittitle>Holocaust</unittitle>
+              <unitdate>undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">11</container>
+              <container type="folder">12</container>
+              <unittitle>Jimmy Doolittle</unittitle>
+              <unitdate>undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">11</container>
+              <container type="folder">13</container>
+              <unittitle>Quaker Hill 1940s</unittitle>
+              <unitdate normal="2015">2015</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">11</container>
+              <container type="folder">14</container>
+              <unittitle>Radio 1940s</unittitle>
+              <unitdate normal="2015">2015</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">11</container>
+              <container type="folder">15</container>
+              <unittitle>Sun Oil - Dew</unittitle>
+              <unitdate normal="1936/2015">1936 - 2015</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">11</container>
+              <container type="folder">16</container>
+              <unittitle>Sun Oil - Dew</unittitle>
+              <unitdate normal="1936/2015">1936 - 2015</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">11</container>
+              <container type="folder">17</container>
+              <unittitle>WW II Journals</unittitle>
+              <unitdate>undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">11</container>
+              <container type="folder">18</container>
+              <unittitle>WW II Journals</unittitle>
+              <unitdate>undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">11</container>
+              <container type="folder">19</container>
+              <unittitle>WW II Journals</unittitle>
+              <unitdate>undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">11</container>
+              <container type="folder">20</container>
+              <unittitle>WW II Journals</unittitle>
+              <unitdate>undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">12</container>
+              <container type="folder">1</container>
+              <unittitle>WW II Journals</unittitle>
+              <unitdate>undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">12</container>
+              <container type="folder">2</container>
+              <unittitle>WW II Journals</unittitle>
+              <unitdate>undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">12</container>
+              <container type="folder">3</container>
+              <unittitle>WW II Journals</unittitle>
+              <unitdate>undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">12</container>
+              <container type="folder">4</container>
+              <unittitle>WW II Journals</unittitle>
+              <unitdate>undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">12</container>
+              <container type="folder">5</container>
+              <unittitle>WW II Journals</unittitle>
+              <unitdate>undated</unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid>2.12</unitid>
+            <unittitle>Subseries 2.12: Chapter 12. The Very Roof of the World</unittitle>
+            <unitdate normal="2015">2015</unitdate>
+            <physdesc>
+              <extent type="boxes">Boxes: .2</extent>
+              <extent type="folders">Folders: 3</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Series contains copies of articles and essays about the Dalai Lama of Tibet and the war against communism during the 1940s and 1950s which Lowell Thomas reported on.</p>
+          </scopecontent>
+          <arrangement>
+            <p>Alphabetical</p>
+          </arrangement>
+          <c03 level="file">
+            <did>
+              <container type="box">12</container>
+              <container type="folder">6</container>
+              <unittitle>Tibet</unittitle>
+              <unitdate normal="2015">2015</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">12</container>
+              <container type="folder">7</container>
+              <unittitle>Tibet</unittitle>
+              <unitdate normal="2015">2015</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">12</container>
+              <container type="folder">8</container>
+              <unittitle>Tibet</unittitle>
+              <unitdate normal="2015">2015</unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid>2.13</unitid>
+            <unittitle>Subseries 2.13: Chapter 13. An Entirely New Form of Entertainment</unittitle>
+            <unitdate normal="2015/2016">2015 - 2016</unitdate>
+            <physdesc>
+              <extent type="boxes">Boxes: .75</extent>
+              <extent type="folders">Folders: 12</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Series contains research on Cinerama and television, including Lowell Thomas’ High Adventure during the McCarthy era in the 1950s.</p>
+          </scopecontent>
+          <arrangement>
+            <p>Alphabetical/Chronological</p>
+          </arrangement>
+          <c03 level="file">
+            <did>
+              <container type="box">12</container>
+              <container type="folder">9</container>
+              <unittitle>Cinerama</unittitle>
+              <unitdate normal="2016">2016</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">12</container>
+              <container type="folder">10</container>
+              <unittitle>Cinerama</unittitle>
+              <unitdate normal="2016">2016</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">12</container>
+              <container type="folder">11</container>
+              <unittitle>Cinerama</unittitle>
+              <unitdate normal="2016">2016</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">12</container>
+              <container type="folder">12</container>
+              <unittitle>Cinerama</unittitle>
+              <unitdate normal="2016">2016</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">12</container>
+              <container type="folder">13</container>
+              <unittitle>High Adventure</unittitle>
+              <unitdate normal="2015">2015</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">12</container>
+              <container type="folder">14</container>
+              <unittitle>High Adventure</unittitle>
+              <unitdate normal="2015">2015</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">12</container>
+              <container type="folder">15</container>
+              <unittitle>High Adventure</unittitle>
+              <unitdate normal="2015">2015</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">12</container>
+              <container type="folder">16</container>
+              <unittitle>High Adventure</unittitle>
+              <unitdate normal="2015">2015</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">12</container>
+              <container type="folder">17</container>
+              <unittitle>McCarthy</unittitle>
+              <unitdate normal="2016">2016</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">12</container>
+              <container type="folder">18</container>
+              <unittitle>McCarthy</unittitle>
+              <unitdate normal="2016">2016</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">12</container>
+              <container type="folder">19</container>
+              <unittitle>McCarthy</unittitle>
+              <unitdate normal="2016">2016</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">12</container>
+              <container type="folder">20</container>
+              <unittitle>1950s</unittitle>
+              <unitdate normal="2015">2015</unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid>2.14</unitid>
+            <unittitle>Subseries 2.14: Chapter 14. To Strive, To Seek, To Find, and Not to Yield</unittitle>
+            <unitdate normal="2015/2016">2015 - 2016</unitdate>
+            <physdesc>
+              <extent type="boxes">Boxes: 1</extent>
+              <extent type="folders">Folders: 22</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Series contains annotated copies of journal articles, newspaper articles, and obituaries regarding the last three decades of Lowell Thomas’ life from 1960s to 1981 and his legacy afterward. There is also a National Geographic reprint from July 1964 by Mrs. Lowell Thomas, JR. Also includes articles about the film, Lawrence of Arabia.</p>
+          </scopecontent>
+          <arrangement>
+            <p>Alphabetical</p>
+          </arrangement>
+          <c03 level="file">
+            <did>
+              <container type="box">13</container>
+              <container type="folder">1</container>
+              <unittitle>Antartica</unittitle>
+              <unitdate>undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">13</container>
+              <container type="folder">2</container>
+              <unittitle>Capital Cities</unittitle>
+              <unitdate normal="2016">2016</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">13</container>
+              <container type="folder">3</container>
+              <unittitle>Capital Cities</unittitle>
+              <unitdate normal="2016">2016</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">13</container>
+              <container type="folder">4</container>
+              <unittitle>Capital Cities</unittitle>
+              <unitdate normal="2016">2016</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">13</container>
+              <container type="folder">5</container>
+              <unittitle>Capital Cities</unittitle>
+              <unitdate normal="2016">2016</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">13</container>
+              <container type="folder">6</container>
+              <unittitle>Christl</unittitle>
+              <unitdate normal="2016">2016</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">13</container>
+              <container type="folder">7</container>
+              <unittitle>Denver University</unittitle>
+              <unitdate>undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">13</container>
+              <container type="folder">8</container>
+              <unittitle>Dewey Death</unittitle>
+              <unitdate normal="2016">2016</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">13</container>
+              <container type="folder">9</container>
+              <unittitle>Eichman</unittitle>
+              <unitdate>undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">13</container>
+              <container type="folder">10</container>
+              <unittitle>Late Fran</unittitle>
+              <unitdate>undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">13</container>
+              <container type="folder">11</container>
+              <unittitle>Lawrence Film</unittitle>
+              <unitdate normal="2016">2016</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">13</container>
+              <container type="folder">12</container>
+              <unittitle>Lawrence Film</unittitle>
+              <unitdate normal="2016">2016</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">13</container>
+              <container type="folder">13</container>
+              <unittitle>Lindbergh</unittitle>
+              <unitdate>undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">13</container>
+              <container type="folder">14</container>
+              <unittitle>Lowell's Death</unittitle>
+              <unitdate normal="2016">2016</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">13</container>
+              <container type="folder">15</container>
+              <unittitle>LT Jr.</unittitle>
+              <unitdate>undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">13</container>
+              <container type="folder">16</container>
+              <unittitle>LT Jr.</unittitle>
+              <unitdate>undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">13</container>
+              <container type="folder">17</container>
+              <unittitle>Marianna</unittitle>
+              <unitdate normal="2016">2016</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">13</container>
+              <container type="folder">18</container>
+              <unittitle>News Obituaries and Interviews</unittitle>
+              <unitdate normal="2015/2016">2015 - 2016</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">13</container>
+              <container type="folder">19</container>
+              <unittitle>News Obituaries and Interviews</unittitle>
+              <unitdate normal="2015/2016">2015 - 2016</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">13</container>
+              <container type="folder">20</container>
+              <unittitle>Other Shows - LT</unittitle>
+              <unitdate normal="2016">2016</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">13</container>
+              <container type="folder">21</container>
+              <unittitle>Skiing</unittitle>
+              <unitdate>undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">13</container>
+              <container type="folder">22</container>
+              <unittitle>This Is Your Life</unittitle>
+              <unitdate normal="2016">2016</unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid>2.15</unitid>
+            <unittitle>Subseries 2.15: Additional Materials</unittitle>
+            <unitdate normal="2015/2016">2015-2016</unitdate>
+            <physdesc>
+              <extent type="boxes">Boxes: 1</extent>
+              <extent type="folders">Folders: 14</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Series contains copies of Fred Crawford’s letters and outline of unfinished Lowell Thomas biography. Also included are copies of Lowell Thomas’ indentures and an untitled transcript.</p>
+          </scopecontent>
+          <arrangement>
+            <p>Alphabetical</p>
+          </arrangement>
+          <c03 level="file">
+            <did>
+              <container type="box">13</container>
+              <container type="folder">23</container>
+              <unittitle>Crawford Letters</unittitle>
+              <unitdate>undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">13</container>
+              <container type="folder">24</container>
+              <unittitle>Crawford Outline</unittitle>
+              <unitdate>undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">14</container>
+              <container type="folder">1</container>
+              <unittitle>Indenture Copies</unittitle>
+              <unitdate>undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">14</container>
+              <container type="folder">2</container>
+              <unittitle>Indenture Copies</unittitle>
+              <unitdate>undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">14</container>
+              <container type="folder">3</container>
+              <unittitle>Indenture Copies</unittitle>
+              <unitdate>undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">14</container>
+              <container type="folder">4</container>
+              <unittitle>Indenture Copies</unittitle>
+              <unitdate>undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">14</container>
+              <container type="folder">5</container>
+              <unittitle>New  Materials</unittitle>
+              <unitdate normal="2015/2016">2015 - 2016</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">14</container>
+              <container type="folder">6</container>
+              <unittitle>New  Materials</unittitle>
+              <unitdate normal="2015/2016">2015 - 2016</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">14</container>
+              <container type="folder">7</container>
+              <unittitle>New  Materials</unittitle>
+              <unitdate normal="2015/2016">2015 - 2016</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">14</container>
+              <container type="folder">8</container>
+              <unittitle>New  Materials</unittitle>
+              <unitdate normal="2015/2016">2015 - 2016</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">14</container>
+              <container type="folder">9</container>
+              <unittitle>New  Materials</unittitle>
+              <unitdate normal="2015/2016">2015 - 2016</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">14</container>
+              <container type="folder">10</container>
+              <unittitle>New  Materials</unittitle>
+              <unitdate normal="2015/2016">2015 - 2016</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">14</container>
+              <container type="folder">11</container>
+              <unittitle>New  Materials</unittitle>
+              <unitdate normal="2015/2016">2015 - 2016</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">14</container>
+              <container type="folder">12</container>
+              <unittitle>New  Materials</unittitle>
+              <unitdate normal="2015/2016">2015 - 2016</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">14</container>
+              <container type="folder">13</container>
+              <unittitle>New  Materials</unittitle>
+              <unitdate normal="2015/2016">2015 - 2016</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">14</container>
+              <container type="folder">14</container>
+              <unittitle>Untitled Transcript(Possibly Voice of America Documentary)</unittitle>
+              <unitdate>undated</unitdate>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unitid>3.</unitid>
+          <unittitle>3. Correspondence</unittitle>
+          <unitdate normal="2013/2016">2013-2016</unitdate>
+          <physdesc>
+            <extent type="size">About .5 linear feet</extent>
+            <extent type="boxes">Boxes: 1</extent>
+            <extent type="folders">Folders: 6</extent>
+          </physdesc>
+        </did>
+        <scopecontent>
+          <p>Series contains consists of correspondence between Mitchell Stephens and Richard Moulton, Anne T. Donaghy, and Quaker Hill Historical Society. Rick Moulton sent DVDs as well as a Flash Drive of Lowell Thomas Photos which have been copied and included in Series 6. Digital Materials.</p>
+        </scopecontent>
+        <arrangement>
+          <p>Alphabetical</p>
+        </arrangement>
+        <c02 level="file">
+          <did>
+            <container type="box">14</container>
+            <container type="folder">15</container>
+            <unittitle>From Anne Donaghy</unittitle>
+            <unitdate normal="2015">2015</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">15</container>
+            <container type="folder">1</container>
+            <unittitle>From Historical Society of Quaker Hill and Pawling</unittitle>
+            <unitdate normal="2016">2016</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">15</container>
+            <container type="folder">2</container>
+            <unittitle>From Jesse White (Secretery of State of Illinois</unittitle>
+            <unitdate normal="2015">2015</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">15</container>
+            <container type="folder">3</container>
+            <unittitle>From Rick Moulton</unittitle>
+            <unitdate normal="2013">2013</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">15</container>
+            <container type="folder">4</container>
+            <unittitle>From Rick Moulton</unittitle>
+            <unitdate normal="2013">2013</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">15</container>
+            <container type="folder">5</container>
+            <unittitle>From Thomas and Donaghy</unittitle>
+            <unitdate normal="2015">2015</unitdate>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unitid>4.</unitid>
+          <unittitle>4. Photographs</unittitle>
+          <unitdate>undated</unitdate>
+          <physdesc>
+            <extent type="size">About .1 linear feet</extent>
+            <extent type="boxes">Boxes: .2</extent>
+            <extent type="folders">Folders: 1</extent>
+          </physdesc>
+        </did>
+        <scopecontent>
+          <p>Series contains large print photographs of Lowell Thomas.</p>
+        </scopecontent>
+        <arrangement>
+          <p>Original Order</p>
+        </arrangement>
+        <c02 level="file">
+          <did>
+            <container type="box">15</container>
+            <container type="folder">6</container>
+            <unittitle>Photographs</unittitle>
+            <unitdate>undated</unitdate>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unitid>5. </unitid>
+          <unittitle>5. Maps</unittitle>
+          <unitdate normal="2007/2017">2007-2017</unitdate>
+          <physdesc>
+            <extent type="size">About .5 linear feet</extent>
+            <extent type="boxes">Boxes: 1</extent>
+            <extent type="folders">Folders: 1</extent>
+          </physdesc>
+        </did>
+        <scopecontent>
+          <p>Series contains maps of places Mitchell Stephens visited while conducting research. Maps are of: Skagway, Alaska; London; Cripple Creek and Victor, Colorado; Yukon, Canada. There are maps of the various gold mines in Colorado as well.</p>
+        </scopecontent>
+        <arrangement>
+          <p>Alphabetical</p>
+        </arrangement>
+        <c02 level="file">
+          <did>
+            <container type="box">15</container>
+            <container type="folder">7</container>
+            <unittitle>Maps</unittitle>
+            <unitdate normal="2007/2017">2007 - 2017</unitdate>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unitid>6</unitid>
+          <unittitle>6. Digital Materials</unittitle>
+          <unitdate normal="2009/2022">2009 - 2022</unitdate>
+          <physdesc>
+            <extent type="size">8 GB</extent>
+            <extent type="folders">Folders: 3</extent>
+          </physdesc>
+        </did>
+        <scopecontent>
+          <p>Series contains digital research materials and manuscripts created by Mitchell Stephens.</p>
+        </scopecontent>
+        <arrangement>
+          <p>Subject</p>
+        </arrangement>
+        <c02 level="subseries">
+          <did>
+            <unitid>6.1</unitid>
+            <unittitle>Subseries 6.1: Manuscripts and Research Materials</unittitle>
+            <unitdate normal="2009/2022">2009-2022</unitdate>
+            <physdesc>
+              <extent type="size">8 GB</extent>
+              <extent type="folders">Folders: 3</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Series contains manuscript drafts of The Voice of America and articles Stephens wrote on Lowell Thomas and other topics such as journalism and fake news. Research materials include interviews with Anne Donaghy and saved copies of journal and newspaper articles regarding Lowell Thomas and the places and times associated with him. Many of these pieces were printed out and written on by Stephens and can be found in Series 2: Research Materials. Voice of America is a documentary Stephens wrote and was directed by Richard Moulton and came out in 2019.</p>
+          </scopecontent>
+          <arrangement>
+            <p>Folders are arranged alphabetically. Some of the folder time stamps changed during processing.</p>
+          </arrangement>
+          <c03 level="file">
+            <did>
+              <container type="box">15</container>
+              <container type="folder">8</container>
+              <unittitle>Essays</unittitle>
+              <unitdate normal="2009/2022">2009 - 2022</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">15</container>
+              <container type="folder">8</container>
+              <unittitle>The Voice of America Biography</unittitle>
+              <unitdate normal="2013/2017">2013 - 2017</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">15</container>
+              <container type="folder">8</container>
+              <unittitle>Voice of America Documentary</unittitle>
+              <unitdate normal="2015/2017">2015 - 2017</unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid>6.2</unitid>
+            <unittitle>Subseries 6.2: Lowell Thomas Photographs from Richard Moulton</unittitle>
+            <unitdate normal="2014/2016">2014 - 2016</unitdate>
+            <physdesc>
+              <extent type="size">168 MB</extent>
+              <extent type="folders">Folders: 1</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Richard Moulton originally mailed these photographs of Lowell Thomas as a USB to Mitchell Stephens. They have now been copied and saved on a hard drive. Photographs include lantern slides of Lowell Thomas in Arabia, Egypt, Italy, Palestine, and London.</p>
+          </scopecontent>
+          <arrangement>
+            <p>Original Order</p>
+          </arrangement>
+          <c03 level="file">
+            <did>
+              <container type="box">15</container>
+              <container type="folder">8</container>
+              <unittitle>LT Photos Small USB</unittitle>
+              <unitdate normal="2019">2019</unitdate>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

@@ -1,400 +1,392 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
 <ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:isbn:1-931666-22-9" xmlns:ns2="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
-
-	<!--Header portion of EAD -->
-	<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
-		<eadid countrycode="US" mainagencycode="US-NPkMC" url="http://www.marist.edu">npkmc_223_107</eadid>
-		<filedesc>
-			<titlestmt>
-				<titleproper>Cathedral College Collection: Class of 1924</titleproper>
-				<author>Erin Roohan<![CDATA[&]]> John Ansley, PhD, 2005; Finding Aid Encoded by:
+  <!--Header portion of EAD -->
+  <eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+    <eadid countrycode="US" mainagencycode="US-NPkMC" url="http://www.marist.edu">npkmc_223_107</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Cathedral College Collection: Class of 1924</titleproper>
+        <author>Erin Roohan<![CDATA[&amp;]]> John Ansley, PhD, 2005; Finding Aid Encoded by:
 					Monish M. Singh, 2005; Finding Aid Encoding updated by: Abigail Bowen,
 					2022</author>
-			</titlestmt>
-
-			<publicationstmt>
-				<publisher>Marist College<lb/>Archives and Special Collections</publisher>
-				<address>
-					<addressline>3399 North Road<lb/>Poughkeepsie, NY 12601<lb/>Phone:
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Marist College<lb/>Archives and Special Collections</publisher>
+        <address>
+          <addressline>3399 North Road<lb/>Poughkeepsie, NY 12601<lb/>Phone:
 						845-575-5217<lb/>Fax: 845-575-3150<lb/><lb/>Email: library.archives@marist.edu<lb/>Website:
 						https://archives.marist.edu/</addressline>
-				</address>
-				<date type="publication" normal="2005">Summer 2005</date>
-			</publicationstmt>
-		</filedesc>
-		<profiledesc>
-			<creation>Monish M. Singh<date>2005</date>
+        </address>
+        <date type="publication" normal="2005">Summer 2005</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Monish M. Singh<date>2005</date>
 			</creation>
-			<langusage> Finding aid written in<language langcode="eng">English.</language>
+      <langusage> Finding aid written in<language langcode="eng">English.</language>
 			</langusage>
-			<descrules><abbr>DACS</abbr>Describing Archives: A Content Standard. Chicago: Society of
+      <descrules><abbr>DACS</abbr>Describing Archives: A Content Standard. Chicago: Society of
 				American Archivists, 2013.</descrules>
-		</profiledesc>
-		<revisiondesc>
-			<list>
-				<item>March 2022, EAD updated by Abigail Bowen</item>
-			</list>
-		</revisiondesc>
-	</eadheader>
-
-	<!-- Archival Description portion of EAD -->
-
-	<archdesc level="collection">
-		<did>
-			<unittitle>Cathedral College Collection: Class of 1924</unittitle>
-			<unitid countrycode="US" repositorycode="US-NPkMC">NPKMC-223-107</unitid>
-			<unitdate type="inclusive" normal="1918/1924">1918 – 1924</unitdate>
-			<physdesc>
-				<extent type="size">1 Linear Foot</extent>
-			</physdesc>
-			<repository>
-				<corpname>Marist College Archives and Special Collections</corpname>
-			</repository>
-			<origination label="creator"><corpname>The Class of 1924 at Cathedral
-					College.</corpname></origination>
-			<abstract>The History of Cathedral College’s Class of 1924 consists of various items
+    </profiledesc>
+    <revisiondesc>
+      <list>
+        <item>March 2022, EAD updated by Abigail Bowen</item>
+      </list>
+    </revisiondesc>
+  </eadheader>
+  <!-- Archival Description portion of EAD -->
+  <archdesc level="collection">
+    <did>
+      <unittitle>Cathedral College Collection: Class of 1924</unittitle>
+      <unitid countrycode="US" repositorycode="US-NPkMC">NPKMC-223-107</unitid>
+      <unitdate type="inclusive" normal="1918/1924">1918 – 1924</unitdate>
+      <physdesc>
+        <extent type="size">1 Linear Foot</extent>
+      </physdesc>
+      <repository>
+        <corpname>Marist College Archives and Special Collections</corpname>
+      </repository>
+      <origination label="creator">
+        <corpname>The Class of 1924 at Cathedral
+					College.</corpname>
+      </origination>
+      <abstract>The History of Cathedral College’s Class of 1924 consists of various items
 				which depict the years spent at Cathedral College by the class of 1924. The
 				collection contains a book describing the members of the class, the professors, and
 				what happened during the years, with some photographs. There are also newsletters
 				printed by the members of the class describing the latest occurrences as well as
 				jokes, and a few postcards.</abstract>
-			<langmaterial>
-				<language>English</language>
-			</langmaterial>
-			<physloc>Please contact the Marist College Archives and Special Collections for information
+      <langmaterial>
+        <language>English</language>
+      </langmaterial>
+      <physloc>Please contact the Marist College Archives and Special Collections for information
 				regarding use and access of this collection.</physloc>
-		</did>
-		
-
-		<scopecontent>
-			<head>Collection Overview</head>
-			<p>The History of Cathedral College’s Class of 1924 consists of a book written by the
+    </did>
+    <scopecontent>
+      <head>Collection Overview</head>
+      <p>The History of Cathedral College’s Class of 1924 consists of a book written by the
 				class detailing their lives at school, newsletters printed up and distributed by the
 				class, as well as photographs of the students and postcards received by the
 				students.</p>
-		</scopecontent>
-
-		<acqinfo>
-			<p>The Cathedral College Collection of 1924 was donated to Marist College.</p>
-		</acqinfo>
-
-		<bioghist encodinganalog="545">
-			<head>Biographical Note</head>
-			<p>Cathedral College in New York, NY was a prep school for possible priesthood
+    </scopecontent>
+    <acqinfo>
+      <p>The Cathedral College Collection of 1924 was donated to Marist College.</p>
+    </acqinfo>
+    <bioghist encodinganalog="545">
+      <head>Biographical Note</head>
+      <p>Cathedral College in New York, NY was a prep school for possible priesthood
 				candidates. Boys attended the school for six years. The time spent by the boys of
 				the class of 1924 spanned from 1918 through 1924.</p>
-		</bioghist>
-
-		<accessrestrict>
-			<p>There are no restrictions on this collection</p>
-		</accessrestrict>
-		<userestrict>
-			<head>Notice of Copyright</head>
-			<p>Individuals requesting reproductions expressly assume the responsibility for compliance
+    </bioghist>
+    <accessrestrict>
+      <p>There are no restrictions on this collection</p>
+    </accessrestrict>
+    <userestrict>
+      <head>Notice of Copyright</head>
+      <p>Individuals requesting reproductions expressly assume the responsibility for compliance
 				with all pertinent provisions of the Copyright Act, 17 U.S.C. ss101 et seq. Patrons further
 				agree to indemnify and hold harmless the Marist College Archives and Special Collections and
 				its staff in connection with any disputes arising from the Copyright Act, over the
 				reproduction of material at the request of patrons. For more information please visit the
 				following website: http://www.loc.gov/copyright/title17/.</p>
-		</userestrict>
-		<prefercite>
-			<head>Preferred Citation</head>
-			<p>[Description of item, date, location of item in order of series, box number, folder number
+    </userestrict>
+    <prefercite>
+      <head>Preferred Citation</head>
+      <p>[Description of item, date, location of item in order of series, box number, folder number
 				], in the Cathedral College Collection: Class of 1924, Archives and Special Collections, James A. Cannavino Library,
 				Marist College.</p>
-		</prefercite>
-		<arrangement>
-			<head>Arrangement of the Collection</head>
-			<p>These records are organized into two series: 1) Class Newsletters, and 2) Record Book</p> <p>Materials in each series maintain their original order or are arranged chronologically.</p>
-		</arrangement>
-
-		<dsc type="combined">
-			<c01 level="series">
-				<did>
-					<unitid>1</unitid>
-						<unittitle>1. Class Newsletters</unittitle>
-					<physdesc>
-						<extent type="boxes">Box: 1</extent>
-						<extent type="folders">Folders: 1 - 18</extent>
-					</physdesc>
-				</did>
-				<scopecontent>
-					<p>The Class Newsletters span from 1919 through 1920.</p></scopecontent>
-					<arrangement>
-						<p>Original order, chronologically</p>
-					</arrangement>
-				<c02 level="item">
-					<did>
-						<unitid>1.1</unitid>
-						<unittitle>Vol. I. February 24, 1919. No. 1.</unittitle>
-						<container type="box">1</container>
-						<container type="folder">1</container>
-					</did>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitid>1.2</unitid>
-						<unittitle>Copy of Vol. I. February 24, 1919. No. 1.</unittitle>
-						<container type="box">1</container>
-						<container type="folder">1</container>
-					</did>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitid>2.1</unitid>
-						<unittitle>Vol. I. No. 2.</unittitle>
-						<container type="box">1</container>
-						<container type="folder">2</container>
-					</did>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitid>2.2</unitid>
-						<unittitle>Copy of Vol. I. No. 2.</unittitle>
-						<container type="box">1</container>
-						<container type="folder">2</container>
-					</did>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitid>3.1</unitid>
-						<unittitle>Vol. I. No. 3.</unittitle>
-						<container type="box">1</container>
-						<container type="folder">3</container>
-					</did>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitid>3.2</unitid>
-						<unittitle>Copy of Vol I. No. 3.</unittitle>
-						<container type="box">1</container>
-						<container type="folder">3</container>
-					</did>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitid>4.1</unitid>
-						<unittitle>Vol. I. No. 4. Poetry Edition.</unittitle>
-						<container type="box">1</container>
-						<container type="folder">4</container>
-					</did>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitid>4.2</unitid>
-						<unittitle>Copy of Vol. I. No. 4. Poetry Edition.</unittitle>
-						<container type="box">1</container>
-						<container type="folder">4</container>
-					</did>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitid>5.1</unitid>
-						<unittitle>Vol. I. No. 5.</unittitle>
-						<container type="box">1</container>
-						<container type="folder">5</container>
-					</did>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitid>5.2</unitid>
-						<unittitle>Copy of Vol. I. No. 5.</unittitle>
-						<container type="box">1</container>
-						<container type="folder">5</container>
-					</did>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitid>6.1</unitid>
-						<unittitle>Vol. II. Mon. October 13, 1919. No. 1.</unittitle>
-						<container type="box">1</container>
-						<container type="folder">6</container>
-					</did>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitid>6.2</unitid>
-						<unittitle>Copy of Vol. II. Mon. October 13, 1919. No. 1.</unittitle>
-						<container type="box">1</container>
-						<container type="folder">6</container>
-					</did>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitid>7.1</unitid>
-						<unittitle>Vol. II. Mon. November 5, 1919. No. 2.</unittitle>
-						<container type="box">1</container>
-						<container type="folder">7</container>
-					</did>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitid>7.2</unitid>
-						<unittitle>Copy of Vol. II. Mon. November 5, 1919. No. 2.</unittitle>
-						<container type="box">1</container>
-						<container type="folder">7</container>
-					</did>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitid>8</unitid>
-						<unittitle>Vol. II. No. 3.</unittitle>
-						<container type="box">1</container>
-						<container type="folder">8</container>
-					</did>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitid>9.1</unitid>
-						<unittitle>Vol. II. Dec. 19, 1919. No. 4. Christmas Edition</unittitle>
-						<container type="box">1</container>
-						<container type="folder">9</container>
-					</did>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitid>9.2</unitid>
-						<unittitle>Copy of Vol. II. Dec. 19, 1919. No. 4. Christmas Edition.</unittitle>
-						<container type="box">1</container>
-						<container type="folder">9</container>
-					</did>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitid>10</unitid>
-						<unittitle>Maude (cartoon drawing) by OTHS.</unittitle>
-						<container type="box">1</container>
-						<container type="folder">10</container>
-					</did>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitid>11.1</unitid>
-						<unittitle>Vol. II. Feb. 24, 1920. Anniversary Edition. No. 5.</unittitle>
-						<container type="box">2</container>
-						<container type="folder">11</container>
-					</did>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitid>11.2</unitid>
-						<unittitle>Copy of Vol. II. Feb. 24, 1920. Anniversary Edition. No. 5.</unittitle>
-						<container type="box">2</container>
-						<container type="folder">11</container>
-					</did>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitid>12</unitid>
-						<unittitle>Vol. II. March 12, 1920. No. 6.</unittitle>
-						<container type="box">2</container>
-						<container type="folder">12</container>
-					</did>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitid>13.1</unitid>
-						<unittitle>Vol. II. April 23, 1920. No. 7.</unittitle>
-						<container type="box">2</container>
-						<container type="folder">13</container>
-					</did>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitid>13.2</unitid>
-						<unittitle>Copy of Vol. II. April 23, 1920. No. 7.</unittitle>
-						<container type="box">2</container>
-						<container type="folder">13</container>
-					</did>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitid>14.1</unitid>
-						<unittitle>Vol. II. May 18, 1920. Farewell Edition. No. 8.</unittitle>
-						<container type="box">2</container>
-						<container type="folder">14</container>
-					</did>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitid>14.2</unitid>
-						<unittitle>Copy of Vol. II. May 18, 1920. Farewell Edition. No. 8.</unittitle>
-						<container type="box">2</container>
-						<container type="folder">14</container>
-					</did>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitid>15</unitid>
-						<unittitle>Vol. III. October 22, 1920. No. 1.</unittitle>
-						<container type="box">3</container>
-						<container type="folder">15</container>
-					</did>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitid>16</unitid>
-						<unittitle>Dec. 11, 1920.</unittitle>
-						<container type="box">3</container>
-						<container type="folder">16</container>
-					</did>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitid>17.1</unitid>
-						<unittitle>Not dated. No. 5?</unittitle>
-						<container type="box">3</container>
-						<container type="folder">17</container>
-					</did>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitid>17.2</unitid>
-						<unittitle>Copy of Not dated. No. 5 ?</unittitle>
-						<container type="box">3</container>
-						<container type="folder">17</container>
-					</did>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitid>18</unitid>
-						<unittitle>Not dated.</unittitle>
-						<container type="box">3</container>
-						<container type="folder">18</container>
-						
-					</did>
-				</c02>
-			</c01>
-
-			<c01 level="series">
-				<did>
-					<unitid>2</unitid>
-						<unittitle>2. Record Book</unittitle>
-					<unitdate type="inclusive"> </unitdate>
-					<physdesc>
-						<extent type="boxes">Box: 1</extent>
-						<extent type="folders">Folder: 19</extent>
-					</physdesc>
-				</did>
-				<scopecontent>
-					<p>The Record Book is the class’s history, a written account of the class of 1924’s
+    </prefercite>
+    <arrangement>
+      <head>Arrangement of the Collection</head>
+      <p>These records are organized into two series: 1) Class Newsletters, and 2) Record Book</p>
+      <p>Materials in each series maintain their original order or are arranged chronologically.</p>
+    </arrangement>
+    <dsc type="combined">
+      <c01 level="series">
+        <did>
+          <unitid>1</unitid>
+          <unittitle>1. Class Newsletters</unittitle>
+          <physdesc>
+            <extent type="boxes">Box: 1</extent>
+            <extent type="folders">Folders: 1 - 18</extent>
+          </physdesc>
+        </did>
+        <scopecontent>
+          <p>The Class Newsletters span from 1919 through 1920.</p>
+        </scopecontent>
+        <arrangement>
+          <p>Original order, chronologically</p>
+        </arrangement>
+        <c02 level="item">
+          <did>
+            <unitid>1.1</unitid>
+            <unittitle>Vol. I. February 24, 1919. No. 1.</unittitle>
+            <container type="box">1</container>
+            <container type="folder">1</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitid>1.2</unitid>
+            <unittitle>Copy of Vol. I. February 24, 1919. No. 1.</unittitle>
+            <container type="box">1</container>
+            <container type="folder">1</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitid>2.1</unitid>
+            <unittitle>Vol. I. No. 2.</unittitle>
+            <container type="box">1</container>
+            <container type="folder">2</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitid>2.2</unitid>
+            <unittitle>Copy of Vol. I. No. 2.</unittitle>
+            <container type="box">1</container>
+            <container type="folder">2</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitid>3.1</unitid>
+            <unittitle>Vol. I. No. 3.</unittitle>
+            <container type="box">1</container>
+            <container type="folder">3</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitid>3.2</unitid>
+            <unittitle>Copy of Vol I. No. 3.</unittitle>
+            <container type="box">1</container>
+            <container type="folder">3</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitid>4.1</unitid>
+            <unittitle>Vol. I. No. 4. Poetry Edition.</unittitle>
+            <container type="box">1</container>
+            <container type="folder">4</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitid>4.2</unitid>
+            <unittitle>Copy of Vol. I. No. 4. Poetry Edition.</unittitle>
+            <container type="box">1</container>
+            <container type="folder">4</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitid>5.1</unitid>
+            <unittitle>Vol. I. No. 5.</unittitle>
+            <container type="box">1</container>
+            <container type="folder">5</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitid>5.2</unitid>
+            <unittitle>Copy of Vol. I. No. 5.</unittitle>
+            <container type="box">1</container>
+            <container type="folder">5</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitid>6.1</unitid>
+            <unittitle>Vol. II. Mon. October 13, 1919. No. 1.</unittitle>
+            <container type="box">1</container>
+            <container type="folder">6</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitid>6.2</unitid>
+            <unittitle>Copy of Vol. II. Mon. October 13, 1919. No. 1.</unittitle>
+            <container type="box">1</container>
+            <container type="folder">6</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitid>7.1</unitid>
+            <unittitle>Vol. II. Mon. November 5, 1919. No. 2.</unittitle>
+            <container type="box">1</container>
+            <container type="folder">7</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitid>7.2</unitid>
+            <unittitle>Copy of Vol. II. Mon. November 5, 1919. No. 2.</unittitle>
+            <container type="box">1</container>
+            <container type="folder">7</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitid>8</unitid>
+            <unittitle>Vol. II. No. 3.</unittitle>
+            <container type="box">1</container>
+            <container type="folder">8</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitid>9.1</unitid>
+            <unittitle>Vol. II. Dec. 19, 1919. No. 4. Christmas Edition</unittitle>
+            <container type="box">1</container>
+            <container type="folder">9</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitid>9.2</unitid>
+            <unittitle>Copy of Vol. II. Dec. 19, 1919. No. 4. Christmas Edition.</unittitle>
+            <container type="box">1</container>
+            <container type="folder">9</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitid>10</unitid>
+            <unittitle>Maude (cartoon drawing) by OTHS.</unittitle>
+            <container type="box">1</container>
+            <container type="folder">10</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitid>11.1</unitid>
+            <unittitle>Vol. II. Feb. 24, 1920. Anniversary Edition. No. 5.</unittitle>
+            <container type="box">2</container>
+            <container type="folder">11</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitid>11.2</unitid>
+            <unittitle>Copy of Vol. II. Feb. 24, 1920. Anniversary Edition. No. 5.</unittitle>
+            <container type="box">2</container>
+            <container type="folder">11</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitid>12</unitid>
+            <unittitle>Vol. II. March 12, 1920. No. 6.</unittitle>
+            <container type="box">2</container>
+            <container type="folder">12</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitid>13.1</unitid>
+            <unittitle>Vol. II. April 23, 1920. No. 7.</unittitle>
+            <container type="box">2</container>
+            <container type="folder">13</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitid>13.2</unitid>
+            <unittitle>Copy of Vol. II. April 23, 1920. No. 7.</unittitle>
+            <container type="box">2</container>
+            <container type="folder">13</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitid>14.1</unitid>
+            <unittitle>Vol. II. May 18, 1920. Farewell Edition. No. 8.</unittitle>
+            <container type="box">2</container>
+            <container type="folder">14</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitid>14.2</unitid>
+            <unittitle>Copy of Vol. II. May 18, 1920. Farewell Edition. No. 8.</unittitle>
+            <container type="box">2</container>
+            <container type="folder">14</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitid>15</unitid>
+            <unittitle>Vol. III. October 22, 1920. No. 1.</unittitle>
+            <container type="box">3</container>
+            <container type="folder">15</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitid>16</unitid>
+            <unittitle>Dec. 11, 1920.</unittitle>
+            <container type="box">3</container>
+            <container type="folder">16</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitid>17.1</unitid>
+            <unittitle>Not dated. No. 5?</unittitle>
+            <container type="box">3</container>
+            <container type="folder">17</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitid>17.2</unitid>
+            <unittitle>Copy of Not dated. No. 5 ?</unittitle>
+            <container type="box">3</container>
+            <container type="folder">17</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitid>18</unitid>
+            <unittitle>Not dated.</unittitle>
+            <container type="box">3</container>
+            <container type="folder">18</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unitid>2</unitid>
+          <unittitle>2. Record Book</unittitle>
+          <unitdate type="inclusive"> </unitdate>
+          <physdesc>
+            <extent type="boxes">Box: 1</extent>
+            <extent type="folders">Folder: 19</extent>
+          </physdesc>
+        </did>
+        <scopecontent>
+          <p>The Record Book is the class’s history, a written account of the class of 1924’s
 						years at Cathedral College, from their freshmen year in 1919 until their senior year
 						and graduation in 1924. It contains biographies of all the members of the class,
 						descriptions of the activities participated in, everyday activities and the yearly
-						class outings, jokes, photographs of class outings and the members of the class.</p></scopecontent>
-					<arrangement>
-						<p>Original order</p>
-					</arrangement>
-				<c02 level="file">
-					<did>
-						<container type="folder">19</container>
-						<unittitle>Class History Book </unittitle>
-						<container type="box">2</container>
-					</did>
-				</c02>
-			</c01>
-
-		</dsc>
-	</archdesc>
+						class outings, jokes, photographs of class outings and the members of the class.</p>
+        </scopecontent>
+        <arrangement>
+          <p>Original order</p>
+        </arrangement>
+        <c02 level="file">
+          <did>
+            <container type="folder">19</container>
+            <unittitle>Class History Book </unittitle>
+            <container type="box">2</container>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
 </ead>

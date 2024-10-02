@@ -1,0 +1,3914 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
+  <!-- Header Portion of EAD -->
+  <eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+    <eadid countrycode="US" mainagencycode="US-NPkMC" url="http://www.marist.edu">npkmc_224_225</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Raymond A. Rich Papers</titleproper>
+        <author>John Ansley, MA, MSLS &amp;amp;amp; Gregory Wiedeman, MA, MSIS, 2013; Finding Aid
+					Encoding updated by: Abigail Bowen, 2022</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Marist College <lb/>Archives and Special Collections </publisher>
+        <address>
+          <addressline>3399 North Road <lb/>Poughkeepsie, NY 12601 <lb/>Phone:
+						845-575-5217 <lb/>Fax: 845-575-3150 <lb/>Email:
+						library.archives@marist.edu<lb/>Website:
+						https://archives.marist.edu/</addressline>
+        </address>
+        <date type="publication" normal="2013-01">July 2013</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Gregory Wiedeman, MA, MSIS <date>2013</date>
+			</creation>
+      <langusage>Finding aid written in <language langcode="eng" scriptcode="Latn">English</language></langusage>
+      <descrules><abbr>DACS</abbr>Describing Archives: A Content Standard. Chicago: Society of
+				American Archivists, 2013.</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <list>
+        <item>April 2022, EAD updated by Abigail Bowen</item>
+      </list>
+    </revisiondesc>
+  </eadheader>
+  <!-- Archival Description portion of EAD -->
+  <archdesc level="collection">
+    <did>
+      <unittitle>Raymond A. Rich Papers</unittitle>
+      <unitid countrycode="US" repositorycode="US-NPkMC">NPKMC-224-225</unitid>
+      <unitdate type="inclusive" normal="1906/1998">1916 – 1998</unitdate>
+      <physdesc>
+        <extent type="size">23 Linear Feet</extent>
+      </physdesc>
+      <repository>
+        <corpname>Marist College Archives and Special Collections</corpname>
+      </repository>
+      <origination label="creator">
+        <persname>Raymond A. Rich</persname>
+      </origination>
+      <abstract>The Raymond A. Rich Papers document the professional life of Mr. Rich. Mr.
+				Rich was a leader in corporate America for over five decades and held multiple
+				positions as CEO or chairman of companies in the following industries: oil, gas
+				exploration and production, publishing, glass, banking, environmental engineering,
+				and production facilities. </abstract>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <physloc>Please contact the Marist College Archives and Special Collections for
+				information regarding use and access of this collection.</physloc>
+    </did>
+    <scopecontent>
+      <head>Collection Overview</head>
+      <p>The Raymond A. Rich Papers document the professional life of Mr. Rich. Mr. Rich was a
+				leader in corporate America for over five decades and held multiple positions as CEO
+				or chairman of companies in the following industries: oil, gas exploration and
+				production, publishing, glass, banking, environmental engineering, and production
+				facilities. The collection includes papers, photographs, newspaper articles,
+				magazine articles, business annual reports, and audiovisual materials concerning his
+				education, professional life, military career, and his interests in art and real
+				estate. Also includes is correspondence and documentation of Mr. Rich’s purchase and
+				maintenance of the Oliver Hazard Payne Estate.</p>
+    </scopecontent>
+    <acqinfo>
+      <p>The Raymond A. Rich Papers were donated to Marist College by the Raymond A. Rich
+				Estate in 2009.</p>
+    </acqinfo>
+    <bioghist id="historical" encodinganalog="545">
+      <head>Historical Note</head>
+      <p>Raymond A. Rich was born in Los Angeles, California, in 1912, the son of Arthur and
+				Lucy Baker Rich. He was raised in Des Moines, Iowa, and started his career by hiring
+				on to a tramp freighter for a job in the engine room at age 18. After receiving a
+				double engineering degree from Iowa State University, he was hired in the midst of
+				the Great Depression by General Electric Co. and became its youngest national sales
+				manager at that time. He was awarded the rare "E Award" for overseeing GE's multiple
+				war production plant facilities. </p>
+      <p>Mr. Rich then was asked to lead the federal Northeast District for the Council for
+				Economic Development. He volunteered for active duty in World War II in the Navy and
+				Marines, serving in the South Pacific Islands and in Tokyo after the Japanese
+				surrender. He received numerous decorations for his distinguished service. After the
+				war, Mr. Rich became vice president and director of Philco Corp. and then accepted
+				the presidency and directorship of Avco Corp. From there his career escalated, and
+				he went on to hold multiple, simultaneous CEO and chairman positions in numerous
+				companies. The sectors ranged from oil and gas exploration and production,
+				publishing, glass containers, and banking to environmental engineering and
+				production facilities. He led U.S. Filter Corp. as chairman and CEO to a significant
+				role in its field, increasing revenues twenty-fold in the 1970s. </p>
+      <p>Upon retiring from active corporate life, Mr. Rich focused on acquiring various real
+				estate properties. In addition to his primary residence in Boca Grande, Florida, and
+				his estate in Esopus, he owned at various times in his life cattle ranches in
+				Arizona and Oklahoma, corn and soybean farms in Iowa, townhouses in New York City,
+				homes in Maine, a castle in the Scottish Highlands, a 12th-century castle in
+				Austria, and a chateau in France. Mr. Rich was a member of the University Club for
+				more than 60 years and the Union Club, both in New York City, as well as the Boca
+				Grande Club and Gasparilla Inn Club of Florida.</p>
+      <chronlist>
+        <head>Raymond A. Rich Work History</head>
+        <chronitem>
+          <date>1929</date>
+          <event><corpname>Theodore Roosevelt High School</corpname>, <address><addressline>Des Moines, Iowa</addressline></address></event>
+        </chronitem>
+        <chronitem>
+          <date>1935</date>
+          <event><corpname>Iowa State College</corpname> - B.S., Mechanical and Electrical
+						Engineering</event>
+        </chronitem>
+        <chronitem>
+          <date>1935 - 1941</date>
+          <event><corpname>Drake University</corpname> - Studied Law and Business</event>
+        </chronitem>
+        <chronitem>
+          <date>1935 - 1941</date>
+          <event><corpname>University of Arizona</corpname> - Studied Engineering and
+						Geology</event>
+        </chronitem>
+        <chronitem>
+          <date>1935 - 1941</date>
+          <event>Additional Sales Training and Engineering courses, <corpname>General
+							Electric Co.</corpname>, <address><addressline>Schenectady, N.Y.</addressline></address></event>
+        </chronitem>
+        <chronitem>
+          <date>1935 - 1941</date>
+          <event><corpname>General Electric Company</corpname>, <note><p>Began in engineering and subsequently served in personnel,
+								manufacturing and national sales executive capacities, and defense
+								operations. He became their youngest National Sales Manager at that
+								time. He was awarded the rare "E Award" for overseeing GE's multiple
+								war production plant facilities.</p></note></event>
+        </chronitem>
+        <chronitem>
+          <date>1942</date>
+          <event>War-time Activities: Smaller War Plants Corporation (Washington, D.C.) <note><p>Advisor to the Chairman</p></note></event>
+        </chronitem>
+        <chronitem>
+          <date>1942 -1944</date>
+          <event>War-time Activities: Committee for Economic Development <note><p>Mr. Rich was active in the establishment and administration of the
+								Committee for Economic Development in the Second and Third Federal
+								Reserve Districts.</p></note></event>
+        </chronitem>
+        <chronitem>
+          <date>1944 - 1946</date>
+          <event>War-time Activities: Active Duty <note><p>Volunteered for active duty in World War II and served as an officer
+								with the U.S. Navy in the Pacific for two years. He held the rank of
+								Lieutenant, U.S.N.R.</p></note></event>
+        </chronitem>
+        <chronitem>
+          <date>1946 - 1947</date>
+          <event><corpname>Van Doren, Nowland &amp;amp;amp; Schladermundt</corpname> (New York,
+						NY) <note><p>Mr. Rich became a partner in this consulting firm, which specialized
+								in the fields of engineering, market research, and product
+								development.</p></note></event>
+        </chronitem>
+        <chronitem>
+          <date>1948 - 1956</date>
+          <event><corpname>Philco Corporation</corpname>: Mr. Rich joined Philco in an
+						executive capacity in 1948.</event>
+        </chronitem>
+        <chronitem>
+          <date>1948 - 1956</date>
+          <event><corpname>Philco Corporation</corpname>: Appointed Vice President in
+							1950.</event>
+        </chronitem>
+        <chronitem>
+          <date>1948 - 1956</date>
+          <event><corpname>Philco Corporation</corpname>: Appointed to the Board of
+						Directors in 1954. Mr. Rich was General Manager of the Philco
+						Appliance Division for three years before resigning from the firm. He also
+						played an important part in the expansion of Philco's operations during his
+						eight years with the company.</event>
+        </chronitem>
+        <chronitem>
+          <date>1956 - 1957</date>
+          <event>
+            <corpname>AVCO Manufacturing Corporation</corpname>
+            <note>
+              <p>Appointed President in 1956. Mr. Rich was also elected a director and
+								a member of the executive committee upon being named president. AVCO
+								manufactured home appliances, farm equipment, and defense and
+								industrial products.</p>
+            </note>
+          </event>
+        </chronitem>
+        <chronitem>
+          <date>1958 - 1961</date>
+          <event>
+            <corpname>Canadian Hydrocarbons Limited</corpname>
+            <note>
+              <p>Elected Chairman of the Board, President, and CEO in 1958</p>
+            </note>
+          </event>
+        </chronitem>
+        <chronitem>
+          <date>1967</date>
+          <event>
+            <corpname>Patagonia Corporation,</corpname>
+            <note>
+              <p>Chairman of the Board and CEO.</p>
+            </note>
+          </event>
+        </chronitem>
+        <chronitem>
+          <date>1971</date>
+          <event>
+            <corpname>United States Filter Corporation,</corpname>
+            <note>
+              <p>Chairman of the Board and CEO.</p>
+            </note>
+          </event>
+        </chronitem>
+        <chronitem>
+          <date>1972</date>
+          <event>
+            <corpname>Filtrol Corporation,</corpname>
+            <note>
+              <p>Chairman of the Board. Filtrol merged with the United States Filter
+								Corporation in 1979.</p>
+            </note>
+          </event>
+        </chronitem>
+        <chronitem>
+          <date>1973</date>
+          <event>
+            <corpname>American Stock Exchange Listed Company Advisory
+							Committee</corpname>
+            <note>
+              <p>Chairman.</p>
+            </note>
+          </event>
+        </chronitem>
+        <chronitem>
+          <date>1956 - 1957</date>
+          <eventgrp>
+            <event>
+              <corpname>Crosley Broadcasting Corp. </corpname>
+              <note>
+                <p>Director</p>
+              </note>
+            </event>
+            <event>
+              <corpname>Moffats Ltd. </corpname>
+              <note>
+                <p>Director</p>
+              </note>
+            </event>
+            <event>
+              <corpname>AVCO Canada </corpname>
+              <note>
+                <p>Director</p>
+              </note>
+            </event>
+            <event>
+              <corpname>Crosley Distributing Corp. </corpname>
+              <note>
+                <p>President</p>
+              </note>
+            </event>
+            <event>
+              <corpname>Carrollton Furniture Co. </corpname>
+              <note>
+                <p>President</p>
+              </note>
+            </event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1957 - 1980</date>
+          <eventgrp>
+            <event>
+              <corpname>Knox Glass, Inc. </corpname>
+              <note>
+                <p>Chairman and CEO</p>
+              </note>
+            </event>
+            <event>
+              <corpname>McCall Corporation </corpname>
+              <note>
+                <p>Chairman and CEO</p>
+              </note>
+            </event>
+            <event>
+              <corpname>Hunt Foods &amp;amp;amp; Industries, Inc. </corpname>
+              <note>
+                <p>Director</p>
+              </note>
+            </event>
+            <event>
+              <corpname>Crucible Steel Corporation </corpname>
+              <note>
+                <p>Director</p>
+              </note>
+            </event>
+            <event>
+              <corpname>Mutual Fund Concern of Waddell &amp;amp;amp; Reed (United Fund) </corpname>
+              <note>
+                <p>Director</p>
+              </note>
+            </event>
+            <event>
+              <corpname>Canadian Homestead Oils Limited </corpname>
+              <note>
+                <p>Director</p>
+              </note>
+            </event>
+            <event>
+              <corpname>Fort St. John Petroleums Limited </corpname>
+              <note>
+                <p>Director</p>
+              </note>
+            </event>
+            <event>
+              <corpname>Elwill Development Limited </corpname>
+              <note>
+                <p>Director</p>
+              </note>
+            </event>
+            <event>
+              <corpname>Thunderbird Petroleums, Inc. </corpname>
+              <note>
+                <p>Director</p>
+              </note>
+            </event>
+            <event>
+              <corpname>Canadian Propane Oil &amp;amp;amp; Gas Limited </corpname>
+              <note>
+                <p>Director</p>
+              </note>
+            </event>
+            <event>
+              <corpname>Great Northern Gas Utilities Ltd. of Calgary </corpname>
+              <note>
+                <p>Chairman</p>
+              </note>
+            </event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>Lifetime</date>
+          <eventgrp>
+            <event>Clubs:</event>
+            <event>
+              <corpname>University Club (New York City)</corpname>
+              <note>
+                <p>Mr. Rich was a member of the University Club for over 50
+									continuous years.</p>
+              </note>
+            </event>
+            <event>
+              <corpname>Cotton Bay Club (Bahamas, B.W.I.)</corpname>
+            </event>
+            <event>
+              <corpname>Pinnacle Club (New York City)</corpname>
+            </event>
+            <event>
+              <corpname>Nantucket Yacht Club</corpname>
+            </event>
+          </eventgrp>
+        </chronitem>
+      </chronlist>
+    </bioghist>
+    <accessrestrict>
+      <p>Restricted collection. Permission must be granted to view the materials.</p>
+    </accessrestrict>
+    <userestrict>
+      <p>Individuals requesting reproductions expressly assume the responsibility for
+				compliance with all pertinent provisions of the Copyright Act, 17 U.S.C. ss101 et
+				seq. Patrons further agree to indemnify and hold harmless the Marist College
+				Archives <![CDATA[&amp;]]> Special Collections and its staff in connection with any
+				disputes arising from the Copyright Act, over the reproduction of material at the
+				request of patrons. For more information please visit the following website: </p>
+    </userestrict>
+    <prefercite>
+      <head>Preferred Citation</head>
+      <p>[Description of item, date, location of item in order of series, box number, folder
+				number ], in the Raymond A. Rich Collection, Archives and Special Collections,
+				James A. Cannavino Library, Marist College.</p>
+    </prefercite>
+    <arrangement>
+      <head>Arrangement of the Collection</head>
+      <p>These records are organized into four series: 1) Textual Materials, with eleven subseries, 2) Ephemera, with two subseries, 3) Photographic Materials, with eight subseries, and 4) Audiovisual Materials, with three subseries</p>
+    </arrangement>
+    <dsc type="combined">
+      <c01 level="series">
+        <did>
+          <unitid>1</unitid>
+          <unittitle>1. Textual Materials</unittitle>
+          <unitdate normal="2000">1912 - 2006</unitdate>
+          <physdesc>
+            <extent type="boxes">Boxes: 1 - 13</extent>
+          </physdesc>
+        </did>
+        <scopecontent>
+          <p>Series contains Articles (general), Artwork and Appraisals, Business
+						materials, Business Correspondence, Committee for Economic Development,
+						Correspondence, Personal and Biographical Information, Published Materials,
+						Speeches, World War II</p>
+        </scopecontent>
+        <arrangement>
+          <p>Subject</p>
+        </arrangement>
+        <c02 level="subseries">
+          <did>
+            <unitid>1.1</unitid>
+            <unittitle>Subseries 1.1: Articles - General</unittitle>
+            <unitdate normal="1963/1998">1963 - 1998</unitdate>
+            <physdesc>
+              <extent type="boxes">Boxes: 1</extent>
+              <extent type="folders">Folders: 1 - 3</extent>
+            </physdesc>
+          </did>
+          <arrangement>
+            <p>Chronological</p>
+          </arrangement>
+          <c03 level="file">
+            <did>
+              <container type="folder">1</container>
+              <unittitle>Clippings </unittitle>
+              <unitdate label="Date">1963 - 1967 </unitdate>
+              <container type="box">1</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">2</container>
+              <unittitle>Clippings </unittitle>
+              <unitdate label="Date">circa 1986 </unitdate>
+              <container type="box">1</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">3</container>
+              <unittitle>Clippings </unittitle>
+              <unitdate label="Date">1985 - 1998 </unitdate>
+              <container type="box">1</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid>1.2</unitid>
+            <unittitle>Subseries 1.2: Artwork and Appraisals</unittitle>
+            <unitdate normal="1977/1998">1977 - 1998</unitdate>
+            <physdesc>
+              <extent type="boxes">Boxes: 1 - 2</extent>
+              <extent type="folders">Folders: 4 - 9, 1 - 13</extent>
+            </physdesc>
+          </did>
+          <arrangement>
+            <p>Alphabetical</p>
+          </arrangement>
+          <c03 level="file">
+            <did>
+              <container type="folder">4</container>
+              <unittitle>Art Appraisals </unittitle>
+              <unitdate label="Date">1977 - 1981 </unitdate>
+              <container type="box">1</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">5</container>
+              <unittitle>Art Appraisals </unittitle>
+              <unitdate label="Date">1982 </unitdate>
+              <container type="box">1</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">6</container>
+              <unittitle>Art Appraisals </unittitle>
+              <unitdate label="Date">1985 </unitdate>
+              <container type="box">1</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">7</container>
+              <unittitle>Art Appraisals </unittitle>
+              <unitdate label="Date">1988 - 1989 </unitdate>
+              <container type="box">1</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">8</container>
+              <unittitle>Artwork Commissioned by and Purchased by Raymond A. Rich </unittitle>
+              <unitdate label="Date">1978 - 1993 </unitdate>
+              <container type="box">1</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">9</container>
+              <unittitle>Auction Catalog - Dorotheum </unittitle>
+              <unitdate label="Date">1982 January </unitdate>
+              <container type="box">1</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">1</container>
+              <unittitle>Auction Catalog - Dorotheum </unittitle>
+              <unitdate label="Date">1985 March </unitdate>
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">2</container>
+              <unittitle>Auction Catalog - Dorotheum </unittitle>
+              <unitdate label="Date">1985 June </unitdate>
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">3</container>
+              <unittitle>Auction Catalog - Dorotheum </unittitle>
+              <unitdate label="Date">1985 November </unitdate>
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">4</container>
+              <unittitle>Auction Catalog - Dorotheum </unittitle>
+              <unitdate label="Date">1986 June </unitdate>
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">5</container>
+              <unittitle>Auction Catalog - Dorotheum </unittitle>
+              <unitdate label="Date">1986 September </unitdate>
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">6</container>
+              <unittitle>Auction Catalog - Dorotheum </unittitle>
+              <unitdate label="Date">1987 December </unitdate>
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">7</container>
+              <unittitle>Auction Catalog - Dorotheum </unittitle>
+              <unitdate label="Date">1988 January </unitdate>
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">8</container>
+              <unittitle>Auction Catalog - Dorotheum </unittitle>
+              <unitdate label="Date">1988 March </unitdate>
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">9</container>
+              <unittitle>Auction Catalog - Dorotheum </unittitle>
+              <unitdate label="Date">1988 May </unitdate>
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">1</container>
+              <unittitle>Auction Catalog - Dorotheum </unittitle>
+              <unitdate label="Date">1988 November </unitdate>
+              <container type="box">3</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">2</container>
+              <unittitle>Auction Catalog - Dorotheum </unittitle>
+              <unitdate label="Date">1988 December </unitdate>
+              <container type="box">3</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">3</container>
+              <unittitle>Auction Catalog - Dorotheum </unittitle>
+              <unitdate label="Date">1989 April </unitdate>
+              <container type="box">3</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">4</container>
+              <unittitle>Auction Catalog - Dorotheum </unittitle>
+              <unitdate label="Date">1989 October </unitdate>
+              <container type="box">3</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">5</container>
+              <unittitle>Auction Catalog - Dorotheum </unittitle>
+              <unitdate label="Date">1989 October </unitdate>
+              <container type="box">3</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">6</container>
+              <unittitle>Auction Catalog - Dorotheum </unittitle>
+              <unitdate label="Date">1989 December </unitdate>
+              <container type="box">3</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">7</container>
+              <unittitle>Auction Catalog - Dorotheum </unittitle>
+              <unitdate label="Date">1990 February </unitdate>
+              <container type="box">3</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">8</container>
+              <unittitle>Auction Catalog - Dorotheum </unittitle>
+              <unitdate label="Date">1990 May </unitdate>
+              <container type="box">3</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">9</container>
+              <unittitle>Auction Catalog - Dorotheum </unittitle>
+              <unitdate label="Date">1991 December </unitdate>
+              <container type="box">3</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">10</container>
+              <unittitle>David L. Pakterm M.A., M.F.A - Master Portrait Painter </unittitle>
+              <unitdate label="Date">1990 - 1998 </unitdate>
+              <container type="box">3</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">11</container>
+              <unittitle>William Doyle Galleries Auction Catalog </unittitle>
+              <unitdate label="Date">1994 </unitdate>
+              <container type="box">3</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">12</container>
+              <unittitle>Materials Concerning the Reproduction of van Dyck Painting
+								Commissioned by Raymond A. Rich </unittitle>
+              <unitdate label="Date">1989 - 1990 </unitdate>
+              <container type="box">3</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">13</container>
+              <unittitle>Pricing list </unittitle>
+              <unitdate label="Date">1989 June </unitdate>
+              <container type="box">3</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid>1.3</unitid>
+            <unittitle>Subseries 1.3: Business</unittitle>
+            <unitdate normal="1956/2000">1956 - 2000</unitdate>
+            <physdesc>
+              <extent type="boxes">Boxes: 4 - 7</extent>
+              <extent type="folders">Folders: 1 - 11, 1 - 19, 1 - 12, 1 - 18</extent>
+            </physdesc>
+          </did>
+          <arrangement>
+            <p>Alphabetical</p>
+          </arrangement>
+          <c03 level="file">
+            <did>
+              <container type="folder">1</container>
+              <unittitle>American Stock Exchange </unittitle>
+              <unitdate label="Date">1972 February </unitdate>
+              <container type="box">4</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">2</container>
+              <unittitle>Ashland Oil Inc. - Annual Reports </unittitle>
+              <unitdate label="Date">1980 </unitdate>
+              <container type="box">4</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">3</container>
+              <unittitle>AVCO </unittitle>
+              <unitdate label="Date">1956 October - December </unitdate>
+              <container type="box">4</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">4</container>
+              <unittitle>AVCO </unittitle>
+              <unitdate label="Date">1957 </unitdate>
+              <container type="box">4</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">5</container>
+              <unittitle>AVCO </unittitle>
+              <unitdate label="Date">1957 July </unitdate>
+              <container type="box">4</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">6</container>
+              <unittitle>Bank of Tucson - annual reports </unittitle>
+              <unitdate label="Date">1961, 1963 </unitdate>
+              <container type="box">4</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">7</container>
+              <unittitle>Bank of Tucson </unittitle>
+              <unitdate label="Date">1967 January - June </unitdate>
+              <container type="box">4</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">8</container>
+              <unittitle>Bankers Trust Private Banking </unittitle>
+              <unitdate label="Date">1996 </unitdate>
+              <container type="box">4</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">9</container>
+              <unittitle>Canadian Homestead Oils - annual reports </unittitle>
+              <unitdate label="Date">1972, 1974 - 1975 </unitdate>
+              <container type="box">4</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">10</container>
+              <unittitle>Canadian Hydrocarbons Limited - annual reports </unittitle>
+              <unitdate label="Date">1967, 1969 - 1973 </unitdate>
+              <container type="box">4</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">11</container>
+              <unittitle>Canadian Hydrocarbons Limited - annual reports </unittitle>
+              <unitdate label="Date">1974 - 1977 </unitdate>
+              <container type="box">4</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">1</container>
+              <unittitle>Canadian Hydrocarbons Limited </unittitle>
+              <unitdate label="Date">1969 - 1974 </unitdate>
+              <container type="box">5</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">2</container>
+              <unittitle>Filtrol Corporation - annual reports </unittitle>
+              <unitdate label="Date">1972 - 1978 </unitdate>
+              <container type="box">5</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">3</container>
+              <unittitle>Filtrol </unittitle>
+              <unitdate label="Date">1973 - 1975 </unitdate>
+              <container type="box">5</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">4</container>
+              <unittitle>First Pittsburgh Corporation [see oversized box RAR-01] </unittitle>
+              <unitdate label="Date">1983 </unitdate>
+              <container type="box">5</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">5</container>
+              <unittitle>First Pittsburgh Corporation </unittitle>
+              <unitdate label="Date">1993 </unitdate>
+              <container type="box">5</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">6</container>
+              <unittitle>General Electric </unittitle>
+              <unitdate label="Date">1938 - 1943 </unitdate>
+              <container type="box">5</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">7</container>
+              <unittitle>Glass Blowers Association </unittitle>
+              <unitdate label="Date">1964 </unitdate>
+              <container type="box">5</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">8</container>
+              <unittitle>Great Northern Capital Company, LTD and Consolidated Toronto
+								Development Corporation, LTD </unittitle>
+              <unitdate label="Date">1963 September </unitdate>
+              <container type="box">5</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">9</container>
+              <unittitle>Great Western Bank </unittitle>
+              <unitdate label="Date">1968, 1970 </unitdate>
+              <container type="box">5</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">10</container>
+              <unittitle>Great Western Corporation - a subsidiary of the Patagonia
+								Corporation </unittitle>
+              <unitdate label="Date">1969 </unitdate>
+              <container type="box">5</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">11</container>
+              <unittitle>Great Western Corporation </unittitle>
+              <unitdate label="Date">1968 - 1981 </unitdate>
+              <container type="box">5</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">12</container>
+              <unittitle>Holmes &amp;amp;amp; Narver </unittitle>
+              <unitdate label="Date">1977 March </unitdate>
+              <container type="box">5</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">13</container>
+              <unittitle>J. P. Morgan </unittitle>
+              <unitdate label="Date">1999 - 2000 </unitdate>
+              <container type="box">5</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">14</container>
+              <unittitle>Knox Glass </unittitle>
+              <unitdate label="Date">1962 - 1965 </unitdate>
+              <container type="box">5</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">15</container>
+              <unittitle>Koehring </unittitle>
+              <unitdate label="Date">1978 - 1979 </unitdate>
+              <container type="box">5</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">16</container>
+              <unittitle>Lucent Technologies </unittitle>
+              <unitdate label="Date">1996 </unitdate>
+              <container type="box">5</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">17</container>
+              <unittitle>Maine Central Railroad Company </unittitle>
+              <unitdate label="Date">1976 - 1980 </unitdate>
+              <container type="box">5</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">18</container>
+              <unittitle>Patagonia - annual reports </unittitle>
+              <unitdate label="Date">1970 - 1975 </unitdate>
+              <container type="box">5</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">19</container>
+              <unittitle>Patagonia - annual reports </unittitle>
+              <unitdate label="Date">1976 - 1980 </unitdate>
+              <container type="box">5</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">1</container>
+              <unittitle>Patagonia </unittitle>
+              <unitdate label="Date">1971 May 14 </unitdate>
+              <container type="box">6</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">2</container>
+              <unittitle>Pima Savings and Loan Association </unittitle>
+              <unitdate label="Date">1973 </unitdate>
+              <container type="box">6</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">3</container>
+              <unittitle>Philco </unittitle>
+              <unitdate label="Date">1950 - 1956 </unitdate>
+              <container type="box">6</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">4</container>
+              <unittitle>The Riley Company </unittitle>
+              <unitdate label="Date">1979 </unitdate>
+              <container type="box">6</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">5</container>
+              <unittitle>The Slick Corporation </unittitle>
+              <unitdate label="Date">1969 - 1971 </unitdate>
+              <container type="box">6</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">6</container>
+              <unittitle>Slick Corporation </unittitle>
+              <unitdate label="Date">1971 June </unitdate>
+              <container type="box">6</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">7</container>
+              <unittitle>Slick Corporation </unittitle>
+              <unitdate label="Date">1971 - 1976 </unitdate>
+              <container type="box">6</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">8</container>
+              <unittitle>United States Filter Corporation - Slick Corporation Merger </unittitle>
+              <unitdate label="Date">1972 June 5 </unitdate>
+              <container type="box">6</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">9</container>
+              <unittitle>United States Filter Corporation - annual reports </unittitle>
+              <unitdate label="Date">1971 - 1976 </unitdate>
+              <container type="box">6</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">10</container>
+              <unittitle>United States Filter Corporation - annual reports </unittitle>
+              <unitdate label="Date">1977 - 1980 </unitdate>
+              <container type="box">6</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">11</container>
+              <unittitle>United States Filter Corporation </unittitle>
+              <unitdate label="Date">1977 </unitdate>
+              <container type="box">6</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">12</container>
+              <unittitle>United States Filter Corporation </unittitle>
+              <unitdate label="Date">1978 </unitdate>
+              <container type="box">6</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">1</container>
+              <unittitle>United States Filter Corporation </unittitle>
+              <unitdate label="Date">1977 - 1981 </unitdate>
+              <container type="box">7</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">2</container>
+              <unittitle>United States Filter Corporation </unittitle>
+              <unitdate label="Date">1981 </unitdate>
+              <container type="box">7</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">3</container>
+              <unittitle>United States Filter Corporation </unittitle>
+              <unitdate label="Date">1981 </unitdate>
+              <container type="box">7</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">4</container>
+              <unittitle>Van Doren, Nowland &amp;amp;amp; Schladermundt Industrial Designers </unittitle>
+              <unitdate label="Date">1944 - 1946 </unitdate>
+              <container type="box">7</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">5</container>
+              <unittitle>Waddel and Reed </unittitle>
+              <unitdate label="Date">1968 June </unitdate>
+              <container type="box">7</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">6</container>
+              <unittitle>York Research Limited Partnership (York Research Computer
+								Partnership) </unittitle>
+              <unitdate label="Date">1991 </unitdate>
+              <container type="box">7</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">7</container>
+              <unittitle>Miscellany </unittitle>
+              <unitdate label="Date">1957 - 1981 </unitdate>
+              <container type="box">7</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">8</container>
+              <unittitle>Miscellany </unittitle>
+              <unitdate label="Date">undated </unitdate>
+              <container type="box">7</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid>1.4</unitid>
+            <unittitle>Subseries 1.4: Business Correspondence</unittitle>
+            <unitdate normal="1943/1992">1943 - 1992</unitdate>
+            <physdesc>
+              <extent type="boxes">Box: 7</extent>
+              <extent type="folders">Folders: 9 - 10</extent>
+            </physdesc>
+          </did>
+          <arrangement>
+            <p>Chronological</p>
+          </arrangement>
+          <c03 level="file">
+            <did>
+              <container type="folder">9</container>
+              <unittitle>Business Correspondence - General </unittitle>
+              <unitdate label="Date">1943 - 1992 </unitdate>
+              <container type="box">7</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">10</container>
+              <unittitle>Thank You Letters to Raymond A. Rich for Talks Given to
+								Various Groups </unittitle>
+              <unitdate label="Date">1943 - 1944 </unitdate>
+              <container type="box">7</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid>1.5</unitid>
+            <unittitle>Subseries 1.5: Committee for Economic Development</unittitle>
+            <unitdate normal="1942/1944">1942 - 1944</unitdate>
+            <physdesc>
+              <extent type="boxes">Box: 7</extent>
+              <extent type="folders">Folders: 11 - 13</extent>
+            </physdesc>
+          </did>
+          <arrangement>
+            <p>Chronological</p>
+          </arrangement>
+          <c03 level="file">
+            <did>
+              <container type="folder">11</container>
+              <unittitle>Committee for Economic Development </unittitle>
+              <unitdate label="Date">1942 - 1943 </unitdate>
+              <container type="box">7</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">12</container>
+              <unittitle>Committee for Economic Development </unittitle>
+              <unitdate label="Date">1944 January - August </unitdate>
+              <container type="box">7</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">13</container>
+              <unittitle>Committee for Economic Development </unittitle>
+              <unitdate label="Date">1944 May - December </unitdate>
+              <container type="box">7</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid>1.6</unitid>
+            <unittitle>Subseries 1.6: Correspondence</unittitle>
+            <unitdate normal="1930/2006">1930 - 2006</unitdate>
+            <physdesc>
+              <extent type="boxes">Box: 8</extent>
+              <extent type="folders">Folders: 1 - 5</extent>
+            </physdesc>
+          </did>
+          <arrangement>
+            <p>Chronological</p>
+          </arrangement>
+          <c03 level="file">
+            <did>
+              <container type="folder">1</container>
+              <unittitle>Correspondence </unittitle>
+              <unitdate label="Date">1930 - 1944 </unitdate>
+              <container type="box">8</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">2</container>
+              <unittitle>Correspondence </unittitle>
+              <unitdate label="Date">1967 </unitdate>
+              <container type="box">8</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">3</container>
+              <unittitle>Correspondence </unittitle>
+              <unitdate label="Date">1994 </unitdate>
+              <container type="box">8</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">4</container>
+              <unittitle>Correspondence </unittitle>
+              <unitdate label="Date">2003 </unitdate>
+              <container type="box">8</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">5</container>
+              <unittitle>Correspondence </unittitle>
+              <unitdate label="Date">2005 - 2006 </unitdate>
+              <container type="box">8</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid>1.7</unitid>
+            <unittitle>Subseries 1.7: Oliver Hazard Payne Estate (or Omega Mansion, or
+							Esopus Estate)</unittitle>
+            <unitdate normal="1979/2008">1979 - 2008</unitdate>
+            <physdesc>
+              <extent type="boxes">Boxes: 8 - 11</extent>
+              <extent type="folders">Folders: 6 - 10, 1 - 9, 1 - 10, 1 - 4</extent>
+            </physdesc>
+          </did>
+          <arrangement>
+            <p>Alphabetical</p>
+          </arrangement>
+          <c03 level="file">
+            <did>
+              <container type="folder">6</container>
+              <unittitle>Blueprints of Payne Mansion - 'House for Mrs. Fuller, Esopus'
+								(set of 3 blueprints) Carrere &amp;amp;amp; Hastings, Architects, Clark
+								&amp;amp;amp; MacMillen, Inc. Consulting Engineers, 20 Broad St. New York </unittitle>
+              <unitdate label="Date">1917 - 1986 </unitdate>
+              <container type="box">8</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">7</container>
+              <unittitle>Boathouse </unittitle>
+              <unitdate label="Date">1986 - 1987 </unitdate>
+              <container type="box">8</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">8</container>
+              <unittitle>Boathouse </unittitle>
+              <unitdate label="Date">1987 </unitdate>
+              <container type="box">8</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">9</container>
+              <unittitle>Boathouse </unittitle>
+              <unitdate label="Date">1987 - 1988 </unitdate>
+              <container type="box">8</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">10</container>
+              <unittitle>Boathouse </unittitle>
+              <unitdate label="Date">1987 - 1988 </unitdate>
+              <container type="box">8</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">1</container>
+              <unittitle>Boathouse </unittitle>
+              <unitdate label="Date">1986 - 2003 </unitdate>
+              <container type="box">9</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">2</container>
+              <unittitle>Boathouse </unittitle>
+              <unitdate label="Date">1987 </unitdate>
+              <container type="box">9</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">3</container>
+              <unittitle>Construction </unittitle>
+              <unitdate label="Date">1986 - 1988 </unitdate>
+              <container type="box">9</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">4</container>
+              <unittitle>Construction </unittitle>
+              <unitdate label="Date">circa 2008 </unitdate>
+              <container type="box">9</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">5</container>
+              <unittitle>Correspondence </unittitle>
+              <unitdate label="Date">1991 - 1993 </unitdate>
+              <container type="box">9</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">6</container>
+              <unittitle>Correspondence concerning surrounding land and Town of Esopus
+								Zoning </unittitle>
+              <unitdate label="Date">1986 </unitdate>
+              <container type="box">9</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">7</container>
+              <unittitle>History - 'Colonel Payne's West Park Legacy,' by Julie
+								O'Corozine in Ulster Autumn '92 </unittitle>
+              <unitdate label="Date">1992 </unitdate>
+              <container type="box">9</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">8</container>
+              <unittitle>History - 'Colonel Payne's West Park Legacy,' by Julie
+								O'Corozine in Ulster Autumn '92 </unittitle>
+              <unitdate label="Date">1992 </unitdate>
+              <container type="box">9</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">9</container>
+              <unittitle>History - Oliver Hazard Payne and the Payne Mansion </unittitle>
+              <unitdate label="Date">1917 - 1986 </unitdate>
+              <container type="box">9</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">1</container>
+              <unittitle>History - Town of Esopus </unittitle>
+              <unitdate label="Date">1979 , 1992 </unitdate>
+              <container type="box">10</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">2</container>
+              <unittitle>Maps - Esopus Estate property map </unittitle>
+              <unitdate label="Date">1985 </unitdate>
+              <container type="box">10</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">3</container>
+              <unittitle>Maps - maps and preservation </unittitle>
+              <unitdate label="Date">circa 1986 </unitdate>
+              <container type="box">10</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">4</container>
+              <unittitle>Maps - Property map prepared for Thomas S. Weary, Trustee of
+								Omega Trust </unittitle>
+              <unitdate label="Date">1986 May 29 </unitdate>
+              <container type="box">10</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">5</container>
+              <unittitle>Dr. Richard Foy (contains photographic prints) </unittitle>
+              <unitdate label="Date">2004 </unitdate>
+              <container type="box">10</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">6</container>
+              <unittitle>Marist Brothers and Omega Trust </unittitle>
+              <unitdate label="Date">circa 1979 - 1989 </unitdate>
+              <container type="box">10</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">7</container>
+              <unittitle>Marist Brothers and Omega Trust </unittitle>
+              <unitdate label="Date">1986 </unitdate>
+              <container type="box">10</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">8</container>
+              <unittitle>Marist Brothers and Omega Trust </unittitle>
+              <unitdate label="Date">1986 - 1991 </unitdate>
+              <container type="box">10</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">9</container>
+              <unittitle>Marist Brothers and Omega Trust </unittitle>
+              <unitdate label="Date">1986 - 1991 </unitdate>
+              <container type="box">10</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">10</container>
+              <unittitle>Marist Brothers and Omega Trust </unittitle>
+              <unitdate label="Date">1986 - 1992 </unitdate>
+              <container type="box">10</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">1</container>
+              <unittitle>Property taxes </unittitle>
+              <unitdate label="Date">1986 - 1999 </unitdate>
+              <container type="box">11</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">2</container>
+              <unittitle>Property taxes </unittitle>
+              <unitdate label="Date">2000 - 2008 </unitdate>
+              <container type="box">11</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">3</container>
+              <unittitle>Register of Historic Places </unittitle>
+              <unitdate label="Date">2002 </unitdate>
+              <container type="box">11</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">4</container>
+              <unittitle>Zoning </unittitle>
+              <unitdate label="Date">1990 </unitdate>
+              <container type="box">11</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid>1.8</unitid>
+            <unittitle>Subseries 1.8: Personal and Biographical Information</unittitle>
+            <unitdate normal="1912/1984">1912 - 1984</unitdate>
+            <physdesc>
+              <extent type="boxes">Boxes: 11 - 12</extent>
+              <extent type="folders">Folders: 5 - 11, 1 - 12</extent>
+            </physdesc>
+          </did>
+          <arrangement>
+            <p>Alphabetical</p>
+          </arrangement>
+          <c03 level="file">
+            <did>
+              <container type="folder">5</container>
+              <unittitle>Ancient Order of the Beefeater </unittitle>
+              <unitdate label="Date">1978 May 31 </unitdate>
+              <container type="box">11</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">6</container>
+              <unittitle>Biographical Information </unittitle>
+              <unitdate label="Date">circa 1940s - 1982 </unitdate>
+              <container type="box">11</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">7</container>
+              <unittitle>Birth Certificates </unittitle>
+              <unitdate label="Date">1912 - 1930 </unitdate>
+              <container type="box">11</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">8</container>
+              <unittitle>Career narratives </unittitle>
+              <unitdate label="Date">circa 1981 </unitdate>
+              <container type="box">11</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">9</container>
+              <unittitle>Castles </unittitle>
+              <unitdate label="Date">circa 1999 </unitdate>
+              <container type="box">11</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">10</container>
+              <unittitle>Civic Players </unittitle>
+              <unitdate label="Date">1935 - 1937 </unitdate>
+              <container type="box">11</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">11</container>
+              <unittitle>Clubs - Union Club </unittitle>
+              <unitdate label="Date">1982 </unitdate>
+              <container type="box">11</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">1</container>
+              <unittitle>Clubs - University Club </unittitle>
+              <unitdate label="Date">1994 </unitdate>
+              <container type="box">12</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">2</container>
+              <unittitle>Coat of Arms </unittitle>
+              <unitdate label="Date">undated </unitdate>
+              <container type="box">12</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">3</container>
+              <unittitle>Identification Cards </unittitle>
+              <unitdate label="Date">circa 1930s - 1940s </unitdate>
+              <container type="box">12</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">4</container>
+              <unittitle>Iowa State College </unittitle>
+              <unitdate label="Date">1931 - 1935 </unitdate>
+              <container type="box">12</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">5</container>
+              <unittitle>Marriage record </unittitle>
+              <unitdate label="Date">1930 </unitdate>
+              <container type="box">12</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">6</container>
+              <unittitle>Lucy I. Rich Death Certificate </unittitle>
+              <unitdate label="Date">1991 </unitdate>
+              <container type="box">12</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">7</container>
+              <unittitle>Theodore Roosevelt High School </unittitle>
+              <unitdate label="Date">1930 </unitdate>
+              <container type="box">12</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">8</container>
+              <unittitle>University of Arizona </unittitle>
+              <unitdate label="Date">1944 </unitdate>
+              <container type="box">12</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">9</container>
+              <unittitle>Miscellany </unittitle>
+              <unitdate label="Date">undated </unitdate>
+              <container type="box">12</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid>1.9</unitid>
+            <unittitle>Subseries 1.9: Published Materials</unittitle>
+            <unitdate normal="1937/1999">1937 - 1999</unitdate>
+            <physdesc>
+              <extent type="boxes">Boxes: 12 - 13</extent>
+              <extent type="folders">Folders: 10 - 17, 1 - 4</extent>
+            </physdesc>
+          </did>
+          <arrangement>
+            <p>Alphabetical</p>
+          </arrangement>
+          <c03 level="file">
+            <did>
+              <container type="folder">10</container>
+              <unittitle>Bellevue 1, January 1999 (article in German on Raymond A.
+								Rich p. 26-31) </unittitle>
+              <unitdate label="Date">1999 January </unitdate>
+              <container type="box">12</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">11</container>
+              <unittitle>Bellevue 1, January 1999 (article in German on Raymond A.
+								Rich p. 26-31) </unittitle>
+              <unitdate label="Date">1999 January </unitdate>
+              <container type="box">12</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">12</container>
+              <unittitle>Down East: The Magazine of Maine </unittitle>
+              <unitdate label="Date">1986 June </unitdate>
+              <container type="box">12</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">13</container>
+              <unittitle>Forbes (article on AVCO p. 15-18) </unittitle>
+              <unitdate label="Date">1957 April 1 </unitdate>
+              <container type="box">12</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">14</container>
+              <unittitle>Forbes (400 richest people) </unittitle>
+              <unitdate label="Date">1987 </unitdate>
+              <container type="box">12</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">15</container>
+              <unittitle>Forbes (the 500 annual directory) </unittitle>
+              <unitdate label="Date">1988 </unitdate>
+              <container type="box">12</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">16</container>
+              <unittitle>Fortune (article concerning Raymond A. Rich p.146-151,
+								224-244) </unittitle>
+              <unitdate label="Date">1965 June </unitdate>
+              <container type="box">12</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">17</container>
+              <unittitle>Fortune (article concerning Raymond A. Rich p.146-151,
+								224-244) </unittitle>
+              <unitdate label="Date">1965 June </unitdate>
+              <container type="box">12</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">1</container>
+              <unittitle>Fortune (article concerning Raymond A. Rich p.146-151,
+								224-244) </unittitle>
+              <unitdate label="Date">1965 June </unitdate>
+              <container type="box">13</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">2</container>
+              <unittitle>Fortune (article concerning Raymond A. Rich p.146-151,
+								224-244) </unittitle>
+              <unitdate label="Date">1965 June </unitdate>
+              <container type="box">13</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">3</container>
+              <unittitle>Investor's Future (article on AVCO p. 19-21) </unittitle>
+              <unitdate label="Date">1937 May </unitdate>
+              <container type="box">13</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">4</container>
+              <unittitle>Saturday Review [found within June 1965 Fortune] </unittitle>
+              <unitdate label="Date">1966 February 12 </unitdate>
+              <container type="box">13</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid>1.10</unitid>
+            <unittitle>Subseries 1.10: Speeches</unittitle>
+            <unitdate normal="1943/1966">1943 - 1966</unitdate>
+            <physdesc>
+              <extent type="boxes">Box: 13</extent>
+              <extent type="folders">Folders: 5 - 6</extent>
+            </physdesc>
+          </did>
+          <arrangement>
+            <p>Chronological</p>
+          </arrangement>
+          <c03 level="file">
+            <did>
+              <container type="folder">5</container>
+              <unittitle>Raymond A. Rich Speeches </unittitle>
+              <unitdate label="Date">1943 - 1955 </unitdate>
+              <container type="box">13</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">6</container>
+              <unittitle>Raymond A. Rich Speeches </unittitle>
+              <unitdate label="Date">1956 - 1966 </unitdate>
+              <container type="box">13</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid>1.11</unitid>
+            <unittitle>Subseries 1.11: World War II</unittitle>
+            <unitdate normal="1943/1946">1943 - 1946</unitdate>
+            <physdesc>
+              <extent type="boxes">Box: 13</extent>
+              <extent type="folders">Folders: 7 - 12</extent>
+            </physdesc>
+          </did>
+          <arrangement>
+            <p>Alphabetical by Subject</p>
+          </arrangement>
+          <c03 level="file">
+            <did>
+              <container type="folder">7</container>
+              <unittitle>Additional Information for Application for [Naval]
+								Commission� </unittitle>
+              <unitdate label="Date">1944 </unitdate>
+              <container type="box">13</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">8</container>
+              <unittitle>Correspondence </unittitle>
+              <unitdate label="Date">1943 - 1946 </unitdate>
+              <container type="box">13</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">9</container>
+              <unittitle>General Information </unittitle>
+              <unitdate label="Date">1944 - 1946 </unitdate>
+              <container type="box">13</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">10</container>
+              <unittitle>Letters Written in Support of Raymond A. Rich�s Application
+								for a Naval Officer�s Commission </unittitle>
+              <unitdate label="Date">1944 March - April </unitdate>
+              <container type="box">13</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">11</container>
+              <unittitle>Letters Congratulating Raymond A. Rich Regarding His Naval
+								Commission </unittitle>
+              <unitdate label="Date">1944 March - July </unitdate>
+              <container type="box">13</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">12</container>
+              <unittitle>Letters Congratulating Raymond A. Rich Regarding His Naval
+								Commission </unittitle>
+              <unitdate label="Date">1944 August - 1945 January </unitdate>
+              <container type="box">13</container>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unitid>2</unitid>
+          <unittitle>2. Ephemera</unittitle>
+          <unitdate normal="1969/1981">1969 - 1981</unitdate>
+          <physdesc>
+            <extent type="boxes">Boxes: 14 - 17</extent>
+          </physdesc>
+        </did>
+        <scopecontent>
+          <p>Series contains memorabilia and objects</p>
+        </scopecontent>
+        <arrangement>
+          <p>Type</p>
+        </arrangement>
+        <c02 level="subseries">
+          <did>
+            <unitid>2.1</unitid>
+            <unittitle>Subseries 2.1: Memorabilia</unittitle>
+            <unitdate normal="1969/1981">1969 - 1981</unitdate>
+            <physdesc>
+              <extent type="boxes">Boxes: 14 - 16</extent>
+              <extent type="folders">Folders: 1 - 5, 1 - 8, 1 - 4</extent>
+            </physdesc>
+          </did>
+          <arrangement>
+            <p>Type</p>
+          </arrangement>
+          <c03 level="file">
+            <did>
+              <container type="folder">1</container>
+              <unittitle>Desk trinket - Canadian Hydrocarbons Limited acrylic stock
+								offering (2 3/4 in x 2 3/4 in x 2 3/4 in) </unittitle>
+              <unitdate label="Date">1969 </unitdate>
+              <container type="box">14</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">2</container>
+              <unittitle>Desk trinket - Patagonia Corporation acrylic stock offering
+								(4 3/4 in x 5 in x 1 1/2 in) </unittitle>
+              <unitdate label="Date">1971 </unitdate>
+              <container type="box">14</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">3</container>
+              <unittitle>Desk trinket - United States Filter Corporation acrylic stock
+								offering (5 1/2 in x 5 1/2 in x 1 in) </unittitle>
+              <unitdate label="Date">1978 </unitdate>
+              <container type="box">14</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">4</container>
+              <unittitle>Desk trinket - United States Filter Corporation acrylic
+								Raymond A. Rich appreciation dinner (5 1/2 in x 5 1/2 in x 3/4 in) </unittitle>
+              <unitdate label="Date">1981 November 12 </unitdate>
+              <container type="box">14</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">5</container>
+              <unittitle>Desk trinket - United States Filter Corporation acrylic
+								Raymond A. Rich appreciation dinner (5 1/2 in x 5 1/2 in x 3/4 in) </unittitle>
+              <unitdate label="Date">1981 November 12 </unitdate>
+              <container type="box">14</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">1</container>
+              <unittitle>Desk trinket - United States Filter Corporation acrylic
+								Raymond A. Rich appreciation dinner (5 1/2 in x 5 1/2 in x 3/4 in) </unittitle>
+              <unitdate label="Date">1981 November 12 </unitdate>
+              <container type="box">15</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">2</container>
+              <unittitle>Desk trinket - United States Filter Corporation acrylic
+								Raymond A. Rich appreciation dinner (5 1/2 in x 5 1/2 in x 3/4 in) </unittitle>
+              <unitdate label="Date">1981 November 12 </unitdate>
+              <container type="box">15</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">3</container>
+              <unittitle>Desk trinket - United States Filter Corporation acrylic
+								Raymond A. Rich appreciation dinner (5 1/2 in x 5 1/2 in x 3/4 in) </unittitle>
+              <unitdate label="Date">1981 November 12 </unitdate>
+              <container type="box">15</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">4</container>
+              <unittitle>Desk trinket - United States Filter Corporation acrylic
+								Raymond A. Rich appreciation dinner (5 1/2 in x 5 1/2 in x 3/4 in) </unittitle>
+              <unitdate label="Date">1981 November 12 </unitdate>
+              <container type="box">15</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">5</container>
+              <unittitle>Desk trinket - United States Filter Corporation acrylic
+								Raymond A. Rich appreciation dinner (5 1/2 in x 5 1/2 in x 3/4 in) </unittitle>
+              <unitdate label="Date">1981 November 12 </unitdate>
+              <container type="box">15</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">6</container>
+              <unittitle>Desk trinket - Patagonia Corporation acquisition of Model
+								Finance Company (3 in x 3 in x 1 in) </unittitle>
+              <unitdate label="Date">undated </unitdate>
+              <container type="box">15</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">7</container>
+              <unittitle>Desk trinket - United States Filter Corporation acrylic
+								Raymond A. Rich appreciation dinner (5 1/2 in x 5 1/2 in x 3/4 in) </unittitle>
+              <unitdate label="Date">1981 November 12 </unitdate>
+              <container type="box">15</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">8</container>
+              <unittitle>Desk trinket - United States Filter Corporation acrylic
+								Raymond A. Rich appreciation dinner (5 1/2 in x 5 1/2 in x 3/4 in) </unittitle>
+              <unitdate label="Date">1981 November 12 </unitdate>
+              <container type="box">15</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">1</container>
+              <unittitle>Plaque - Patagonia Corporation stock offering </unittitle>
+              <unitdate label="Date">1971 December 17 </unitdate>
+              <container type="box">16</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">2</container>
+              <unittitle>Plaque - Patagonia Corporation stock offering </unittitle>
+              <unitdate label="Date">1971 December 17 </unitdate>
+              <container type="box">16</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">3</container>
+              <unittitle>Plaque - Patagonia Corporation stock offering </unittitle>
+              <unitdate label="Date">1971 December 17 </unitdate>
+              <container type="box">16</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">4</container>
+              <unittitle>Plaque - U.S. Filter Corporation Fortune 500 number 465 </unittitle>
+              <unitdate label="Date">1977 May </unitdate>
+              <container type="box">16</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid>2.2</unitid>
+            <unittitle>Subseries 2.2: Objects</unittitle>
+            <physdesc>
+              <extent type="boxes">Box: 17</extent>
+              <extent type="folders">Folders: 1 - 9</extent>
+            </physdesc>
+          </did>
+          <arrangement>
+            <p>Alphabetical by Type</p>
+          </arrangement>
+          <c03 level="file">
+            <did>
+              <container type="folder">1</container>
+              <unittitle>Ashtray - First Navajo National Bank </unittitle>
+              <unitdate label="Date">undated </unitdate>
+              <container type="box">17</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">2</container>
+              <unittitle>Ashtray - First Navajo National Bank </unittitle>
+              <unitdate label="Date">undated </unitdate>
+              <container type="box">17</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">3</container>
+              <unittitle>Ashtray - First Navajo National Bank </unittitle>
+              <unitdate label="Date">undated </unitdate>
+              <container type="box">17</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">4</container>
+              <unittitle>Kodak Carousel Transvue 140 slide tray </unittitle>
+              <unitdate label="Date">undated </unitdate>
+              <container type="box">17</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">5</container>
+              <unittitle>3.5in floppy diskette "Ray Rich Ranch RR Ranch" [contains
+								JPEG images of the Rich Ranch] </unittitle>
+              <unitdate label="Date">undated </unitdate>
+              <container type="box">17</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">6</container>
+              <unittitle>3.5in floppy diskette "Ray Rich Ranch RR Ranch" [contains
+								JPEG images of the Rich Ranch] </unittitle>
+              <unitdate label="Date">undated </unitdate>
+              <container type="box">17</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">7</container>
+              <unittitle>3.5in floppy diskette "Ray Rich Ranch RR Ranch" [contains
+								JPEG images of the Rich Ranch] </unittitle>
+              <unitdate label="Date">undated </unitdate>
+              <container type="box">17</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">8</container>
+              <unittitle>3.5in floppy diskette "Ray Rich Ranch RR Ranch" [contains
+								JPEG images of the Rich Ranch] </unittitle>
+              <unitdate label="Date">undated </unitdate>
+              <container type="box">17</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">9</container>
+              <unittitle>3.5in floppy diskette "Ray Rich Ranch RR Ranch" [contains
+								JPEG images of the Rich Ranch] </unittitle>
+              <unitdate label="Date">undated </unitdate>
+              <container type="box">17</container>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unitid>3</unitid>
+          <unittitle>3. Photographic Materials</unittitle>
+          <unitdate normal="1936/1999">1936 - 1990s</unitdate>
+          <physdesc>
+            <extent type="boxes">Box: 18 - 24</extent>
+          </physdesc>
+        </did>
+        <scopecontent>
+          <p>Series contains photos of artwork, business, committee for economic
+						development, O.H. Payne, Omega Mansion, Personal, Miscellaneous, and World
+						War II</p>
+        </scopecontent>
+        <arrangement>
+          <p>By subject</p>
+        </arrangement>
+        <c02 level="subseries">
+          <did>
+            <unitid>3.1</unitid>
+            <unittitle>Subseries 3.1: Artwork</unittitle>
+            <unitdate normal="1980/1999">1980s - 1990s</unitdate>
+            <physdesc>
+              <extent type="boxes">Box: 18</extent>
+              <extent type="folders">Folders: 1 - 4</extent>
+            </physdesc>
+          </did>
+          <arrangement>
+            <p>By Subject</p>
+          </arrangement>
+          <c03 level="file">
+            <did>
+              <container type="folder">1</container>
+              <unittitle>Artwork </unittitle>
+              <unitdate label="Date">1989 </unitdate>
+              <container type="box">18</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">2</container>
+              <unittitle>Artwork in Raymond A. Rich&amp;amp;#39;s Homes </unittitle>
+              <unitdate label="Date">Undated </unitdate>
+              <container type="box">18</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">3</container>
+              <unittitle>Artwork in Raymond A. Rich&amp;amp;#39;s Homes </unittitle>
+              <unitdate label="Date">Circa 1980s - 1990s </unitdate>
+              <container type="box">18</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">4</container>
+              <unittitle>Raymond A. Rich with Van Dyck Painting </unittitle>
+              <unitdate label="Date">Circa 1990s </unitdate>
+              <container type="box">18</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid>3.2</unitid>
+            <unittitle>Subseries 3.2: Business</unittitle>
+            <unitdate normal="1936/1982">1936 - 1982</unitdate>
+            <physdesc>
+              <extent type="boxes">Boxes: 18 - 21</extent>
+              <extent type="folders">Folders: 5 - 14, 1 - 15, 1 - 14, 1 - 11</extent>
+            </physdesc>
+          </did>
+          <arrangement>
+            <p>Alphabetical by Subject</p>
+          </arrangement>
+          <c03 level="file">
+            <did>
+              <container type="folder">5</container>
+              <unittitle>Avco - Miscellaneous </unittitle>
+              <unitdate label="Date">Circa 1957 </unitdate>
+              <container type="box">18</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">6</container>
+              <unittitle>Avco - Raymond A. Rich Touring Fort Dodge Plant </unittitle>
+              <unitdate label="Date">February 19, 1957 </unitdate>
+              <container type="box">18</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">7</container>
+              <unittitle>Avco - Raymond A. Rich Visit to Coldwater </unittitle>
+              <unitdate label="Date">October 10, 1957 </unitdate>
+              <container type="box">18</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">8</container>
+              <unittitle>Avco - Raymond A. Rich, Recently Elected President, Visiting
+								Crosley Division Plant </unittitle>
+              <unitdate label="Date">1957 </unitdate>
+              <container type="box">18</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">9</container>
+              <unittitle>Avco - Raymond A. Rich Visit to Lycoming Division,
+								Williamsport, Pa </unittitle>
+              <unitdate label="Date">January 1957 </unitdate>
+              <container type="box">18</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">10</container>
+              <unittitle>Business Dinners at Raymond A. Rich&amp;amp;#39;s Homes </unittitle>
+              <unitdate label="Date">1976, 1978-1979, Undated </unitdate>
+              <container type="box">18</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">11</container>
+              <unittitle>Business Dinners at Raymond A. Rich&amp;amp;#39;s Homes </unittitle>
+              <unitdate label="Date">1979 </unitdate>
+              <container type="box">18</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">12</container>
+              <unittitle>Business Dinners at Raymond A. Rich&amp;amp;#39;s Homes </unittitle>
+              <unitdate label="Date">1978-1980, Undated </unitdate>
+              <container type="box">18</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">13</container>
+              <unittitle>Business Dinners at Raymond A. Rich&amp;amp;#39;s Homes </unittitle>
+              <unitdate label="Date">1979-1980, Undated </unitdate>
+              <container type="box">18</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">14</container>
+              <unittitle>Business Dinners at Raymond A. Rich&amp;amp;#39;s Homes </unittitle>
+              <unitdate label="Date">1978-1981, Undated </unitdate>
+              <container type="box">18</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">1</container>
+              <unittitle>Business Dinners at Raymond A. Rich&amp;amp;#39;s Homes </unittitle>
+              <unitdate label="Date">1980, Undated </unitdate>
+              <container type="box">19</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">2</container>
+              <unittitle>Business Dinners at Raymond A. Rich&amp;amp;#39;s Homes </unittitle>
+              <unitdate label="Date">1980-1981 </unitdate>
+              <container type="box">19</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">3</container>
+              <unittitle>Business Dinners at Raymond A. Rich&amp;amp;#39;s Homes </unittitle>
+              <unitdate label="Date">1981, Undated </unitdate>
+              <container type="box">19</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">4</container>
+              <unittitle>Business Events </unittitle>
+              <unitdate label="Date">1976, 1979, 1987, Undated </unitdate>
+              <container type="box">19</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">5</container>
+              <unittitle>Canadian Gasoline Event (See Oversized Box 7 File 1) </unittitle>
+              <unitdate label="Date">Undated </unitdate>
+              <container type="box">19</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">6</container>
+              <unittitle>Dinner Events at the Waldorf-Astoria </unittitle>
+              <unitdate label="Date">1977, 1979, 1980, Undated </unitdate>
+              <container type="box">19</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">7</container>
+              <unittitle>Dinner Events at the Waldorf-Astoria </unittitle>
+              <unitdate label="Date">1981, Undated </unitdate>
+              <container type="box">19</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">8</container>
+              <unittitle>Early Business Career Photos (See Oversized Box 6 File 1) </unittitle>
+              <unitdate label="Date">Undated </unitdate>
+              <container type="box">19</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">9</container>
+              <unittitle>Fitrol Corporation </unittitle>
+              <unitdate label="Date">December 5, 1979 </unitdate>
+              <container type="box">19</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">10</container>
+              <unittitle>Fitrol Corporation Board Event </unittitle>
+              <unitdate label="Date">1976, Undated </unitdate>
+              <container type="box">19</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">11</container>
+              <unittitle>General Electric </unittitle>
+              <unitdate label="Date">Circa 1935-1941 </unitdate>
+              <container type="box">19</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">12</container>
+              <unittitle>Miscellaneous </unittitle>
+              <unitdate label="Date">Circa 1950-1970s </unitdate>
+              <container type="box">19</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">13</container>
+              <unittitle>Philco Convention </unittitle>
+              <unitdate label="Date">1950 </unitdate>
+              <container type="box">19</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">14</container>
+              <unittitle>Philco Convention </unittitle>
+              <unitdate label="Date">1951 </unitdate>
+              <container type="box">19</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">15</container>
+              <unittitle>Philco Conventions </unittitle>
+              <unitdate label="Date">1949-1953 </unitdate>
+              <container type="box">19</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">1</container>
+              <unittitle>Philco Corporation </unittitle>
+              <unitdate label="Date">Circa 1948-1956 </unitdate>
+              <container type="box">20</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">2</container>
+              <unittitle>Rail X Ranch Meeting </unittitle>
+              <unitdate label="Date">1968 </unitdate>
+              <container type="box">20</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">3</container>
+              <unittitle>Rail X Ranch Meeting </unittitle>
+              <unitdate label="Date">1969 </unitdate>
+              <container type="box">20</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">4</container>
+              <unittitle>Rail X Ranch Meeting </unittitle>
+              <unitdate label="Date">1967, 1977 </unitdate>
+              <container type="box">20</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">5</container>
+              <unittitle>Rail X Ranch Meeting </unittitle>
+              <unitdate label="Date">Undated </unitdate>
+              <container type="box">20</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">6</container>
+              <unittitle>Raymond A. Rich Business Events </unittitle>
+              <unitdate label="Date">1979-1980, Undated </unitdate>
+              <container type="box">20</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">7</container>
+              <unittitle>Raymond A. Rich Business Events (See Oversized Box 7 File 2) </unittitle>
+              <unitdate label="Date">Undated </unitdate>
+              <container type="box">20</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">8</container>
+              <unittitle>Raymond A. Rich Early Business Career </unittitle>
+              <unitdate label="Date">1936, 1950, 1952, Undated </unitdate>
+              <container type="box">20</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">9</container>
+              <unittitle>Raymond A. Rich Early Business Career </unittitle>
+              <unitdate label="Date">1936, 1949, Undated </unitdate>
+              <container type="box">20</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">10</container>
+              <unittitle>Raymond A. Rich Early Business Career </unittitle>
+              <unitdate label="Date">1964,Undated </unitdate>
+              <container type="box">20</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">11</container>
+              <unittitle>Raymond A. Rich in the Boardroom (See Oversized Box 7 File 3) </unittitle>
+              <unitdate label="Date">1965, Undated </unitdate>
+              <container type="box">20</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">12</container>
+              <unittitle>Raymond A. Rich in the Boardroom </unittitle>
+              <unitdate label="Date">Undated </unitdate>
+              <container type="box">20</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">13</container>
+              <unittitle>Raymond A. Rich in the Boardroom </unittitle>
+              <unitdate label="Date">1976, Undated </unitdate>
+              <container type="box">20</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">14</container>
+              <unittitle>Sale of GWB Event </unittitle>
+              <unitdate label="Date">1980, Undated </unitdate>
+              <container type="box">20</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">1</container>
+              <unittitle>Scrapbook of Business Events at Raymond A. Rich&amp;amp;#39;s Homes
+								(See Oversized Box 5) </unittitle>
+              <unitdate label="Date">Undated </unitdate>
+              <container type="box">21</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">2</container>
+              <unittitle>Scrapbook of the US Filter Corporation Controller Conference
+								at Raymond A. Rich&amp;amp;#39;s Home (See Oversized Box 4) </unittitle>
+              <unitdate label="Date">1979 </unitdate>
+              <container type="box">21</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">3</container>
+              <unittitle>Slides of Business Dinners at Raymond A. Rich&amp;amp;#39;s Homes </unittitle>
+              <unitdate label="Date">1980-1981, 1983 </unitdate>
+              <container type="box">21</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">4</container>
+              <unittitle>US Filter Board of Directors (See Oversized Box 7 File 4) </unittitle>
+              <unitdate label="Date">1976 </unitdate>
+              <container type="box">21</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">5</container>
+              <unittitle>US Filter Controller Conference </unittitle>
+              <unitdate label="Date">1979 </unitdate>
+              <container type="box">21</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">6</container>
+              <unittitle>United States Filter Corporation Events </unittitle>
+              <unitdate label="Date">1980, Undated </unitdate>
+              <container type="box">21</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">7</container>
+              <unittitle>United States Filter Corporation - Riley/USF Dinner </unittitle>
+              <unitdate label="Date">January 24, 1980 </unitdate>
+              <container type="box">21</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">8</container>
+              <unittitle>United State Filter Corporation - the Flick Group Reception </unittitle>
+              <unitdate label="Date">May 26, 1980 </unitdate>
+              <container type="box">21</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">9</container>
+              <unittitle>US Filter Event at Burg Wartenstein (See Oversized Box 7 File
+								5) </unittitle>
+              <unitdate label="Date">1982 </unitdate>
+              <container type="box">21</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">10</container>
+              <unittitle>United States Filter - Tiger Award Dinner </unittitle>
+              <unitdate label="Date">Circa 1970s </unitdate>
+              <container type="box">21</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">11</container>
+              <unittitle>Van Daren, Nowland, and Schaldermundt </unittitle>
+              <unitdate label="Date">June 19, 1946 </unitdate>
+              <container type="box">21</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid>3.3</unitid>
+            <unittitle>Subseries 3.3: Committee for Economic Development</unittitle>
+            <unitdate normal="1942/1944">1942 - 1944</unitdate>
+            <physdesc>
+              <extent type="boxes">Box: 12</extent>
+              <extent type="folders">Folder: 21</extent>
+            </physdesc>
+          </did>
+          <arrangement>
+            <p>Chronological</p>
+          </arrangement>
+          <c03 level="file">
+            <did>
+              <container type="folder">12</container>
+              <unittitle>Committee for Economic Development</unittitle>
+              <unitdate label="Date">Circa 1942 - 1944 </unitdate>
+              <container type="box">21</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid>3.4</unitid>
+            <unittitle>Subseries 3.4: O.H. Payne</unittitle>
+            <physdesc>
+              <extent type="boxes">Boxes: 21 - 22</extent>
+              <extent type="folders">Folders: 13 - 15, 1 - 4</extent>
+            </physdesc>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="folder">13</container>
+              <unittitle>Early Payne Mansion Photos </unittitle>
+              <unitdate label="Date">1915-1916, Undated </unitdate>
+              <container type="box">21</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">14</container>
+              <unittitle>Early Payne Mansion Photos - Marist Brothers Chapel </unittitle>
+              <unitdate label="Date">Undated </unitdate>
+              <container type="box">21</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">15</container>
+              <unittitle>Early Payne Mansion Photo Negatives </unittitle>
+              <unitdate label="Date">Undated </unitdate>
+              <container type="box">21</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">1</container>
+              <unittitle>O.H. Payne </unittitle>
+              <unitdate label="Date">Circa 1860s - 1910s </unitdate>
+              <container type="box">22</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">2</container>
+              <unittitle>O.H. Payne - Aphrodite </unittitle>
+              <unitdate label="Date">Circa 1910s </unitdate>
+              <container type="box">22</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">3</container>
+              <unittitle>O.H. Payne Mansion </unittitle>
+              <unitdate label="Date">Circa 1910s </unitdate>
+              <container type="box">22</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">4</container>
+              <unittitle>Payne Mansion Property Advertisement </unittitle>
+              <unitdate label="Date">Undated </unitdate>
+              <container type="box">22</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid>3.5</unitid>
+            <unittitle>Subseries 3.5: Omega Mansion</unittitle>
+            <unitdate normal="2000">1983 - 2001</unitdate>
+            <physdesc>
+              <extent type="boxes">Box: 22</extent>
+              <extent type="folders">Folders: 5 - 18</extent>
+            </physdesc>
+          </did>
+          <arrangement>
+            <p>Subject</p>
+          </arrangement>
+          <c03 level="file">
+            <did>
+              <container type="folder">5</container>
+              <unittitle>Omega Mansion </unittitle>
+              <unitdate label="Date">1986, 1989, Undated </unitdate>
+              <container type="box">22</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">6</container>
+              <unittitle>Omega Mansion - Construction </unittitle>
+              <unitdate label="Date">Undated </unitdate>
+              <container type="box">22</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">7</container>
+              <unittitle>Omega Mansion Construction (See Oversized Box 6 File 2) </unittitle>
+              <unitdate label="Date">Undated </unitdate>
+              <container type="box">22</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">8</container>
+              <unittitle>Omega Mansion Decor </unittitle>
+              <unitdate label="Date">Undated </unitdate>
+              <container type="box">22</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">9</container>
+              <unittitle>Omega Mansion - Exterior </unittitle>
+              <unitdate label="Date">1983, 1987, 1989, 2009, Undated </unitdate>
+              <container type="box">22</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">10</container>
+              <unittitle>Omega Mansion - Exterior (See Oversized Box 7 File 6) </unittitle>
+              <unitdate label="Date">Undated </unitdate>
+              <container type="box">22</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">11</container>
+              <unittitle>Omega Mansion - Exterior (See Oversized Box 6 File 3) </unittitle>
+              <unitdate label="Date">Undated </unitdate>
+              <container type="box">22</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">12</container>
+              <unittitle>Omega Mansion - Exterior Shots </unittitle>
+              <unitdate label="Date">Circa 1990s </unitdate>
+              <container type="box">22</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">13</container>
+              <unittitle>Omega Mansion - Interior </unittitle>
+              <unitdate label="Date">1989, Undated </unitdate>
+              <container type="box">22</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">14</container>
+              <unittitle>Omega Mansion - Interior </unittitle>
+              <unitdate label="Date">1996, Undated </unitdate>
+              <container type="box">22</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">15</container>
+              <unittitle>Omega Mansion - Interior and Detail Shots </unittitle>
+              <unitdate label="Date">Circa 1990s </unitdate>
+              <container type="box">22</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">16</container>
+              <unittitle>Omega Mansion - Interior and exterior Shots, some with
+								Raymond A. Rich and Claire Carlson </unittitle>
+              <unitdate label="Date">1989 </unitdate>
+              <container type="box">22</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">17</container>
+              <unittitle>Omega Mansion - Pre-Construction </unittitle>
+              <unitdate label="Date"> </unitdate>
+              <container type="box">22</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">18</container>
+              <unittitle>Omega Mansion Scrapbook (See Oversized Box 4) </unittitle>
+              <unitdate label="Date">2001 </unitdate>
+              <container type="box">22</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid>3.6</unitid>
+            <unittitle>Subseries 3.6: Personal</unittitle>
+            <unitdate normal="2000">1943 - 2003</unitdate>
+            <physdesc>
+              <extent type="boxes">Boxes: 22 - 24</extent>
+              <extent type="folders">Folders: 19 - 23, 1 - 18, 1 - 8</extent>
+            </physdesc>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="folder">19</container>
+              <unittitle>Early Photos from Friends </unittitle>
+              <unitdate label="Date">1943-1944, Undated </unitdate>
+              <container type="box">22</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">20</container>
+              <unittitle>Early Raymond A. Rich and Family Photos </unittitle>
+              <unitdate label="Date">1916-1930s </unitdate>
+              <container type="box">22</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">21</container>
+              <unittitle>Early Raymond A. Rich and Family </unittitle>
+              <unitdate label="Date">1949, 1956, Undated </unitdate>
+              <container type="box">22</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">22</container>
+              <unittitle>Raymond A. Rich and Family </unittitle>
+              <unitdate label="Date">1977, 1979, 1981 </unitdate>
+              <container type="box">22</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">23</container>
+              <unittitle>Raymond A. Rich and Family </unittitle>
+              <unitdate label="Date">1988 </unitdate>
+              <container type="box">22</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">1</container>
+              <unittitle>Raymond A. Rich and Family at Omega Mansion </unittitle>
+              <unitdate label="Date">1996, Undated </unitdate>
+              <container type="box">23</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">2</container>
+              <unittitle>Raymond A. Rich and his Boat (See Oversized Box 7 File 7) </unittitle>
+              <unitdate label="Date">Undated </unitdate>
+              <container type="box">23</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">3</container>
+              <unittitle>Raymond A. Rich at his Homes (See Oversized Box 6 File 4) </unittitle>
+              <unitdate label="Date">1981, 1983, 2003, 2009, Undated </unitdate>
+              <container type="box">23</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">4</container>
+              <unittitle>Raymond A. Rich at his Homes </unittitle>
+              <unitdate label="Date">1978, 1982-1985, 1987, Undated </unitdate>
+              <container type="box">23</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">5</container>
+              <unittitle>Raymond A. Rich at his Homes </unittitle>
+              <unitdate label="Date">1980, Undated </unitdate>
+              <container type="box">23</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">6</container>
+              <unittitle>Raymond A. Rich at his Homes </unittitle>
+              <unitdate label="Date">2001- 2002, Undated </unitdate>
+              <container type="box">23</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">7</container>
+              <unittitle>Raymond A. Rich at his Homes (See Oversized Box 7 File 8) </unittitle>
+              <unitdate label="Date">Undated </unitdate>
+              <container type="box">23</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">8</container>
+              <unittitle>Raymond A. Rich Early Years - with his Friends </unittitle>
+              <unitdate label="Date">Undated </unitdate>
+              <container type="box">23</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">9</container>
+              <unittitle>Raymond A. Rich Headshots </unittitle>
+              <unitdate label="Date">Undated </unitdate>
+              <container type="box">23</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">10</container>
+              <unittitle>Raymond A. Rich Headshots (See Oversized Box 7 File 9) </unittitle>
+              <unitdate label="Date">Undated </unitdate>
+              <container type="box">23</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">11</container>
+              <unittitle>Raymond A. Rich Headshot (See Oversized Box 3) </unittitle>
+              <unitdate label="Date">Undated </unitdate>
+              <container type="box">23</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">12</container>
+              <unittitle>Raymond A. Rich Headshots </unittitle>
+              <unitdate label="Date">Undated </unitdate>
+              <container type="box">23</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">13</container>
+              <unittitle>Raymond A. Rich Headshots </unittitle>
+              <unitdate label="Date">Circa 1930s - 1980s </unitdate>
+              <container type="box">23</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">14</container>
+              <unittitle>Raymond A. Rich Headshot Negatives </unittitle>
+              <unitdate label="Date">1977 </unitdate>
+              <container type="box">23</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">15</container>
+              <unittitle>Raymond A. Rich&amp;amp;#39;s Homes </unittitle>
+              <unitdate label="Date">1979-1980, 1987, 1993, Undated </unitdate>
+              <container type="box">23</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">16</container>
+              <unittitle>Raymond A. Rich&amp;amp;#39;s Homes </unittitle>
+              <unitdate label="Date">1973, 1982, 2009, Undated </unitdate>
+              <container type="box">23</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">17</container>
+              <unittitle>Raymond A. Rich&amp;amp;#39;s Homes (See Oversized Box 6 File 5) </unittitle>
+              <unitdate label="Date">1981-1982, Undated </unitdate>
+              <container type="box">23</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">18</container>
+              <unittitle>Raymond A. Rich&amp;amp;#39;s Homes (See Oversized Box 6 File 6) </unittitle>
+              <unitdate label="Date">1982, 2003, Undated </unitdate>
+              <container type="box">23</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">1</container>
+              <unittitle>Raymond A. Rich&amp;amp;#39;s Homes </unittitle>
+              <unitdate label="Date">1982, Undated </unitdate>
+              <container type="box">24</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">2</container>
+              <unittitle>Raymond A. Rich&amp;amp;#39;s Homes </unittitle>
+              <unitdate label="Date">Undated </unitdate>
+              <container type="box">24</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">3</container>
+              <unittitle>Raymond A. Rich&amp;amp;#39;s Homes </unittitle>
+              <unitdate label="Date">Undated </unitdate>
+              <container type="box">24</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">4</container>
+              <unittitle>Raymond A. Rich&amp;amp;#39;s Homes </unittitle>
+              <unitdate label="Date">Undated </unitdate>
+              <container type="box">24</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">5</container>
+              <unittitle>Raymond A. Rich&amp;amp;#39;s Homes (See Oversized Box 7 File 10) </unittitle>
+              <unitdate label="Date">Undated </unitdate>
+              <container type="box">24</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">6</container>
+              <unittitle>Raymond A. Rich&amp;amp;#39;s Homes (See oversized Box 6 File 7) </unittitle>
+              <unitdate label="Date">1982, Undated </unitdate>
+              <container type="box">24</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">7</container>
+              <unittitle>Raymond A. Rich&amp;amp;#39;s Homes (See Oversized Box 6 File 8) </unittitle>
+              <unitdate label="Date">1982,1985, Undated </unitdate>
+              <container type="box">24</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">8</container>
+              <unittitle>Travel Photos of Raymond A. Rich (See Oversized Box 6 File 9) </unittitle>
+              <unitdate label="Date">Undated </unitdate>
+              <container type="box">24</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid>3.7</unitid>
+            <unittitle>Subseries 3.7: Miscellaneous</unittitle>
+            <unitdate normal="1896/1979">1896 - 1979</unitdate>
+            <physdesc>
+              <extent type="boxes">Box: 24</extent>
+              <extent type="folders">Folders: 9 - 11</extent>
+            </physdesc>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="folder">9</container>
+              <unittitle>Miscellaneous </unittitle>
+              <unitdate label="Date">1896, Undated </unitdate>
+              <container type="box">24</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">10</container>
+              <unittitle>Miscellaneous </unittitle>
+              <unitdate label="Date">Circa 1950s- 1970s </unitdate>
+              <container type="box">24</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">11</container>
+              <unittitle>Miscellaneous (See Oversized Box 7 File 11) </unittitle>
+              <unitdate label="Date">Undated </unitdate>
+              <container type="box">24</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid>3.8</unitid>
+            <unittitle>Subseries 3.8: World War II</unittitle>
+            <unitdate normal="1944/1994">1944 - 1994</unitdate>
+            <physdesc>
+              <extent type="boxes">Box: 24</extent>
+              <extent type="folders">Folders: 12 - 18</extent>
+            </physdesc>
+          </did>
+          <arrangement>
+            <p>Alphabetical by Subject</p>
+          </arrangement>
+          <c03 level="file">
+            <did>
+              <container type="folder">12</container>
+              <unittitle>Fort Schuyler </unittitle>
+              <unitdate label="Date">Circa 1994 </unitdate>
+              <container type="box">24</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">13</container>
+              <unittitle>&amp;amp;#34;Japan Ray&amp;amp;#34; </unittitle>
+              <unitdate label="Date">Circa 1945 </unitdate>
+              <container type="box">24</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">14</container>
+              <unittitle>Official US Army Photos - Set No. 163 - Okinawa Offensive </unittitle>
+              <unitdate label="Date">Circa 1940s </unitdate>
+              <container type="box">24</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">15</container>
+              <unittitle>Official US Marine Corps Photos - Set No. 16 - Okinawa
+								Operations </unittitle>
+              <unitdate label="Date">Circa 1940s </unitdate>
+              <container type="box">24</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">16</container>
+              <unittitle>Postcards </unittitle>
+              <unitdate label="Date">Circa 1940s </unitdate>
+              <container type="box">24</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">17</container>
+              <unittitle>Raymond A. Rich Military Photos </unittitle>
+              <unitdate label="Date">1944, Undated </unitdate>
+              <container type="box">24</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">18</container>
+              <unittitle>Raymond A. Rich and Shipmates </unittitle>
+              <unitdate label="Date">Circa 1944 - 1946 </unitdate>
+              <container type="box">24</container>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unitid>4</unitid>
+          <unittitle>4. Audiovisual Materials</unittitle>
+          <unitdate normal="1950/2005">1950 - 2005</unitdate>
+          <physdesc>
+            <extent type="boxes">Boxes: 25 - 27</extent>
+          </physdesc>
+        </did>
+        <scopecontent>
+          <p>Series contains videos from businesses, personal, and commerical</p>
+        </scopecontent>
+        <c02 level="subseries">
+          <did>
+            <unitid>4.1</unitid>
+            <unittitle>Subseries 4.1: Business</unittitle>
+            <unitdate normal="2000">1981 - 1982</unitdate>
+            <physdesc>
+              <extent type="boxes">Box: 25</extent>
+              <extent type="folders">Items: 1 - 19 </extent>
+            </physdesc>
+          </did>
+          <c03 level="file">
+            <did>
+              <unitid>Item 1</unitid>
+              <unittitle>United States Filter Corporation - Raymond A. Rich
+								Appreciation Dinner (Audio) [see oversized box RAR-06] </unittitle>
+              <unitdate label="Date">1981 November 12 </unitdate>
+              <container type="box">25</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid>Item 2</unitid>
+              <unittitle>United States Filter Corporation - Raymond A. Rich
+								Appreciation Dinner (Video) [see oversized box RAR-06] </unittitle>
+              <unitdate label="Date">1981 November 12 </unitdate>
+              <container type="box">25</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid>Item 3</unitid>
+              <unittitle>Burg Wartenstein - Raymond A. Rich [see oversized box RAR-06] </unittitle>
+              <unitdate label="Date">1993 June 23 </unitdate>
+              <container type="box">25</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid>Item 4</unitid>
+              <unittitle>U.S. Filter Corp. - &amp;amp;#34;R.A.R. Appreciation Dinner&amp;amp;#34; -
+								November 12, 1981 - Reel #1 - Edited Master (3/4&amp;amp;#34; tape - Video) </unittitle>
+              <unitdate label="Date">1981 December 17 </unitdate>
+              <container type="box">25</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid>Item 5</unitid>
+              <unittitle>U.S. Filter Corp. - &amp;amp;#34;R.A.R. Appreciation Dinner&amp;amp;#34; -
+								November 12, 1981 - Reel #2 - Edited Master (3/4&amp;amp;#34; tape - Video) </unittitle>
+              <unitdate label="Date">1981 December 17 </unitdate>
+              <container type="box">25</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid>Item 6</unitid>
+              <unittitle>U.S. Filter Corp. - &amp;amp;#34;R.A.R. Appreciation Dinner&amp;amp;#34;-
+								November 12, 1981 - Reel #3 - Edited Master (3/4&amp;amp;#34; tape - Video) </unittitle>
+              <unitdate label="Date">1981 December 17 </unitdate>
+              <container type="box">25</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid>Item 7</unitid>
+              <unittitle>U.S. Filter Corp.-&amp;amp;#34;R.A.R. Appreciation
+								Dinner&amp;amp;#34;-November 12, 1981-Edward T. Veith Complete Speech
+								(3/4&amp;amp;#34; tape - video) </unittitle>
+              <unitdate label="Date">1981 November 12 </unitdate>
+              <container type="box">25</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid>Item 8</unitid>
+              <unittitle>The Chartmakers, U.S. Filter Corp. - R.A.R. Appreciation
+								Dinner - Reel #1 / Part 1 (3/4&amp;amp;#34; tape - Video) </unittitle>
+              <unitdate label="Date">1981 November 12 </unitdate>
+              <container type="box">25</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid>Item 9</unitid>
+              <unittitle>The Chartmakers, U.S. Filter Corp. - R.A.R. Appreciation
+								Dinner - Reel #3 / Part 1 (3/4&amp;amp;#34; tape - Video) </unittitle>
+              <unitdate label="Date">1981 November 12 </unitdate>
+              <container type="box">25</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid>Item 10</unitid>
+              <unittitle>U.S. Filter Corp. --&amp;amp;#34; R.A.R. Appreciation
+								Dinner&amp;amp;#34;(VHS) </unittitle>
+              <unitdate label="Date">1981 November 12 </unitdate>
+              <container type="box">25</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid>Item 11</unitid>
+              <unittitle>U.S. Filter Corp. --&amp;amp;#34;R.A.R. Appreciation Dinner&amp;amp;#34;-Reel
+								#1 (Betamax) </unittitle>
+              <unitdate label="Date">1982 April 28 </unitdate>
+              <container type="box">25</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid>Item 12</unitid>
+              <unittitle>U.S. Filter Corp.-&amp;amp;#34;R.A.R. Appreciation Dinner&amp;amp;#34;-Reel
+								#2 (Betamax) </unittitle>
+              <unitdate label="Date">1982 April 28 </unitdate>
+              <container type="box">25</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid>Item 13</unitid>
+              <unittitle>U.S. Filter Corp.-&amp;amp;#34;R.A.R. Appreciation Dinner&amp;amp;#34;-Reel
+								#3 (Betamax) </unittitle>
+              <unitdate label="Date">1982 April 28 </unitdate>
+              <container type="box">25</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid>Item 14</unitid>
+              <unittitle>U.S. Filter Corp.-&amp;amp;#34;R.A.R. Appreciation
+								Dinner&amp;amp;#34;-November 12, 1981-Edward T. Veith Complete Speech
+								(Betamax) </unittitle>
+              <unitdate label="Date">1981 November 12 </unitdate>
+              <container type="box">25</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid>Item 15</unitid>
+              <unittitle>Burg Wartenstein-R.A.R. (VHS) </unittitle>
+              <unitdate label="Date">undated </unitdate>
+              <container type="box">25</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid>Item 16</unitid>
+              <unittitle>Wartenstein (VHS) </unittitle>
+              <unitdate label="Date">1993 </unitdate>
+              <container type="box">25</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid>Item 17</unitid>
+              <unittitle>Waldorf Dinner (VHS) </unittitle>
+              <unitdate label="Date">1981 </unitdate>
+              <container type="box">25</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid>Item 18</unitid>
+              <unittitle>Waldorf Dinner (VHS) </unittitle>
+              <unitdate label="Date">undated </unitdate>
+              <container type="box">25</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid>Item 19</unitid>
+              <unittitle>Waldorf Dinner (VHS) </unittitle>
+              <unitdate label="Date">undated </unitdate>
+              <container type="box">25</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid>4.2</unitid>
+            <unittitle>Subseries 4.2: Personal</unittitle>
+            <physdesc>
+              <extent type="boxes">Box: 26</extent>
+              <extent type="folders">Items: 1 - 28 </extent>
+            </physdesc>
+          </did>
+          <c03 level="file">
+            <did>
+              <unitid>Item 1</unitid>
+              <unittitle>Christmas Carols at Omega - Home Video (VHS) </unittitle>
+              <unitdate label="Date">1998 </unitdate>
+              <container type="box">26</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid>Item 2</unitid>
+              <unittitle>2147A, 1700A - Home Video (VHS) </unittitle>
+              <unitdate label="Date">undated </unitdate>
+              <container type="box">26</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid>Item 3</unitid>
+              <unittitle>Rich/Marist Bulkhead (c4) Underwater Inspection (VHS) </unittitle>
+              <unitdate label="Date">2003 July 23 </unitdate>
+              <container type="box">26</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid>Item 4</unitid>
+              <unittitle>Ray Rich Boathouse Inspection (VHS) </unittitle>
+              <unitdate label="Date">2003 August 9 </unitdate>
+              <container type="box">26</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid>Item 5</unitid>
+              <unittitle>Ray Rich Boathouse - Repairs - U/W Inspection (VHS) </unittitle>
+              <unitdate label="Date">2003 September 21 </unitdate>
+              <container type="box">26</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid>Item 6</unitid>
+              <unittitle>Ray Rich Boathouse - Repairs - U/W Inspection - Hudson
+								Marine, Inc. (914) 643 7159 - Home Video (VHS) </unittitle>
+              <unitdate label="Date">2003 September 21 </unitdate>
+              <container type="box">26</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid>Item 7</unitid>
+              <unittitle>Marco - Home Video (VHS) </unittitle>
+              <unitdate label="Date">undated </unitdate>
+              <container type="box">26</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid>Item 8</unitid>
+              <unittitle>II Creeks Ranch 1,400,000 - Home Video (VHS) - Includes card:
+								&amp;amp;#34;The Carlson Review: Note: On the video there&amp;amp;#39;s a pause on
+								it, and then it continues till the end.&amp;amp;#34; </unittitle>
+              <unitdate label="Date">undated </unitdate>
+              <container type="box">26</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid>Item 9</unitid>
+              <unittitle>332 Acres - Home Video (VHS) </unittitle>
+              <unitdate label="Date">undated </unitdate>
+              <container type="box">26</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid>Item 10</unitid>
+              <unittitle>Old Master Replicas by David Pakter - Home Video (VHS) </unittitle>
+              <unitdate label="Date">undated </unitdate>
+              <container type="box">26</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid>Item 11</unitid>
+              <unittitle>E.T.: The Extra-Terrestrial - Home Video (VHS) </unittitle>
+              <unitdate label="Date">circa 1990s </unitdate>
+              <container type="box">26</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid>Item 12</unitid>
+              <unittitle>James Bond Thunderball - Home Video (VHS) </unittitle>
+              <unitdate label="Date">undated </unitdate>
+              <container type="box">26</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid>Item 13</unitid>
+              <unittitle>1) Revenge of the Pink Panther - Peter Sellers, Herbert Lom,
+								Dyan Cannon 2) Executive Suite - Robert Wise, William Holden, June
+								Allyson, Barbara Stanwyck, Fredric March, Shelley Winters, Walter
+								Pidgeon Home Video (VHS) </unittitle>
+              <unitdate label="Date">1978 1954 </unitdate>
+              <container type="box">26</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid>Item 14</unitid>
+              <unittitle>Unlabeled Video Cassette (VHS) </unittitle>
+              <unitdate label="Date">undated </unitdate>
+              <container type="box">26</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid>Item 15</unitid>
+              <unittitle>Unlabeled Video Cassette (VHS) </unittitle>
+              <unitdate label="Date">undated </unitdate>
+              <container type="box">26</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid>Item 16</unitid>
+              <unittitle>Unlabeled Video Cassette (VHS) </unittitle>
+              <unitdate label="Date">undated </unitdate>
+              <container type="box">26</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid>Item 17</unitid>
+              <unittitle>Unlabeled Video Cassette (VHS) </unittitle>
+              <unitdate label="Date">undated </unitdate>
+              <container type="box">26</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid>Item 18</unitid>
+              <unittitle>Blank Sealed Video Cassette (VHS) </unittitle>
+              <unitdate label="Date">undated </unitdate>
+              <container type="box">26</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid>Item 19</unitid>
+              <unittitle>Blank Sealed Video Cassette (VHS) </unittitle>
+              <unitdate label="Date">undated </unitdate>
+              <container type="box">26</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid>Item 20</unitid>
+              <unittitle>Back to Bataan - J. Wayne - Home Video (Beta) </unittitle>
+              <unitdate label="Date">undated </unitdate>
+              <container type="box">26</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid>Item 21</unitid>
+              <unittitle>1) Kentucky Derby - 5; 2) Captain Blood; 3) Eagle Has Landed
+								- Home Video (Beta) </unittitle>
+              <unitdate label="Date">undated </unitdate>
+              <container type="box">26</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid>Item 22</unitid>
+              <unittitle>The Longest Day: W.W. II - Home Video (Beta) </unittitle>
+              <unitdate label="Date">undated </unitdate>
+              <container type="box">26</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid>Item 23</unitid>
+              <unittitle>Yellowbeard - Home Video (Beta) </unittitle>
+              <unitdate label="Date">undated </unitdate>
+              <container type="box">26</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid>Item 24</unitid>
+              <unittitle>The Maltese Falcon - Home Video (Beta) </unittitle>
+              <unitdate label="Date">undated </unitdate>
+              <container type="box">26</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid>Item 25</unitid>
+              <unittitle>Easy Money - Home Video (Beta) </unittitle>
+              <unitdate label="Date">undated </unitdate>
+              <container type="box">26</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid>Item 26</unitid>
+              <unittitle>Oklahoma - Home Video (Beta) </unittitle>
+              <unitdate label="Date">undated </unitdate>
+              <container type="box">26</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid>Item 27</unitid>
+              <unittitle>Sony Dynamicron L-750 Video Cassette - Blank sealed (Beta) </unittitle>
+              <unitdate label="Date">undated </unitdate>
+              <container type="box">26</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid>Item 28</unitid>
+              <unittitle>Unmarked Video Cassette without case (Beta) </unittitle>
+              <unitdate label="Date">undated </unitdate>
+              <container type="box">26</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid>4.3</unitid>
+            <unittitle>Subseries 4.3: Commercial</unittitle>
+            <unitdate normal="1950/2005">1950 - 2005</unitdate>
+            <physdesc>
+              <extent type="boxes">Box: 27</extent>
+              <extent type="folders">Items: 1 - 34</extent>
+            </physdesc>
+          </did>
+          <c03 level="file">
+            <did>
+              <unitid>Item 1</unitid>
+              <unittitle>Great Castles of Europe - France and Spain - The Learning
+								Channel (VHS) </unittitle>
+              <unitdate label="Date">1994 </unitdate>
+              <container type="box">27</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid>Item 2</unitid>
+              <unittitle>Edinburgh Military Tattoo 1987 From the Castle Esplanade
+								(VHS) </unittitle>
+              <unitdate label="Date">1987 </unitdate>
+              <container type="box">27</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid>Item 3</unitid>
+              <unittitle>Seeing the West Highlands of Scotland - West Ardnamurchan -
+								Scenic Video No. 1 - The video series reflecting the rare and
+								special beauty of the Highland scene (VHS) [with plastic case] </unittitle>
+              <unitdate label="Date">undated </unitdate>
+              <container type="box">27</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid>Item 4</unitid>
+              <unittitle>Seeing the West Highlands of Scotland - West Ardnamurchan -
+								Scenic Video No. 1 - The video series reflecting the rare and
+								special beauty of the Highland scene (VHS) [without plastic case] </unittitle>
+              <unitdate label="Date">undated </unitdate>
+              <container type="box">27</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid>Item 5</unitid>
+              <unittitle>Peter de Savary Esq. - Glenborrodale Castle (VHS) </unittitle>
+              <unitdate label="Date">1990 August 29 </unitdate>
+              <container type="box">27</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid>Item 6</unitid>
+              <unittitle>The Frick Collection: An Introduction (VHS) </unittitle>
+              <unitdate label="Date">1995 </unitdate>
+              <container type="box">27</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid>Item 7</unitid>
+              <unittitle>Carreras Domingo Pavarotti in concert MEHTA - Terme di
+								Caracalla, Roma (VHS) </unittitle>
+              <unitdate label="Date">1990 July 7 </unitdate>
+              <container type="box">27</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid>Item 8</unitid>
+              <unittitle>Video Film Classics - Flying Deuces (1939) - Laurel &amp;amp;amp;
+								Hardy (VHS) </unittitle>
+              <unitdate label="Date">1984 </unitdate>
+              <container type="box">27</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid>Item 9</unitid>
+              <unittitle>Video Film Classics - Thief of Bagdad (1924 - Silent Film) -
+								Douglas Fairbanks and Julanne Johnston (VHS) </unittitle>
+              <unitdate label="Date">1984 </unitdate>
+              <container type="box">27</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid>Item 10</unitid>
+              <unittitle>Columbia Pictures Presents the Sam Spiegel-David Lean
+								Production of "Lawrence of Arabia" - Part 1 (Beta) </unittitle>
+              <unitdate label="Date">1962 </unitdate>
+              <container type="box">27</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid>Item 11</unitid>
+              <unittitle>Columbia Pictures Presents the Sam Spiegel-David Lean
+								Production of "Lawrence of Arabia" - Part 2 (Beta) </unittitle>
+              <unitdate label="Date">1962 </unitdate>
+              <container type="box">27</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid>Item 12</unitid>
+              <unittitle>Columbia Pictures Presents a Sam Spiegel Production of "The
+								Bridge on the River Kwai" - William Holden, Alec Guinness, and Jack
+								Hawkins - Part 1 (Beta) </unittitle>
+              <unitdate label="Date">1981 </unitdate>
+              <container type="box">27</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid>Item 13</unitid>
+              <unittitle>Columbia Pictures Presents a Sam Spiegel Production of "The
+								Bridge on the River Kwai"- William Holden, Alec Guinness, and Jack
+								Hawkins - Part 2 (Beta) </unittitle>
+              <unitdate label="Date">1981 </unitdate>
+              <container type="box">27</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid>Item 14</unitid>
+              <unittitle>The Nostalgia Merchant - Sinbad the Sailor(1947) - Douglas
+								Fairbanks, Jr., Maureen O &amp;amp;#39;Hara, and Anthony Quinn - A Video
+								Classic (Beta) </unittitle>
+              <unitdate label="Date">1978 </unitdate>
+              <container type="box">27</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid>Item 15</unitid>
+              <unittitle>The Nostalgia Merchant - The Hunchback of Notre Dame (1939) -
+								Charles Laughton, Maureen O&amp;amp;#39;Hara, and Edmond O&amp;amp;#39;Brien - A
+								Video Classic (Beta) </unittitle>
+              <unitdate label="Date">1978 </unitdate>
+              <container type="box">27</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid>Item 16</unitid>
+              <unittitle>Patton - A Twentieth Century-Fox Film - George C. Scott and
+								Karl Malden - Part 1 (Beta) </unittitle>
+              <unitdate label="Date">1969 </unitdate>
+              <container type="box">27</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid>Item 17</unitid>
+              <unittitle>Patton - A Twentieth Century-Fox Film - George C. Scott and
+								Karl Malden - Part 2 (Beta) </unittitle>
+              <unitdate label="Date">1969 </unitdate>
+              <container type="box">27</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid>Item 18</unitid>
+              <unittitle>An MGM/CBS Home Video Presentation - Charlton Heston in Ben
+								Hur (1959) - Part 1 (Beta) </unittitle>
+              <unitdate label="Date">1980 </unitdate>
+              <container type="box">27</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid>Item 19</unitid>
+              <unittitle>An MGM/CBS Home Video Presentation - Charlton Heston in Ben
+								Hur (1959) - Part 2 (Beta) </unittitle>
+              <unitdate label="Date">1980 </unitdate>
+              <container type="box">27</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid>Item 20</unitid>
+              <unittitle>Paramount Pictures Presents Hal Wallis&amp;amp;#39; Production of
+								"True Grit" - John Wayne, Glen Campbell, Kim Darby - Part 1 (Beta) </unittitle>
+              <unitdate label="Date">1979 </unitdate>
+              <container type="box">27</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid>Item 21</unitid>
+              <unittitle>Paramount Pictures Presents Hal Wallis&amp;amp;#39; Production of
+								"True Grit" - John Wayne, Glen Campbell, Kim Darby - Part 2 (Beta) </unittitle>
+              <unitdate label="Date">1979 </unitdate>
+              <container type="box">27</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid>Item 22</unitid>
+              <unittitle>Indiana Jones and the Last Crusade (VHS) </unittitle>
+              <unitdate label="Date">1989 </unitdate>
+              <container type="box">27</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid>Item 23</unitid>
+              <unittitle>CBS Fox Video - Patton (1969) - George C. Scott and Karl
+								Malden - Part 1 and Part 2 (VHS) </unittitle>
+              <unitdate label="Date">1986 </unitdate>
+              <container type="box">27</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid>Item 24</unitid>
+              <unittitle>Harvey - James Stewart - MCA Home Video (VHS) </unittitle>
+              <unitdate label="Date">1950 </unitdate>
+              <container type="box">27</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid>Item 25</unitid>
+              <unittitle>Red River - John Wayne - MGM/UA Home Video - Restored
+								Director&amp;amp;#39;s Cut (VHS) </unittitle>
+              <unitdate label="Date">1948 </unitdate>
+              <container type="box">27</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid>Item 26</unitid>
+              <unittitle>Embassy Home Entertainment - Victory at Sea - Special
+								Collector&amp;amp;#39;s Edition - Volume 1 (VHS) </unittitle>
+              <unitdate label="Date">1987 </unitdate>
+              <container type="box">27</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid>Item 27</unitid>
+              <unittitle>Embassy Home Entertainment - Victory at Sea - Special
+								Collector&amp;amp;#39;s Edition - Volume 2 (VHS) </unittitle>
+              <unitdate label="Date">1987 </unitdate>
+              <container type="box">27</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid>Item 28</unitid>
+              <unittitle>Embassy Home Entertainment - Victory at Sea - Special
+								Collector&amp;amp;#39;s Edition - Volume 3 (VHS) </unittitle>
+              <unitdate label="Date">1987 </unitdate>
+              <container type="box">27</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid>Item 29</unitid>
+              <unittitle>Embassy Home Entertainment - Victory at Sea - Special
+								Collector&amp;amp;#39;s Edition - Volume 4 (VHS) </unittitle>
+              <unitdate label="Date">1987 </unitdate>
+              <container type="box">27</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid>Item 30</unitid>
+              <unittitle>Embassy Home Entertainment - Victory at Sea - Special
+								Collector&amp;amp;#39;s Edition - Volume 5 (VHS) </unittitle>
+              <unitdate label="Date">1987 </unitdate>
+              <container type="box">27</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid>Item 31</unitid>
+              <unittitle>The Aviator: A Martin Scorsese Picture - Leonardo DiCaprio -
+								2-Disc Widescreen Edition (DVD) </unittitle>
+              <unitdate label="Date">2004 </unitdate>
+              <container type="box">27</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid>Item 32</unitid>
+              <unittitle>Master and Commander: The Far Side of the World - Russell
+								Crowe - Video (DVD) </unittitle>
+              <unitdate label="Date">2004 </unitdate>
+              <container type="box">27</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid>Item 33</unitid>
+              <unittitle>The Ultimate Gift - From the best-selling novel by Jim
+								Stovall - Drew Fuller, Bill Cobbs, Abigail Breslin, Brian Dennehy,
+								and James Garner - Video (DVD) </unittitle>
+              <unitdate label="Date">2006 </unitdate>
+              <container type="box">27</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid>Item 34</unitid>
+              <unittitle>Leonard Berstein conducts West Side Story - Kiri Te Kanawa,
+								Jose Carreras, Tatiana Troyanos, Kurt Ollmann, Marilyn Horne -
+								Deutsche Grammophone Digital Recording - Audio - (Two tape cassettes
+								- Chromium Dioxide ) </unittitle>
+              <unitdate label="Date">1985 </unitdate>
+              <container type="box">27</container>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

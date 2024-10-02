@@ -1,0 +1,1627 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:isbn:1-931666-22-9" xmlns:ns2="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
+  <!-- Header Portion of EAD -->
+  <eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+    <eadid countrycode="US" mainagencycode="US-NPkMC" url="http://www.marist.edu">npkmc_222_096</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Hudson River Valley Commission Collection: Records Relating to the 1965
+					– 1970 Surveys</titleproper>
+        <author>Jordan Heiligmann <![CDATA[&amp;]]> John Ansley, PhD, 2002; Finding Aid Encoded
+					by: Monish M. Singh, 2002; Finding Aid Encoding updated by: Abigail Bowen,
+					2022; Finding Aid updated by: Brendyn Huggins, April 2023</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Marist College <lb/>Archives and Special Collections </publisher>
+        <address>
+          <addressline>3399 North Road <lb/>Poughkeepsie, NY 12601 <lb/>Phone:
+						845-575-5217 <lb/>Fax: 845-575-3150 <lb/>Email: library.archives@marist.edu<lb/>Website:
+						https://archives.marist.edu/</addressline>
+        </address>
+        <date type="publication" normal="2002-03-21">March 21, 2002</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Monish M. Singh <date normal="2002-03">March, 2002</date>
+			</creation>
+      <langusage>Finding aid written in <language langcode="eng" scriptcode="Latn">English</language></langusage>
+      <descrules><abbr>DACS</abbr>Describing Archives: A Content Standard. Chicago: Society of
+				American Archivists, 2013.</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <list>
+        <item>February 2022, EAD updated by Abigail Bowen</item>
+        <item>April 2023, Folders renumbered to reflect current numbering system by Brendyn Huggins</item>
+      </list>
+    </revisiondesc>
+  </eadheader>
+  <!-- Archival Description portion of EAD -->
+  <archdesc level="collection">
+    <did>
+      <unittitle>Hudson River Valley Commission Collection: Records Relating to the 1965 –
+				1970 Surveys</unittitle>
+      <unitid countrycode="US" repositorycode="US-NPkMC">NPKMC-222-096</unitid>
+      <unitdate type="inclusive" normal="1955/1976">1955 – 1976</unitdate>
+      <physdesc>
+        <extent type="size">3.33 Linear Feet</extent>
+      </physdesc>
+      <repository>
+        <corpname>Marist College Archives and Special Collections</corpname>
+      </repository>
+      <origination label="creator">
+        <corpname>Hudson River Valley
+				Commission</corpname>
+      </origination>
+      <abstract>The Hudson River Valley Commission (HRVC) was formed by Governor Rockefeller
+				and his staff to regulate development along the Hudson River in 1966. This
+				collection primarily consists of the findings from a series of surveys conducted by
+				the HRVC between 1965 and 1970. </abstract>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <physloc>Please contact the Marist College Archives and Special Collections for information
+				regarding use and access of this collection.</physloc>
+    </did>
+    <scopecontent>
+      <head>Collection Overview</head>
+      <p>This Collection consists of 2.75 linear feet of papers, photographs, and audiovisual
+				materials created by the HRVC and the Hudson River Environmental. The collection
+				contains approximately 4081 negatives, 782 black and white prints, 290 sheets of
+				contact prints, 80 color slides, 32 color negatives, 13 color prints, and 67 pages
+				of manuscript material relating to several surveys of the Hudson River conducted by
+				the Hudson River Valley Commission, between 1965 and 1970. The collection also
+				includes four open-reel sound recordings of HRVC meetings and symposia, 1969-1973;
+				two cassette tapes of HVRC meetings, 1972 and 1976; and two other videotapes.</p>
+    </scopecontent>
+    <acqinfo>
+      <head>Acquisitions Information</head>
+      <p>The Franklin D. Roosevelt Library presented the records to the Marist College
+				Archives in 2004.</p>
+    </acqinfo>
+    <bioghist encodinganalog="545">
+      <head>Historical Note</head>
+      <p>In September 1962, the Consolidated Edison Company announced plans to build a pumped
+				storage facility, the largest of its kind in the world, at Storm King Mountain near
+				Cornwall, New York. The initial application for license to construct the plant was
+				filed with the Federal Power Commission in January 1963. Some three years later the
+				Hudson River Valley Commission was formed by Governor Rockefeller and his staff to
+				regulate development along the Hudson River. Widespread public concern over the
+				social and economic impact of urban sprawl, the deterioration of scenic beauty and
+				natural resources along the Hudson and the economic stagnation of many riverfront
+				communities led to the creation of HRVC. The Commission was directed by law to
+				review proposed projects within its jurisdiction “which would destroy or
+				substantially impair significant historic or recreational resources or bring about a
+				major change in the appearance or use of the water in the Hudson River or the
+				surrounding land.” As part of this directive the HRVC conducted surveys of the
+				Hudson River between the years of 1965 and 1970.</p>
+      <p>The Hudson River Environmental Society took possession of the collection soon after
+				the Hudson River Valley Commission was dissolved and added additional materials. The
+				Hudson River Environmental Society preserved the collection until 1983, when they
+				transferred it to the Franklin Delano Roosevelt Library in Hyde Park, NY.</p>
+      <p>The Hudson River Environmental Society (HRES), a nonprofit membership organization,
+				was founded in 1970 to foster research on the Hudson River environment and related
+				coastal areas, provide a forum for communication and cooperation among researchers,
+				and make the results of environmental research available and accessible to concerned
+				citizens and public officials. </p>
+      <p>HRES works to facilitate and coordinate research in the physical, biological and
+				social sciences; environmental engineering; resource management; urban and regional
+				planning; and other disciplines in the Hudson River region. Equally important, HRES
+				serves as a channel of communication between the research community and researchers.
+				HRES strives to ensure that the best possible information is available to those who
+				potentially affect the environment. The Society's membership includes corporate
+				members, individuals from major academic and research institutions, consulting
+				firms, government agencies industries and conservation organizations concerned with
+				environmental matters in the Hudson Valley region and interested citizens. The best
+				known activities of HRES are its conferences and workshops on subjects of current
+				environmental interest. HRES has organized topical meetings on such subjects as:
+				PCBS, acid rain, dredging and soil disposal, the Hudson River fisheries, State
+				Environmental Quality Review Act, freshwater and tidal wetlands, toxic and hazardous
+				waste management, coal conversions, scenic and historic area preservation, energy
+				and the future, and coastal revitalization and preservation.</p>
+    </bioghist>
+    <accessrestrict>
+      <head>Restrictions to Access</head>
+      <p>There are no restrictions on this collection</p>
+    </accessrestrict>
+    <userestrict>
+      <head>Notice of Copyright</head>
+      <p>Individuals requesting reproductions expressly assume the responsibility for compliance
+				with all pertinent provisions of the Copyright Act, 17 U.S.C. ss101 et seq. Patrons further
+				agree to indemnify and hold harmless the Marist College Archives and Special Collections and
+				its staff in connection with any disputes arising from the Copyright Act, over the
+				reproduction of material at the request of patrons. For more information please visit the
+				following website: http://www.loc.gov/copyright/title17/.</p>
+    </userestrict>
+    <prefercite>
+      <head>Preferred Citation</head>
+      <p>[Description of item, date, location of item in order of series, box number, folder number
+				], in the Hudson River Valley Commission Collection: Records Relating to the 1965
+				– 1970 Surveys, Archives and Special Collections, James A. Cannavino Library,
+				Marist College.</p>
+    </prefercite>
+    <arrangement>
+      <p>Collection is arranged into four series: 1. Photographs, 2. Recorded Media, 3. Publication, and 4. Oversized Materials.</p>
+      <p>Materials retain their original order.</p>
+    </arrangement>
+    <relatedmaterial>
+      <p>
+        <extref href="https://www.empireadc.org/search/catalog/npkmc_222_094">Alexander Saunders Papers: Records Relating to the Storm King Case, 1962 - 1966</extref>
+      </p>
+      <p>
+        <extref href="https://www.empireadc.org/search/catalog/npkmc_222_095">Hudson River Conservation Society, Inc. Collection, 1930 - 1980</extref>
+      </p>
+      <p>
+        <extref href="https://www.empireadc.org/search/catalog/npkmc_222_082">Hudson River Valley Commission Collection: Records Relating to the Storm King Case, 1966 – 1967</extref>
+      </p>
+    </relatedmaterial>
+    <dsc type="combined">
+      <c01 level="series">
+        <did>
+          <unitid>1</unitid>
+          <unittitle>1. Photographs</unittitle>
+          <unitdate normal="1965/1975">1965 - 1975</unitdate>
+          <physdesc>
+            <extent type="size">1.66 Linear Feet</extent>
+            <extent type="boxes">Boxes: 1 - 5</extent>
+          </physdesc>
+        </did>
+        <scopecontent>
+          <p>Series containes 4,081 negatives, 782 black and white prints, 32 color negatives, 16 color
+						prints.</p>
+        </scopecontent>
+        <arrangement>
+          <p>Original order</p>
+        </arrangement>
+        <c02 level="file">
+          <did>
+            <container type="folder">1</container>
+            <unittitle>Negatives - Marinas</unittitle>
+            <container type="box">1</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">2</container>
+            <unittitle>Manhattan NYC, 3/8/62</unittitle>
+            <container type="box">1</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">3</container>
+            <unittitle>Brooklyn NYC, 2/21/67</unittitle>
+            <container type="box">1</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">4</container>
+            <unittitle>New Baltimore T.</unittitle>
+            <container type="box">1</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">5</container>
+            <unittitle>Athens V.</unittitle>
+            <container type="box">1</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">6</container>
+            <unittitle>Troy</unittitle>
+            <container type="box">1</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">7</container>
+            <unittitle>Schaghticoke</unittitle>
+            <container type="box">1</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">8</container>
+            <unittitle>East Greenbush</unittitle>
+            <container type="box">1</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">9</container>
+            <unittitle>Castleton on the Hudson</unittitle>
+            <container type="box">1</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">10</container>
+            <unittitle>Watervliet</unittitle>
+            <container type="box">1</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">11</container>
+            <unittitle>Ravena</unittitle>
+            <container type="box">1</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">12</container>
+            <unittitle>Green Island V.</unittitle>
+            <container type="box">1</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">13</container>
+            <unittitle>Colonie Western Gateway</unittitle>
+            <container type="box">1</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">14</container>
+            <unittitle>Cohoes</unittitle>
+            <container type="box">1</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">15</container>
+            <unittitle>Coeymans, 2/67</unittitle>
+            <container type="box">1</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">16</container>
+            <unittitle>Albany, 1/15/70-12/25/68</unittitle>
+            <container type="box">1</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">17</container>
+            <unittitle>Saugerties, 4/67</unittitle>
+            <container type="box">1</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">18</container>
+            <unittitle>Esopus Meadows Lighthouse, 11/26/65</unittitle>
+            <container type="box">1</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">19</container>
+            <unittitle>Esopus</unittitle>
+            <container type="box">1</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">20</container>
+            <unittitle>Hudson</unittitle>
+            <container type="box">1</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">21</container>
+            <unittitle>Wappingers Falls, V.</unittitle>
+            <container type="box">1</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">22</container>
+            <unittitle>Wappingers, T., 11/3/65</unittitle>
+            <container type="box">1</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">23</container>
+            <unittitle>Poughkeepsie T., 2/70</unittitle>
+            <container type="box">1</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">24</container>
+            <unittitle>Beacon, 11/9/65</unittitle>
+            <container type="box">1</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">25</container>
+            <unittitle>Tarrytown Lighthouse</unittitle>
+            <container type="box">1</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">26</container>
+            <unittitle>Hudson Falls</unittitle>
+            <container type="box">1</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">27</container>
+            <unittitle>Tarrytown, 9/70</unittitle>
+            <container type="box">1</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">28</container>
+            <unittitle>Kingston</unittitle>
+            <container type="box">1</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">29</container>
+            <unittitle>Red Hook</unittitle>
+            <container type="box">1</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">30</container>
+            <unittitle>Greenport</unittitle>
+            <container type="box">1</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">31</container>
+            <unittitle>Estates, 8/1/68</unittitle>
+            <container type="box">1</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">32</container>
+            <unittitle>Easton</unittitle>
+            <container type="box">1</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">33</container>
+            <unittitle>Cold Spring</unittitle>
+            <container type="box">1</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">34</container>
+            <unittitle>Briarcliff Manor</unittitle>
+            <container type="box">1</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">35</container>
+            <unittitle>Bannerman’s Island, 2/8/68</unittitle>
+            <container type="box">1</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">1</container>
+            <unittitle>Albany</unittitle>
+            <container type="box">2</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">2</container>
+            <unittitle>Negatives 1-10</unittitle>
+            <container type="box">2</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">3</container>
+            <unittitle>Negatives 41-50, 3/7/67</unittitle>
+            <container type="box">2</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">4</container>
+            <unittitle>Fishkill</unittitle>
+            <container type="box">2</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">5</container>
+            <unittitle>Negatives 31-40, 5/69</unittitle>
+            <container type="box">2</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">6</container>
+            <unittitle>Negatives 21-30</unittitle>
+            <container type="box">2</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">7</container>
+            <unittitle>Negatives 11-20, 2/70-5/70</unittitle>
+            <container type="box">2</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">8</container>
+            <unittitle>Negatives 51-60, 5/68</unittitle>
+            <container type="box">2</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">9</container>
+            <unittitle>Negatives 121-130</unittitle>
+            <container type="box">2</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">10</container>
+            <unittitle>(Negatives) 141-150</unittitle>
+            <container type="box">2</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">11</container>
+            <unittitle>(Negatives) 131-140</unittitle>
+            <container type="box">2</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">12</container>
+            <unittitle>Negatives 111-120, 9/23/70</unittitle>
+            <container type="box">2</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">13</container>
+            <unittitle>Agricultural</unittitle>
+            <container type="box">2</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">14</container>
+            <unittitle>Quarries, 2/8/66</unittitle>
+            <container type="box">2</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">15</container>
+            <unittitle>Transportation</unittitle>
+            <container type="box">2</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">16</container>
+            <unittitle>Urban Development</unittitle>
+            <container type="box">2</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">17</container>
+            <unittitle>Haverstraw T., 2/15/66</unittitle>
+            <container type="box">2</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">18</container>
+            <unittitle>Barges - Sunken</unittitle>
+            <container type="box">2</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">19</container>
+            <unittitle>Boating</unittitle>
+            <container type="box">2</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">20</container>
+            <unittitle>Yonkers, 9/14/67</unittitle>
+            <container type="box">2</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">21</container>
+            <unittitle>Community Meetings</unittitle>
+            <container type="box">2</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">22</container>
+            <unittitle>Fort Hunter</unittitle>
+            <container type="box">2</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">1</container>
+            <unittitle>Historic Pictures</unittitle>
+            <container type="box">3</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">2</container>
+            <unittitle>Highland, 11/9/65</unittitle>
+            <container type="box">3</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">3</container>
+            <unittitle>Highland Falls</unittitle>
+            <container type="box">3</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">4</container>
+            <unittitle>Cornwall on Hudson</unittitle>
+            <container type="box">3</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">5</container>
+            <unittitle>Bear Mt. Bridge</unittitle>
+            <container type="box">3</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">6</container>
+            <unittitle>Stony Point</unittitle>
+            <container type="box">3</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">7</container>
+            <unittitle>Orange Garden Club Boat Ride</unittitle>
+            <container type="box">3</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">8</container>
+            <unittitle>Helicopter Trip, 11/9/65</unittitle>
+            <container type="box">3</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">9</container>
+            <unittitle>Upper Hudson</unittitle>
+            <container type="box">3</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">10</container>
+            <unittitle>Nyack</unittitle>
+            <container type="box">3</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">11</container>
+            <unittitle>Human Interest, 5/68</unittitle>
+            <container type="box">3</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">12</container>
+            <unittitle>Junkyards</unittitle>
+            <container type="box">3</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">13</container>
+            <unittitle>Catalogue, 1/13/66-2/13/66</unittitle>
+            <container type="box">3</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">14</container>
+            <unittitle>Public Hearings</unittitle>
+            <container type="box">3</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">15</container>
+            <unittitle>Sewer Treatment Plants Water</unittitle>
+            <container type="box">3</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">16</container>
+            <unittitle>Power Lines</unittitle>
+            <container type="box">3</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">17</container>
+            <unittitle>Pollution - Hudson</unittitle>
+            <container type="box">3</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">18</container>
+            <unittitle>Plant Life</unittitle>
+            <container type="box">3</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">19</container>
+            <unittitle>Palisades, 10/22/55-9/21/59</unittitle>
+            <container type="box">3</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">20</container>
+            <unittitle>New Jersey</unittitle>
+            <container type="box">3</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">21</container>
+            <unittitle>Mohawk River</unittitle>
+            <container type="box">3</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">22</container>
+            <unittitle>Miscellaneous</unittitle>
+            <container type="box">3</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">23</container>
+            <unittitle>Little Falls</unittitle>
+            <container type="box">3</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">24</container>
+            <unittitle>Dayline, 6/17/58</unittitle>
+            <container type="box">3</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">25</container>
+            <unittitle>Coast Guard, 4/67</unittitle>
+            <container type="box">3</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">26</container>
+            <unittitle>Chapell Hill Homes, 7/25/68</unittitle>
+            <container type="box">3</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">27</container>
+            <unittitle>Corinth T.</unittitle>
+            <container type="box">3</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">28</container>
+            <unittitle>Mechanicville</unittitle>
+            <container type="box">3</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">29</container>
+            <unittitle>Saratoga</unittitle>
+            <container type="box">3</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">30</container>
+            <unittitle>Stillwater</unittitle>
+            <container type="box">3</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">31</container>
+            <unittitle>Waterword T.</unittitle>
+            <container type="box">3</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">32</container>
+            <unittitle>Negatives 71-80</unittitle>
+            <container type="box">3</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">33</container>
+            <unittitle>Negatives 61-70, 12/12/68</unittitle>
+            <container type="box">3</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">34</container>
+            <unittitle>Hudson Highlands, 10/28/65-2/8/66</unittitle>
+            <container type="box">3</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">1</container>
+            <unittitle>Newburgh</unittitle>
+            <container type="box">4</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">2</container>
+            <unittitle>Philipstown, 11/9/65</unittitle>
+            <container type="box">4</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">3</container>
+            <unittitle>Negative 81-90, 8/70</unittitle>
+            <container type="box">4</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">4</container>
+            <unittitle>Ulster</unittitle>
+            <container type="box">4</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">5</container>
+            <unittitle>Sneden Landing, 2/2/67</unittitle>
+            <container type="box">4</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">6</container>
+            <unittitle>Chester</unittitle>
+            <container type="box">4</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">7</container>
+            <unittitle>Glen Falls</unittitle>
+            <container type="box">4</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">8</container>
+            <unittitle>Cortlandt, 11/9/65-12/4/66</unittitle>
+            <container type="box">4</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">9</container>
+            <unittitle>Croton on Hudson, 9/70</unittitle>
+            <container type="box">4</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">10</container>
+            <unittitle>Hastings on Hudson, 7/70</unittitle>
+            <container type="box">4</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">11</container>
+            <unittitle>Ossining V.</unittitle>
+            <container type="box">4</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">12</container>
+            <unittitle>Peekskill</unittitle>
+            <container type="box">4</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">13</container>
+            <unittitle>Newburgh T.</unittitle>
+            <container type="box">4</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">14</container>
+            <unittitle>Piermont</unittitle>
+            <container type="box">4</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">15</container>
+            <unittitle>Negatives 91-100, 10/69-12/69</unittitle>
+            <container type="box">4</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">16</container>
+            <unittitle>Negatives 101-110, 10/8/65-2/8/66</unittitle>
+            <container type="box">4</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">17</container>
+            <unittitle>Loose Items, 9/28/70</unittitle>
+            <container type="box">4</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">1</container>
+            <unittitle>Sloop Hill From Cornwall NY, 2/7/66-2/8/66</unittitle>
+            <container type="box">5</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">2</container>
+            <unittitle>Snake Hill, 2/7/66-2/8/66</unittitle>
+            <container type="box">5</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">3</container>
+            <unittitle>Moodna Creek, 2/7/66-2/8/66</unittitle>
+            <container type="box">5</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">4</container>
+            <unittitle>Greenbush Rd., 2/5/66</unittitle>
+            <container type="box">5</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">5</container>
+            <unittitle>Quarry from Long Clove Rd., 2/5/66</unittitle>
+            <container type="box">5</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">6</container>
+            <unittitle>Haverstraw NY, 2/54/66</unittitle>
+            <container type="box">5</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">7</container>
+            <unittitle>Route 9W, 1/3/66</unittitle>
+            <container type="box">5</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">8</container>
+            <unittitle>Palisades Parkway Intersection, 1/3/66</unittitle>
+            <container type="box">5</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">9</container>
+            <unittitle>Western Gate, 11/29/65</unittitle>
+            <container type="box">5</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">10</container>
+            <unittitle>9W Bridge, 11/28/65</unittitle>
+            <container type="box">5</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">11</container>
+            <unittitle>Esopus Creek Gorge, 11/24/65-11/26/65</unittitle>
+            <container type="box">5</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">12</container>
+            <unittitle>Abandoned Quarry, 11/14/65</unittitle>
+            <container type="box">5</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">13</container>
+            <unittitle>Old Stone Barn, 11/14/65</unittitle>
+            <container type="box">5</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">14</container>
+            <unittitle>Esopus Meadows Point, 11/9/65</unittitle>
+            <container type="box">5</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">15</container>
+            <unittitle>Quassaick Creek, 11/1/65</unittitle>
+            <container type="box">5</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">16</container>
+            <unittitle>Hemlock Point, 11/9/65</unittitle>
+            <container type="box">5</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">17</container>
+            <unittitle>Mirror Lake, 11/9/65</unittitle>
+            <container type="box">5</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">18</container>
+            <unittitle>Esopus Lake 11/9/65</unittitle>
+            <container type="box">5</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">19</container>
+            <unittitle>Wappingers Creek, 11/3/65</unittitle>
+            <container type="box">5</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">20</container>
+            <unittitle>Wappingers Falls, 11/3/65</unittitle>
+            <container type="box">5</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">21</container>
+            <unittitle>Newburgh, 11/1/65</unittitle>
+            <container type="box">5</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">22</container>
+            <unittitle>Breaknect Pt., 1/26/65</unittitle>
+            <container type="box">5</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">23</container>
+            <unittitle>Indian Brook, 10/29/65</unittitle>
+            <container type="box">5</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">24</container>
+            <unittitle>Foundry Brook, 10/29/65</unittitle>
+            <container type="box">5</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">25</container>
+            <unittitle>Lake Surprise, 10/29/65</unittitle>
+            <container type="box">5</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">26</container>
+            <unittitle>Lake Valhalla, 10/28/65-10/29/65</unittitle>
+            <container type="box">5</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">27</container>
+            <unittitle>Fishkill Creek, 10/28/65</unittitle>
+            <container type="box">5</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">28</container>
+            <unittitle>Aerials I, 6/10/65-12/7/65</unittitle>
+            <container type="box">5</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">29</container>
+            <unittitle>Canojoharie Creek, 12/7/65</unittitle>
+            <container type="box">5</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">30</container>
+            <unittitle>Big Nose / Little Nose, 12/7/65</unittitle>
+            <container type="box">5</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">31</container>
+            <unittitle>Western Gateway, 12/7/65</unittitle>
+            <container type="box">5</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">32</container>
+            <unittitle>Mohawk River, 11/30/65</unittitle>
+            <container type="box">5</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">33</container>
+            <unittitle>Mohawk Bottomlands, 11/30/65</unittitle>
+            <container type="box">5</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">34</container>
+            <unittitle>Fort Hunter, 11/29/65</unittitle>
+            <container type="box">5</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">35</container>
+            <unittitle>Aerials II, 8/10/74-7/29/75</unittitle>
+            <container type="box">5</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unitid>2</unitid>
+          <unittitle>2. Recorded Media</unittitle>
+          <unitdate normal="1964/1976">1964 - 1976</unitdate>
+          <physdesc>
+            <extent type="size">0.66 Linear Foot</extent>
+            <extent type="boxes">Boxes: 6 - 7</extent>
+          </physdesc>
+        </did>
+        <scopecontent>
+          <p>Series contains 4 open reel sound recordings, 2 cassette tapes, 2 videotapes</p>
+        </scopecontent>
+        <arrangement>
+          <p>Original order</p>
+        </arrangement>
+        <c02 level="file">
+          <did>
+            <container type="folder">1</container>
+            <unittitle>¼” Open Reel Audio Tape: Larry Birns Interviews, October 15,
+							1964, Benjamin Frasier and Charles E. Hoppin, unedited tape</unittitle>
+            <container type="box">6</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">2</container>
+            <unittitle>¼” Open Reel Audio Tape: Dr Eisenbud, HR Symposium, October 1969</unittitle>
+            <container type="box">6</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">3</container>
+            <unittitle>¼” Open Reel Audio Tape: HRVC Steering Committee, February 17,
+							1970</unittitle>
+            <container type="box">6</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">4</container>
+            <unittitle>¼” Open Reel Audio Tape: “Tape 1”</unittitle>
+            <container type="box">6</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">5</container>
+            <unittitle>¼” Open Reel Audio Tape: “Tape 2”</unittitle>
+            <container type="box">6</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">6</container>
+            <unittitle>¼” Open Reel Audio Tape: “Tape 3”</unittitle>
+            <container type="box">6</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">7</container>
+            <unittitle>¼” Open Reel Audio Tape: “Tape 4”</unittitle>
+            <container type="box">6</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">8</container>
+            <unittitle>¼” Open Reel Audio Tape: “Tape 5”</unittitle>
+            <container type="box">6</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">9</container>
+            <unittitle>¼” Open Reel Audio Tape: “Tape 6”</unittitle>
+            <container type="box">6</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">10</container>
+            <unittitle>¼” Open Reel Audio Tape: July 6, 1973, Assessment Meeting</unittitle>
+            <container type="box">6</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">11</container>
+            <unittitle>Audio Cassette: Hudson River Tidal Marsh Workshop/ Bard</unittitle>
+            <container type="box">6</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">12</container>
+            <unittitle>Audio Cassette: Hudson River Tidal Marsh Workshop Tape 2,</unittitle>
+            <container type="box">6</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">13</container>
+            <unittitle>Audio Cassette: HRES 11/16/1972</unittitle>
+            <container type="box">6</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">1</container>
+            <unittitle>35mm Slides: Tourway Slides</unittitle>
+            <container type="box">7</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">2</container>
+            <unittitle>35mm Slides: Tourway Slides</unittitle>
+            <container type="box">7</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">3</container>
+            <unittitle>35mm Slides: Tourway Slides</unittitle>
+            <container type="box">7</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">4</container>
+            <unittitle>35mm Slides: Gil Tauber (slides)</unittitle>
+            <container type="box">7</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">5</container>
+            <unittitle>½” Open Reel Video Tape: 4th Symposium Hudson River Ecology</unittitle>
+            <container type="box">7</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">6</container>
+            <unittitle>½” Open Reel Video Tape: 4th Symposium Hudson River Ecology
+							03/1976, Tape2</unittitle>
+            <container type="box">7</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unitid>3</unitid>
+          <unittitle>3. Publication</unittitle>
+          <unitdate normal="1964/1972">1964 - 1972</unitdate>
+          <physdesc>
+            <extent type="size">0.33 Linear Feet</extent>
+            <extent type="boxes">Box: 8</extent>
+          </physdesc>
+        </did>
+        <scopecontent>
+          <p>HVRC Recorded Media and Publications</p>
+        </scopecontent>
+        <arrangement>
+          <p>Original order</p>
+        </arrangement>
+        <c02 level="file">
+          <did>
+            <container type="folder">1</container>
+            <unittitle>Historical Quotes</unittitle>
+            <container type="box">8</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">2</container>
+            <unittitle>Newspaper Clippings</unittitle>
+            <container type="box">8</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">3</container>
+            <unittitle>Publications</unittitle>
+            <container type="box">8</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">4</container>
+            <unittitle>Photos Used In Publications</unittitle>
+            <container type="box">8</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unitid>4</unitid>
+          <unittitle>4. Oversized Materials</unittitle>
+          <physdesc>
+            <extent type="size">0.66 Linear Feet</extent>
+            <extent type="boxes">Boxes: 9 - 10</extent>
+          </physdesc>
+        </did>
+        <scopecontent>
+          <p>31 oversized photographs, 1 glass slide</p>
+        </scopecontent>
+        <arrangement>
+          <p>Original order</p>
+        </arrangement>
+        <c02 level="file">
+          <did>
+            <container type="folder">1</container>
+            <unittitle>4 x 3.25” Glass Slide: “Paper Bags”</unittitle>
+            <container type="box">9</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">2</container>
+            <unittitle>9.5 x 6” mounted photograph of Hudson River</unittitle>
+            <container type="box">9</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">3</container>
+            <unittitle>6.25 x 9.5” mounted photograph of Storm King Mountain on Hudson
+							River</unittitle>
+            <container type="box">9</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">4</container>
+            <unittitle>9.5 x 6.25” mounted photograph of forest on Hudson River</unittitle>
+            <container type="box">9</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">5</container>
+            <unittitle>9.5 x 6.25 mounted photograph of Hudson River in winter</unittitle>
+            <container type="box">9</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">6</container>
+            <unittitle>8 x 6.25” mounted photograph of mountain on Hudson River</unittitle>
+            <container type="box">9</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">7</container>
+            <unittitle>8 x 7.5” mounted photograph of Upper Reservoir</unittitle>
+            <container type="box">9</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">8</container>
+            <unittitle>7.5 x 7.5” mounted photograph of brook in forest near Hudson
+							River</unittitle>
+            <container type="box">9</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">9</container>
+            <unittitle>7.5 x 7.5” mounted photograph of waterfall in forest near Hudson
+							River</unittitle>
+            <container type="box">9</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">10</container>
+            <unittitle>9.5 x 6.25” mounted photograph of West Point Ceremony on Hudson
+							River</unittitle>
+            <container type="box">9</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">11</container>
+            <unittitle>9.5 x 5.5” mounted photograph of “Break Neck Ridge” on Hudson
+							River</unittitle>
+            <container type="box">9</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">12</container>
+            <unittitle>9.5 x 6.25” mounted photograph of railroad tracks along Hudson
+							River</unittitle>
+            <container type="box">9</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">13</container>
+            <unittitle>9.5 x 6.25” mounted photograph of mountain on Hudson River in
+							winter</unittitle>
+            <container type="box">9</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">14</container>
+            <unittitle>6.25 x 7.75” mounted photograph of mountain along Hudson River</unittitle>
+            <container type="box">9</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">15</container>
+            <unittitle>9.5 x 6” mounted photograph of factory on Hudson River</unittitle>
+            <container type="box">9</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">16</container>
+            <unittitle>5.75 x 7” mounted photograph of factory on Hudson River</unittitle>
+            <container type="box">9</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">17</container>
+            <unittitle>7.5 x 7.5” mounted photograph of forest near Hudson River</unittitle>
+            <container type="box">9</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">18</container>
+            <unittitle>7.5 x 7.5” mounted photograph of forest near Hudson River</unittitle>
+            <container type="box">9</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">19</container>
+            <unittitle>10 x 8” mounted photograph of Hudson River</unittitle>
+            <container type="box">9</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">20</container>
+            <unittitle>13 x 9” mounted photograph of mountains near Hudson River</unittitle>
+            <container type="box">9</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">21</container>
+            <unittitle>13 x 9.75” mounted photograph of Storm King Mountain</unittitle>
+            <container type="box">9</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">22</container>
+            <unittitle>6.5 x 4.25” mounted photograph of Hudson River</unittitle>
+            <container type="box">9</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">1</container>
+            <unittitle>18.75 x 14.75” mounted photograph of pollution on Hudson River</unittitle>
+            <container type="box">10</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">2</container>
+            <unittitle>19 x 14.5” mounted photograph of factory on Hudson River</unittitle>
+            <container type="box">10</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">3</container>
+            <unittitle>18.75 x 15.25” mounted photograph of explosion on abandoned
+							railway bridge</unittitle>
+            <container type="box">10</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">4</container>
+            <unittitle>19 x 14.5” mounted photograph of billboards on road close to
+							Hudson River</unittitle>
+            <container type="box">10</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">5</container>
+            <unittitle>18 x 15.5” mounted photograph of factory on Hudson River</unittitle>
+            <container type="box">10</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">6</container>
+            <unittitle>19.5 x 15.5” mounted photograph of sewage pipe on Hudson River</unittitle>
+            <container type="box">10</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">7</container>
+            <unittitle>10.75 x 15.25” mounted photograph of sewage pipe on Hudson River</unittitle>
+            <container type="box">10</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">8</container>
+            <unittitle>19.5 x 15.5” mounted photograph of sewage pipe on Hudson River</unittitle>
+            <container type="box">10</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">9</container>
+            <unittitle>15.75 x 18.15” mounted photograph of high voltage tower on
+							Hudson River</unittitle>
+            <container type="box">10</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">10</container>
+            <unittitle>19.5 x 15.5” mounted photograph of factory on Hudson River</unittitle>
+            <container type="box">10</container>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

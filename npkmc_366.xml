@@ -1,0 +1,2443 @@
+<?xml version="1.0"?>
+<ead xmlns:ns2="http://www.w3.org/1999/xlink"
+xmlns="urn:isbn:1-931666-22-9"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader audience="internal" countryencoding="iso3166-1"
+  dateencoding="iso8601" langencoding="iso639-2b"
+  repositoryencoding="iso15511">
+    <eadid countrycode="us" mainagencycode="npkmc">
+    npkmc_366</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Clove Spring Iron Works</titleproper>
+        <author />
+      </titlestmt>
+      <publicationstmt>
+        <date>2021-11-08</date>
+        <publisher>Marist College</publisher>
+        <address>
+          <addressline>3399 North Road</addressline>
+          <addressline>Poughkeepsie, NY</addressline>
+          <addressline>Poughkeepsie</addressline>
+          <addressline>New York</addressline>
+          <addressline>12601</addressline>
+          <addressline>United States</addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Brian Norberg</creation>
+      <langusage>
+        <language langcode="eng">English</language>
+      </langusage>
+      <descrules>DACS Describing Archives: A Content Standard.
+      Chicago: Society of American Archivists, 2013.</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="Collection">
+    <did>
+      <unittitle label="Title">Clove Spring Iron Works</unittitle>
+      <unitid>NPKMC-219-191</unitid>
+      <origination>
+        <corpname source="local">Clove Spring Iron Works</corpname>
+      </origination>
+      <physdesc>
+        <extent>3 Linear Feet</extent>
+      </physdesc>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <abstract>The Clove Spring Iron Works papers cover the day to
+      day business operations of the company between the years
+      1870-1904. The papers include a variety of materials
+      including business correspondence, telegraphs, contracts,
+      legal documents, bills, receipts, checks, vouchers, deposit
+      slips, balance sheets, payments, postcards, construction
+      blueprints, paychecks, order records, invitations, tax
+      receipts, weights of coal, price lists, account statements,
+      lease agreements, insurance, and annual reports.</abstract>
+      <unitdate type="inclusive" normal="1870/1904">
+      1870-1904</unitdate>
+      <repository>
+        <corpname>Marist College</corpname>
+        <address>
+          <addressline>3399 North Road</addressline>
+          <addressline>Poughkeepsie</addressline>
+          <addressline>New York</addressline>
+          <addressline>12601</addressline>
+          <addressline>United States</addressline>
+        </address>
+        <extptr xmlns:xlink="http://www.w3.org/1999/xlink"
+        ns2:type="simple"
+        ns2:href="https://dbpedia.org/page/Marist_College" />
+      </repository>
+    </did>
+    <accessrestrict>
+      <p>Items in this collection do not circulate and may be used
+      in-house only.</p>
+    </accessrestrict>
+    <userestrict>
+      <p>Individuals requesting reproductions expressly assume the
+      responsibility for compliance with all pertinent provisions
+      of the Copyright Act, 17 U.S.C. ss101 et seq. Patrons further
+      agree to indemnify and hold harmless the Marist College
+      Archives &amp; Special Collections and its staff in
+      connection with any disputes arising from the Copyright Act,
+      over the reproduction of material at the request of patrons.
+      For more information please visit the following
+      website:&#160;http://www.loc.gov/copyright/title17/.</p>
+    </userestrict>
+    <bioghist>
+      <p>The Clove Spring Iron Works was a company founded in the
+      late 1800s in Dutchess County, New York. The general manager
+      of the company was John S. Schultze, who oversaw smaller
+      companies that ran under the authority of the Clove Spring
+      Iron Works including Sylvan Lake, the Clove Branch Railroad,
+      and Newburgh, Dutchess, and Connecticut Railroad Company. The
+      Clove Spring Iron Works was also managed by members of the
+      Brown Family: George Brown (President) and Sam Brown
+      (Treasurer). Other employees include William Reid
+      (Secretary/Treasurer), Charles A. Taylor (Cashier), and H.B.
+      Willits, an assistant to Schultze. The company also conducted
+      its operations--mainly its orders--through the company store.
+      Crocker Brothers, a manufacturing company, frequently ordered
+      materials from Clove Spring Iron Works to produce metals. The
+      Sylvan Lake mines were where the company extracted coal and
+      ore which were used to manufacture iron products. Important
+      employees at Sylvan Lake were Normal J Plass and C.A.
+      Stephens who both served as treasurer, and E.W. Plass and
+      Oliver Davidson who were both agents. Oliver Davidson also
+      managed the East Fishkill Mills with Silvanus Davidson. The
+      company transported coal and iron materials by the Newburgh,
+      Dutchess, and Connecticut Railroad Company, which John S.
+      Schultze managed until John Crosby Brown became the President
+      in 1902. William Wells served as secretary/treasurer until
+      H.H. Reed became the treasurer in 1902.The Newburgh, Dutchess
+      and Connecticut Railroad Company worked with the president of
+      the Philadelphia Reading and New England Railroad Company,
+      John Brock, to transport to materials outside of the
+      tri-state area.</p>
+    </bioghist>
+    <scopecontent>
+      <p>The Clove Spring Iron Works papers cover the day to day
+      business operations of the company between the years
+      1870-1904. The papers include a variety of materials
+      including business correspondence, telegraphs, contracts,
+      legal documents, bills, receipts, checks, vouchers, deposit
+      slips, balance sheets, payments, postcards, construction
+      blueprints, paychecks, order records, invitations, tax
+      receipts, weights of coal, price lists, account statements,
+      lease agreements, insurance, and annual reports.</p>
+    </scopecontent>
+    <controlaccess xmlns:xlink="http://www.w3.org/1999/xlink">
+      <geogname source="wikidata" authfilenumber="Q34651413"
+      ns2:type="locator"
+      ns2:href="http://www.wikidata.org/entity/Q34651413">Clove
+      Spring</geogname>
+    </controlaccess>
+    <prefercite>
+      <p>[Description of item, date, location of item in order of
+      series, box number, folder number ], in the Clove Spring Iron
+      Works Collection, Archives and Special Collections, James A.
+      Cannavino Library, Marist College.</p>
+    </prefercite>
+    <arrangement>
+      <p>Series is arranged into thirteen series: 1) Finances, has
+      four subseries, 2) Clove Spring Iron Works Company Store, has
+      five subseries, 3) Brown Brothers, has three subseries, 4)
+      Clove Branch Railroad, has three subseries, 5) Payroll, has
+      seven subseries, 6) Correspondence, has five subseries, 7)
+      Sylvan Lake, has three subseries, 8) Crocker Brothers, has
+      two subseries, 9) Newburgh, Dutchess and Connecticut
+      Railroad, has three subseries, 10) Administrative, has four
+      subseries, 11) Operations, has ten subseries, 12) Coal, has
+      twelve subseries, and 13) Miscellaneous, has three
+      subseries</p>
+    </arrangement>
+    <dsc>
+      <c id="c-2-1" level="series">
+        <did>
+          <unittitle>1. Finances</unittitle>
+          <unitdate type="inclusive" normal="1870/1904">
+          1870-1904</unitdate>
+        </did>
+        <c id="c-3-2" level="subseries">
+          <did>
+            <unittitle>Subseries 1.1: Bills</unittitle>
+            <unitdate type="inclusive" normal="1871/1902">
+            1871-1902</unitdate>
+          </did>
+          <c id="c-4-3" level="file">
+            <did>
+              <unittitle>Bills</unittitle>
+              <unitdate type="inclusive" normal="1871/1874">
+              1871-1874</unitdate>
+              <container type="Box">1</container>
+              <container type="Folder">1</container>
+            </did>
+          </c>
+          <c id="c-5-3" level="file">
+            <did>
+              <unittitle>Bills</unittitle>
+              <unitdate type="inclusive" normal="1875/1878">
+              1875-1878</unitdate>
+              <container type="Box">1</container>
+              <container type="Folder">2</container>
+            </did>
+          </c>
+          <c id="c-6-3" level="file">
+            <did>
+              <unittitle>Bills</unittitle>
+              <unitdate type="inclusive" normal="1879">
+              1879</unitdate>
+              <container type="Box">1</container>
+              <container type="Folder">3</container>
+            </did>
+          </c>
+          <c id="c-7-3" level="file">
+            <did>
+              <unittitle>Bills</unittitle>
+              <unitdate type="inclusive" normal="1880">
+              1880</unitdate>
+              <container type="Box">1</container>
+              <container type="Folder">4</container>
+            </did>
+          </c>
+          <c id="c-8-3" level="file">
+            <did>
+              <unittitle>Bills</unittitle>
+              <unitdate type="inclusive" normal="1881/1885">
+              1881-1885</unitdate>
+              <container type="Box">1</container>
+              <container type="Folder">5</container>
+            </did>
+          </c>
+          <c id="c-9-3" level="file">
+            <did>
+              <unittitle>Bills</unittitle>
+              <unitdate type="inclusive" normal="1886/1891">
+              1886-1891</unitdate>
+              <container type="Box">1</container>
+              <container type="Folder">6</container>
+            </did>
+          </c>
+          <c id="c-10-3" level="file">
+            <did>
+              <unittitle>Bills</unittitle>
+              <unitdate type="inclusive" normal="1902">
+              1902</unitdate>
+              <container type="Box">1</container>
+              <container type="Folder">7</container>
+            </did>
+          </c>
+          <c id="c-11-3" level="file">
+            <did>
+              <unittitle>Bills</unittitle>
+              <container type="Box">1</container>
+              <container type="Folder">8</container>
+            </did>
+          </c>
+        </c>
+        <c id="c-12-2" level="subseries">
+          <did>
+            <unittitle>Subseries 1.2: Receipted Bills</unittitle>
+            <unitdate type="inclusive" normal="1873/1892">
+            1873-1892</unitdate>
+          </did>
+          <c id="c-13-3" level="file">
+            <did>
+              <unittitle>Receipted Bills</unittitle>
+              <unitdate type="inclusive" normal="1873/1875">
+              1873-1875</unitdate>
+              <container type="Box">1</container>
+              <container type="Folder">9</container>
+            </did>
+          </c>
+          <c id="c-14-3" level="file">
+            <did>
+              <unittitle>Receipted Bills</unittitle>
+              <unitdate type="inclusive" normal="1876/1877">
+              1876-1877</unitdate>
+              <container type="Box">1</container>
+              <container type="Folder">10</container>
+            </did>
+          </c>
+          <c id="c-15-3" level="file">
+            <did>
+              <unittitle>Receipted Bills</unittitle>
+              <unitdate type="inclusive" normal="1878">
+              1878</unitdate>
+              <container type="Box">1</container>
+              <container type="Folder">11</container>
+            </did>
+          </c>
+          <c id="c-16-3" level="file">
+            <did>
+              <unittitle>Receipted Bills</unittitle>
+              <unitdate type="inclusive" normal="1879">
+              1879</unitdate>
+              <container type="Box">1</container>
+              <container type="Folder">12</container>
+            </did>
+          </c>
+          <c id="c-17-3" level="file">
+            <did>
+              <unittitle>Receipted Bills</unittitle>
+              <unitdate type="inclusive" normal="1880">
+              1880</unitdate>
+              <container type="Box">1</container>
+              <container type="Folder">13</container>
+            </did>
+          </c>
+          <c id="c-18-3" level="file">
+            <did>
+              <unittitle>Receipted Bills</unittitle>
+              <unitdate type="inclusive" normal="1881/1886">
+              1881-1886</unitdate>
+              <container type="Box">1</container>
+              <container type="Folder">14</container>
+            </did>
+          </c>
+          <c id="c-19-3" level="file">
+            <did>
+              <unittitle>Receipted Bills</unittitle>
+              <unitdate type="inclusive" normal="1891/1892">
+              1891-1892</unitdate>
+              <container type="Box">1</container>
+              <container type="Folder">15</container>
+            </did>
+          </c>
+        </c>
+        <c id="c-20-2" level="subseries">
+          <did>
+            <unittitle>Subseries 1.3: Correspondence</unittitle>
+            <unitdate type="inclusive" normal="1875/1891">
+            1875-1891</unitdate>
+          </did>
+          <c id="c-21-3" level="file">
+            <did>
+              <unittitle>Account Information</unittitle>
+              <unitdate type="inclusive" normal="1891/1891">
+              1891-1891</unitdate>
+              <container type="Box">1</container>
+              <container type="Folder">16</container>
+            </did>
+          </c>
+          <c id="c-22-3" level="file">
+            <did>
+              <unittitle>Request for Payment</unittitle>
+              <unitdate type="inclusive" normal="1885">
+              1885</unitdate>
+              <container type="Box">1</container>
+              <container type="Folder">17</container>
+            </did>
+          </c>
+          <c id="c-23-3" level="file">
+            <did>
+              <unittitle>Requests for Account Balance</unittitle>
+              <unitdate type="inclusive" normal="1875/1881">
+              1875-1881</unitdate>
+              <container type="Box">1</container>
+              <container type="Folder">18</container>
+            </did>
+          </c>
+        </c>
+        <c id="c-24-2" level="subseries">
+          <did>
+            <unittitle>Subseries 1.4: Financial
+            Documents</unittitle>
+            <unitdate type="inclusive" normal="1877/1891">
+            1877-1891</unitdate>
+          </did>
+          <c id="c-25-3" level="file">
+            <did>
+              <unittitle>Vouchers</unittitle>
+              <unitdate type="inclusive" normal="1877/1886">
+              1877-1886</unitdate>
+              <container type="Box">1</container>
+              <container type="Folder">19</container>
+            </did>
+          </c>
+          <c id="c-26-3" level="file">
+            <did>
+              <unittitle>Checks</unittitle>
+              <unitdate type="inclusive" normal="1871/1891">
+              1871-1891</unitdate>
+              <container type="Box">1</container>
+              <container type="Folder">20</container>
+            </did>
+          </c>
+          <c id="c-27-3" level="file">
+            <did>
+              <unittitle>Deposit Slips from Bank of NY</unittitle>
+              <unitdate type="inclusive" normal="1874/1878">
+              1874-1878</unitdate>
+              <container type="Box">1</container>
+              <container type="Folder">21</container>
+            </did>
+          </c>
+          <c id="c-28-3" level="file">
+            <did>
+              <unittitle>Balance Sheets and Statements</unittitle>
+              <unitdate type="inclusive" normal="1873/1878">
+              1873-1878</unitdate>
+              <container type="Box">1</container>
+              <container type="Folder">22</container>
+            </did>
+          </c>
+          <c id="c-29-3" level="file">
+            <did>
+              <unittitle>Unidentified Financial
+              Calculations</unittitle>
+              <unitdate type="inclusive" normal="1873/1891">
+              1873-1891</unitdate>
+              <container type="Box">1</container>
+              <container type="Folder">23</container>
+            </did>
+          </c>
+        </c>
+      </c>
+      <c id="c-30-1" level="series">
+        <did>
+          <unittitle>2. Clove Spring Iron Works Company
+          Store</unittitle>
+          <unitdate type="inclusive" normal="1873/1891">
+          1873-1891</unitdate>
+        </did>
+        <c id="c-31-2" level="subseries">
+          <did>
+            <unittitle>Subseries 2.1: Finances</unittitle>
+            <unitdate type="inclusive" normal="1873/1891">
+            1873-1891</unitdate>
+          </did>
+          <c id="c-32-3" level="file">
+            <did>
+              <unittitle>Correspondence Receipts</unittitle>
+              <unitdate type="inclusive" normal="1873/1879">
+              1873-1879</unitdate>
+              <container type="Box">2</container>
+              <container type="Folder">1</container>
+            </did>
+          </c>
+          <c id="c-33-3" level="file">
+            <did>
+              <unittitle>Correspondence Receipts</unittitle>
+              <unitdate type="inclusive" normal="1880/1884">
+              1880-1884</unitdate>
+              <container type="Box">2</container>
+              <container type="Folder">2</container>
+            </did>
+          </c>
+          <c id="c-34-3" level="file">
+            <did>
+              <unittitle>Store Checks</unittitle>
+              <unitdate type="inclusive" normal="1874/1875">
+              1874-1875</unitdate>
+              <container type="Box">2</container>
+              <container type="Folder">3</container>
+            </did>
+          </c>
+          <c id="c-35-3" level="file">
+            <did>
+              <unittitle>Bils from William O. Mailler</unittitle>
+              <unitdate type="inclusive" normal="1879/1880">
+              1879-1880</unitdate>
+              <container type="Box">2</container>
+              <container type="Folder">4</container>
+            </did>
+          </c>
+        </c>
+        <c id="c-36-2" level="subseries">
+          <did>
+            <unittitle>Subseries 2.2: Orders</unittitle>
+            <unitdate type="inclusive" normal="1872/1885">
+            1872-1885</unitdate>
+          </did>
+          <c id="c-37-3" level="file">
+            <did>
+              <unittitle>Correspondence Orders</unittitle>
+              <unitdate type="inclusive" normal="1872/1874">
+              1872-1874</unitdate>
+              <container type="Box">2</container>
+              <container type="Folder">5</container>
+            </did>
+          </c>
+          <c id="c-38-3" level="file">
+            <did>
+              <unittitle>Correspondence Orders</unittitle>
+              <unitdate type="inclusive" normal="1880/1888">
+              1880-1888</unitdate>
+              <container type="Box">2</container>
+              <container type="Folder">6</container>
+            </did>
+          </c>
+          <c id="c-39-3" level="file">
+            <did>
+              <unittitle>Orders with Eastmead</unittitle>
+              <unitdate type="inclusive" normal="1879/1885">
+              1879-1885</unitdate>
+              <container type="Box">2</container>
+              <container type="Folder">7</container>
+            </did>
+          </c>
+          <c id="c-40-3" level="file">
+            <did>
+              <unittitle>Orders with O. Davidson and
+              co.</unittitle>
+              <unitdate type="inclusive" normal="1872/1875">
+              1872-1875</unitdate>
+              <container type="Box">2</container>
+              <container type="Folder">8</container>
+            </did>
+          </c>
+          <c id="c-41-3" level="file">
+            <did>
+              <unittitle>Supply Orders</unittitle>
+              <unitdate type="inclusive" normal="1883">
+              1883</unitdate>
+              <container type="Box">2</container>
+              <container type="Folder">9</container>
+            </did>
+          </c>
+          <c id="c-42-3" level="file">
+            <did>
+              <unittitle>Postcard Shipments</unittitle>
+              <unitdate type="inclusive" normal="1878/1885">
+              1878-1885</unitdate>
+              <container type="Box">2</container>
+              <container type="Folder">10</container>
+            </did>
+          </c>
+        </c>
+        <c id="c-43-2" level="subseries">
+          <did>
+            <unittitle>Subseries 2.3: Statements of
+            Orders</unittitle>
+            <unitdate type="inclusive" normal="1883">
+            1883</unitdate>
+          </did>
+          <c id="c-44-3" level="file">
+            <did>
+              <unittitle>Orders March/April</unittitle>
+              <unitdate type="inclusive" normal="1883">
+              1883</unitdate>
+              <container type="Box">2</container>
+              <container type="Folder">11</container>
+            </did>
+          </c>
+          <c id="c-45-3" level="file">
+            <did>
+              <unittitle>Orders May</unittitle>
+              <unitdate type="inclusive" normal="1883">
+              1883</unitdate>
+              <container type="Box">2</container>
+              <container type="Folder">12</container>
+            </did>
+          </c>
+          <c id="c-46-3" level="file">
+            <did>
+              <unittitle>Orders June</unittitle>
+              <unitdate type="inclusive" normal="1883">
+              1883</unitdate>
+              <container type="Box">2</container>
+              <container type="Folder">13</container>
+            </did>
+          </c>
+          <c id="c-47-3" level="file">
+            <did>
+              <unittitle>Orders July</unittitle>
+              <unitdate type="inclusive" normal="1883">
+              1883</unitdate>
+              <container type="Box">2</container>
+              <container type="Folder">14</container>
+            </did>
+          </c>
+          <c id="c-48-3" level="file">
+            <did>
+              <unittitle>Orders August</unittitle>
+              <unitdate type="inclusive" normal="1883">
+              1883</unitdate>
+              <container type="Box">2</container>
+              <container type="Folder">15</container>
+            </did>
+          </c>
+          <c id="c-49-3" level="file">
+            <did>
+              <unittitle>Orders September</unittitle>
+              <unitdate type="inclusive" normal="1883">
+              1883</unitdate>
+              <container type="Box">2</container>
+              <container type="Folder">16</container>
+            </did>
+          </c>
+          <c id="c-50-3" level="file">
+            <did>
+              <unittitle>Orders October</unittitle>
+              <unitdate type="inclusive" normal="1883">
+              1883</unitdate>
+              <container type="Box">2</container>
+              <container type="Folder">17</container>
+            </did>
+          </c>
+          <c id="c-51-3" level="file">
+            <did>
+              <unittitle>Orders November</unittitle>
+              <unitdate type="inclusive" normal="1883">
+              1883</unitdate>
+              <container type="Box">2</container>
+              <container type="Folder">18</container>
+            </did>
+          </c>
+          <c id="c-52-3" level="file">
+            <did>
+              <unittitle>Orders December</unittitle>
+              <unitdate type="inclusive" normal="1883">
+              1883</unitdate>
+              <container type="Box">2</container>
+              <container type="Folder">19</container>
+            </did>
+          </c>
+        </c>
+        <c id="c-53-2" level="subseries">
+          <did>
+            <unittitle>Subseries 2.4: Contracts</unittitle>
+            <unitdate type="inclusive" normal="1874">
+            1874</unitdate>
+          </did>
+          <c id="c-54-3" level="file">
+            <did>
+              <unittitle>Contract Regarding Payment
+              Authorization</unittitle>
+              <unitdate type="inclusive" normal="1874">
+              1874</unitdate>
+              <container type="Box">2</container>
+              <container type="Folder">20</container>
+            </did>
+          </c>
+          <c id="c-55-3" level="file">
+            <did>
+              <unittitle>Contract with Stopenell</unittitle>
+              <unitdate type="inclusive" normal="1874">
+              1874</unitdate>
+              <container type="Box">2</container>
+              <container type="Folder">21</container>
+            </did>
+          </c>
+        </c>
+        <c id="c-56-2" level="subseries">
+          <did>
+            <unittitle>Subseries 2.5: Business
+            Inquiries</unittitle>
+            <unitdate type="inclusive" normal="1872/1885">
+            1872-1885</unitdate>
+          </did>
+          <c id="c-57-3" level="file">
+            <did>
+              <unittitle>Business inquires</unittitle>
+              <unitdate type="inclusive" normal="1872/1878">
+              1872-1878</unitdate>
+              <container type="Box">2</container>
+              <container type="Folder">22</container>
+            </did>
+          </c>
+          <c id="c-58-3" level="file">
+            <did>
+              <unittitle>Business inquires</unittitle>
+              <unitdate type="inclusive" normal="1880/1885">
+              1880-1885</unitdate>
+              <container type="Box">2</container>
+              <container type="Folder">23</container>
+            </did>
+          </c>
+        </c>
+      </c>
+      <c id="c-59-1" level="series">
+        <did>
+          <unittitle>3. Brown Brothers</unittitle>
+          <unitdate type="inclusive" normal="1870/1892">
+          1870-1892</unitdate>
+        </did>
+        <c id="c-60-2" level="subseries">
+          <did>
+            <unittitle>Subseries 3.1: Finances</unittitle>
+            <unitdate type="inclusive" normal="1870/1892">
+            1870-1892</unitdate>
+          </did>
+          <c id="c-61-3" level="file">
+            <did>
+              <unittitle>Bills</unittitle>
+              <unitdate type="inclusive" normal="1870/1892">
+              1870-1892</unitdate>
+              <container type="Box">3</container>
+              <container type="Folder">1</container>
+            </did>
+          </c>
+          <c id="c-62-3" level="file">
+            <did>
+              <unittitle>Receipted Bills</unittitle>
+              <unitdate type="inclusive" normal="1876">
+              1876</unitdate>
+              <container type="Box">3</container>
+              <container type="Folder">2</container>
+            </did>
+          </c>
+          <c id="c-63-3" level="file">
+            <did>
+              <unittitle>Receipted Bills</unittitle>
+              <unitdate type="inclusive" normal="1877/1879">
+              1877-1879</unitdate>
+              <container type="Box">3</container>
+              <container type="Folder">3</container>
+            </did>
+          </c>
+          <c id="c-64-3" level="file">
+            <did>
+              <unittitle>Letters to Sam Brown
+              (treasurer)</unittitle>
+              <unitdate type="inclusive" normal="1872/1873">
+              1872-1873</unitdate>
+              <container type="Box">3</container>
+              <container type="Folder">4</container>
+            </did>
+          </c>
+          <c id="c-65-3" level="file">
+            <did>
+              <unittitle>Letters to Sam Brown
+              (treasurer)</unittitle>
+              <unitdate type="inclusive" normal="1874/1879">
+              1874-1879</unitdate>
+              <container type="Box">3</container>
+              <container type="Folder">5</container>
+            </did>
+          </c>
+        </c>
+        <c id="c-66-2" level="subseries">
+          <did>
+            <unittitle>Subseries 3.2: Correspondence</unittitle>
+            <unitdate type="inclusive" normal="1871/1902">
+            1871-1902</unitdate>
+          </did>
+          <c id="c-67-3" level="file">
+            <did>
+              <unittitle>George Brown to Taylor</unittitle>
+              <unitdate type="inclusive" normal="1872">
+              1872</unitdate>
+              <container type="Box">3</container>
+              <container type="Folder">6</container>
+            </did>
+          </c>
+          <c id="c-68-3" level="file">
+            <did>
+              <unittitle>George Brown to Taylor</unittitle>
+              <unitdate type="inclusive" normal="1873/1874">
+              1873-1874</unitdate>
+              <container type="Box">3</container>
+              <container type="Folder">7</container>
+            </did>
+          </c>
+          <c id="c-69-3" level="file">
+            <did>
+              <unittitle>Miscellaneous Correspondence</unittitle>
+              <unitdate type="inclusive" normal="1871/1902">
+              1871-1902</unitdate>
+              <container type="Box">3</container>
+              <container type="Folder">8</container>
+            </did>
+          </c>
+        </c>
+        <c id="c-70-2" level="subseries">
+          <did>
+            <unittitle>Subseries 3.3: Miscellaneous</unittitle>
+            <unitdate type="inclusive" normal="1892">
+            1892</unitdate>
+          </did>
+          <c id="c-71-3" level="file">
+            <did>
+              <unittitle>George Brown Real Estate Lease</unittitle>
+              <unitdate type="inclusive" normal="1892">
+              1892</unitdate>
+              <container type="Box">3</container>
+              <container type="Folder">9</container>
+            </did>
+          </c>
+          <c id="c-72-3" level="file">
+            <did>
+              <unittitle>Unidentified</unittitle>
+              <container type="Box">3</container>
+              <container type="Folder">10</container>
+            </did>
+          </c>
+        </c>
+      </c>
+      <c id="c-73-1" level="series">
+        <did>
+          <unittitle>4. Clove Branch Railroad</unittitle>
+          <unitdate type="inclusive" normal="1874/1903">
+          1874-1903</unitdate>
+        </did>
+        <c id="c-74-2" level="subseries">
+          <did>
+            <unittitle>Subseries 4.1: Finances</unittitle>
+            <unitdate type="inclusive" normal="1874/1881">
+            1874-1881</unitdate>
+          </did>
+          <c id="c-75-3" level="file">
+            <did>
+              <unittitle>Bills</unittitle>
+              <unitdate type="inclusive" normal="1879/1881">
+              1879-1881</unitdate>
+              <container type="Box">3</container>
+              <container type="Folder">11</container>
+            </did>
+          </c>
+          <c id="c-76-3" level="file">
+            <did>
+              <unittitle>Receipts and Receipted Bills</unittitle>
+              <unitdate type="inclusive" normal="1874/1881">
+              1874-1881</unitdate>
+              <container type="Box">3</container>
+              <container type="Folder">12</container>
+            </did>
+          </c>
+          <c id="c-77-3" level="file">
+            <did>
+              <unittitle>Payroll</unittitle>
+              <unitdate type="inclusive" normal="1881">
+              1881</unitdate>
+              <container type="Box">3</container>
+              <container type="Folder">13</container>
+            </did>
+          </c>
+        </c>
+        <c id="c-78-2" level="subseries">
+          <did>
+            <unittitle>Subseries 4.2: Statements</unittitle>
+            <unitdate type="inclusive" normal="1877/1903">
+            1877-1903</unitdate>
+          </did>
+        </c>
+        <c id="c-82-2" level="subseries">
+          <did>
+            <unittitle>Subseries 4.3: Correspondence</unittitle>
+            <unitdate type="inclusive" normal="1874/1889">
+            1874-1889</unitdate>
+          </did>
+          <c id="c-83-3" level="file">
+            <did>
+              <unittitle>Meeting of the Board of Directors
+              Invitations</unittitle>
+              <unitdate type="inclusive" normal="1881/1889">
+              1881-1889</unitdate>
+              <container type="Box">3</container>
+              <container type="Folder">17</container>
+            </did>
+          </c>
+          <c id="c-84-3" level="file">
+            <did>
+              <unittitle>Intra-company: capital stock, taxes, ore
+              prices</unittitle>
+              <unitdate type="inclusive" normal="1874/1876">
+              1874-1876</unitdate>
+              <container type="Box">3</container>
+              <container type="Folder">18</container>
+            </did>
+          </c>
+          <c id="c-85-3" level="file">
+            <did>
+              <unittitle>Finances and Orders</unittitle>
+              <unitdate type="inclusive" normal="1874/1877">
+              1874-1877</unitdate>
+              <container type="Box">3</container>
+              <container type="Folder">19</container>
+            </did>
+          </c>
+          <c id="c-86-3" level="file">
+            <did>
+              <unittitle>Letters about number of cars</unittitle>
+              <unitdate type="inclusive" normal="1875">
+              1875</unitdate>
+              <container type="Box">3</container>
+              <container type="Folder">20</container>
+            </did>
+          </c>
+          <c id="c-87-3" level="file">
+            <did>
+              <unittitle>Purchase Inquiry</unittitle>
+              <unitdate type="inclusive" normal="1875/1876">
+              1875-1876</unitdate>
+              <container type="Box">3</container>
+              <container type="Folder">21</container>
+            </did>
+          </c>
+        </c>
+      </c>
+      <c id="c-88-1" level="series">
+        <did>
+          <unittitle>5. Payroll</unittitle>
+          <unitdate type="inclusive" normal="1874/1903">
+          1874-1903</unitdate>
+        </did>
+        <c id="c-89-2" level="subseries">
+          <did>
+            <unittitle>Subseries 5.1: Reports</unittitle>
+            <unitdate type="inclusive" normal="1875/1885">
+            1875-1885</unitdate>
+          </did>
+          <c id="c-90-3" level="file">
+            <did>
+              <unittitle>Payroll</unittitle>
+              <unitdate type="inclusive" normal="1875/1876">
+              1875-1876</unitdate>
+              <container type="Box">3</container>
+              <container type="Folder">22</container>
+            </did>
+          </c>
+          <c id="c-91-3" level="file">
+            <did>
+              <unittitle>Payroll</unittitle>
+              <unitdate type="inclusive" normal="1879">
+              1879</unitdate>
+              <container type="Box">3</container>
+              <container type="Folder">23</container>
+            </did>
+          </c>
+          <c id="c-92-3" level="file">
+            <did>
+              <unittitle>Payroll</unittitle>
+              <unitdate>May and June 1880</unitdate>
+              <container type="Box">3</container>
+              <container type="Folder">24</container>
+            </did>
+          </c>
+          <c id="c-93-3" level="file">
+            <did>
+              <unittitle>Payroll</unittitle>
+              <unitdate>September, November, and December
+              1880</unitdate>
+              <container type="Box">3</container>
+              <container type="Folder">25</container>
+            </did>
+          </c>
+          <c id="c-94-3" level="file">
+            <did>
+              <unittitle>Payroll</unittitle>
+              <unitdate type="inclusive" normal="1881/1882">
+              1881-1882</unitdate>
+              <container type="Box">3</container>
+              <container type="Folder">26</container>
+            </did>
+          </c>
+          <c id="c-95-3" level="file">
+            <did>
+              <unittitle>Payroll</unittitle>
+              <unitdate type="inclusive" normal="1883/1884">
+              1883-1884</unitdate>
+              <container type="Box">3</container>
+              <container type="Folder">27</container>
+            </did>
+          </c>
+        </c>
+        <c id="c-96-2" level="subseries">
+          <did>
+            <unittitle>Subseries 5.2: Check Receipts</unittitle>
+            <unitdate type="inclusive" normal="1874/1886">
+            1874-1886</unitdate>
+          </did>
+          <c id="c-97-3" level="file">
+            <did>
+              <unittitle>Check receipts for payments in wages,
+              charcoal, and jobs</unittitle>
+              <unitdate type="inclusive" normal="1874/1886">
+              1874-1886</unitdate>
+              <container type="Box">3</container>
+              <container type="Folder">28</container>
+            </did>
+          </c>
+        </c>
+        <c id="c-98-2" level="subseries">
+          <did>
+            <unittitle>Subseries 5.3: Employee Wages</unittitle>
+            <unitdate type="inclusive" normal="1881/1896">
+            1881-1896</unitdate>
+          </did>
+          <c id="c-99-3" level="file">
+            <did>
+              <unittitle>Employee Wages--Correspondence</unittitle>
+              <unitdate type="inclusive" normal="1881">
+              1881</unitdate>
+              <unitdate type="inclusive" normal="1884">
+              1884</unitdate>
+              <unitdate type="inclusive" normal="1896">
+              1896</unitdate>
+              <container type="Box">3</container>
+              <container type="Folder">29</container>
+            </did>
+          </c>
+        </c>
+        <c id="c-100-2" level="subseries">
+          <did>
+            <unittitle>Subseries 5.4: Employee Requests</unittitle>
+            <unitdate type="inclusive" normal="1884/1886">
+            1884-1886</unitdate>
+          </did>
+          <c id="c-101-3" level="file">
+            <did>
+              <unittitle>Employee Requests</unittitle>
+              <unitdate type="inclusive" normal="1884/1886">
+              1884-1886</unitdate>
+              <container type="Box">3</container>
+              <container type="Folder">30</container>
+            </did>
+          </c>
+        </c>
+        <c id="c-102-2" level="subseries">
+          <did>
+            <unittitle>Subseries 5.5: Conflict</unittitle>
+            <unitdate type="inclusive" normal="1884/1896">
+            1884-1896</unitdate>
+          </did>
+          <c id="c-103-3" level="file">
+            <did>
+              <unittitle>Conflict with employee agreement and
+              policies</unittitle>
+              <unitdate type="inclusive" normal="1884/1885">
+              1884-1885</unitdate>
+              <unitdate type="inclusive" normal="1896">
+              1896</unitdate>
+              <container type="Box">3</container>
+              <container type="Folder">31</container>
+            </did>
+          </c>
+        </c>
+        <c id="c-104-2" level="subseries">
+          <did>
+            <unittitle>Subseries 5.6: Job Inquiries</unittitle>
+            <unitdate type="inclusive" normal="1881/1885">
+            1881-1885</unitdate>
+          </did>
+          <c id="c-105-3" level="file">
+            <did>
+              <unittitle>Job Inquiries</unittitle>
+              <unitdate type="inclusive" normal="1881/1885">
+              1881-1885</unitdate>
+              <container type="Box">3</container>
+              <container type="Folder">32</container>
+            </did>
+          </c>
+        </c>
+        <c id="c-106-2" level="subseries">
+          <did>
+            <unittitle>Subseries 5.7: Miscellaneous</unittitle>
+          </did>
+          <c id="c-107-3" level="file">
+            <did>
+              <unittitle>Miscellaneous</unittitle>
+              <container type="Box">3</container>
+              <container type="Folder">33</container>
+            </did>
+          </c>
+        </c>
+      </c>
+      <c id="c-108-1" level="series">
+        <did>
+          <unittitle>6. Correspondence</unittitle>
+          <unitdate type="inclusive" normal="1872/1889">
+          1872-1889</unitdate>
+        </did>
+        <c id="c-109-2" level="subseries">
+          <did>
+            <unittitle>Subseries 6.1: Charles Taylor
+            (cashier)</unittitle>
+            <unitdate type="inclusive" normal="1872/1874">
+            1872-1874</unitdate>
+          </did>
+          <c id="c-110-3" level="file">
+            <did>
+              <unittitle>I.N. Bartman, Furnace Architect and
+              Builder</unittitle>
+              <unitdate type="inclusive" normal="1872/1873">
+              1872-1873</unitdate>
+              <container type="Box">4</container>
+              <container type="Folder">1</container>
+            </did>
+          </c>
+          <c id="c-111-3" level="file">
+            <did>
+              <unittitle>NY Boston and Montreal Railway
+              Company</unittitle>
+              <unitdate type="inclusive" normal="1873">
+              1873</unitdate>
+              <container type="Box">4</container>
+              <container type="Folder">2</container>
+            </did>
+          </c>
+          <c id="c-112-3" level="file">
+            <did>
+              <unittitle>Letters from Lyman Hall</unittitle>
+              <unitdate type="inclusive" normal="1873">
+              1873</unitdate>
+              <container type="Box">4</container>
+              <container type="Folder">3</container>
+            </did>
+          </c>
+          <c id="c-113-3" level="file">
+            <did>
+              <unittitle>Reed and Hoyt, Real Estate
+              Brothers</unittitle>
+              <unitdate type="inclusive" normal="1873">
+              1873</unitdate>
+              <container type="Box">4</container>
+              <container type="Folder">4</container>
+            </did>
+          </c>
+          <c id="c-114-3" level="file">
+            <did>
+              <unittitle>The Blake Crusher Company</unittitle>
+              <unitdate type="inclusive" normal="1872/1873">
+              1872-1873</unitdate>
+              <container type="Box">4</container>
+              <container type="Folder">5</container>
+            </did>
+          </c>
+          <c id="c-115-3" level="file">
+            <did>
+              <unittitle>Edward Storm</unittitle>
+              <unitdate type="inclusive" normal="1872/1873">
+              1872-1873</unitdate>
+              <container type="Box">4</container>
+              <container type="Folder">6</container>
+            </did>
+          </c>
+          <c id="c-116-3" level="file">
+            <did>
+              <unittitle>Office of the Continental
+              Works</unittitle>
+              <unitdate type="inclusive" normal="1873">
+              1873</unitdate>
+              <container type="Box">4</container>
+              <container type="Folder">7</container>
+            </did>
+          </c>
+          <c id="c-117-3" level="file">
+            <did>
+              <unittitle>East Fishkill Mills</unittitle>
+              <unitdate type="inclusive" normal="1873">
+              1873</unitdate>
+              <container type="Box">4</container>
+              <container type="Folder">8</container>
+            </did>
+          </c>
+          <c id="c-118-3" level="file">
+            <did>
+              <unittitle>Stissing National Bank</unittitle>
+              <unitdate type="inclusive" normal="1872/1874">
+              1872-1874</unitdate>
+              <container type="Box">4</container>
+              <container type="Folder">9</container>
+            </did>
+          </c>
+          <c id="c-119-3" level="file">
+            <did>
+              <unittitle>Letter to Taylor from Various</unittitle>
+              <unitdate type="inclusive" normal="1872/1874">
+              1872-1874</unitdate>
+              <container type="Box">4</container>
+              <container type="Folder">10</container>
+            </did>
+          </c>
+        </c>
+        <c id="c-120-2" level="subseries">
+          <did>
+            <unittitle>Subseries 6.2: Intra-company</unittitle>
+            <unitdate type="inclusive" normal="1872/1885">
+            1872-1885</unitdate>
+          </did>
+          <c id="c-121-3" level="file">
+            <did>
+              <unittitle>Schultze</unittitle>
+              <unitdate type="inclusive" normal="1877/1880">
+              1877-1880</unitdate>
+              <container type="Box">4</container>
+              <container type="Folder">11</container>
+            </did>
+          </c>
+          <c id="c-122-3" level="file">
+            <did>
+              <unittitle>Schultze</unittitle>
+              <unitdate type="inclusive" normal="1881/1885">
+              1881-1885</unitdate>
+              <container type="Box">4</container>
+              <container type="Folder">12</container>
+            </did>
+          </c>
+          <c id="c-123-3" level="file">
+            <did>
+              <unittitle>Taylor</unittitle>
+              <unitdate type="inclusive" normal="1872/1873">
+              1872-1873</unitdate>
+              <container type="Box">4</container>
+              <container type="Folder">13</container>
+            </did>
+          </c>
+          <c id="c-124-3" level="file">
+            <did>
+              <unittitle>Miscellaneous</unittitle>
+              <unitdate type="inclusive" normal="1872/1878">
+              1872-1878</unitdate>
+              <container type="Box">4</container>
+              <container type="Folder">14</container>
+            </did>
+          </c>
+        </c>
+        <c id="c-125-2" level="subseries">
+          <did>
+            <unittitle>Subseries 6.3: W.A. Reid (secretary and
+            treasurer)</unittitle>
+            <unitdate type="inclusive" normal="1872/1878">
+            1872-1878</unitdate>
+          </did>
+          <c id="c-126-3" level="file">
+            <did>
+              <unittitle>Schultze to Reid</unittitle>
+              <unitdate type="inclusive" normal="1874/1877">
+              1874-1877</unitdate>
+              <container type="Box">4</container>
+              <container type="Folder">15</container>
+            </did>
+          </c>
+          <c id="c-127-3" level="file">
+            <did>
+              <unittitle>Reid to Taylor</unittitle>
+              <unitdate type="inclusive" normal="1872/1873">
+              1872-1873</unitdate>
+              <container type="Box">4</container>
+              <container type="Folder">16</container>
+            </did>
+          </c>
+          <c id="c-128-3" level="file">
+            <did>
+              <unittitle>Letters to Reid</unittitle>
+              <unitdate type="inclusive" normal="1872/1878">
+              1872-1878</unitdate>
+              <container type="Box">4</container>
+              <container type="Folder">17</container>
+            </did>
+          </c>
+        </c>
+        <c id="c-129-2" level="subseries">
+          <did>
+            <unittitle>Subseries 6.4: Norman J. Plass
+            (treasurer)</unittitle>
+            <unitdate type="inclusive" normal="1873/1889">
+            1873-1889</unitdate>
+          </did>
+          <c id="c-130-3" level="file">
+            <did>
+              <unittitle>Schultze and Plass</unittitle>
+              <unitdate type="inclusive" normal="1877/1889">
+              1877-1889</unitdate>
+              <container type="Box">4</container>
+              <container type="Folder">18</container>
+            </did>
+          </c>
+          <c id="c-131-3" level="file">
+            <did>
+              <unittitle>Davidson to Plass</unittitle>
+              <unitdate type="inclusive" normal="1873">
+              1873</unitdate>
+              <unitdate type="inclusive" normal="1881/1889">
+              1881-1889</unitdate>
+              <container type="Box">4</container>
+              <container type="Folder">19</container>
+            </did>
+          </c>
+          <c id="c-132-3" level="file">
+            <did>
+              <unittitle>CL Kimball to Plass</unittitle>
+              <unitdate type="inclusive" normal="1880/1888">
+              1880-1888</unitdate>
+              <container type="Box">4</container>
+              <container type="Folder">20</container>
+            </did>
+          </c>
+          <c id="c-133-3" level="file">
+            <did>
+              <unittitle>Edward Paul to Plass</unittitle>
+              <unitdate type="inclusive" normal="1885">
+              1885</unitdate>
+              <container type="Box">4</container>
+              <container type="Folder">21</container>
+            </did>
+          </c>
+          <c id="c-134-3" level="file">
+            <did>
+              <unittitle>HB Willits to Plass</unittitle>
+              <unitdate type="inclusive" normal="1878/1887">
+              1878-1887</unitdate>
+              <container type="Box">4</container>
+              <container type="Folder">22</container>
+            </did>
+          </c>
+          <c id="c-135-3" level="file">
+            <did>
+              <unittitle>HB Willits to Plass</unittitle>
+              <unitdate type="inclusive" normal="1881/1882">
+              1881-1882</unitdate>
+              <container type="Box">4</container>
+              <container type="Folder">23</container>
+            </did>
+          </c>
+          <c id="c-136-3" level="file">
+            <did>
+              <unittitle>HB Willits to Plass</unittitle>
+              <unitdate type="inclusive" normal="1883/1889">
+              1883-1889</unitdate>
+              <container type="Box">4</container>
+              <container type="Folder">24</container>
+            </did>
+          </c>
+          <c id="c-137-3" level="file">
+            <did>
+              <unittitle>Plass Miscellaneous</unittitle>
+              <unitdate type="inclusive" normal="1878/1886">
+              1878-1886</unitdate>
+              <container type="Box">4</container>
+              <container type="Folder">25</container>
+            </did>
+          </c>
+        </c>
+        <c id="c-138-2" level="subseries">
+          <did>
+            <unittitle>Subseries 6.5: Viola and Company</unittitle>
+            <unitdate type="inclusive" normal="1882/1885">
+            1882-1885</unitdate>
+          </did>
+          <c id="c-139-3" level="file">
+            <did>
+              <unittitle>Viola and Company to Clove Spring Iron
+              Works</unittitle>
+              <unitdate type="inclusive" normal="1882/1885">
+              1882-1885</unitdate>
+              <container type="Box">4</container>
+              <container type="Folder">26</container>
+            </did>
+          </c>
+        </c>
+      </c>
+      <c id="c-140-1" level="series">
+        <did>
+          <unittitle>7. Sylvan Lake</unittitle>
+          <unitdate type="inclusive" normal="1871/1885">
+          1871-1885</unitdate>
+        </did>
+        <c id="c-141-2" level="subseries">
+          <did>
+            <unittitle>Subseries 7.1: Finances</unittitle>
+            <unitdate type="inclusive" normal="1871/1884">
+            1871-1884</unitdate>
+          </did>
+          <c id="c-142-3" level="file">
+            <did>
+              <unittitle>Receipted Bills</unittitle>
+              <unitdate type="inclusive" normal="1873/1879">
+              1873-1879</unitdate>
+              <container type="Box">5</container>
+              <container type="Folder">1</container>
+            </did>
+          </c>
+          <c id="c-143-3" level="file">
+            <did>
+              <unittitle>Receipted Bills</unittitle>
+              <unitdate type="inclusive" normal="1882/1884">
+              1882-1884</unitdate>
+              <container type="Box">5</container>
+              <container type="Folder">2</container>
+            </did>
+          </c>
+          <c id="c-144-3" level="file">
+            <did>
+              <unittitle>Letter Receipts</unittitle>
+              <unitdate type="inclusive" normal="1876/1884">
+              1876-1884</unitdate>
+              <container type="Box">5</container>
+              <container type="Folder">3</container>
+            </did>
+          </c>
+          <c id="c-145-3" level="file">
+            <did>
+              <unittitle>Transportation Charges</unittitle>
+              <unitdate type="inclusive" normal="1871/1879">
+              1871-1879</unitdate>
+              <container type="Box">5</container>
+              <container type="Folder">4</container>
+            </did>
+          </c>
+          <c id="c-146-3" level="file">
+            <did>
+              <unittitle>Statements</unittitle>
+              <unitdate type="inclusive" normal="1871/1883">
+              1871-1883</unitdate>
+              <container type="Box">5</container>
+              <container type="Folder">5</container>
+            </did>
+          </c>
+          <c id="c-147-3" level="file">
+            <did>
+              <unittitle>Weights of Iron Shipped</unittitle>
+              <unitdate type="inclusive" normal="1871/1883">
+              1871-1883</unitdate>
+              <container type="Box">5</container>
+              <container type="Folder">6</container>
+            </did>
+          </c>
+          <c id="c-148-3" level="file">
+            <did>
+              <unittitle>Wage Rates</unittitle>
+              <unitdate type="inclusive" normal="1883">
+              1883</unitdate>
+              <container type="Box">5</container>
+              <container type="Folder">7</container>
+            </did>
+          </c>
+          <c id="c-149-3" level="file">
+            <did>
+              <unittitle>Boarding Payments</unittitle>
+              <unitdate type="inclusive" normal="1874/1881">
+              1874-1881</unitdate>
+              <container type="Box">5</container>
+              <container type="Folder">8</container>
+            </did>
+          </c>
+        </c>
+        <c id="c-150-2" level="subseries">
+          <did>
+            <unittitle>Subseries 7.2: Correspondence</unittitle>
+            <unitdate type="inclusive" normal="1871/1884">
+            1871-1884</unitdate>
+          </did>
+          <c id="c-151-3" level="file">
+            <did>
+              <unittitle>Receipted Bills</unittitle>
+              <unitdate type="inclusive" normal="1873/1879">
+              1873-1879</unitdate>
+              <container type="Box">5</container>
+              <container type="Folder">9</container>
+            </did>
+          </c>
+          <c id="c-152-3" level="file">
+            <did>
+              <unittitle>Receipted Bills</unittitle>
+              <unitdate type="inclusive" normal="1882/1884">
+              1882-1884</unitdate>
+              <container type="Box">5</container>
+              <container type="Folder">10</container>
+            </did>
+          </c>
+          <c id="c-153-3" level="file">
+            <did>
+              <unittitle>Letter Receipts</unittitle>
+              <unitdate type="inclusive" normal="1876/1884">
+              1876-1884</unitdate>
+              <container type="Box">5</container>
+              <container type="Folder">11</container>
+            </did>
+          </c>
+          <c id="c-154-3" level="file">
+            <did>
+              <unittitle>Transportation Charges</unittitle>
+              <unitdate type="inclusive" normal="1871/1879">
+              1871-1879</unitdate>
+              <container type="Box">5</container>
+              <container type="Folder">12</container>
+            </did>
+          </c>
+          <c id="c-155-3" level="file">
+            <did>
+              <unittitle>Statements</unittitle>
+              <unitdate type="inclusive" normal="1871/1883">
+              1871-1883</unitdate>
+              <container type="Box">5</container>
+              <container type="Folder">13</container>
+            </did>
+          </c>
+          <c id="c-156-3" level="file">
+            <did>
+              <unittitle>Weights of Iron Shipped</unittitle>
+              <unitdate type="inclusive" normal="1871/1883">
+              1871-1883</unitdate>
+              <container type="Box">5</container>
+              <container type="Folder">14</container>
+            </did>
+          </c>
+          <c id="c-157-3" level="file">
+            <did>
+              <unittitle>Wage Rates</unittitle>
+              <unitdate type="inclusive" normal="1883">
+              1883</unitdate>
+              <container type="Box">5</container>
+              <container type="Folder">15</container>
+            </did>
+          </c>
+          <c id="c-158-3" level="file">
+            <did>
+              <unittitle>Boarding Payments</unittitle>
+              <unitdate type="inclusive" normal="1874/1881">
+              1874-1881</unitdate>
+              <container type="Box">5</container>
+              <container type="Folder">16</container>
+            </did>
+          </c>
+        </c>
+        <c id="c-159-2" level="subseries">
+          <did>
+            <unittitle>Subseries 7.3: Miscellaneous</unittitle>
+            <unitdate type="inclusive" normal="1873/1885">
+            1873-1885</unitdate>
+          </did>
+          <c id="c-160-3" level="file">
+            <did>
+              <unittitle>Court Order for John Buckley</unittitle>
+              <unitdate type="inclusive" normal="1881">
+              1881</unitdate>
+              <container type="Box">5</container>
+              <container type="Folder">16</container>
+            </did>
+          </c>
+          <c id="c-161-3" level="file">
+            <did>
+              <unittitle>Report of Materials Received at the Sylvan
+              Lake Mine</unittitle>
+              <unitdate type="inclusive" normal="1883">
+              1883</unitdate>
+              <container type="Box">5</container>
+              <container type="Folder">17</container>
+            </did>
+          </c>
+          <c id="c-162-3" level="file">
+            <did>
+              <unittitle>Inquiry regarding creditworthiness of
+              employee</unittitle>
+              <unitdate type="inclusive" normal="1885">
+              1885</unitdate>
+              <container type="Box">5</container>
+              <container type="Folder">18</container>
+            </did>
+          </c>
+          <c id="c-163-3" level="file">
+            <did>
+              <unittitle>Beekman Furnace Company</unittitle>
+              <unitdate type="inclusive" normal="1873/1881">
+              1873-1881</unitdate>
+              <container type="Box">5</container>
+              <container type="Folder">19</container>
+            </did>
+          </c>
+        </c>
+      </c>
+      <c id="c-164-1" level="series">
+        <did>
+          <unittitle>8. Crocker Brothers</unittitle>
+          <unitdate type="inclusive" normal="1874/1888">
+          1874-1888</unitdate>
+        </did>
+        <c id="c-165-2" level="subseries">
+          <did>
+            <unittitle>Subseries 8.1: Finances</unittitle>
+            <unitdate type="inclusive" normal="1878/1883">
+            1878-1883</unitdate>
+          </did>
+          <c id="c-166-3" level="file">
+            <did>
+              <unittitle>Statements of payment between Crocker
+              Bros. and CSIW</unittitle>
+              <unitdate type="inclusive" normal="1878">
+              1878</unitdate>
+              <container type="Box">5</container>
+              <container type="Folder">20</container>
+            </did>
+          </c>
+          <c id="c-167-3" level="file">
+            <did>
+              <unittitle>CSIW account with Crocker
+              Brothers</unittitle>
+              <unitdate type="inclusive" normal="1880/1883">
+              1880-1883</unitdate>
+              <container type="Box">5</container>
+              <container type="Folder">21</container>
+            </did>
+          </c>
+          <c id="c-168-3" level="file">
+            <did>
+              <unittitle>CSIW account with Crocker
+              Brothers</unittitle>
+              <unitdate type="inclusive" normal="1880/1882">
+              1880-1882</unitdate>
+              <container type="Box">5</container>
+              <container type="Folder">22</container>
+            </did>
+          </c>
+          <c id="c-169-3" level="file">
+            <did>
+              <unittitle>Transportation Charges</unittitle>
+              <unitdate type="inclusive" normal="1880/1882">
+              1880-1882</unitdate>
+              <container type="Box">5</container>
+              <container type="Folder">23</container>
+            </did>
+          </c>
+          <c id="c-170-3" level="file">
+            <did>
+              <unittitle>Financial Calculations
+              Unspecified</unittitle>
+              <unitdate type="inclusive" normal="1883">
+              1883</unitdate>
+              <container type="Box">5</container>
+              <container type="Folder">24</container>
+            </did>
+          </c>
+        </c>
+        <c id="c-171-2" level="subseries">
+          <did>
+            <unittitle>Subseries 8.2: Correspondence</unittitle>
+            <unitdate type="inclusive" normal="1874/1888">
+            1874-1888</unitdate>
+          </did>
+          <c id="c-172-3" level="file">
+            <did>
+              <unittitle>CSIW and Crocker Brothers</unittitle>
+              <unitdate type="inclusive" normal="1874/1888">
+              1874-1888</unitdate>
+              <container type="Box">5</container>
+              <container type="Folder">25</container>
+            </did>
+          </c>
+          <c id="c-173-3" level="file">
+            <did>
+              <unittitle>Letters to E.W. Plass</unittitle>
+              <unitdate type="inclusive" normal="1877/1879">
+              1877-1879</unitdate>
+              <container type="Box">5</container>
+              <container type="Folder">26</container>
+            </did>
+          </c>
+          <c id="c-174-3" level="file">
+            <did>
+              <unittitle>Letters to E.W. Plass</unittitle>
+              <unitdate type="inclusive" normal="1880/1882">
+              1880-1882</unitdate>
+              <container type="Box">5</container>
+              <container type="Folder">27</container>
+            </did>
+          </c>
+        </c>
+      </c>
+      <c id="c-175-1" level="series">
+        <did>
+          <unittitle>9. Newburgh, Dutchess and Connecticut
+          Railroad</unittitle>
+          <unitdate type="inclusive" normal="1874/1888">
+          1874-1888</unitdate>
+        </did>
+        <c id="c-176-2" level="subseries">
+          <did>
+            <unittitle>Subseries 9.1: Finances</unittitle>
+            <unitdate type="inclusive" normal="1878/1904">
+            1878-1904</unitdate>
+          </did>
+          <c id="c-177-3" level="file">
+            <did>
+              <unittitle>Bills</unittitle>
+              <unitdate type="inclusive" normal="1878/1879">
+              1878-1879</unitdate>
+              <container type="Box">6</container>
+              <container type="Folder">1</container>
+            </did>
+          </c>
+          <c id="c-178-3" level="file">
+            <did>
+              <unittitle>Bills</unittitle>
+              <unitdate type="inclusive" normal="1880/1888">
+              1880-1888</unitdate>
+              <container type="Box">6</container>
+              <container type="Folder">2</container>
+            </did>
+          </c>
+          <c id="c-179-3" level="file">
+            <did>
+              <unittitle>Financial Correspondence</unittitle>
+              <unitdate type="inclusive" normal="1879/1896">
+              1879-1896</unitdate>
+              <container type="Box">6</container>
+              <container type="Folder">3</container>
+            </did>
+          </c>
+          <c id="c-180-3" level="file">
+            <did>
+              <unittitle>Financial Correspondence</unittitle>
+              <unitdate type="inclusive" normal="1901/1904">
+              1901-1904</unitdate>
+              <container type="Box">6</container>
+              <container type="Folder">4</container>
+            </did>
+          </c>
+        </c>
+        <c id="c-181-2" level="subseries">
+          <did>
+            <unittitle>Subseries 9.2: Correspondence</unittitle>
+            <unitdate type="inclusive" normal="1881/1903">
+            1881-1903</unitdate>
+          </did>
+          <c id="c-182-3" level="file">
+            <did>
+              <unittitle>Telegraphs</unittitle>
+              <unitdate type="inclusive" normal="1881/1903">
+              1881-1903</unitdate>
+              <container type="Box">6</container>
+              <container type="Folder">5</container>
+            </did>
+          </c>
+          <c id="c-183-3" level="file">
+            <did>
+              <unittitle>Wells to NJ Plass</unittitle>
+              <unitdate type="inclusive" normal="1881/1885">
+              1881-1885</unitdate>
+              <container type="Box">6</container>
+              <container type="Folder">6</container>
+            </did>
+          </c>
+        </c>
+        <c id="c-184-2" level="subseries">
+          <did>
+            <unittitle>Subseries 9.3: The Philadelphia Reading and
+            New England Railroad Company</unittitle>
+            <unitdate type="inclusive" normal="1888/1902">
+            1888-1902</unitdate>
+          </did>
+          <c id="c-185-3" level="file">
+            <did>
+              <unittitle>Shares and Mortgage Bonds</unittitle>
+              <unitdate type="inclusive" normal="1891/1902">
+              1891-1902</unitdate>
+              <container type="Box">6</container>
+              <container type="Folder">7</container>
+            </did>
+          </c>
+          <c id="c-186-3" level="file">
+            <did>
+              <unittitle>Letter Receipts</unittitle>
+              <unitdate type="inclusive" normal="1896/1899">
+              1896-1899</unitdate>
+              <container type="Box">6</container>
+              <container type="Folder">8</container>
+            </did>
+          </c>
+          <c id="c-187-3" level="file">
+            <did>
+              <unittitle>Bills</unittitle>
+              <unitdate type="inclusive" normal="1985/1991">
+              1985-1991</unitdate>
+              <container type="Box">6</container>
+              <container type="Folder">9</container>
+            </did>
+          </c>
+          <c id="c-188-3" level="file">
+            <did>
+              <unittitle>Fowler (lawyer) to Brock</unittitle>
+              <unitdate type="inclusive" normal="1888">
+              1888</unitdate>
+              <container type="Box">6</container>
+              <container type="Folder">10</container>
+            </did>
+          </c>
+          <c id="c-189-3" level="file">
+            <did>
+              <unittitle>Fowler to Brock</unittitle>
+              <unitdate type="inclusive" normal="1890/1902">
+              1890-1902</unitdate>
+              <container type="Box">6</container>
+              <container type="Folder">11</container>
+            </did>
+          </c>
+          <c id="c-190-3" level="file">
+            <did>
+              <unittitle>Fazende and Seixas to Brock</unittitle>
+              <unitdate type="inclusive" normal="1888">
+              1888</unitdate>
+              <container type="Box">6</container>
+              <container type="Folder">12</container>
+            </did>
+          </c>
+          <c id="c-191-3" level="file">
+            <did>
+              <unittitle>Fazende and Seixas telegraphs</unittitle>
+              <unitdate type="inclusive" normal="1888">
+              1888</unitdate>
+              <container type="Box">6</container>
+              <container type="Folder">13</container>
+            </did>
+          </c>
+          <c id="c-192-3" level="file">
+            <did>
+              <unittitle>Appleton to Brock</unittitle>
+              <unitdate type="inclusive" normal="1898/1900">
+              1898-1900</unitdate>
+              <container type="Box">6</container>
+              <container type="Folder">14</container>
+            </did>
+          </c>
+          <c id="c-193-3" level="file">
+            <did>
+              <unittitle>Appleton to Brock</unittitle>
+              <unitdate type="inclusive" normal="1888">
+              1888</unitdate>
+              <container type="Box">6</container>
+              <container type="Folder">15</container>
+            </did>
+          </c>
+          <c id="c-194-3" level="file">
+            <did>
+              <unittitle>Letters to Brock</unittitle>
+              <unitdate type="inclusive" normal="1888/1899">
+              1888-1899</unitdate>
+              <container type="Box">6</container>
+              <container type="Folder">16</container>
+            </did>
+          </c>
+          <c id="c-195-3" level="file">
+            <did>
+              <unittitle>Invitation to Board Meetings</unittitle>
+              <unitdate type="inclusive" normal="1885/1890">
+              1885-1890</unitdate>
+              <container type="Box">6</container>
+              <container type="Folder">17</container>
+            </did>
+          </c>
+        </c>
+      </c>
+      <c id="c-196-1" level="series">
+        <did>
+          <unittitle>10. Administrative</unittitle>
+          <unitdate type="inclusive" normal="1872/1898">
+          1872-1898</unitdate>
+        </did>
+        <c id="c-197-2" level="subseries">
+          <did>
+            <unittitle>Subseries 10.1: Orders</unittitle>
+            <unitdate type="inclusive" normal="1872/1898">
+            1872-1898</unitdate>
+          </did>
+          <c id="c-198-3" level="file">
+            <did>
+              <unittitle>Administrative Supplies (Willits to
+              Plass)</unittitle>
+              <unitdate type="inclusive" normal="1879/1888">
+              1879-1888</unitdate>
+              <container type="Box">6</container>
+              <container type="Folder">18</container>
+            </did>
+          </c>
+          <c id="c-199-3" level="file">
+            <did>
+              <unittitle>Order Conflicts</unittitle>
+              <unitdate type="inclusive" normal="1872/1873">
+              1872-1873</unitdate>
+              <unitdate type="inclusive" normal="1881">
+              1881</unitdate>
+              <container type="Box">6</container>
+              <container type="Folder">19</container>
+            </did>
+          </c>
+          <c id="c-200-3" level="file">
+            <did>
+              <unittitle>Miscellaneous Orders</unittitle>
+              <unitdate type="inclusive" normal="1872/1885">
+              1872-1885</unitdate>
+              <container type="Box">6</container>
+              <container type="Folder">20</container>
+            </did>
+          </c>
+        </c>
+        <c id="c-201-2" level="subseries">
+          <did>
+            <unittitle>Subseries 10.2: Legal</unittitle>
+            <unitdate type="inclusive" normal="1872/1887">
+            1872-1887</unitdate>
+          </did>
+          <c id="c-202-3" level="file">
+            <did>
+              <unittitle>Legal Matters</unittitle>
+              <container type="Box">6</container>
+              <container type="Folder">21</container>
+            </did>
+          </c>
+          <c id="c-203-3" level="file">
+            <did>
+              <unittitle>T. Coffin (lawyer) to Reid</unittitle>
+              <unitdate type="inclusive" normal="1875/1876">
+              1875-1876</unitdate>
+              <container type="Box">6</container>
+              <container type="Folder">22</container>
+            </did>
+          </c>
+          <c id="c-204-3" level="file">
+            <did>
+              <unittitle>Lease Agreements</unittitle>
+              <unitdate type="inclusive" normal="1872/1873">
+              1872-1873</unitdate>
+              <container type="Box">6</container>
+              <container type="Folder">23</container>
+            </did>
+          </c>
+          <c id="c-205-3" level="file">
+            <did>
+              <unittitle>Contracts</unittitle>
+              <unitdate type="inclusive" normal="1873/1875">
+              1873-1875</unitdate>
+              <unitdate type="inclusive" normal="1887">
+              1887</unitdate>
+              <container type="Box">6</container>
+              <container type="Folder">24</container>
+            </did>
+          </c>
+        </c>
+        <c id="c-206-2" level="subseries">
+          <did>
+            <unittitle>Subseries 10.3: Finances</unittitle>
+            <unitdate type="inclusive" normal="1872/1898">
+            1872-1898</unitdate>
+          </did>
+          <c id="c-207-3" level="file">
+            <did>
+              <unittitle>Insurance</unittitle>
+              <unitdate type="inclusive" normal="1872/1884">
+              1872-1884</unitdate>
+              <container type="Box">6</container>
+              <container type="Folder">25</container>
+            </did>
+          </c>
+          <c id="c-208-3" level="file">
+            <did>
+              <unittitle>Taxes</unittitle>
+              <unitdate type="inclusive" normal="1874/1885">
+              1874-1885</unitdate>
+              <unitdate type="inclusive" normal="1898">
+              1898</unitdate>
+              <container type="Box">6</container>
+              <container type="Folder">26</container>
+            </did>
+          </c>
+          <c id="c-209-3" level="file">
+            <did>
+              <unittitle>Annual Reports</unittitle>
+              <unitdate type="inclusive" normal="1881/1886">
+              1881-1886</unitdate>
+              <container type="Box">6</container>
+              <container type="Folder">27</container>
+            </did>
+          </c>
+          <c id="c-210-3" level="file">
+            <did>
+              <unittitle>Bond Issues</unittitle>
+              <unitdate type="inclusive" normal="1873/1874">
+              1873-1874</unitdate>
+              <container type="Box">6</container>
+              <container type="Folder">28</container>
+            </did>
+          </c>
+        </c>
+        <c id="c-211-2" level="subseries">
+          <did>
+            <unittitle>Subseries 10.4: Miscellaneous</unittitle>
+            <unitdate type="inclusive" normal="1873/1889">
+            1873-1889</unitdate>
+          </did>
+          <c id="c-212-3" level="file">
+            <did>
+              <unittitle>Surveys</unittitle>
+              <unitdate type="inclusive" normal="1873/1883">
+              1873-1883</unitdate>
+              <container type="Box">6</container>
+              <container type="Folder">29</container>
+            </did>
+          </c>
+          <c id="c-213-3" level="file">
+            <did>
+              <unittitle>Census Statistics</unittitle>
+              <unitdate type="inclusive" normal="1880">
+              1880</unitdate>
+              <container type="Box">6</container>
+              <container type="Folder">30</container>
+            </did>
+          </c>
+          <c id="c-214-3" level="file">
+            <did>
+              <unittitle>Meetings</unittitle>
+              <unitdate type="inclusive" normal="1878">
+              1878</unitdate>
+              <unitdate type="inclusive" normal="1883">
+              1883</unitdate>
+              <unitdate type="inclusive" normal="1889">
+              1889</unitdate>
+              <container type="Box">6</container>
+              <container type="Folder">31</container>
+            </did>
+          </c>
+          <c id="c-215-3" level="file">
+            <did>
+              <unittitle>Use of House Space Agreement</unittitle>
+              <container type="Box">6</container>
+              <container type="Folder">32</container>
+            </did>
+          </c>
+        </c>
+      </c>
+      <c id="c-216-1" level="series">
+        <did>
+          <unittitle>11. Operations</unittitle>
+          <unitdate type="inclusive" normal="1872/1898">
+          1872-1898</unitdate>
+        </did>
+        <c id="c-217-2" level="subseries">
+          <did>
+            <unittitle>Subseries 11.1: Broken Equipment and
+            Repairs</unittitle>
+            <unitdate type="inclusive" normal="1872/1898">
+            1872-1898</unitdate>
+          </did>
+          <c id="c-218-3" level="file">
+            <did>
+              <unittitle>Broken Equipment and Repairs</unittitle>
+              <unitdate type="inclusive" normal="1872/1878">
+              1872-1878</unitdate>
+              <container type="Box">7</container>
+              <container type="Folder">1</container>
+            </did>
+          </c>
+        </c>
+        <c id="c-219-2" level="subseries">
+          <did>
+            <unittitle>Subseries 11.2: Broken Equipment, Supplies
+            and Repairs</unittitle>
+            <unitdate type="inclusive" normal="1881/1888">
+            1881-1888</unitdate>
+          </did>
+          <c id="c-220-3" level="file">
+            <did>
+              <unittitle>Broken Equipment, Supplies and
+              Repairs</unittitle>
+              <unitdate type="inclusive" normal="1881/1888">
+              1881-1888</unitdate>
+              <container type="Box">7</container>
+              <container type="Folder">2</container>
+            </did>
+          </c>
+        </c>
+        <c id="c-221-2" level="subseries">
+          <did>
+            <unittitle>Subseries 11.3: Shipping</unittitle>
+            <unitdate type="inclusive" normal="1876/1888">
+            1876-1888</unitdate>
+          </did>
+          <c id="c-222-3" level="file">
+            <did>
+              <unittitle>Shipping</unittitle>
+              <unitdate type="inclusive" normal="1876/1888">
+              1876-1888</unitdate>
+              <container type="Box">7</container>
+              <container type="Folder">3</container>
+            </did>
+          </c>
+        </c>
+        <c id="c-223-2" level="subseries">
+          <did>
+            <unittitle>Subseries 11.4: Receipt of
+            Shipments</unittitle>
+            <unitdate type="inclusive" normal="1881/1881">
+            1881-1881</unitdate>
+          </did>
+          <c id="c-224-3" level="file">
+            <did>
+              <unittitle>Receipt of Shipments</unittitle>
+              <unitdate type="inclusive" normal="1881">
+              1881</unitdate>
+              <container type="Box">7</container>
+              <container type="Folder">4</container>
+            </did>
+          </c>
+        </c>
+        <c id="c-225-2" level="subseries">
+          <did>
+            <unittitle>Subseries 11.5: Bills</unittitle>
+            <unitdate type="inclusive" normal="1873/1881">
+            1873-1881</unitdate>
+          </did>
+          <c id="c-226-3" level="file">
+            <did>
+              <unittitle>Bills</unittitle>
+              <unitdate type="inclusive" normal="1873">
+              1873</unitdate>
+              <unitdate type="inclusive" normal="1880/1881">
+              1880-1881</unitdate>
+              <container type="Box">7</container>
+              <container type="Folder">5</container>
+            </did>
+          </c>
+        </c>
+        <c id="c-227-2" level="subseries">
+          <did>
+            <unittitle>Subseries 11.6: Horses, Hay and
+            Feed</unittitle>
+            <unitdate type="inclusive" normal="1873/1885">
+            1873-1885</unitdate>
+          </did>
+          <c id="c-228-3" level="file">
+            <did>
+              <unittitle>Horses, Hay and Feed</unittitle>
+              <unitdate type="inclusive" normal="1873/1885">
+              1873-1885</unitdate>
+              <container type="Box">7</container>
+              <container type="Folder">6</container>
+            </did>
+          </c>
+        </c>
+        <c id="c-229-2" level="subseries">
+          <did>
+            <unittitle>Subseries 11.7: Requests for Iron
+            Statistics</unittitle>
+            <unitdate type="inclusive" normal="1883/1889">
+            1883-1889</unitdate>
+          </did>
+          <c id="c-230-3" level="file">
+            <did>
+              <unittitle>Requests for Iron Statistics</unittitle>
+              <unitdate type="inclusive" normal="1883/1889">
+              1883-1889</unitdate>
+              <container type="Box">7</container>
+              <container type="Folder">7</container>
+            </did>
+          </c>
+        </c>
+        <c id="c-231-2" level="subseries">
+          <did>
+            <unittitle>Subseries 11.8: Requests for Iron
+            Statistics</unittitle>
+            <unitdate type="inclusive" normal="1878/1878">
+            1878-1878</unitdate>
+          </did>
+          <c id="c-232-3" level="file">
+            <did>
+              <unittitle>Loaned Coal Statements</unittitle>
+              <unitdate>November 1878</unitdate>
+              <container type="Box">7</container>
+              <container type="Folder">8</container>
+            </did>
+          </c>
+        </c>
+        <c id="c-233-2" level="subseries">
+          <did>
+            <unittitle>Subseries 11.9: Construction</unittitle>
+            <unitdate type="inclusive" normal="1890/1890">
+            1890-1890</unitdate>
+          </did>
+          <c id="c-234-3" level="file">
+            <did>
+              <unittitle>Construction</unittitle>
+              <unitdate type="inclusive" normal="1890">
+              1890</unitdate>
+              <container type="Box">7</container>
+              <container type="Folder">9</container>
+            </did>
+          </c>
+        </c>
+        <c id="c-235-2" level="subseries">
+          <did>
+            <unittitle>Subseries 11.10: CSIW Blueprints</unittitle>
+            <unitdate type="inclusive" normal="1892/1892">
+            1892-1892</unitdate>
+          </did>
+          <c id="c-236-3" level="file">
+            <did>
+              <unittitle>CSIW Blueprints</unittitle>
+              <unitdate type="inclusive" normal="1882">
+              1882</unitdate>
+              <container type="Box">7</container>
+              <container type="Folder">10</container>
+            </did>
+          </c>
+        </c>
+      </c>
+      <c id="c-237-1" level="series">
+        <did>
+          <unittitle>12. Coal</unittitle>
+          <unitdate type="inclusive" normal="1872/1888">
+          1872-1888</unitdate>
+        </did>
+        <c id="c-238-2" level="subseries">
+          <did>
+            <unittitle>Subseries 11.1: Offers of
+            Coal/Wood</unittitle>
+            <unitdate type="inclusive" normal="1873/1886">
+            1873-1886</unitdate>
+          </did>
+          <c id="c-239-3" level="file">
+            <did>
+              <unittitle>Offers of Coal/Wood</unittitle>
+              <unitdate type="inclusive" normal="1873/1886">
+              1873-1886</unitdate>
+              <container type="Box">7</container>
+              <container type="Folder">11</container>
+            </did>
+          </c>
+        </c>
+        <c id="c-240-2" level="subseries">
+          <did>
+            <unittitle>Subseries 11.2: Offers of
+            Coal/Wood</unittitle>
+            <unitdate type="inclusive" normal="1882/1882">
+            1882-1882</unitdate>
+          </did>
+          <c id="c-241-3" level="file">
+            <did>
+              <unittitle>Offers of Coal/Wood</unittitle>
+              <unitdate type="inclusive" normal="1882">
+              1882</unitdate>
+              <container type="Box">7</container>
+              <container type="Folder">11</container>
+            </did>
+          </c>
+        </c>
+        <c id="c-242-2" level="subseries">
+          <did>
+            <unittitle>Subseries 11.3: Coal/Wood Orders</unittitle>
+            <unitdate type="inclusive" normal="1875/1888">
+            1875-1888</unitdate>
+          </did>
+          <c id="c-243-3" level="file">
+            <did>
+              <unittitle>Offers of Coal/Wood</unittitle>
+              <unitdate type="inclusive" normal="1875/1888">
+              1875-1888</unitdate>
+              <container type="Box">7</container>
+              <container type="Folder">12</container>
+            </did>
+          </c>
+        </c>
+        <c id="c-244-2" level="subseries">
+          <did>
+            <unittitle>Subseries 11.4: Receipt of
+            delivery/payment</unittitle>
+            <unitdate type="inclusive" normal="1874/1875">
+            1874-1875</unitdate>
+          </did>
+          <c id="c-245-3" level="file">
+            <did>
+              <unittitle>Receipt of delivery/payment
+              (coal)</unittitle>
+              <unitdate type="inclusive" normal="1874/1875">
+              1874-1875</unitdate>
+              <container type="Box">7</container>
+              <container type="Folder">13</container>
+            </did>
+          </c>
+        </c>
+        <c id="c-246-2" level="subseries">
+          <did>
+            <unittitle>Subseries 11.5: Correspondence Regarding
+            Coal Accounts</unittitle>
+            <unitdate type="inclusive" normal="1873/1885">
+            1873-1885</unitdate>
+          </did>
+          <c id="c-247-3" level="file">
+            <did>
+              <unittitle>Correspondence Regarding Coal
+              Accounts</unittitle>
+              <unitdate type="inclusive" normal="1873">
+              1873</unitdate>
+              <unitdate type="inclusive" normal="1884/1885">
+              1884-1885</unitdate>
+              <container type="Box">7</container>
+              <container type="Folder">14</container>
+            </did>
+          </c>
+        </c>
+        <c id="c-248-2" level="subseries">
+          <did>
+            <unittitle>Subseries 11.6: Statements of Charcoal
+            Received</unittitle>
+            <unitdate type="inclusive" normal="1874/1874">
+            1874-1874</unitdate>
+          </did>
+          <c id="c-249-3" level="file">
+            <did>
+              <unittitle>Statements of Charcoal
+              Received</unittitle>
+              <unitdate type="inclusive" normal="1874">
+              1874</unitdate>
+              <container type="Box">7</container>
+              <container type="Folder">15</container>
+            </did>
+          </c>
+        </c>
+        <c id="c-250-2" level="subseries">
+          <did>
+            <unittitle>Subseries 11.7: Conflict with
+            Coal</unittitle>
+            <unitdate type="inclusive" normal="1879/1879">
+            1879-1879</unitdate>
+          </did>
+          <c id="c-251-3" level="file">
+            <did>
+              <unittitle>Conflict with Coal</unittitle>
+              <unitdate type="inclusive" normal="1879">
+              1879</unitdate>
+              <container type="Box">7</container>
+              <container type="Folder">16</container>
+            </did>
+          </c>
+        </c>
+        <c id="c-252-2" level="subseries">
+          <did>
+            <unittitle>Subseries 11.8: Charcoal and Wood
+            Contracts</unittitle>
+            <unitdate type="inclusive" normal="1870/1874">
+            1870-1874</unitdate>
+          </did>
+          <c id="c-253-3" level="file">
+            <did>
+              <unittitle>Charcoal and Wood Contracts</unittitle>
+              <unitdate type="inclusive" normal="1870/1874">
+              1870-1874</unitdate>
+              <container type="Box">7</container>
+              <container type="Folder">17</container>
+            </did>
+          </c>
+        </c>
+        <c id="c-254-2" level="subseries">
+          <did>
+            <unittitle>Subseries 11.9: Charcoal and Wood
+            Contracts</unittitle>
+            <unitdate type="inclusive" normal="1875/1877">
+            1875-1877</unitdate>
+          </did>
+          <c id="c-255-3" level="file">
+            <did>
+              <unittitle>Charcoal and Wood Contract</unittitle>
+              <unitdate type="inclusive" normal="1875/1877">
+              1875-1877</unitdate>
+              <container type="Box">7</container>
+              <container type="Folder">18</container>
+            </did>
+          </c>
+        </c>
+        <c id="c-256-2" level="subseries">
+          <did>
+            <unittitle>Subseries 11.10: Wood Contracts</unittitle>
+            <unitdate type="inclusive" normal="1873/1873">
+            1873-1873</unitdate>
+          </did>
+          <c id="c-257-3" level="file">
+            <did>
+              <unittitle>Wood Contracts</unittitle>
+              <unitdate type="inclusive" normal="1873">
+              1873</unitdate>
+              <container type="Box">7</container>
+              <container type="Folder">19</container>
+            </did>
+          </c>
+        </c>
+        <c id="c-258-2" level="subseries">
+          <did>
+            <unittitle>Subseries 11.11: Wood and Hauling
+            Contracts</unittitle>
+            <unitdate type="inclusive" normal="1874/1874">
+            1874-1874</unitdate>
+          </did>
+          <c id="c-259-3" level="file">
+            <did>
+              <unittitle>Wood and Hauling Contracts</unittitle>
+              <unitdate type="inclusive" normal="1874">
+              1874</unitdate>
+              <container type="Box">7</container>
+              <container type="Folder">20</container>
+            </did>
+          </c>
+        </c>
+        <c id="c-260-2" level="subseries">
+          <did>
+            <unittitle>Subseries 11.12: Ore Analysis</unittitle>
+            <unitdate type="inclusive" normal="1880/1885">
+            1880-1885</unitdate>
+          </did>
+          <c id="c-261-3" level="file">
+            <did>
+              <unittitle>Ore Analysis</unittitle>
+              <unitdate type="inclusive" normal="1880/1885">
+              1880-1885</unitdate>
+              <container type="Box">7</container>
+              <container type="Folder">21</container>
+            </did>
+          </c>
+        </c>
+      </c>
+      <c id="c-262-1" level="series">
+        <did>
+          <unittitle>13. Miscellaneous</unittitle>
+          <unitdate type="inclusive" normal="1880/1892">
+          1880-1892</unitdate>
+        </did>
+        <c id="c-263-2" level="subseries">
+          <did>
+            <unittitle>Subseries 12.1: Companies</unittitle>
+            <unitdate type="inclusive" normal="1880/1892">
+            1880-1892</unitdate>
+          </did>
+          <c id="c-264-3" level="file">
+            <did>
+              <unittitle>Ozone MFG Co.</unittitle>
+              <unitdate type="inclusive" normal="1890/1892">
+              1890-1892</unitdate>
+              <container type="Box">7</container>
+              <container type="Folder">22</container>
+            </did>
+          </c>
+          <c id="c-265-3" level="file">
+            <did>
+              <unittitle>Albany and Rensselaer Iron and Steel
+              Company</unittitle>
+              <unitdate type="inclusive" normal="1880/1881">
+              1880-1881</unitdate>
+              <container type="Box">7</container>
+              <container type="Folder">23</container>
+            </did>
+          </c>
+        </c>
+        <c id="c-266-2" level="subseries">
+          <did>
+            <unittitle>Subseries 12.2: CompaniesOriginal Finding
+            Aid (names)</unittitle>
+          </did>
+          <c id="c-267-3" level="file">
+            <did>
+              <unittitle>Original Finding Aid (names)</unittitle>
+              <container type="Box">7</container>
+              <container type="Folder">24</container>
+            </did>
+          </c>
+        </c>
+        <c id="c-268-2" level="subseries">
+          <did>
+            <unittitle>Subseries 12.3: Miscellaneous</unittitle>
+          </did>
+          <c id="c-269-3" level="file">
+            <did>
+              <unittitle>Miscellaneous</unittitle>
+              <container type="Box">7</container>
+              <container type="Folder">25</container>
+            </did>
+          </c>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

@@ -1,0 +1,1354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:isbn:1-931666-22-9" xmlns:ns2="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
+  <!-- Header Portion of EAD -->
+  <eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+    <eadid countrycode="US" mainagencycode="US-NPkMC" url="http://www.marist.edu">npkmc_222_215</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Catholic Studies Collection</titleproper>
+        <author>Ashley Polašèk <![CDATA[&amp;]]> John Ansley, PhD, 2005; Finding Aid Encoded by:
+					Monish M. Singh, 2005; Finding Aid Encoding updated by: Connor Johnson,
+					2022</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Marist College Archives and Special Collections</publisher>
+        <address>
+          <addressline>3399 North Road <lb/>Poughkeepsie, NY 12601 <lb/>Phone:
+						845-575-5217 <lb/>Fax: 845-575-3150 <lb/>Email:
+						library.archives@marist.edu<lb/>Website:
+						https://archives.marist.edu/</addressline>
+        </address>
+        <date type="publication" normal="2005">Summer 2005</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Monish M. Singh<date>2005</date>
+			</creation>
+      <langusage>Finding aid written in <language langcode="eng" scriptcode="Latn">English</language></langusage>
+      <descrules><abbr>DACS</abbr>Describing Archives: A Content Standard. Chicago: Society of
+				American Archivists, 2013.</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <list>
+        <item>Feburary 2022, EAD updated by Connor Johnson</item>
+      </list>
+    </revisiondesc>
+  </eadheader>
+  <!-- Archival Description portion of EAD -->
+  <archdesc level="collection">
+    <did>
+      <unittitle>Catholic Studies Collection</unittitle>
+      <unitid countrycode="US" repositorycode="US-NPkMC">NPkMC-222-215</unitid>
+      <unitdate type="inclusive" normal="1870/2003">1870 – 2003</unitdate>
+      <physdesc>
+        <extent type="size">7.5 Linear Feet</extent>
+      </physdesc>
+      <repository>
+        <corpname>Marist College Archives and Special Collections</corpname>
+      </repository>
+      <origination label="creator">
+        <persname>Louis Zuccarello (Marist Heritage
+					Professor)</persname>
+      </origination>
+      <abstract>The Catholic Studies Collection consists of both local materials pertaining to
+				the state of New York and Dutchess County, as well as general materials on
+				Catholicism throughout the United States and abroad. The collection contains parish
+				histories, the papers and preparation notes of Louis Zuccarello, videos, photographs
+				of local churches, audio tapes, materials on education, essays, and various
+				newspapers and newspaper clippings on issues pertaining to Catholicism. </abstract>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <physloc>Please contact the Marist College Archives and Special Collections for
+				information regarding use and access of this collection.</physloc>
+    </did>
+    <scopecontent>
+      <head>Collection Overview</head>
+      <p>The Catholic Studies Collection contains various documents, photographs, books,
+				essays, pamphlets, newspapers, and audio and video tapes all having to do with
+				Catholicism and/ or topics which touched on Catholicism and the lives of Catholics
+				in the years from 1870 through 2003. </p>
+    </scopecontent>
+    <acqinfo>
+      <head>Acquisitions Informantion</head>
+      <p>The Catholic Studies Collection was given to the Marist Library by Louis Zuccarello.
+			</p>
+    </acqinfo>
+    <bioghist encodinganalog="545">
+      <head>Biographical Note</head>
+      <p>Catholicism has played an important role in Dutchess County as Louis Zuccarello set
+				out to show by compiling this collection. With parishes springing up all over
+				Dutchess County to serve the needs of the various ethnic groups, Catholicism was a
+				vital element of the community and in America in general. American bishops in New
+				York and the Dutchess area, like Nilan and Burtsell were getting involved in trying
+				to reform the religion and align it more closely with people’s lifestyles and values
+				in America, as the Americanism school of thought sprung up and climaxed in the late
+				1800s. Catholicism also played an important role in the education of the local
+				populace as different parishes opened up their own schools, colleges, and
+				seminaries.</p>
+    </bioghist>
+    <accessrestrict>
+      <head>Restrictions to Access</head>
+      <p>There are no restrictions on this collection</p>
+    </accessrestrict>
+    <userestrict>
+      <head>Notice of Copyright</head>
+      <p>Individuals requesting reproductions expressly assume the responsibility for
+				compliance with all pertinent provisions of the Copyright Act, 17 U.S.C. ss101 et
+				seq. Patrons further agree to indemnify and hold harmless the Marist College
+				Archives and Special Collections and its staff in connection with any disputes
+				arising from the Copyright Act, over the reproduction of material at the request of
+				patrons. For more information please visit the following website:
+				http://www.loc.gov/copyright/title17/.</p>
+    </userestrict>
+    <prefercite>
+      <head>Preferred Citation</head>
+      <p>[Description of item, date, location of item in order of series, box number, folder
+				number ], in the Catholic Studies Collection, James A. Cannavino Library, Marist
+				College.</p>
+    </prefercite>
+    <arrangement>
+      <p>Materials are arranged into two series: 1) Catholic Studies, general, with seven subseries, and 2) The Catholic Church in New York, with seven subseries.</p>
+    </arrangement>
+    <dsc type="combined">
+      <c01 level="series">
+        <did>
+          <unitid>1</unitid>
+          <unittitle>1. Catholic Studies, general</unittitle>
+          <physdesc>
+            <extent type="boxes">Boxes: 1 - 2</extent>
+            <extent type="folders">Folders: 1 - 63</extent>
+          </physdesc>
+        </did>
+        <scopecontent>
+          <p>Series contains subseries Newspapers, Books/ Journals on Law, History, and
+						Catholicism, Audio Visual Materials, Education, College, Sodality, Assorted, General</p>
+        </scopecontent>
+        <arrangement>
+          <p>Subject</p>
+        </arrangement>
+        <c02 level="subseries">
+          <did>
+            <unitid>1.1</unitid>
+            <unittitle>Subseries 1.1: Newspapers</unittitle>
+            <physdesc>
+              <extent type="boxes">Box: 1</extent>
+              <extent type="folders">Folders: 1 - 5</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Series contains a collection of assorted Catholic New York Newspapers
+							spanning from 1983 – 2000. There is also an issue of Stars and Stripes
+							covering Desert Storm and Queen of Peace from 1995.</p>
+          </scopecontent>
+          <arrangement>
+            <p>Chronological</p>
+          </arrangement>
+          <c03 level="file">
+            <did>
+              <container type="folder">1</container>
+              <unittitle>Catholic New York. </unittitle>
+              <container type="box">1</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">2</container>
+              <unittitle>Catholic New York. </unittitle>
+              <container type="box">1</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">3</container>
+              <unittitle>Catholic New York. </unittitle>
+              <container type="box">1</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">4</container>
+              <unittitle>Stars and Stripes. </unittitle>
+              <container type="box">1</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">5</container>
+              <unittitle>Queen of Peace. </unittitle>
+              <container type="box">1</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid>1.2</unitid>
+            <unittitle>Subseries 1.2: Books/ Journals on Law, History, and
+							Catholicism</unittitle>
+            <physdesc>
+              <extent type="boxes">Box: 1</extent>
+              <extent type="folders">Folders: 6 - 12</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Series contains various books and journals dealing with different
+							Catholic issues and history.</p>
+          </scopecontent>
+          <arrangement>
+            <p>Chronological</p>
+          </arrangement>
+          <c03 level="file">
+            <did>
+              <container type="folder">6</container>
+              <unittitle>Past and Present. A Journal of History and Government. Vol.
+								II (1957). St. John’s University. </unittitle>
+              <container type="box">1</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">7</container>
+              <unittitle>Carthy, Mother Mary Peter. “English Influences on Early
+								American Catholicism.” Vol. XLIV (1959). Washington, D.C.: The
+								Catholic University of America Press. </unittitle>
+              <container type="box">1</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">8</container>
+              <unittitle>The Catholic Lawyer. Vol. 9, No. 1 (1963). </unittitle>
+              <container type="box">1</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">9</container>
+              <unittitle>Land and Water Law Review. “Conscription and the
+								Conscientious Objectors”. Joseph F. Costanzo. Vol. VI, No. 2 (1971). </unittitle>
+              <container type="box">1</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">10</container>
+              <unittitle>American Views on Religion, Politics and Public Policy. April
+								2001. The Pew Forum. </unittitle>
+              <container type="box">1</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">11</container>
+              <unittitle>The Catholic Historical Review. Vol. LXXXIX, No. 2. April
+								2003. The Catholic Historical Review. Vol. LXXXIX, No. 3. July 2003. </unittitle>
+              <container type="box">1</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">12</container>
+              <unittitle>U.S. Catholic Historian. Vol. 21. No. 3. Summer 2003. </unittitle>
+              <container type="box">1</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid>1.3</unitid>
+            <unittitle>Subseries 1.3: Audio Visual Materials</unittitle>
+            <physdesc>
+              <extent type="boxes">Box: 1</extent>
+              <extent type="folders">Folders: 13 - 17</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Series contains video tapes and audio cassettes covering the Focolare
+							Movement, Marist College, and other topics in Catholicism.</p>
+          </scopecontent>
+          <arrangement>
+            <p>Size</p>
+          </arrangement>
+          <c03 level="file">
+            <did>
+              <container type="folder">13</container>
+              <unittitle>Knowledge Mgt. Focus Group. Marist Retirees discuss Marist
+								teaching approaches. April 3, 2002. Senior Faculty. May 14, 2002. </unittitle>
+              <container type="box">1</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">14</container>
+              <unittitle>Cassette Tapes. Radio Free Europe. Radio Liberty. Mar. 14,
+								1986. Trinity Urban Issues Forum. Oct. 11, 1995. </unittitle>
+              <container type="box">1</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">15</container>
+              <unittitle>Bishop Fulton J. Sheen. “Life is Worth Living.” 1992.
+								(Focolare Movement) </unittitle>
+              <container type="box">1</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">16</container>
+              <unittitle>DeMello, Anthony S.J. Sadhana: A Way to God. Christian
+								Exercises in Eastern Form. </unittitle>
+              <container type="box">1</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">17</container>
+              <unittitle>Lubich, Chiara. “What We Are.” April 2002. (Focolare
+								Movement) </unittitle>
+              <container type="box">1</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid>1.4</unitid>
+            <unittitle>Subseries 1.4: Education</unittitle>
+            <physdesc>
+              <extent type="boxes">Box: 2</extent>
+              <extent type="folders">Folders: 18 - 32</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Series contains assorted documents, posters, pamphlets, and newsletters
+							dealing with education. </p>
+          </scopecontent>
+          <arrangement>
+            <p>Chronological</p>
+          </arrangement>
+          <c03 level="file">
+            <did>
+              <container type="folder">18</container>
+              <unittitle>Ad Campaign for better Schools, 1943, 1949-1951. </unittitle>
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">19</container>
+              <unittitle>American Council on Education. </unittitle>
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">20</container>
+              <unittitle>American Education Week. </unittitle>
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">21</container>
+              <unittitle>Bulletins for institutions of Higher Learning.1944-1952. </unittitle>
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">22</container>
+              <unittitle>Committee of the Catholic Commission on Intellectual and
+								Cultural Affairs </unittitle>
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">23</container>
+              <unittitle>Curriculum Conference for Catholic Schools </unittitle>
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">24</container>
+              <unittitle>Federal Aid to Education </unittitle>
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">25</container>
+              <unittitle>Miscellaneous Newsletters </unittitle>
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">26</container>
+              <unittitle>Miscellaneous Pamphlets on Education </unittitle>
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">27</container>
+              <unittitle>National Catholic Education Association </unittitle>
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">28</container>
+              <unittitle>NCEA Convention. </unittitle>
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">29</container>
+              <unittitle>Notes and Comment on General Education. 1950 - 1952. </unittitle>
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">30</container>
+              <unittitle>Radio and Education </unittitle>
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">31</container>
+              <unittitle>Religious Book Week </unittitle>
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">32</container>
+              <unittitle>Senate Legislation </unittitle>
+              <container type="box">2</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid>1.5</unitid>
+            <unittitle>Subseries 1.5: College</unittitle>
+            <physdesc>
+              <extent type="boxes">Box: 2</extent>
+              <extent type="folders">Folders: 33 - 41</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Series contains various documents dealing with higher education. There
+							are materials from the Catholic University of America as well as studies
+							and other information on college. </p>
+          </scopecontent>
+          <arrangement>
+            <p>Chronological</p>
+          </arrangement>
+          <c03 level="file">
+            <did>
+              <container type="folder">33</container>
+              <unittitle>The Catholic University of America. </unittitle>
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">34</container>
+              <unittitle>The Catholic University of America. The Workshop on College
+								Organization and Administration. 1. </unittitle>
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">35</container>
+              <unittitle>The Catholic University of America. The Workshop on College
+								Organization and Administration. 2. </unittitle>
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">36</container>
+              <unittitle>College and Church. </unittitle>
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">37</container>
+              <unittitle>College Graduates in Industry. </unittitle>
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">38</container>
+              <unittitle>Fordham </unittitle>
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">39</container>
+              <unittitle>Higher Education </unittitle>
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">40</container>
+              <unittitle>National Commission on Christian Higher Education </unittitle>
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">41</container>
+              <unittitle>The State Education Dept. </unittitle>
+              <container type="box">2</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid>1.6</unitid>
+            <unittitle>Subseries 1.6: Sodality</unittitle>
+            <physdesc>
+              <extent type="boxes">Box: 2</extent>
+              <extent type="folders">Folders: 42 - 44</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Series contains various materials having to do with sodality, including
+							the Parish Red Book for Sodality, Instructions for Sodality Candidates,
+							and pamphlets. </p>
+          </scopecontent>
+          <arrangement>
+            <p>Alphabetical</p>
+          </arrangement>
+          <c03 level="file">
+            <did>
+              <container type="folder">42</container>
+              <unittitle>Instruction of Sodality Candidates. </unittitle>
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">43</container>
+              <unittitle>Parish Sodalist’s Red Book. </unittitle>
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">44</container>
+              <unittitle>Sodality Pamphlets - The Queen’s Work </unittitle>
+              <container type="box">2</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid>1.7</unitid>
+            <unittitle>Subseries 1.7: Assorted, General</unittitle>
+            <physdesc>
+              <extent type="boxes">Box: 2</extent>
+              <extent type="folders">Folders: 45 - 63</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Series contains documents spanning a host of topics dealing with
+							Catholicism and the World War years, mostly from the early – middle
+							1900s.</p>
+          </scopecontent>
+          <arrangement>
+            <p>Chronological</p>
+          </arrangement>
+          <c03 level="file">
+            <did>
+              <container type="folder">45</container>
+              <unittitle>The Antigonish Way </unittitle>
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">46</container>
+              <unittitle>Between the Lines </unittitle>
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">47</container>
+              <unittitle>Child Labor </unittitle>
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">48</container>
+              <unittitle>Christian Social Living </unittitle>
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">49</container>
+              <unittitle>Christmas </unittitle>
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">50</container>
+              <unittitle>The Christophers </unittitle>
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">51</container>
+              <unittitle>The Ford Foundation </unittitle>
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">52</container>
+              <unittitle>Forest Industry Pamphlets </unittitle>
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">53</container>
+              <unittitle>Foreign Affairs Outline: Building the Peace. </unittitle>
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">54</container>
+              <unittitle>For Women Only. Newspaper Section. </unittitle>
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">55</container>
+              <unittitle>French Religious Newsletter. Issues 1- 6. </unittitle>
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">56</container>
+              <unittitle>French Religious Newsletter Issues 7 - 12. </unittitle>
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">57</container>
+              <unittitle>International Religious Publications </unittitle>
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">58</container>
+              <unittitle>Mary’s Garden </unittitle>
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">59</container>
+              <unittitle>National Catholic Welfare Conference </unittitle>
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">60</container>
+              <unittitle>Our Lady </unittitle>
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">61</container>
+              <unittitle>Ten Outstanding Magazine Articles. 1946 - 1949. </unittitle>
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">62</container>
+              <unittitle>Vocations </unittitle>
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">63</container>
+              <unittitle>Writings on Spirituality </unittitle>
+              <container type="box">2</container>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unitid>2</unitid>
+          <unittitle>2. The Catholic Church in New York</unittitle>
+          <physdesc>
+            <extent type="boxes">Boxes: 3 - 5</extent>
+            <extent type="folders">Folders: 64 - 133</extent>
+          </physdesc>
+        </did>
+        <scopecontent>
+          <p>Series contains the subseries References, bibliography, Notes for
+						Zuccarello’s Papers on the Church, Ethnic Issues, Dutchess County History,
+						Churches/ Parishes in New York, Marist College, and Miscellaneous</p>
+        </scopecontent>
+        <c02 level="subseries">
+          <did>
+            <unitid>2.1</unitid>
+            <unittitle>Subseries 2.1: References, bibliography</unittitle>
+            <physdesc>
+              <extent type="boxes">Box: 3</extent>
+              <extent type="folders">Folders: 64 - 66</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Series contains references and bibliographies complied by Louis
+							Zuccarello while doing research for his papers on Catholics in the
+							Dutchess area. </p>
+          </scopecontent>
+          <arrangement>
+            <p>Original Order (Approximately)</p>
+          </arrangement>
+          <c03 level="file">
+            <did>
+              <container type="folder">64</container>
+              <unittitle>Selected bibliographies and references. </unittitle>
+              <container type="box">3</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">65</container>
+              <unittitle>Catholic Scholars </unittitle>
+              <container type="box">3</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">66</container>
+              <unittitle>Citations from Poughkeepsie Journal and Daily Eagle </unittitle>
+              <container type="box">3</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid>2.2</unitid>
+            <unittitle>Subseries 2.2: Notes for Zuccarello’s Papers on the
+							Church</unittitle>
+            <physdesc>
+              <extent type="boxes">Box: 3</extent>
+              <extent type="folders">Folders: 67 - 73</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Series contains notes taken while researching Catholicism in Dutchess
+							County along with drafts of papers on the topic and correspondence
+							relating to the research process. </p>
+          </scopecontent>
+          <arrangement>
+            <p>Original Order (Approximately)</p>
+          </arrangement>
+          <c03 level="file">
+            <did>
+              <container type="folder">67</container>
+              <unittitle>Background Information for Papers </unittitle>
+              <container type="box">3</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">68</container>
+              <unittitle>Correspondence relating to research on Catholics in the
+								Mid-Hudson Area </unittitle>
+              <container type="box">3</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">69</container>
+              <unittitle>Correspondence, Copies of Notes. </unittitle>
+              <container type="box">3</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">70</container>
+              <unittitle>Notes on Papers, Catholics in Poughkeepsie </unittitle>
+              <container type="box">3</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">71</container>
+              <unittitle>Drafts. The Catholic Community in Poughkeepsie, 1870 - 1900:
+								The Period of Testing </unittitle>
+              <container type="box">3</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">72</container>
+              <unittitle>The Catholic Community in Poughkeepsie, 1870 - 1900: The
+								Period of Testing. Editing of the Original. </unittitle>
+              <container type="box">3</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">73</container>
+              <unittitle>Transformation of an American County. Tercentary Conference.
+								Pluralism in the Catholic Community in 19th Century Poughkeepsie. </unittitle>
+              <container type="box">3</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid>2.3</unitid>
+            <unittitle>Subseries 2.3: Ethnic Issues</unittitle>
+            <physdesc>
+              <extent type="boxes">Box: 3</extent>
+              <extent type="folders">Folders: 74 - 78</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Series contains various documents and newspapers clippings pertaining to
+							ethnic groups in New York and their interaction with one another.</p>
+          </scopecontent>
+          <arrangement>
+            <p>Chronological</p>
+          </arrangement>
+          <c03 level="file">
+            <did>
+              <container type="folder">74</container>
+              <unittitle>Ethnics in Poughkeepsie and Dutchess </unittitle>
+              <container type="box">3</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">75</container>
+              <unittitle>Ethnics - Black Catholics </unittitle>
+              <container type="box">3</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">76</container>
+              <unittitle>Italian American Experience in U.S. and Poughkeepsie.
+								Materials and Clippings. </unittitle>
+              <container type="box">3</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">77</container>
+              <unittitle>Ethnic Politics Materials </unittitle>
+              <container type="box">3</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">78</container>
+              <unittitle>Smith, Alfred E. and Taft, Robert. Writings on, by Louis </unittitle>
+              <container type="box">3</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid>2.4</unitid>
+            <unittitle>Subseries 2.4: Dutchess County History</unittitle>
+            <physdesc>
+              <extent type="boxes">Box: 3</extent>
+              <extent type="folders">Folders: 79 - 86</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Series contains includes a book of Louis Zuccarello’s papers on
+							Catholicism in the Poughkeepsie area as well as Dutchess County, and
+							Churches general history, as well as Poughkeepsie’s general history.
+							There are also various newspaper clippings describing events in Dutchess
+							County. </p>
+          </scopecontent>
+          <arrangement>
+            <p>Chronological</p>
+          </arrangement>
+          <c03 level="file">
+            <did>
+              <container type="folder">79</container>
+              <unittitle>The Catholic Community in the Poughkeepsie Area, Louis
+								Zuccarello. </unittitle>
+              <container type="box">3</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">80</container>
+              <unittitle>Dutchess, general history. </unittitle>
+              <container type="box">3</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">81</container>
+              <unittitle>Dutchess County, Church. </unittitle>
+              <container type="box">3</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">82</container>
+              <unittitle>Dutchess Churches and Cemeteries. Photos and Clippings. </unittitle>
+              <container type="box">3</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">83</container>
+              <unittitle>Dutchess Catholic Churches. </unittitle>
+              <container type="box">3</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">84</container>
+              <unittitle>Catholic Church in Dutchess County. 1808 - 1983. </unittitle>
+              <container type="box">3</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">85</container>
+              <unittitle>Poughkeepsie, NY, History. </unittitle>
+              <container type="box">3</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">86</container>
+              <unittitle>Assorted Clippings </unittitle>
+              <container type="box">3</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid>2.5</unitid>
+            <unittitle>Subseries 2.5: Churches/ Parishes in New York</unittitle>
+            <physdesc>
+              <extent type="boxes">Box: 4</extent>
+              <extent type="folders">Folders: 87 - 108</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Series contains documents, photographs, newspaper clippings, and census
+							data detailing the history of various parishes in New York. </p>
+          </scopecontent>
+          <arrangement>
+            <p>Chronological</p>
+          </arrangement>
+          <c03 level="file">
+            <did>
+              <container type="folder">87</container>
+              <unittitle>Archdiocese of New York Materials. </unittitle>
+              <container type="box">4</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">88</container>
+              <unittitle>Parish Histories </unittitle>
+              <container type="box">4</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">89</container>
+              <unittitle>Holy Trinity </unittitle>
+              <container type="box">4</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">90</container>
+              <unittitle>Immaculate Conception </unittitle>
+              <container type="box">4</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">91</container>
+              <unittitle>Mt. Carmel Parish. </unittitle>
+              <container type="box">4</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">92</container>
+              <unittitle>Stations of the Cross. Mt. Carmel. </unittitle>
+              <container type="box">4</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">93</container>
+              <unittitle>Mt. Carmel Parish Council Materials 1999 - 2000. 1 </unittitle>
+              <container type="box">4</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">94</container>
+              <unittitle>Mt. Carmel Parish Council Materials 1999 - 2000. 2 </unittitle>
+              <container type="box">4</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">95</container>
+              <unittitle>Mt. Carmel Parish Census, 2000 </unittitle>
+              <container type="box">4</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">96</container>
+              <unittitle>Mt. Carmel Parish Council Materials, 2000 - 2001 </unittitle>
+              <container type="box">4</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">97</container>
+              <unittitle>Nativity Church </unittitle>
+              <container type="box">4</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">98</container>
+              <unittitle>Nativity Church, Translation of Anniversary Book </unittitle>
+              <container type="box">4</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">99</container>
+              <unittitle>Regina Coeli </unittitle>
+              <container type="box">4</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">100</container>
+              <unittitle>Sacred Heart Parish </unittitle>
+              <container type="box">4</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">101</container>
+              <unittitle>St. John the Baptist </unittitle>
+              <container type="box">4</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">102</container>
+              <unittitle>St. Joseph’s </unittitle>
+              <container type="box">4</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">103</container>
+              <unittitle>St. Joseph’s Church </unittitle>
+              <container type="box">4</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">104</container>
+              <unittitle>St. Martin de Porres </unittitle>
+              <container type="box">4</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">105</container>
+              <unittitle>St. Mary’s </unittitle>
+              <container type="box">4</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">106</container>
+              <unittitle>St. Peter’s Parish </unittitle>
+              <container type="box">4</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">107</container>
+              <unittitle>St. Peter’s Cemetery and Celtic Cross War Memorial.
+								Photographs Enclosed. ` </unittitle>
+              <container type="box">4</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">108</container>
+              <unittitle>St. Peter’s Church </unittitle>
+              <container type="box">4</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid>2.6</unitid>
+            <unittitle>Subseries 2.6: Marist College</unittitle>
+            <physdesc>
+              <extent type="boxes">Box: 5</extent>
+              <extent type="folders">Folders: 109 - 112</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Series contains various documents pertaining to Marist College’s history
+							and the Marist Brothers who began the school. Includes newspaper
+							clippings, faculty lists, and general documents. </p>
+          </scopecontent>
+          <arrangement>
+            <p>Chronological</p>
+          </arrangement>
+          <c03 level="file">
+            <did>
+              <container type="folder">109</container>
+              <unittitle>Marist College New Faculty. </unittitle>
+              <container type="box">5</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">110</container>
+              <unittitle>Marist College. Assorted Material </unittitle>
+              <container type="box">5</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">111</container>
+              <unittitle>Tom Cornell Lecture at Marist </unittitle>
+              <container type="box">5</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">112</container>
+              <unittitle>Marist College, St. Andrews History </unittitle>
+              <container type="box">5</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid>2.7</unitid>
+            <unittitle>Subseries 2.7: Miscellaneous</unittitle>
+            <physdesc>
+              <extent type="boxes">Box: 5</extent>
+              <extent type="folders">Folders: 113 - 133</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Series contains other documents relating to Zuccarello’s research
+							including documents, newspaper clippings and notes on leaders in the
+							community, clubs, and prominent religious figures. There are also church
+							bulletins, obituaries, and other documents on Catholic issues in the
+							area.</p>
+          </scopecontent>
+          <arrangement>
+            <p>Chronological</p>
+          </arrangement>
+          <c03 level="file">
+            <did>
+              <container type="folder">113</container>
+              <unittitle>Americanism, Articles </unittitle>
+              <container type="box">5</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">114</container>
+              <unittitle>American Catholic Studies Newsletter. </unittitle>
+              <container type="box">5</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">115</container>
+              <unittitle>Burtsell, McGlynn et al Accademia, North America </unittitle>
+              <container type="box">5</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">116</container>
+              <unittitle>Catholic Charity </unittitle>
+              <container type="box">5</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">117</container>
+              <unittitle>Catholic Studies Programs </unittitle>
+              <container type="box">5</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">118</container>
+              <unittitle>Catholic <![CDATA[&amp;]]> Philosophical Issues. </unittitle>
+              <container type="box">5</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">119</container>
+              <unittitle>Catholic Women </unittitle>
+              <container type="box">5</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">120</container>
+              <unittitle>Church Bulletins and Groups </unittitle>
+              <container type="box">5</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">121</container>
+              <unittitle>Clippings and Articles on Catholic Issues </unittitle>
+              <container type="box">5</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">122</container>
+              <unittitle>Clubs </unittitle>
+              <container type="box">5</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">123</container>
+              <unittitle>Humanae Vitae </unittitle>
+              <container type="box">5</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">124</container>
+              <unittitle>Leaders in the Community, Poughkeepsie </unittitle>
+              <container type="box">5</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">125</container>
+              <unittitle>Miscellaneous Religious Periodicals. </unittitle>
+              <container type="box">5</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">126</container>
+              <unittitle>Nilan, James. 1 </unittitle>
+              <container type="box">5</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">127</container>
+              <unittitle>Nilan, James. 2 </unittitle>
+              <container type="box">5</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">128</container>
+              <unittitle>Obituaries </unittitle>
+              <container type="box">5</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">129</container>
+              <unittitle>Papacy, Papacy Delegate Archbishop Satolli </unittitle>
+              <container type="box">5</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">130</container>
+              <unittitle>Religion and the State Articles </unittitle>
+              <container type="box">5</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">131</container>
+              <unittitle>Spellman, Francis Cardinal and Dunwoodie </unittitle>
+              <container type="box">5</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">132</container>
+              <unittitle>St. Francis Hospital </unittitle>
+              <container type="box">5</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">133</container>
+              <unittitle>Vassar </unittitle>
+              <container type="box">5</container>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

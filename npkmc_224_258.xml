@@ -1,0 +1,4252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:isbn:1-931666-22-9" xmlns:ns2="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
+  <!-- Header Portion of EAD -->
+  <eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+    <eadid countrycode="US" mainagencycode="US-NPkMC" url="http://www.marist.edu">npkmc_224_258</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Arthur Glowka Papers</titleproper>
+        <author>Danielle Dake <![CDATA[&amp;]]> John Ansley, PhD, 2005; Finding Aid Encoded by:
+					Monish M. Singh, 2006; Finding Aid Encoding updated by: Connor Johnson,
+					2022</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Marist College <lb/>Archives and Special Collections </publisher>
+        <address>
+          <addressline>3399 North Road <lb/>Poughkeepsie, NY 12601 <lb/>Phone:
+						845-575-5217 <lb/>Fax: 845-575-3150 <lb/>Email:
+						library.archives@marist.edu<lb/>Website:
+						https://archives.marist.edu/</addressline>
+        </address>
+        <date type="publication" normal="2015-07-28">2015 July 28</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation> Danielle Dake </creation>
+      <langusage>Finding aid written in <language langcode="eng">English.</language>
+			</langusage>
+      <descrules><abbr>DACS</abbr>Describing Archives: A Content Standard. Chicago: Society of
+				American Archivists, 2013.</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <list>
+        <item>April 2022, EAD updated by Connor Johnson</item>
+      </list>
+    </revisiondesc>
+  </eadheader>
+  <!-- Archival Description portion of EAD -->
+  <archdesc level="collection">
+    <did>
+      <unittitle>Arthur Glowka Papers</unittitle>
+      <unitid countrycode="US" repositorycode="US-NPkMC">NPkMC-224-258</unitid>
+      <unitdate type="inclusive" normal="1909/2013">1909 - 2013</unitdate>
+      <physdesc>
+        <extent type="size">24 Linear Feet</extent>
+      </physdesc>
+      <repository>
+        <corpname>Marist College Archives and Special Collections</corpname>
+      </repository>
+      <origination label="creators">
+        <corpname>Marist College</corpname>
+      </origination>
+      <abstract>Arthur Glowka was a US Naval aviator from 1952 - 1957 and later became a pilot
+				for Eastern Airlines. Glowka was particularly concerned with protection of the
+				environment. Glowka partcitpated in many environmental groups and movements to
+				encourage policy regulation and change to protect the environment. He proved to be
+				an effective citizen-scientist and found errors in various government and science
+				articles and played a significant role in improving the water quality of the Sound
+				for the wildlife in the water and humans surrounding it.</abstract>
+      <langmaterial>English</langmaterial>
+    </did>
+    <scopecontent>
+      <head>Scope and Content</head>
+      <p>The Glowka collection consists of assorted pictures, newspaper clippings, magazines
+				and research concerning the environment and its protection. The collection also
+				includes slides, videos, and maps, in addition to various artifacts providing a
+				glimpse into Glowka’s personal life. </p>
+    </scopecontent>
+    <acqinfo>
+      <head>Acquisitions Information</head>
+      <p>The Arthur Glowka Papers were donated to Marist College by the Glowka family on March
+				25th 2013.</p>
+    </acqinfo>
+    <bioghist encodinganalog="545" id="historical">
+      <head>Historical Note</head>
+      <p>Arthur Glowka was born February 5, 1931, in New York City. In Syracuse, he attended
+				New York College of Environmental Science and Forestry, where he graduated in 1952
+				with a degree in forestry. After college, from 1952 to 1957, Glowka was a U.S. naval
+				aviator, and during this time he went on photoreconnaissance missions over the
+				Middle East, North Africa, and Southern Europe. After his work in the navy, he went
+				to New Orleans and resumed diving with his friend Al Warriner. Warriner was a Gulf
+				Coast master diver, who had taught Glowka underwater drilling and blasting. Glowka
+				then traveled to Brazil, where he met commercial divers Bob Ballinger and Joao
+				Mandica. The three men became partners and Glowka’s skills vastly increased the
+				production of their alluvial diamond and gold mining operation on the Tocatins
+				River. In 1959 Arthur Glowka married Marion Stadler and in the same year he began
+				flying for Eastern Airlines. In 1981 he belly-landed a B-727 with 72 passengers at
+				John F. Kennedy Airport, no one was injured, as the plane skidded 3,000 feet to a
+				stop on a runway. Glowka retired as a captain of Eastern Airlines in 1989. </p>
+      <p>Another major concern throughout Glowka’s life was the protection of the environment.
+				Specifically, Glowka worked toward tougher water pollution control in regards to
+				sewage plants in the Long Island Sound. He, along with six others, formed the Hudson
+				River Fisherman’s Association, which would later serve as a model for the U.S.
+				environmental movement. The Association resurrected the Federal Refuse Act of 1899
+				and continued their aggressive style of environmental activism, winning a series of
+				legal battles, ultimately inspiring the nation to follow suit. The group continued
+				their work and in 1986 evolved into the Hudson Riverkeeper, the watchdog
+				organization dedicated to keeping New York’s water clean. Glowka continued his work
+				as an environmental activist and remained involved in the Riverkeeper, the Hudson
+				River Foundation, and the Long Island Taskforce. He also was active in the
+				Soundkeeper, Soundwaters, and Hudson River Sloop Clearwater. Glowka was awarded the
+				Feinstone Environmental Award in 1980 in recognition for his long and distinguished
+				work as an environmental activist. Beyond participation in environmental groups,
+				Glowka had a deep interest in the environmental well – being of the Long Island
+				Sound. He proved to be an effective citizen-scientist and found errors in various
+				government and science articles and played a significant role in improving the water
+				quality of the Sound for the wildlife in the water and humans surrounding it. </p>
+    </bioghist>
+    <accessrestrict>
+      <head>Restrictions to Access</head>
+      <p>There are no restrictions on this collection</p>
+    </accessrestrict>
+    <userestrict>
+      <head>Notice of Copyright</head>
+      <p>Individuals requesting reproductions expressly assume the responsibility for
+				compliance with all pertinent provisions of the Copyright Act, 17 U.S.C. ss101 et
+				seq. Patrons further agree to indemnify and hold harmless the Marist College
+				Archives and Special Collections and its staff in connection with any disputes
+				arising from the Copyright Act, over the reproduction of material at the request of
+				patrons. For more information please visit the following website:
+				http://www.loc.gov/copyright/title17/.</p>
+    </userestrict>
+    <prefercite>
+      <head>Preferred Citation</head>
+      <p>[Description of item, date, location of item in order of series, box number, folder
+				number ], in The Arthur Glowka Papers, Archives and Special Collections, James A.
+				Cannavino Library, Marist College.</p>
+    </prefercite>
+    <arrangement>
+      <head>Arrangement of the Collection</head>
+      <p>Collection is arranged into fifteen series: 1) Advocacy, has three subseries, 2) Arthur Glowka: Personal Items and Writings, 3) Articles and Notes left in Books, 4) Chesapeake Bay: Science Article Clippings, 5) Connecticut, has three subseries, 6) Graphic Materials, has five subseries, 7) Long Island Sound, has three subseries, 8) Long Island Sound Study, has three subseries, 9) Marine Life, has three subseries, 10) Miscellaneous: Various Article Clippings, 11) New York, has two subseries, 12) Publications, has eleven subseries, 13) Videos, 14) Oversized Graphic Materials, has six subseries, and 15) Awards </p>
+    </arrangement>
+    <dsc type="combined">
+      <c01 level="series">
+        <did>
+          <unitid>1</unitid>
+          <unittitle>1. Advocacy</unittitle>
+          <unitdate type="inclusive" normal="1931/2013">1921 - 2013</unitdate>
+          <physdesc>
+            <extent>Boxes: 1 - 5</extent>
+          </physdesc>
+        </did>
+        <scopecontent>
+          <p>Series contains correspondence and associated information, article clippings, and materials on political action</p>
+        </scopecontent>
+        <c02 level="series">
+          <did>
+            <unitid>1.1</unitid>
+            <unittitle>Subseries 1.1: Correspondence and Associated Information</unittitle>
+            <unitdate type="inclusive" normal="1978/2011">1978 - 2011</unitdate>
+            <physdesc>
+              <extent>Box: 1</extent>
+            </physdesc>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="folder">1</container>
+              <unittitle>Grants Correspondence</unittitle>
+              <unitdate label="Date">2001- 2008</unitdate>
+              <container type="box">1</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">2</container>
+              <unittitle>Environment Correspondence</unittitle>
+              <unitdate label="Date">1990 - 2011</unitdate>
+              <container type="box">1</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">3</container>
+              <unittitle>Long Island Related Correspondence</unittitle>
+              <unitdate label="Date">1998 - 2007</unitdate>
+              <container type="box">1</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">4</container>
+              <unittitle>Political Advocacy</unittitle>
+              <unitdate label="Date">1978 - 2005</unitdate>
+              <container type="box">1</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">5</container>
+              <unittitle>Connecticut</unittitle>
+              <unitdate label="Date">1985 - 2011</unitdate>
+              <container type="box">1</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">6</container>
+              <unittitle>NOAA (National Oceanic and Atmospheric
+								Administration)</unittitle>
+              <unitdate label="Date">1990 - 2005</unitdate>
+              <container type="box">1</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">7</container>
+              <unittitle>OWAA (Outdoor Writers Association of America)</unittitle>
+              <unitdate label="Date">2000 - 2011</unitdate>
+              <container type="box">1</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="series">
+          <did>
+            <unitid>1.2</unitid>
+            <unittitle>Subseries 1.2: Article Clippings</unittitle>
+            <unitdate type="inclusive" normal="1997/2013">1997 - 2013</unitdate>
+            <physdesc>
+              <extent>Boxes: 1 - 2</extent>
+            </physdesc>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="folder">8</container>
+              <unittitle>Science News Articles</unittitle>
+              <unitdate label="Date">1999 - 2013</unitdate>
+              <container type="box">1</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">9</container>
+              <unittitle>Cheasapeake Bay</unittitle>
+              <unitdate label="Date">1998 - 2001</unitdate>
+              <container type="box">1</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">10</container>
+              <unittitle>News Articles for Connecticut</unittitle>
+              <unitdate label="Date">2003 - 2011</unitdate>
+              <container type="box">1</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">11</container>
+              <unittitle>New York City News Articles</unittitle>
+              <unitdate label="Date">2006</unitdate>
+              <container type="box">1</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">12</container>
+              <unittitle>Political Fishing Article Clippings</unittitle>
+              <unitdate label="Date">1997 - 2012</unitdate>
+              <container type="box">1</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">13</container>
+              <unittitle>Political News Article Clippings</unittitle>
+              <unitdate label="Date">1998 - 2011</unitdate>
+              <container type="box">1</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">1</container>
+              <unittitle>EPA (Environmental Protection Agency) News Article
+								Clippings</unittitle>
+              <unitdate label="Date">1998 - 2011</unitdate>
+              <container type="box">2</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="series">
+          <did>
+            <unitid>1.3</unitid>
+            <unittitle>Subseries 1.3: Political Action</unittitle>
+            <unitdate type="inclusive" normal="1931/2012">1931 - 2012</unitdate>
+            <physdesc>
+              <extent>Boxes: 2 - 5</extent>
+            </physdesc>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="folder">2</container>
+              <unittitle>EPA (Environmental Protection Agency) Basic
+								Information</unittitle>
+              <unitdate label="Date">2006</unitdate>
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">3</container>
+              <unittitle>EPA (Environmental Protection Agency)
+								Correspondence</unittitle>
+              <unitdate label="Date">2005 - 2009</unitdate>
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">4</container>
+              <unittitle>EPA (Environmental Protection Agency) Performance Manual and
+								Report</unittitle>
+              <unitdate label="Date">2004 - 2009</unitdate>
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">5</container>
+              <unittitle>Government Accountablity Office</unittitle>
+              <unitdate label="Date">2005 -2011</unitdate>
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">6</container>
+              <unittitle>OWAA (Outdoor Writers Association of America) Informal Notes
+								and Papers</unittitle>
+              <unitdate label="Date">2001 - 2012</unitdate>
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">7</container>
+              <unittitle>OWAA (Outdoor Writers Association of America) and
+								Lobsters</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">8</container>
+              <unittitle>OWAA (Outdoor Writers Association of America) Formal
+								Correspondence</unittitle>
+              <unitdate label="Date">2004</unitdate>
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">9</container>
+              <unittitle>OWAA (Outdoor Writers Association of America) Formal
+								Correspondence</unittitle>
+              <unitdate label="Date">2005</unitdate>
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">10</container>
+              <unittitle>OWAA (Outdoor Writers Association of America) Formal
+								Correspondence</unittitle>
+              <unitdate label="Date">2006</unitdate>
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">11</container>
+              <unittitle>OWAA (Outdoor Writers Association of America) Formal
+								Correspondence</unittitle>
+              <unitdate label="Date">2008</unitdate>
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">1</container>
+              <unittitle>OWAA (Outdoor Writers Association of America) Formal
+								Correspondence</unittitle>
+              <unitdate label="Date">2009</unitdate>
+              <container type="box">3</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">2</container>
+              <unittitle>OWAA (Outdoor Writers Association of America) Formal
+								Correspondence</unittitle>
+              <unitdate label="Date">2010</unitdate>
+              <container type="box">3</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">3</container>
+              <unittitle>OWAA (Outdoor Writers Association of America) Formal
+								Correspondence</unittitle>
+              <unitdate label="Date">2011</unitdate>
+              <container type="box">3</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">4</container>
+              <unittitle>NEPA (National Environment Policy Act)</unittitle>
+              <unitdate label="Date">2004 - 2006</unitdate>
+              <container type="box">3</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">5</container>
+              <unittitle>Interstate Environment Commission</unittitle>
+              <unitdate label="Date">2006 - 2008</unitdate>
+              <container type="box">3</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">6</container>
+              <unittitle>Interstate Environment Commission</unittitle>
+              <unitdate label="Date">2009 - 2011</unitdate>
+              <container type="box">3</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">7</container>
+              <unittitle>National Government and the Environment</unittitle>
+              <unitdate label="Date">1978 - 2005</unitdate>
+              <container type="box">3</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">8</container>
+              <unittitle>National Government Article Clippings</unittitle>
+              <unitdate label="Date">1979 - 1999</unitdate>
+              <container type="box">3</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">9</container>
+              <unittitle>National Government Basic Legal Information</unittitle>
+              <unitdate label="Date">2007 - 2011</unitdate>
+              <container type="box">3</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">10</container>
+              <unittitle>National Government Article Clippings</unittitle>
+              <unitdate label="Date">1980's - 2009</unitdate>
+              <container type="box">3</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">11</container>
+              <unittitle>National Government and Courts</unittitle>
+              <unitdate label="Date">2004 - 2009</unitdate>
+              <container type="box">3</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">1</container>
+              <unittitle>National Government Article Clippings</unittitle>
+              <unitdate label="Date">2001</unitdate>
+              <container type="box">4</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">2</container>
+              <unittitle>National Government Article Clippings</unittitle>
+              <unitdate label="Date">2003</unitdate>
+              <container type="box">4</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">3</container>
+              <unittitle>National Government Article Clippings</unittitle>
+              <unitdate label="Date">2004</unitdate>
+              <container type="box">4</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">4</container>
+              <unittitle>National Government Article Clippings</unittitle>
+              <unitdate label="Date">2005</unitdate>
+              <container type="box">4</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">5</container>
+              <unittitle>National Government Article Clippings</unittitle>
+              <unitdate label="Date">2006</unitdate>
+              <container type="box">4</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">6</container>
+              <unittitle>National Government Article Clippings</unittitle>
+              <unitdate label="Date">2007</unitdate>
+              <container type="box">4</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">7</container>
+              <unittitle>National Government Article Clippings</unittitle>
+              <unitdate label="Date">2008</unitdate>
+              <container type="box">4</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">8</container>
+              <unittitle>National Government Article Clippings</unittitle>
+              <unitdate label="Date">2009</unitdate>
+              <container type="box">4</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">9</container>
+              <unittitle>National Government Article Clippings</unittitle>
+              <unitdate label="Date">2010 - 2011</unitdate>
+              <container type="box">4</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">10</container>
+              <unittitle>National Government Article Clippings</unittitle>
+              <unitdate label="Date">2012</unitdate>
+              <container type="box">4</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">11</container>
+              <unittitle>Atlantic States Marine Fisheries Commission</unittitle>
+              <unitdate label="Date">1998 - 1999</unitdate>
+              <container type="box">4</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">12</container>
+              <unittitle>Atlantic States Marine Fisheries Commission</unittitle>
+              <unitdate label="Date">2000</unitdate>
+              <container type="box">4</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">13</container>
+              <unittitle>Atlantic States Marine Fisheries Commission</unittitle>
+              <unitdate label="Date">2001</unitdate>
+              <container type="box">4</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">14</container>
+              <unittitle>Atlantic States Marine Fisheries Commission</unittitle>
+              <unitdate label="Date">2002</unitdate>
+              <container type="box">4</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">15</container>
+              <unittitle>Atlantic States Marine Fisheries Commission</unittitle>
+              <unitdate label="Date">2003</unitdate>
+              <container type="box">4</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">16</container>
+              <unittitle>Atlantic States Marine Fisheries Commission</unittitle>
+              <unitdate label="Date">2004 - 2005</unitdate>
+              <container type="box">4</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">17</container>
+              <unittitle>Atlantic States Marine Fisheries Commission</unittitle>
+              <unitdate label="Date">2006</unitdate>
+              <container type="box">4</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">18</container>
+              <unittitle>Atlantic States Marine Fisheries Commission</unittitle>
+              <unitdate label="Date">2007</unitdate>
+              <container type="box">4</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">19</container>
+              <unittitle>Atlantic States Marine Fisheries Commission</unittitle>
+              <unitdate label="Date">2008</unitdate>
+              <container type="box">4</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">20</container>
+              <unittitle>Atlantic States Marine Fisheries Commission</unittitle>
+              <unitdate label="Date">2009</unitdate>
+              <container type="box">4</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">21</container>
+              <unittitle>Atlantic States Marine Fisheries Commission</unittitle>
+              <unitdate label="Date">2010</unitdate>
+              <container type="box">4</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">22</container>
+              <unittitle>Atlantic States Marine Fisheries Commission</unittitle>
+              <unitdate label="Date">2011</unitdate>
+              <container type="box">4</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">23</container>
+              <unittitle>Atlantic State Marine Fisheries Commission</unittitle>
+              <unitdate label="Date">2012</unitdate>
+              <container type="box">4</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">24</container>
+              <unittitle>Atlantic States Marine Fisheries Commission</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">4</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">1</container>
+              <unittitle>National Government Booklets</unittitle>
+              <unitdate label="Date">2003 - 2004</unitdate>
+              <container type="box">5</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">2</container>
+              <unittitle>Whistle Blower</unittitle>
+              <unitdate label="Date">2004 - 2010</unitdate>
+              <container type="box">5</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">3</container>
+              <unittitle>Long Island Sound Stewardship</unittitle>
+              <unitdate label="Date">2003 - 2007</unitdate>
+              <container type="box">5</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">4</container>
+              <unittitle>Political Action</unittitle>
+              <unitdate label="Date">1998 - 2011</unitdate>
+              <container type="box">5</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">5</container>
+              <unittitle>Personal Items</unittitle>
+              <unitdate label="Date">1931 - 1965</unitdate>
+              <container type="box">5</container>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unitid>2</unitid>
+          <unittitle>2. Arthur Glowka: Personal Items and Writings</unittitle>
+          <unitdate type="inclusive" normal="1936/2013">1936 - 2013</unitdate>
+          <physdesc>
+            <extent>Boxes: 5 - 6</extent>
+          </physdesc>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="folder">6</container>
+            <unittitle>Navy Articles</unittitle>
+            <unitdate label="Date">1955 - 1965</unitdate>
+            <container type="box">5</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">7</container>
+            <unittitle>Pictures of Art Glowka</unittitle>
+            <unitdate label="Date">1965 - 1974</unitdate>
+            <container type="box">5</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">8</container>
+            <unittitle>Environment action / political</unittitle>
+            <unitdate label="Date">1961 - 1992</unitdate>
+            <container type="box">5</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">9</container>
+            <unittitle>Empire Forester</unittitle>
+            <unitdate label="Date">1952</unitdate>
+            <container type="box">5</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">10</container>
+            <unittitle>Personal Documentation</unittitle>
+            <unitdate label="Date">1967 - 2003</unitdate>
+            <container type="box">5</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">11</container>
+            <unittitle>Related Articles</unittitle>
+            <unitdate label="Date">1950 - 2013</unitdate>
+            <container type="box">5</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">12</container>
+            <unittitle>Correspondence</unittitle>
+            <unitdate label="Date">1963 - 1995</unitdate>
+            <container type="box">5</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">1</container>
+            <unittitle>Diamond Activities</unittitle>
+            <unitdate label="Date">1958 - 1959</unitdate>
+            <container type="box">6</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">2</container>
+            <unittitle>Awards</unittitle>
+            <unitdate label="Date">1980</unitdate>
+            <container type="box">6</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">3</container>
+            <unittitle>Early Years</unittitle>
+            <unitdate label="Date">1936 - 1948</unitdate>
+            <container type="box">6</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">4</container>
+            <unittitle>Department Love</unittitle>
+            <unitdate label="Date">1955</unitdate>
+            <container type="box">6</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">5</container>
+            <unittitle>Aviation Pictures</unittitle>
+            <unitdate label="Date">1954 - 1962</unitdate>
+            <container type="box">6</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">6</container>
+            <unittitle>Navy Pictures</unittitle>
+            <unitdate label="Date">undated</unitdate>
+            <container type="box">6</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">7</container>
+            <unittitle>Articles written by Art Glowka</unittitle>
+            <unitdate label="Date">1971 - 1981</unitdate>
+            <container type="box">6</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">8</container>
+            <unittitle>Articles in relation to Arthur Glowka</unittitle>
+            <unitdate label="Date">1978 - 1981</unitdate>
+            <container type="box">6</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">9</container>
+            <unittitle>Articles written by Arthur Glowka</unittitle>
+            <unitdate label="Date">1971 - 2006</unitdate>
+            <container type="box">6</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">10</container>
+            <unittitle>True Man Magazine - Arthur Glowka articles in
+								magazine</unittitle>
+            <unitdate label="Date">1959</unitdate>
+            <container type="box">6</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">11</container>
+            <unittitle>True Man Magazine - Arthur Glowka articles</unittitle>
+            <unitdate label="Date">1950</unitdate>
+            <container type="box">6</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">12</container>
+            <unittitle>Sports Illustrated - Arthur Glowka articles in
+								magazine</unittitle>
+            <unitdate label="Date">1970</unitdate>
+            <container type="box">6</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unitid>3</unitid>
+          <unittitle>3. Articles and Notes Left in Books</unittitle>
+          <unitdate type="inclusive" normal="1970/2012">1970 - 2012</unitdate>
+          <physdesc>
+            <extent>Box: 7</extent>
+          </physdesc>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="folder">1</container>
+            <unittitle>Notes and Info Found in Angler's Guide to Sharks of the
+								Northeastern United States</unittitle>
+            <unitdate label="Date">1970 - 1985</unitdate>
+            <container type="box">7</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">2</container>
+            <unittitle>Notes and Info Found in Angler's Guide to Sharks of the
+								Northeastern United States</unittitle>
+            <unitdate label="Date">1978 - 1998</unitdate>
+            <container type="box">7</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">3</container>
+            <unittitle>Information that came out of The Night crawlers
+								Manual</unittitle>
+            <unitdate label="Date">undated</unitdate>
+            <container type="box">7</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">4</container>
+            <unittitle>Airman's Odyssey by Antoine de Saint Exupery</unittitle>
+            <unitdate label="Date">2012</unitdate>
+            <container type="box">7</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">5</container>
+            <unittitle>How Industry Manipulates Science and</unittitle>
+            <unitdate label="Date">2002</unitdate>
+            <container type="box">7</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">6</container>
+            <unittitle>No Angle Left Unturned: Facts</unittitle>
+            <unitdate label="Date">1973 - 2010</unitdate>
+            <container type="box">7</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">7</container>
+            <unittitle>The Earthworm Book: How to Raise and Use</unittitle>
+            <unitdate label="Date">1979 - 2002</unitdate>
+            <container type="box">7</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">8</container>
+            <unittitle>About Lobsters</unittitle>
+            <unitdate label="Date">1975 - 1995</unitdate>
+            <container type="box">7</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">9</container>
+            <unittitle>Facts About Night crawlers</unittitle>
+            <unitdate label="Date">1977</unitdate>
+            <container type="box">7</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">10</container>
+            <unittitle>Our Stolen Future</unittitle>
+            <unitdate label="Date">1996</unitdate>
+            <container type="box">7</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">11</container>
+            <unittitle>On Bullshit</unittitle>
+            <unitdate label="Date">2005</unitdate>
+            <container type="box">7</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">12</container>
+            <unittitle>Marketing Myths That Are Killing Business</unittitle>
+            <unitdate label="Date">undated</unitdate>
+            <container type="box">7</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">13</container>
+            <unittitle>Merde</unittitle>
+            <unitdate label="Date">1999 - 2000</unitdate>
+            <container type="box">7</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">14</container>
+            <unittitle>Stamford 350 Years 1641 - 1991</unittitle>
+            <unitdate label="Date">1991</unitdate>
+            <container type="box">7</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">15</container>
+            <unittitle>Articles found in Interstate Environmental Commission 2008
+								annual report</unittitle>
+            <unitdate label="Date">1991 - 2009</unitdate>
+            <container type="box">7</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">16</container>
+            <unittitle>Articles found in Interstate Environmental
+								Commission</unittitle>
+            <unitdate label="Date">2009</unitdate>
+            <container type="box">7</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">17</container>
+            <unittitle>Chipmunks on the Doorstep</unittitle>
+            <unitdate label="Date">1978</unitdate>
+            <container type="box">7</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">18</container>
+            <unittitle>Food in History</unittitle>
+            <unitdate label="Date">1998</unitdate>
+            <container type="box">7</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">19</container>
+            <unittitle>How to Remember Jokes and 101 Drop Dead Jokes to Get
+								Started</unittitle>
+            <unitdate label="Date">1996 - 2004</unitdate>
+            <container type="box">7</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">20</container>
+            <unittitle>The Decline in Males</unittitle>
+            <unitdate label="Date">1999 - 2003</unitdate>
+            <container type="box">7</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">21</container>
+            <unittitle>The Worst Case Survival Handbook</unittitle>
+            <unitdate label="Date">1998 - 2000</unitdate>
+            <container type="box">7</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">22</container>
+            <unittitle>One Good Turn</unittitle>
+            <unitdate label="Date">undated</unitdate>
+            <container type="box">7</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">23</container>
+            <unittitle>The Plain Reader</unittitle>
+            <unitdate label="Date">undated</unitdate>
+            <container type="box">7</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unitid>4</unitid>
+          <unittitle>4. Chesapeake Bay: Science Article Clippings</unittitle>
+          <unitdate type="inclusive" normal="1996/2011">1996 - 2011</unitdate>
+          <physdesc>
+            <extent>Boxes: 7 - 8</extent>
+          </physdesc>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="folder">24</container>
+            <unittitle>Scientific articles</unittitle>
+            <unitdate label="Date">1999 - 2001</unitdate>
+            <container type="box">7</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">25</container>
+            <unittitle>GAO (U.S Government Accountability Office) and Chesapeake Bay
+								correspondence</unittitle>
+            <unitdate label="Date">2006</unitdate>
+            <container type="box">7</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">26</container>
+            <unittitle>News Articles</unittitle>
+            <unitdate label="Date">1996 - 2012</unitdate>
+            <container type="box">7</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">1</container>
+            <unittitle>National Geographic</unittitle>
+            <unitdate label="Date">2005</unitdate>
+            <container type="box">8</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">2</container>
+            <unittitle>Chesapeake Quarterly</unittitle>
+            <unitdate label="Date">2004 - 2011</unitdate>
+            <container type="box">8</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">3</container>
+            <unittitle>Pennsylvania and Chesapeake Bay</unittitle>
+            <unitdate label="Date">2007 - 2008</unitdate>
+            <container type="box">8</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">4</container>
+            <unittitle>Ecosystem or Environment</unittitle>
+            <unitdate label="Date">1998 - 2009</unitdate>
+            <container type="box">8</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">5</container>
+            <unittitle>Water Quality</unittitle>
+            <unitdate label="Date">2008 - 2011</unitdate>
+            <container type="box">8</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">6</container>
+            <unittitle>EPA (Environmental Protection Agency)</unittitle>
+            <unitdate label="Date">2003 - 2009</unitdate>
+            <container type="box">8</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unitid>5</unitid>
+          <unittitle>5. Connecticut</unittitle>
+          <unitdate type="inclusive" normal="1937/2013">1937 - 2013</unitdate>
+          <physdesc>
+            <extent>Boxes: 8 - 9</extent>
+          </physdesc>
+        </did>
+        <scopecontent>
+          <p>Series contains materials on Connecticut animals, politics, and research.</p>
+        </scopecontent>
+        <c02 level="series">
+          <did>
+            <unitid>5.1</unitid>
+            <unittitle>Subseries 5.1: Animals</unittitle>
+            <unitdate type="inclusive" normal="1909/2013">1988 - 2012</unitdate>
+            <physdesc>
+              <extent>Boxes: 8 - 9</extent>
+            </physdesc>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="folder">7</container>
+              <unittitle>Birds</unittitle>
+              <unitdate label="Date">2001 - 2008</unitdate>
+              <container type="box">8</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">8</container>
+              <unittitle>Environment Correspondence</unittitle>
+              <unitdate label="Date">1995 - 2010</unitdate>
+              <container type="box">8</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">9</container>
+              <unittitle>Fish, fishing, wildlife</unittitle>
+              <unitdate label="Date">1998 - 2012</unitdate>
+              <container type="box">8</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">10</container>
+              <unittitle>A Study of Marine Recreational Fisheries</unittitle>
+              <unitdate label="Date">2001 - 2002</unitdate>
+              <container type="box">8</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">1</container>
+              <unittitle>Shellfish Management Procedures For Southern New England
+								Towns</unittitle>
+              <unitdate label="Date">1988</unitdate>
+              <container type="box">9</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">2</container>
+              <unittitle>A Study of Marine Recreational Fisheries in
+								Connecticut</unittitle>
+              <unitdate label="Date">2004 - 2005</unitdate>
+              <container type="box">9</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">3</container>
+              <unittitle>A Study of Marine Recreational Fisheries in
+								Connecticut</unittitle>
+              <unitdate label="Date">2006 - 2007</unitdate>
+              <container type="box">9</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">4</container>
+              <unittitle>A Study of Marine Recreational Fisheries in
+								Connecticut</unittitle>
+              <unitdate label="Date">2007 - 2008</unitdate>
+              <container type="box">9</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">5</container>
+              <unittitle>Annual Report 2006 - Monitoring the Marine Environment of
+								Long Island Sound</unittitle>
+              <unitdate label="Date">2007</unitdate>
+              <container type="box">9</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="series">
+          <did>
+            <unitid>5.2</unitid>
+            <unittitle>Subseries 5.2: Politics</unittitle>
+            <unitdate type="inclusive" normal="2000/2011">2000 - 2011</unitdate>
+            <physdesc>
+              <extent>Box: 9</extent>
+            </physdesc>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="folder">6</container>
+              <unittitle>Legal / political action correspondence</unittitle>
+              <unitdate label="Date">2006 - 2010</unitdate>
+              <container type="box">9</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">7</container>
+              <unittitle>Long Island Sound in Conecticut</unittitle>
+              <unitdate label="Date">2000 - 2011</unitdate>
+              <container type="box">9</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">8</container>
+              <unittitle>Politics</unittitle>
+              <unitdate label="Date">2009 - 2010</unitdate>
+              <container type="box">9</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">9</container>
+              <unittitle>Legal Action</unittitle>
+              <unitdate label="Date">2003</unitdate>
+              <container type="box">9</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">10</container>
+              <unittitle>Notes</unittitle>
+              <unitdate label="Date">2002</unitdate>
+              <container type="box">9</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="series">
+          <did>
+            <unitid>5.3</unitid>
+            <unittitle>Subseries 5.3: Research</unittitle>
+            <unitdate type="inclusive" normal="1937/2013">1937 - 2013</unitdate>
+            <physdesc>
+              <extent>Box: 9</extent>
+            </physdesc>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="folder">1</container>
+              <unittitle>Water Quality</unittitle>
+              <unitdate label="Date">2006 - 2009</unitdate>
+              <container type="box">9</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">2</container>
+              <unittitle>Water Quality</unittitle>
+              <unitdate label="Date">2009 - 2013</unitdate>
+              <container type="box">9</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">3</container>
+              <unittitle>Water Quality - Water Pollution Control Authority</unittitle>
+              <unitdate label="Date">2009 - 2012</unitdate>
+              <container type="box">9</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">4</container>
+              <unittitle>Water Quality - Water Pollution Control Authority</unittitle>
+              <unitdate label="Date">2009 - 2013</unitdate>
+              <container type="box">9</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">5</container>
+              <unittitle>Water Quality - state / city articles</unittitle>
+              <unitdate label="Date">1999 - 2011</unitdate>
+              <container type="box">9</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">6</container>
+              <unittitle>EPA (Environmental Protection Agency)</unittitle>
+              <unitdate label="Date">2005 - 2012</unitdate>
+              <container type="box">9</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">7</container>
+              <unittitle>Research</unittitle>
+              <unitdate label="Date">2005 - 2011</unitdate>
+              <container type="box">9</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">8</container>
+              <unittitle>Environment</unittitle>
+              <unitdate label="Date">1998 - 2008</unitdate>
+              <container type="box">9</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">9</container>
+              <unittitle>Environment</unittitle>
+              <unitdate label="Date">1937 - 2011</unitdate>
+              <container type="box">9</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">10</container>
+              <unittitle>Nitrogen</unittitle>
+              <unitdate label="Date">2008</unitdate>
+              <container type="box">9</container>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unitid>6</unitid>
+          <unittitle>6. Graphic Materials</unittitle>
+          <unitdate type="inclusive" normal="1909/2013">1974 - 2009</unitdate>
+          <physdesc>
+            <extent>Boxes: 10 - 15</extent>
+          </physdesc>
+        </did>
+        <scopecontent>
+          <p>Series contains graphic materials of aquatic biomes, the environemnt, marine life, mussels, and miscellaneous</p>
+        </scopecontent>
+        <c02 level="series">
+          <did>
+            <unitid>6.1</unitid>
+            <unittitle>Subseries 6.1: Aquatic Biome</unittitle>
+            <unitdate type="inclusive" normal="1974/2009">1974 - 2009</unitdate>
+            <physdesc>
+              <extent>Boxes: 10 - 11</extent>
+            </physdesc>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="folder">1</container>
+              <unittitle>Miscellaneous</unittitle>
+              <unitdate label="Date">2003 - 2009</unitdate>
+              <container type="box">10</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">2</container>
+              <unittitle>Fish pictures</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">10</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">3</container>
+              <unittitle>Fish Pictures</unittitle>
+              <unitdate label="Date">1974 - 2006</unitdate>
+              <container type="box">10</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">4</container>
+              <unittitle>Bass - crabs and clams in stomach</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">10</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">5</container>
+              <unittitle>Porgies fat on back</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">10</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">6</container>
+              <unittitle>Blacks / Porgies / Striper / Blue</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">10</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">7</container>
+              <unittitle>Sturgeon Hudson</unittitle>
+              <unitdate label="Date">1998</unitdate>
+              <container type="box">10</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">8</container>
+              <unittitle>Freddy Bass Sores Pix</unittitle>
+              <unitdate label="Date">2002</unitdate>
+              <container type="box">10</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">9</container>
+              <unittitle>Fish stomachs fat on back</unittitle>
+              <unitdate label="Date">1998</unitdate>
+              <container type="box">10</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">10</container>
+              <unittitle>Dead fish and insides</unittitle>
+              <unitdate label="Date">2006</unitdate>
+              <container type="box">10</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">11</container>
+              <unittitle>Fish trap</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">10</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">12</container>
+              <unittitle>Eels Hudson</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">10</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">13</container>
+              <unittitle>Marine Life Picture Transparencies</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">10</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">14</container>
+              <unittitle>Foam Pictures</unittitle>
+              <unitdate label="Date">2009</unitdate>
+              <container type="box">10</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">15</container>
+              <unittitle>Glowka's Boat Skinny Bluefish Bunker</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">10</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">16</container>
+              <unittitle>Bluefish blitz</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">10</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">1</container>
+              <unittitle>Westcott Cove Crepedula and Oysters</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">11</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">2</container>
+              <unittitle>Crepidula at Todds Point</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">11</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">3</container>
+              <unittitle>Crabs in Stomachs</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">11</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">4</container>
+              <unittitle>Crabs in Stomachs</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">11</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">5</container>
+              <unittitle>Terrestrial Environment</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">11</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">6</container>
+              <unittitle>Marine Environment</unittitle>
+              <unitdate label="Date">2006</unitdate>
+              <container type="box">11</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">7</container>
+              <unittitle>Stomach / Bass, Blues, Fluke</unittitle>
+              <unitdate label="Date">2003</unitdate>
+              <container type="box">11</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="series">
+          <did>
+            <unitid>6.2</unitid>
+            <unittitle>Subseries 6.2: Environment</unittitle>
+            <unitdate type="inclusive" normal="1909/2013">1997 - 2007</unitdate>
+            <physdesc>
+              <extent>Boxes: 11 - 12</extent>
+            </physdesc>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="folder">8</container>
+              <unittitle>Marsh Haloween</unittitle>
+              <unitdate label="Date">1998</unitdate>
+              <container type="box">11</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">9</container>
+              <unittitle>Greenwich Grass Island</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">11</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">10</container>
+              <unittitle>Throgs Neck Buoys</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">11</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">11</container>
+              <unittitle>Tidal Rip</unittitle>
+              <unitdate label="Date">2000</unitdate>
+              <container type="box">11</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">12</container>
+              <unittitle>Throgs Neck Bridge Tidal Stadium</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">11</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">13</container>
+              <unittitle>Haloween Grass End</unittitle>
+              <unitdate label="Date">1998</unitdate>
+              <container type="box">11</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">14</container>
+              <unittitle>Tidal Rip end</unittitle>
+              <unitdate label="Date">2002</unitdate>
+              <container type="box">11</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">15</container>
+              <unittitle>Pictures of Sewage Plant</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">11</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">16</container>
+              <unittitle>November Manhasset Bay</unittitle>
+              <unitdate label="Date">2000</unitdate>
+              <container type="box">11</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">17</container>
+              <unittitle>Boats</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">11</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">18</container>
+              <unittitle>Float Pix Bridges</unittitle>
+              <unitdate label="Date">2007</unitdate>
+              <container type="box">11</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">19</container>
+              <unittitle>Middle Bank James Van</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">11</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">20</container>
+              <unittitle>House and leaves</unittitle>
+              <unitdate label="Date">1997</unitdate>
+              <container type="box">11</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">1</container>
+              <unittitle>Miscellaneous Pictures</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">12</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">2</container>
+              <unittitle>Richie Corvelle pots and boat</unittitle>
+              <unitdate label="Date">2004</unitdate>
+              <container type="box">12</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">3</container>
+              <unittitle>November 2000 Glen Cove</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">12</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">4</container>
+              <unittitle>Tidal Flows September</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">12</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">5</container>
+              <unittitle>Beach Hurricane and Tidal Rift Pictures</unittitle>
+              <unitdate label="Date">1999</unitdate>
+              <container type="box">12</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">6</container>
+              <unittitle>Leaf Pickup</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">12</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">7</container>
+              <unittitle>Duplicates</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">12</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="series">
+          <did>
+            <unitid>6.3</unitid>
+            <unittitle>Subseries 6.3: Marine Life</unittitle>
+            <physdesc>
+              <extent>Box: 12</extent>
+            </physdesc>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="folder">8</container>
+              <unittitle>Marion Porgies</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">12</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">9</container>
+              <unittitle>Burt / Paul Porgies Squid Bait Poor Fish Cleaning
+								Pix</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">12</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">10</container>
+              <unittitle>Nick Black Fish Peter Weakfish</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">12</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">11</container>
+              <unittitle>Nick Striped Bass</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">12</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">12</container>
+              <unittitle>Nite Rainbow Trout</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">12</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">13</container>
+              <unittitle>Herring Dipping Miaaus Spring</unittitle>
+              <unitdate label="Date">1980</unitdate>
+              <container type="box">12</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">14</container>
+              <unittitle>Menhaden Slides</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">12</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">15</container>
+              <unittitle>Dove / Sturgeon Pix</unittitle>
+              <unitdate label="Date">1971</unitdate>
+              <container type="box">12</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">16</container>
+              <unittitle>Oceanic Beach Boat Clam Boat</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">12</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">17</container>
+              <unittitle>WT Clamming Flounder and Flounder Cleaning Trolling Horseshoe
+								Crab Saltwater</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">12</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">18</container>
+              <unittitle>Clam Mussel Shots</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">12</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">19</container>
+              <unittitle>Eels Winter Summer</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">12</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">20</container>
+              <unittitle>Fighting Canaries</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">12</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">21</container>
+              <unittitle>Ruth Breasting Ducks</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">12</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">22</container>
+              <unittitle>Dead Fish Pix and Inter Neas</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">12</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="series">
+          <did>
+            <unitid>6.4</unitid>
+            <unittitle>Subseries 6.4: Mussels</unittitle>
+            <unitdate type="inclusive" normal="1998/2002">1998 - 2002</unitdate>
+            <physdesc>
+              <extent>Boxes: 13 - 14</extent>
+            </physdesc>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="folder">1</container>
+              <unittitle>Mussel Bed Lloyds Peanut Bunker Stomachs</unittitle>
+              <unitdate label="Date">2002</unitdate>
+              <container type="box">13</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">2</container>
+              <unittitle>Mussels Norwalk</unittitle>
+              <unitdate label="Date">2000</unitdate>
+              <container type="box">13</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">3</container>
+              <unittitle>Mussels Shelf - West Beach</unittitle>
+              <unitdate label="Date">1999</unitdate>
+              <container type="box">13</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">4</container>
+              <unittitle>Mussels Pelham Bay</unittitle>
+              <unitdate label="Date">1998</unitdate>
+              <container type="box">13</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">5</container>
+              <unittitle>Mussels - Sand Diggers</unittitle>
+              <unitdate label="Date">1999</unitdate>
+              <container type="box">13</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">6</container>
+              <unittitle>Mussel Meats</unittitle>
+              <unitdate label="Date">1999</unitdate>
+              <container type="box">13</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">7</container>
+              <unittitle>Mussels Lloyds</unittitle>
+              <unitdate label="Date">1999</unitdate>
+              <container type="box">13</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">8</container>
+              <unittitle>Mussel Dolphin Cove, Stamford Harbor</unittitle>
+              <unitdate label="Date">1998</unitdate>
+              <container type="box">13</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">9</container>
+              <unittitle>Blue Mussel Darier Boat Club, New Rochelle,
+								Klondike</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">13</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">10</container>
+              <unittitle>Mussels - Penfield Reef</unittitle>
+              <unitdate label="Date">2000</unitdate>
+              <container type="box">13</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">11</container>
+              <unittitle>Brill Mussels</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">13</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">12</container>
+              <unittitle>Piling Barnacles - City Island Blue Mussels</unittitle>
+              <unitdate label="Date">1999</unitdate>
+              <container type="box">13</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">13</container>
+              <unittitle>Blue Mussels Holly Pond Canal</unittitle>
+              <unitdate label="Date">1999</unitdate>
+              <container type="box">13</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">14</container>
+              <unittitle>Mussels April</unittitle>
+              <unitdate label="Date">1998</unitdate>
+              <container type="box">13</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">15</container>
+              <unittitle>Mussels Stam Breakwall</unittitle>
+              <unitdate label="Date">1998</unitdate>
+              <container type="box">13</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">16</container>
+              <unittitle>Blue Mussels</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">13</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">17</container>
+              <unittitle>Mussel Cove</unittitle>
+              <unitdate label="Date">1998</unitdate>
+              <container type="box">13</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">18</container>
+              <unittitle>Pt Washington Mussels</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">13</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">19</container>
+              <unittitle>Sullivan - mussels alewives</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">13</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">1</container>
+              <unittitle>Mussels Yacht Haven Breakwater</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">14</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">2</container>
+              <unittitle>Mussels Yacht Halved Breakwater</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">14</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">3</container>
+              <unittitle>Mussels Rocks Parking Lot</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">14</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">4</container>
+              <unittitle>Mussels Playland Pond</unittitle>
+              <unitdate label="Date">1998</unitdate>
+              <container type="box">14</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">5</container>
+              <unittitle>Mussel Cove Early November</unittitle>
+              <unitdate label="Date">1998</unitdate>
+              <container type="box">14</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="series">
+          <did>
+            <unitid>6.5</unitid>
+            <unittitle>Subseries 6.5: Miscellaneous</unittitle>
+            <physdesc>
+              <extent>Boxes: 14 - 15</extent>
+            </physdesc>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="folder">6</container>
+              <unittitle>Long Island Sound Fishing Show #1</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">14</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">7</container>
+              <unittitle>Long Island Sound Fishing Show #2</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">14</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">8</container>
+              <unittitle>Complete Hudson River Show</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">14</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">9</container>
+              <unittitle>Fulton Fish Market</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">14</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">10</container>
+              <unittitle>Westway Trade</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">14</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">11</container>
+              <unittitle>Antique Outboard Motors</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">14</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">12</container>
+              <unittitle>Making Wire Line and Putting on More Spinning
+								Spooler</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">14</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">13</container>
+              <unittitle>Lobstering - Peter and Rex fishing</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">14</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">14</container>
+              <unittitle>Gold Brazil</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">14</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">15</container>
+              <unittitle>Brazil General</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">14</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">16</container>
+              <unittitle>Brazil Nuts</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">14</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">1</container>
+              <unittitle>Water Skiing Amazon O/B motors</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">15</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">2</container>
+              <unittitle>Marion and Kreiger Paul S/B</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">15</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">3</container>
+              <unittitle>Environment</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">15</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">4</container>
+              <unittitle>Environment</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">15</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">5</container>
+              <unittitle>Freddy Boiler</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">15</container>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unitid>7</unitid>
+          <unittitle>7. Long Island Sound</unittitle>
+          <unitdate type="inclusive" normal="1909/2013">1991 - 2012</unitdate>
+          <physdesc>
+            <extent>Boxes: 15 - 18</extent>
+          </physdesc>
+        </did>
+        <scopecontent>
+          <p>Series contains marine science article clippings, science article clippings, and science miscellaneous.</p>
+        </scopecontent>
+        <c02 level="series">
+          <did>
+            <unitid>7.1</unitid>
+            <unittitle>Subseries 7.1: Marine Science Article Clippings</unittitle>
+            <unitdate type="inclusive" normal="1995/2009">1995 - 2009</unitdate>
+            <physdesc>
+              <extent>Boxes: 15 - 16</extent>
+            </physdesc>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="folder">6</container>
+              <unittitle>Marine Life</unittitle>
+              <unitdate label="Date">1995 - 2008</unitdate>
+              <container type="box">15</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">7</container>
+              <unittitle>Marine Life</unittitle>
+              <unitdate label="Date">2005 - 2009</unitdate>
+              <container type="box">15</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">8</container>
+              <unittitle>South Bay</unittitle>
+              <unitdate label="Date">2007</unitdate>
+              <container type="box">15</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">9</container>
+              <unittitle>South Bay</unittitle>
+              <unitdate label="Date">2008 - 2009</unitdate>
+              <container type="box">15</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">1</container>
+              <unittitle>Fishery and Fish</unittitle>
+              <unitdate label="Date">2002 - 2003</unitdate>
+              <container type="box">16</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">2</container>
+              <unittitle>Eel grass</unittitle>
+              <unitdate label="Date">2006</unitdate>
+              <container type="box">15</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">3</container>
+              <unittitle>Long Island Sound, Fish, and Fishing notes</unittitle>
+              <unitdate label="Date">2007 - 2009</unitdate>
+              <container type="box">16</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="series">
+          <did>
+            <unitid>7.2</unitid>
+            <unittitle>Subseries 7.2: Science Article Clippings</unittitle>
+            <unitdate type="inclusive" normal="1909/2013">1991 - 2012</unitdate>
+            <physdesc>
+              <extent>Boxes: 16 - 17</extent>
+            </physdesc>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="folder">4</container>
+              <unittitle>Hypoxia</unittitle>
+              <unitdate label="Date">1991 - 2011</unitdate>
+              <container type="box">16</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">5</container>
+              <unittitle>Hypoxia</unittitle>
+              <unitdate label="Date">1991 - 2012</unitdate>
+              <container type="box">16</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">6</container>
+              <unittitle>Data - Long Island Sound</unittitle>
+              <unitdate label="Date">1991 - 2012</unitdate>
+              <container type="box">16</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">7</container>
+              <unittitle>Data - Long Island Sound</unittitle>
+              <unitdate label="Date">1991 - 2012</unitdate>
+              <container type="box">16</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">8</container>
+              <unittitle>Notes - Long Island Sound</unittitle>
+              <unitdate label="Date">1991 - 2012</unitdate>
+              <container type="box">16</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">1</container>
+              <unittitle>Climate Change</unittitle>
+              <unitdate label="Date">2004 - 2008</unitdate>
+              <container type="box">17</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">2</container>
+              <unittitle>Research Articles</unittitle>
+              <unitdate label="Date">2001 - 2012</unitdate>
+              <container type="box">17</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">3</container>
+              <unittitle>Long Island Sound Articles</unittitle>
+              <unitdate label="Date">1996 - 2010</unitdate>
+              <container type="box">17</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">4</container>
+              <unittitle>Pollution</unittitle>
+              <unitdate label="Date">1991</unitdate>
+              <container type="box">17</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">5</container>
+              <unittitle>Ecosystem</unittitle>
+              <unitdate label="Date">2002 - 2010</unitdate>
+              <container type="box">17</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">6</container>
+              <unittitle>Ecosystem</unittitle>
+              <unitdate label="Date">2003 - 2012</unitdate>
+              <container type="box">17</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">7</container>
+              <unittitle>Biodiversity</unittitle>
+              <unitdate label="Date">2009</unitdate>
+              <container type="box">17</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">8</container>
+              <unittitle>Science Articles</unittitle>
+              <unitdate label="Date">1998 - 2007</unitdate>
+              <container type="box">17</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">9</container>
+              <unittitle>Science Articles</unittitle>
+              <unitdate label="Date">1997 - 2010</unitdate>
+              <container type="box">17</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="series">
+          <did>
+            <unitid>7.3</unitid>
+            <unittitle>Subseries 7.3: Science Miscellaneous</unittitle>
+            <unitdate type="inclusive" normal="1994/2011">1994 - 2011</unitdate>
+            <physdesc>
+              <extent>Boxes: 17 - 18</extent>
+            </physdesc>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="folder">10</container>
+              <unittitle>Long Island Sound Correspondence</unittitle>
+              <unitdate label="Date">1998 - 2011</unitdate>
+              <container type="box">17</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">1</container>
+              <unittitle>Long Island Sound Environment</unittitle>
+              <unitdate label="Date">1995 - 2011</unitdate>
+              <container type="box">18</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">2</container>
+              <unittitle>Long Island Sound Environment</unittitle>
+              <unitdate label="Date">1995 - 2011</unitdate>
+              <container type="box">18</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">3</container>
+              <unittitle>Nitrogen</unittitle>
+              <unitdate label="Date">1995 - 2008</unitdate>
+              <container type="box">18</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">4</container>
+              <unittitle>Long Island Sound Science Projects</unittitle>
+              <unitdate label="Date">1995 - 2008</unitdate>
+              <container type="box">18</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">5</container>
+              <unittitle>Water Quality</unittitle>
+              <unitdate label="Date">1995 - 2011</unitdate>
+              <container type="box">18</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">6</container>
+              <unittitle>Water Quality</unittitle>
+              <unitdate label="Date">1995 - 2008</unitdate>
+              <container type="box">18</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">7</container>
+              <unittitle>Water Quality</unittitle>
+              <unitdate label="Date">1995 - 2011</unitdate>
+              <container type="box">18</container>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unitid>8</unitid>
+          <unittitle>8. Long Island Sound Study</unittitle>
+          <unitdate type="inclusive" normal="1961/2013">1961 - 2013</unitdate>
+          <physdesc>
+            <extent>Boxes: 19 - 22</extent>
+          </physdesc>
+        </did>
+        <scopecontent>
+          <p>Series contains committee papers, financials, and programs, plans, and reports. </p>
+        </scopecontent>
+        <c02 level="series">
+          <did>
+            <unitid>8.1</unitid>
+            <unittitle>Subseries 8.1: Committee Papers</unittitle>
+            <unitdate type="inclusive" normal="1961/2012">1961 - 2012</unitdate>
+            <physdesc>
+              <extent>Boxes: 19 - 20</extent>
+            </physdesc>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="folder">1</container>
+              <unittitle>Long Island Sound Plan</unittitle>
+              <unitdate label="Date">1987 - 2011</unitdate>
+              <container type="box">19</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">2</container>
+              <unittitle>Long Island Sound Plan</unittitle>
+              <unitdate label="Date">2009 - 2011</unitdate>
+              <container type="box">19</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">3</container>
+              <unittitle>Science and Technical Advisory committee</unittitle>
+              <unitdate label="Date">2003 - 2010</unitdate>
+              <container type="box">19</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">4</container>
+              <unittitle>Long Island Sound Foundation</unittitle>
+              <unitdate label="Date">2004 - 2008</unitdate>
+              <container type="box">19</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">5</container>
+              <unittitle>Management Committee</unittitle>
+              <unitdate label="Date">2005 - 2012</unitdate>
+              <container type="box">19</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">6</container>
+              <unittitle>Long Island Sound Study Policy committee</unittitle>
+              <unitdate label="Date">2010</unitdate>
+              <container type="box">19</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">7</container>
+              <unittitle>Science and Technical Advisory Committee</unittitle>
+              <unitdate label="Date">2003 - 2012</unitdate>
+              <container type="box">19</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">8</container>
+              <unittitle>Management Committee</unittitle>
+              <unitdate label="Date">2004 - 2012</unitdate>
+              <container type="box">19</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">9</container>
+              <unittitle>Citizens Advisory Committee</unittitle>
+              <unitdate label="Date">2003 - 2013</unitdate>
+              <container type="box">19</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">1</container>
+              <unittitle>Long Island Sound Study</unittitle>
+              <unitdate label="Date">2004 - 2010</unitdate>
+              <container type="box">20</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">2</container>
+              <unittitle>Long Island Sound Study</unittitle>
+              <unitdate label="Date">1961 - 2011</unitdate>
+              <container type="box">20</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">3</container>
+              <unittitle>Long Island Sound Study</unittitle>
+              <unitdate label="Date">1993 - 2010</unitdate>
+              <container type="box">20</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">4</container>
+              <unittitle>Long Island Sound Study</unittitle>
+              <unitdate label="Date">1997 - 2005</unitdate>
+              <container type="box">20</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="series">
+          <did>
+            <unitid>8.2</unitid>
+            <unittitle>Subseries 8.2: Financials</unittitle>
+            <unitdate type="inclusive" normal="1992/2013">1992 - 2013</unitdate>
+            <physdesc>
+              <extent>Boxes: 20 - 21</extent>
+            </physdesc>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="folder">5</container>
+              <unittitle>CAC money action</unittitle>
+              <unitdate label="Date">2003 - 2013</unitdate>
+              <container type="box">20</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">6</container>
+              <unittitle>Federal Funding</unittitle>
+              <unitdate label="Date">1992 - 2013</unitdate>
+              <container type="box">20</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">1</container>
+              <unittitle>Long Island Sound Committee Funding</unittitle>
+              <unitdate label="Date">1991 - 2011</unitdate>
+              <container type="box">21</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">2</container>
+              <unittitle>Long Island Sound Committee Funding</unittitle>
+              <unitdate label="Date">2008 - 2012</unitdate>
+              <container type="box">21</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="series">
+          <did>
+            <unitid>8.3</unitid>
+            <unittitle>Subseries 8.3: Programs, Plans, Reports</unittitle>
+            <unitdate type="inclusive" normal="1993/2010">1993 - 2010</unitdate>
+            <physdesc>
+              <extent>Boxes: 21 - 22</extent>
+            </physdesc>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="folder">3</container>
+              <unittitle>The Long Island Sound Foundation</unittitle>
+              <unitdate label="Date">2004, 2010</unitdate>
+              <container type="box">21</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">4</container>
+              <unittitle>Long Island Sound Study: Comprehensive Conservation and
+								Management Plan Tracking Report</unittitle>
+              <unitdate label="Date">2000, 2009</unitdate>
+              <container type="box">21</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">5</container>
+              <unittitle>Long Island Sound Study: Comprehensive Conservation and
+								Management Plan Tracking Report</unittitle>
+              <unitdate label="Date">2001, 2010</unitdate>
+              <container type="box">21</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">6</container>
+              <unittitle>Long Island Sound Study: The Comprehensive Conservation and
+								Management March Plan 1994</unittitle>
+              <unitdate label="Date">1994</unitdate>
+              <container type="box">21</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">7</container>
+              <unittitle>Long Island Sound Study: The Comprehensive Conservation and
+								Management March Plan 1994</unittitle>
+              <unitdate label="Date">1994</unitdate>
+              <container type="box">21</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">1</container>
+              <unittitle>Long Island Sound Study: The Comprehensive Conservation and
+								Management March Plan 1994</unittitle>
+              <unitdate label="Date">1994</unitdate>
+              <container type="box">22</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">2</container>
+              <unittitle>Comprehensive Management Plan</unittitle>
+              <unitdate label="Date">2001 - 2005</unitdate>
+              <container type="box">22</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">3</container>
+              <unittitle>Long Island Sound Study Report</unittitle>
+              <unitdate label="Date">2008</unitdate>
+              <container type="box">22</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">4</container>
+              <unittitle>Long Island Sound Study Comprehensive Conservation and
+								Management Plan Support Document</unittitle>
+              <unitdate label="Date">1993</unitdate>
+              <container type="box">22</container>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unitid>9</unitid>
+          <unittitle>9. Marine Life</unittitle>
+        </did>
+        <scopecontent>
+          <p>Series contains materials on marine ecosystems, lobsters, and maritime animals</p>
+        </scopecontent>
+        <c02 level="series">
+          <did>
+            <unitid>9.1</unitid>
+            <unittitle>Subseries 9.1: Ecosystem</unittitle>
+          </did>
+        </c02>
+        <c02 level="series">
+          <did>
+            <unitid>9.2</unitid>
+            <unittitle>Subseries 9.2: Lobsters</unittitle>
+          </did>
+        </c02>
+        <c02 level="series">
+          <did>
+            <unitid>9.3</unitid>
+            <unittitle>Subseries 9.3: Maritime Animals</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unitid>10</unitid>
+          <unittitle>10. Miscellaneous: Various Article Clippings</unittitle>
+          <unitdate type="inclusive" normal="1972/2013">1972 - 2013</unitdate>
+          <physdesc>
+            <extent>Boxes: 22 - 23</extent>
+          </physdesc>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="folder">4</container>
+            <unittitle>Notes - Miscellaneous</unittitle>
+            <unitdate label="Date">1996 - 2010</unitdate>
+            <container type="box">22</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">5</container>
+            <unittitle>Notes - Miscellaneous</unittitle>
+            <unitdate label="Date">2006</unitdate>
+            <container type="box">22</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">6</container>
+            <unittitle>Notes - Miscellaneous</unittitle>
+            <unitdate label="Date">2008</unitdate>
+            <container type="box">22</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">7</container>
+            <unittitle>Notes - Miscellaneous</unittitle>
+            <unitdate label="Date">undated</unitdate>
+            <container type="box">22</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">1</container>
+            <unittitle>Notes - Miscellaneous</unittitle>
+            <unitdate label="Date">1992 - 2013</unitdate>
+            <container type="box">23</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">2</container>
+            <unittitle>Items</unittitle>
+            <unitdate label="Date">undated</unitdate>
+            <container type="box">23</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">3</container>
+            <unittitle>Scientists</unittitle>
+            <unitdate label="Date">2008</unitdate>
+            <container type="box">23</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">4</container>
+            <unittitle>Miscellaneous</unittitle>
+            <unitdate label="Date">1996 - 2011</unitdate>
+            <container type="box">23</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">5</container>
+            <unittitle>Miscellaneous</unittitle>
+            <unitdate label="Date">1997 - 2012</unitdate>
+            <container type="box">23</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">6</container>
+            <unittitle>Miscellaneous</unittitle>
+            <unitdate label="Date">1980 - 2012</unitdate>
+            <container type="box">23</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">7</container>
+            <unittitle>Miscellaneous</unittitle>
+            <unitdate label="Date">2000 - 2011</unitdate>
+            <container type="box">23</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">8</container>
+            <unittitle>Data - Miscellaneous</unittitle>
+            <unitdate label="Date">1972 - 2006</unitdate>
+            <container type="box">23</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unitid>11</unitid>
+          <unittitle>11. New York</unittitle>
+          <unitdate type="inclusive" normal="1913/2012">1913 - 2012</unitdate>
+          <physdesc>
+            <extent>Boxes: 24 - 26</extent>
+          </physdesc>
+        </did>
+        <scopecontent>
+          <p>Series contains materials on NY environment and legal action about the environment.</p>
+        </scopecontent>
+        <c02 level="series">
+          <did>
+            <unitid>11.1</unitid>
+            <unittitle>Subseries 11.1: Environment</unittitle>
+            <unitdate type="inclusive" normal="1913/2012">1913 - 2012</unitdate>
+            <physdesc>
+              <extent>Boxes: 24 - 26</extent>
+            </physdesc>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="folder">1</container>
+              <unittitle>Water Quality</unittitle>
+              <unitdate label="Date">1983 - 2005</unitdate>
+              <container type="box">24</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">2</container>
+              <unittitle>Water Quality</unittitle>
+              <unitdate label="Date">1995 - 2011</unitdate>
+              <container type="box">24</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">3</container>
+              <unittitle>Water Quality</unittitle>
+              <unitdate label="Date">1993 - 1999</unitdate>
+              <container type="box">24</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">4</container>
+              <unittitle>Water Quality</unittitle>
+              <unitdate label="Date">1993 - 2008</unitdate>
+              <container type="box">24</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">5</container>
+              <unittitle>Water Quality</unittitle>
+              <unitdate label="Date">1985 - 2009</unitdate>
+              <container type="box">24</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">6</container>
+              <unittitle>Animals</unittitle>
+              <unitdate label="Date">2003 - 2009</unitdate>
+              <container type="box">24</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">7</container>
+              <unittitle>Marine Counsel Commission</unittitle>
+              <unitdate label="Date">2006 - 2011</unitdate>
+              <container type="box">24</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">1</container>
+              <unittitle>Fish</unittitle>
+              <unitdate label="Date">1998 - 2002</unitdate>
+              <container type="box">25</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">2</container>
+              <unittitle>Environment</unittitle>
+              <unitdate label="Date">1995 - 2011</unitdate>
+              <container type="box">25</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">3</container>
+              <unittitle>Environment</unittitle>
+              <unitdate label="Date">1993 - 2009</unitdate>
+              <container type="box">25</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">4</container>
+              <unittitle>Environment</unittitle>
+              <unitdate label="Date">1983 - 2012</unitdate>
+              <container type="box">25</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">5</container>
+              <unittitle>Environment</unittitle>
+              <unitdate label="Date">1998 - 2008</unitdate>
+              <container type="box">25</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">6</container>
+              <unittitle>Environment</unittitle>
+              <unitdate label="Date">1998 - 2008</unitdate>
+              <container type="box">25</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">7</container>
+              <unittitle>Environment</unittitle>
+              <unitdate label="Date">1913 - 2009</unitdate>
+              <container type="box">25</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">1</container>
+              <unittitle>Poughkeepsie</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">26</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">2</container>
+              <unittitle>Breakwater</unittitle>
+              <unitdate label="Date">2010</unitdate>
+              <container type="box">26</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">3</container>
+              <unittitle>Tides</unittitle>
+              <unitdate label="Date">2006 - 2008</unitdate>
+              <container type="box">26</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">4</container>
+              <unittitle>East River and Long Island Sound</unittitle>
+              <unitdate label="Date">2000 - 2008</unitdate>
+              <container type="box">26</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">5</container>
+              <unittitle>Estuary</unittitle>
+              <unitdate label="Date">1997</unitdate>
+              <container type="box">26</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">6</container>
+              <unittitle>Correspondence</unittitle>
+              <unitdate label="Date">2004 - 2006</unitdate>
+              <container type="box">26</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="series">
+          <did>
+            <unitid>11.2</unitid>
+            <unittitle>Subseries 11.2: Environment and Legal Action</unittitle>
+            <unitdate type="inclusive" normal="1972/2011">1972 - 2011</unitdate>
+            <physdesc>
+              <extent>Box: 26</extent>
+            </physdesc>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="folder">7</container>
+              <unittitle>New York Legal Action / Advocacy</unittitle>
+              <unitdate label="Date">1992 - 2009</unitdate>
+              <container type="box">26</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">8</container>
+              <unittitle>New York Legal Action / Advocacy</unittitle>
+              <unitdate label="Date">2005 - 2011</unitdate>
+              <container type="box">26</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">9</container>
+              <unittitle>New York Correspondence</unittitle>
+              <unitdate label="Date">2003 - 2011</unitdate>
+              <container type="box">26</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">10</container>
+              <unittitle>New York and the Hudson</unittitle>
+              <unitdate label="Date">1972 - 2003</unitdate>
+              <container type="box">26</container>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unitid>12</unitid>
+          <unittitle>12. Publications </unittitle>
+          <unitdate type="inclusive" normal="1909/2013">1909 - 2013</unitdate>
+          <physdesc>
+            <extent>Boxes: 26 - 39</extent>
+          </physdesc>
+        </did>
+        <scopecontent>
+          <p>Series contains article clippings or publications on the Chesapeake Bay, Connecticut, Maine, Ecosystems, Environment and Science, Fishing, The Long Island Sound, New York, Rhose Island, Marine Life, Fish, Marine Life and Science, Miscellaneous Science, and Science. </p>
+        </scopecontent>
+        <c02 level="series">
+          <did>
+            <unitid>12.1</unitid>
+            <unittitle>Subseries 12.1: Chesapeake Bay, Connecticut, Maine Article Clippings</unittitle>
+            <unitdate type="inclusive" normal="1988/2012">1988 - 2012</unitdate>
+            <physdesc>
+              <extent>Boxes: 26 - 27</extent>
+            </physdesc>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="folder">11</container>
+              <unittitle>Chesapeake Bay and Animals</unittitle>
+              <unitdate label="Date">1998 - 2011</unitdate>
+              <container type="box">26</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">12</container>
+              <unittitle>Chesapeake Bay and Animals</unittitle>
+              <unitdate label="Date">2002 - 2012</unitdate>
+              <container type="box">26</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">13</container>
+              <unittitle>Connecticut and advocacy</unittitle>
+              <unitdate label="Date">1999 - 2012</unitdate>
+              <container type="box">26</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">14</container>
+              <unittitle>Chesapeake Bay and Marine Life</unittitle>
+              <unitdate label="Date">2003 - 2009</unitdate>
+              <container type="box">26</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">1</container>
+              <unittitle>Connecticut and animals</unittitle>
+              <unitdate label="Date">1988 - 2012</unitdate>
+              <container type="box">27</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">2</container>
+              <unittitle>Maine</unittitle>
+              <unitdate label="Date">2011</unitdate>
+              <container type="box">27</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="series">
+          <did>
+            <unitid>12.2</unitid>
+            <unittitle>Subseries 12.2: Ecosystem Article Clippings </unittitle>
+            <unitdate type="inclusive" normal="1973/2012">1973 - 2012</unitdate>
+            <physdesc>
+              <extent>Boxes: 27 - 29</extent>
+            </physdesc>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="folder">3</container>
+              <unittitle>Tides</unittitle>
+              <unitdate label="Date">1982 - 2010</unitdate>
+              <container type="box">27</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">4</container>
+              <unittitle>Start of plants</unittitle>
+              <unitdate label="Date">1996 - 2012</unitdate>
+              <container type="box">27</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">5</container>
+              <unittitle>Ecosystem</unittitle>
+              <unitdate label="Date">1995 - 2013</unitdate>
+              <container type="box">27</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">6</container>
+              <unittitle>Ecosystem</unittitle>
+              <unitdate label="Date">1992 - 2012</unitdate>
+              <container type="box">27</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">1</container>
+              <unittitle>Water Quality</unittitle>
+              <unitdate label="Date">1995 - 2010</unitdate>
+              <container type="box">28</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">2</container>
+              <unittitle>Water Quality</unittitle>
+              <unitdate label="Date">1996 - 2010</unitdate>
+              <container type="box">28</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">3</container>
+              <unittitle>Estuary</unittitle>
+              <unitdate label="Date">2000 - 2009</unitdate>
+              <container type="box">28</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">4</container>
+              <unittitle>Land Environment</unittitle>
+              <unitdate label="Date">1973 - 2012</unitdate>
+              <container type="box">28</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">5</container>
+              <unittitle>Marine Environment</unittitle>
+              <unitdate label="Date">1986 - 2012</unitdate>
+              <container type="box">28</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">6</container>
+              <unittitle>Aquatic Ecosystems</unittitle>
+              <unitdate label="Date">1994 - 2012</unitdate>
+              <container type="box">28</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">1</container>
+              <unittitle>Aquatic Ecosystems</unittitle>
+              <unitdate label="Date">1996 - 2013</unitdate>
+              <container type="box">29</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">2</container>
+              <unittitle>Aquatic Ecosystems</unittitle>
+              <unitdate label="Date">2003 - 2012</unitdate>
+              <container type="box">29</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">3</container>
+              <unittitle>Aquatic Ecosystems</unittitle>
+              <unitdate label="Date">1999 - 2012</unitdate>
+              <container type="box">29</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="series">
+          <did>
+            <unitid>12.3</unitid>
+            <unittitle>Subseries 12.3: Environment and Science Article Clippings</unittitle>
+            <unitdate type="inclusive" normal="1990/2013">1990 - 2013</unitdate>
+            <physdesc>
+              <extent>Boxes: 30 - 31</extent>
+            </physdesc>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="folder">1</container>
+              <unittitle>Environment</unittitle>
+              <unitdate label="Date">1999 - 2012</unitdate>
+              <container type="box">30</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">2</container>
+              <unittitle>Oceans, Bays, Streams</unittitle>
+              <unitdate label="Date">1995 - 2012</unitdate>
+              <container type="box">30</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">3</container>
+              <unittitle>Oceans, Bays, Streams</unittitle>
+              <unitdate label="Date">1990 - 2010</unitdate>
+              <container type="box">30</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">4</container>
+              <unittitle>Oceans, Bays, Streams</unittitle>
+              <unitdate label="Date">1990 - 2012</unitdate>
+              <container type="box">30</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">1</container>
+              <unittitle>Animals</unittitle>
+              <unitdate label="Date">1996 - 2012</unitdate>
+              <container type="box">31</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">2</container>
+              <unittitle>Science</unittitle>
+              <unitdate label="Date">1995 - 2013</unitdate>
+              <container type="box">31</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">3</container>
+              <unittitle>Science</unittitle>
+              <unitdate label="Date">1997 - 2013</unitdate>
+              <container type="box">31</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">4</container>
+              <unittitle>Science</unittitle>
+              <unitdate label="Date">1994 - 2013</unitdate>
+              <container type="box">31</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">5</container>
+              <unittitle>Health Articles</unittitle>
+              <unitdate label="Date">1995 - 2013</unitdate>
+              <container type="box">31</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">6</container>
+              <unittitle>Start of Microbes</unittitle>
+              <unitdate label="Date">2006 - 2013</unitdate>
+              <container type="box">31</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">7</container>
+              <unittitle>Nitrogen</unittitle>
+              <unitdate label="Date">2001 - 2013</unitdate>
+              <container type="box">31</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="series">
+          <did>
+            <unitid>12.4</unitid>
+            <unittitle>Subseries 12.4: Fishing Article Clippings</unittitle>
+            <unitdate type="inclusive" normal="1997/2013">1997 - 2013</unitdate>
+            <physdesc>
+              <extent>Boxes: 31 - 32</extent>
+            </physdesc>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="folder">1</container>
+              <unittitle>Connecticut Coastal Angler</unittitle>
+              <unitdate label="Date">1998 - 2000</unitdate>
+              <container type="box">31</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">2</container>
+              <unittitle>Fishing Correspondence</unittitle>
+              <unitdate label="Date">1996 - 2011</unitdate>
+              <container type="box">31</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">3</container>
+              <unittitle>Science and Fishing Reports</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">31</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">4</container>
+              <unittitle>Aquaculture II</unittitle>
+              <unitdate label="Date">1991 - 2012</unitdate>
+              <container type="box">31</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">5</container>
+              <unittitle>Fishery Articles</unittitle>
+              <unitdate label="Date">1999 - 2011</unitdate>
+              <container type="box">31</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">6</container>
+              <unittitle>Fishery Academic Articles</unittitle>
+              <unitdate label="Date">1981 - 2011</unitdate>
+              <container type="box">31</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">7</container>
+              <unittitle>Fishery Council</unittitle>
+              <unitdate label="Date">2005 - 2012</unitdate>
+              <container type="box">31</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">8</container>
+              <unittitle>Halloween Yacht Club</unittitle>
+              <unitdate label="Date">2007 - 2012</unitdate>
+              <container type="box">31</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">9</container>
+              <unittitle>Fishing Articles</unittitle>
+              <unitdate label="Date">2001 - 2012</unitdate>
+              <container type="box">31</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">1</container>
+              <unittitle>The Fisherman</unittitle>
+              <unitdate label="Date">1998 - 2013</unitdate>
+              <container type="box">32</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">2</container>
+              <unittitle>The Fisherman</unittitle>
+              <unitdate label="Date">1997 - 2013</unitdate>
+              <container type="box">32</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="series">
+          <did>
+            <unitid>12.5</unitid>
+            <unittitle>Subseries 12.5: Long Island Sound, New York, Rhode Island Article
+							Clippings</unittitle>
+            <unitdate type="inclusive" normal="1909/2013">1909 - 2013</unitdate>
+            <physdesc>
+              <extent>Box: 32</extent>
+            </physdesc>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="folder">3</container>
+              <unittitle>New York</unittitle>
+              <unitdate label="Date">1909 - 2009</unitdate>
+              <container type="box">32</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">4</container>
+              <unittitle>The Sound and Animals</unittitle>
+              <unitdate label="Date">1960 - 2012</unitdate>
+              <container type="box">32</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">5</container>
+              <unittitle>The Sound and Advocacy</unittitle>
+              <unitdate label="Date">1991 - 2011</unitdate>
+              <container type="box">32</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="series">
+          <did>
+            <unitid>12.6</unitid>
+            <unittitle>Subseries 12.6: Marine Life</unittitle>
+            <unitdate type="inclusive" normal="1963/2000">1963 - 2000</unitdate>
+            <physdesc>
+              <extent>Boxes: 33 - 24</extent>
+            </physdesc>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="folder">1</container>
+              <unittitle>Saltwater Sportsman</unittitle>
+              <unitdate label="Date">1969</unitdate>
+              <container type="box">33</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">2</container>
+              <unittitle>Saltwater Sportsman</unittitle>
+              <unitdate label="Date">1980 - 1982</unitdate>
+              <container type="box">33</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">3</container>
+              <unittitle>Saltwater Sportsman</unittitle>
+              <unitdate label="Date">1994</unitdate>
+              <container type="box">33</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">4</container>
+              <unittitle>Saltwater Sportsman</unittitle>
+              <unitdate label="Date">2003 - 2005</unitdate>
+              <container type="box">33</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">5</container>
+              <unittitle>Fishing Annual</unittitle>
+              <unitdate label="Date">1966 - 1975</unitdate>
+              <container type="box">33</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">6</container>
+              <unittitle>Pennsylvania Angler</unittitle>
+              <unitdate label="Date">1963 - 1976</unitdate>
+              <container type="box">33</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">7</container>
+              <unittitle>Saltwater Sportsman</unittitle>
+              <unitdate label="Date">1978 - 1979</unitdate>
+              <container type="box">33</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">2</container>
+              <unittitle>Saltwater Sportsman</unittitle>
+              <unitdate label="Date">1970 - 1973</unitdate>
+              <container type="box">34</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">3</container>
+              <unittitle>Connecticut - Rhode Island - The Fisherman</unittitle>
+              <unitdate label="Date">1975</unitdate>
+              <container type="box">34</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">4</container>
+              <unittitle>New England Edition - The Fisherman</unittitle>
+              <unitdate label="Date">1984 - 2000</unitdate>
+              <container type="box">34</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">5</container>
+              <unittitle>Long Island Fisherman</unittitle>
+              <unitdate label="Date">1979</unitdate>
+              <container type="box">34</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">6</container>
+              <unittitle>New Jersey Edition - Fisherman</unittitle>
+              <unitdate label="Date">1973 - 1976</unitdate>
+              <container type="box">34</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">7</container>
+              <unittitle>Field and Stream</unittitle>
+              <unitdate label="Date">1969 - 1972</unitdate>
+              <container type="box">34</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">8</container>
+              <unittitle>Field and Stream</unittitle>
+              <unitdate label="Date">1965 - 1979</unitdate>
+              <container type="box">34</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="series">
+          <did>
+            <unitid>12.7</unitid>
+            <unittitle>Subseries 12.7: Marine Life Article Clippings</unittitle>
+            <unitdate type="inclusive" normal="1975/2013">1975 - 2013</unitdate>
+            <physdesc>
+              <extent>Boxes: 35 - 37</extent>
+            </physdesc>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="folder">2</container>
+              <unittitle>Mollusks</unittitle>
+              <unitdate label="Date">1989 - 2009</unitdate>
+              <container type="box">35</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">3</container>
+              <unittitle>Worms</unittitle>
+              <unitdate label="Date">1989 - 2009</unitdate>
+              <container type="box">35</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">4</container>
+              <unittitle>Jellyfish</unittitle>
+              <unitdate label="Date">2002 - 2013</unitdate>
+              <container type="box">35</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">5</container>
+              <unittitle>"Red" Tide Issues</unittitle>
+              <unitdate label="Date">1981 - 2009</unitdate>
+              <container type="box">35</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">6</container>
+              <unittitle>Horseshoe Crabs</unittitle>
+              <unitdate label="Date">2006 - 2012</unitdate>
+              <container type="box">35</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">7</container>
+              <unittitle>Sea Squirt</unittitle>
+              <unitdate label="Date">2005 - 2006</unitdate>
+              <container type="box">35</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">8</container>
+              <unittitle>Eels</unittitle>
+              <unitdate label="Date">1996 - 2012</unitdate>
+              <container type="box">35</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">9</container>
+              <unittitle>Crabs</unittitle>
+              <unitdate label="Date">2003 - 2011</unitdate>
+              <container type="box">35</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">10</container>
+              <unittitle>Limpets</unittitle>
+              <unitdate label="Date">2005</unitdate>
+              <container type="box">35</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">11</container>
+              <unittitle>Fish</unittitle>
+              <unitdate label="Date">1996 - 2013</unitdate>
+              <container type="box">35</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">12</container>
+              <unittitle>Fish</unittitle>
+              <unitdate label="Date">1997 - 2011</unitdate>
+              <container type="box">35</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">13</container>
+              <unittitle>Fish</unittitle>
+              <unitdate label="Date">1985 - 2013</unitdate>
+              <container type="box">35</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">1</container>
+              <unittitle>Fish</unittitle>
+              <unitdate label="Date">1988 - 2011</unitdate>
+              <container type="box">36</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">2</container>
+              <unittitle>Fish</unittitle>
+              <unitdate label="Date">1980 - 1985</unitdate>
+              <container type="box">36</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">3</container>
+              <unittitle>Fish</unittitle>
+              <unitdate label="Date">1999 - 2011</unitdate>
+              <container type="box">36</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">4</container>
+              <unittitle>Marine Life</unittitle>
+              <unitdate label="Date">1997 - 2011</unitdate>
+              <container type="box">36</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">5</container>
+              <unittitle>Shrimp</unittitle>
+              <unitdate label="Date">2004 - 2012</unitdate>
+              <container type="box">36</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">6</container>
+              <unittitle>Invasive Species</unittitle>
+              <unitdate label="Date">1999 - 2012</unitdate>
+              <container type="box">36</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">7</container>
+              <unittitle>Seafood</unittitle>
+              <unitdate label="Date">1978 - 2012</unitdate>
+              <container type="box">36</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">8</container>
+              <unittitle>Plant Life</unittitle>
+              <unitdate label="Date">1985 - 2012</unitdate>
+              <container type="box">36</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">1</container>
+              <unittitle>Menhaden</unittitle>
+              <unitdate label="Date">1975 - 2010</unitdate>
+              <container type="box">37</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">2</container>
+              <unittitle>Menhaden</unittitle>
+              <unitdate label="Date">1987 - 2011</unitdate>
+              <container type="box">37</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">3</container>
+              <unittitle>Menhaden</unittitle>
+              <unitdate label="Date">1985 - 2011</unitdate>
+              <container type="box">37</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">4</container>
+              <unittitle>Bass</unittitle>
+              <unitdate label="Date">1991 - 2013</unitdate>
+              <container type="box">37</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="series">
+          <did>
+            <unitid>12.8</unitid>
+            <unittitle>Subseries 12.8: Fish Related Article Clippings</unittitle>
+            <unitdate type="inclusive" normal="1973/2013">1973 - 2013</unitdate>
+            <physdesc>
+              <extent>Box: 37</extent>
+            </physdesc>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="folder">5</container>
+              <unittitle>Shad, Tautog, Trout</unittitle>
+              <unitdate label="Date">2007 - 2012</unitdate>
+              <container type="box">37</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">6</container>
+              <unittitle>Cod</unittitle>
+              <unitdate label="Date">2002 - 2012</unitdate>
+              <container type="box">37</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">7</container>
+              <unittitle>Groundfish</unittitle>
+              <unitdate label="Date">2007 - 2008</unitdate>
+              <container type="box">37</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">8</container>
+              <unittitle>Herring</unittitle>
+              <unitdate label="Date">2002 - 2013</unitdate>
+              <container type="box">37</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">9</container>
+              <unittitle>Tuna</unittitle>
+              <unitdate label="Date">2011</unitdate>
+              <container type="box">37</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">10</container>
+              <unittitle>Flounder / Flatfish</unittitle>
+              <unitdate label="Date">1973 - 2008</unitdate>
+              <container type="box">37</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">11</container>
+              <unittitle>Bait Articles</unittitle>
+              <unitdate label="Date">2007 - 2013</unitdate>
+              <container type="box">37</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">12</container>
+              <unittitle>Political Action and Fishing</unittitle>
+              <unitdate label="Date">1993 - 2013</unitdate>
+              <container type="box">37</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">1</container>
+              <unittitle>Political Action and Fishing</unittitle>
+              <unitdate label="Date">2000 - 2013</unitdate>
+              <container type="box">37</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">2</container>
+              <unittitle>Political Action and Fishing</unittitle>
+              <unitdate label="Date">1978 - 2013</unitdate>
+              <container type="box">37</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">3</container>
+              <unittitle>Political Action and Fishing</unittitle>
+              <unitdate label="Date">2001 - 2012</unitdate>
+              <container type="box">37</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="series">
+          <did>
+            <unitid>12.9</unitid>
+            <unittitle>Subseries 12.9: Marine Life and Science Article</unittitle>
+            <unitdate type="inclusive" normal="1993/2012">1993 - 2012</unitdate>
+            <physdesc>
+              <extent>Box: 37</extent>
+            </physdesc>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="folder">4</container>
+              <unittitle>Weather</unittitle>
+              <unitdate label="Date">1993 - 1998</unitdate>
+              <container type="box">37</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">5</container>
+              <unittitle>Birds</unittitle>
+              <unitdate label="Date">1998 - 2011</unitdate>
+              <container type="box">37</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">6</container>
+              <unittitle>Birds</unittitle>
+              <unitdate label="Date">1999 - 2012</unitdate>
+              <container type="box">37</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">7</container>
+              <unittitle>Sewage, pollution, manure</unittitle>
+              <unitdate label="Date">1997 - 2012</unitdate>
+              <container type="box">37</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="series">
+          <did>
+            <unitid>12.10</unitid>
+            <unittitle>Subseries 12.10: Science Miscellaneous</unittitle>
+            <physdesc>
+              <extent>Box: 38</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="series">
+          <did>
+            <unitid>12.11</unitid>
+            <unittitle>Subseries 12.11: Science</unittitle>
+            <unitdate type="inclusive" normal="1961/2006">1961 - 2006</unitdate>
+            <physdesc>
+              <extent>Boxes: 38 - 39</extent>
+            </physdesc>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="folder">1</container>
+              <unittitle>Outdoor Life</unittitle>
+              <unitdate label="Date">1964 - 1980</unitdate>
+              <container type="box">38</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">2</container>
+              <unittitle>Outdoor Life</unittitle>
+              <unitdate label="Date">1971 - 1976</unitdate>
+              <container type="box">38</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">3</container>
+              <unittitle>Miscellaneous Outdoor Magazines</unittitle>
+              <unitdate label="Date">1961 - 1977</unitdate>
+              <container type="box">38</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">4</container>
+              <unittitle>Miscellaneous Outdoor Magazines</unittitle>
+              <unitdate label="Date">1966 - 1972</unitdate>
+              <container type="box">38</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">1</container>
+              <unittitle>Science Magazines</unittitle>
+              <unitdate label="Date">1971 - 1975</unitdate>
+              <container type="box">39</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">2</container>
+              <unittitle>Elderidge Tide and Pilot Book</unittitle>
+              <unitdate label="Date">2002 - 2006</unitdate>
+              <container type="box">39</container>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unitid>13</unitid>
+          <unittitle>13. Videos</unittitle>
+          <physdesc>
+            <extent>Boxes: 39 - 40</extent>
+          </physdesc>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="folder">3</container>
+            <unittitle>Amazon Part 1 original</unittitle>
+            <unitdate label="Date">undated</unitdate>
+            <container type="box">39</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">1</container>
+            <unittitle>Amazon Part 1 copy</unittitle>
+            <unitdate label="Date">undated</unitdate>
+            <container type="box">40</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">2</container>
+            <unittitle>Kokanee King</unittitle>
+            <unitdate label="Date">undated</unitdate>
+            <container type="box">40</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">3</container>
+            <unittitle>Kokanee King copy</unittitle>
+            <unitdate label="Date">undated</unitdate>
+            <container type="box">40</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">4</container>
+            <unittitle>Belem Para</unittitle>
+            <unitdate label="Date">undated</unitdate>
+            <container type="box">40</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unitid>14</unitid>
+          <unittitle>14. Oversized Graphic Materials</unittitle>
+          <physdesc>
+            <extent>Box: 41</extent>
+          </physdesc>
+        </did>
+        <c02 level="series">
+          <did>
+            <unitid>14.1</unitid>
+            <unittitle>Subseries 14.1: Oversized Graphic Materials</unittitle>
+            <physdesc>
+              <extent type="folders">Folders: 1 - 6</extent>
+            </physdesc>
+            <physdesc>
+              <extent>Box: 41</extent>
+            </physdesc>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="folder">1</container>
+              <unittitle>New York Graphic Material</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">41</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">2</container>
+              <unittitle>Aviation Pictures</unittitle>
+              <unitdate label="Date">undated</unitdate>
+              <container type="box">41</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">3</container>
+              <unittitle>Aquatic Maps and Posters</unittitle>
+              <unitdate label="Date">2001 - 2013</unitdate>
+              <container type="box">41</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">4</container>
+              <unittitle>Connecticut and Long Island</unittitle>
+              <unitdate label="Date">1920 - 1998</unitdate>
+              <container type="box">41</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">5</container>
+              <unittitle>Envitonmental</unittitle>
+              <unitdate label="Date">2004 - 2012</unitdate>
+              <container type="box">41</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">6</container>
+              <unittitle>Political</unittitle>
+              <unitdate label="Date">2001</unitdate>
+              <container type="box">41</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="series">
+          <did>
+            <unitid>14.2</unitid>
+            <unittitle>Subseries 14.2: Maps of Connecticut</unittitle>
+          </did>
+        </c02>
+        <c02 level="series">
+          <did>
+            <unitid>14.3</unitid>
+            <unittitle>Subseries 14.3: Maps of Long Island</unittitle>
+          </did>
+        </c02>
+        <c02 level="series">
+          <did>
+            <unitid>14.4</unitid>
+            <unittitle>Subseries 14.4: Maps Miscellaneous</unittitle>
+          </did>
+        </c02>
+        <c02 level="series">
+          <did>
+            <unitid>14.5</unitid>
+            <unittitle>Subseries 14.5: Maps of New York</unittitle>
+          </did>
+        </c02>
+        <c02 level="series">
+          <did>
+            <unitid>14.6</unitid>
+            <unittitle>Subseries 14.6: Poster</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unitid>15</unitid>
+          <unittitle>15. Awards</unittitle>
+          <unitdate type="inclusive" normal="1909/2013">1909 - 2013</unitdate>
+          <physdesc>
+            <extent>Box: 42</extent>
+          </physdesc>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="folder">1</container>
+            <unittitle>Hudson River Fishermen' s Association Award</unittitle>
+            <unitdate label="Date">1974</unitdate>
+            <container type="box">42</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">2</container>
+            <unittitle>Hudson River Fishermans Association Award</unittitle>
+            <unitdate label="Date">1975</unitdate>
+            <container type="box">42</container>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

@@ -1,0 +1,873 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:isbn:1-931666-22-9" xmlns:ns2="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
+  <!-- Header Portion of EAD -->
+  <eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+    <eadid countrycode="US" mainagencycode="US-NPkMC" url="http://www.marist.edu">npkmc_222_216</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Stewart Newburgh Airport Collection</titleproper>
+        <author>Janet Rice <![CDATA[&amp;]]> John Ansley, PhD, 2006; Finding Aid Encoded by: Monish M. Singh, 2003; Finding Aid Encoding updated by: Connor Johnson, 2022</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Marist College
+					<lb/>Archives and Special Collections
+				</publisher>
+        <address>
+          <addressline>3399 North Road
+						<lb/>Poughkeepsie, NY 12601
+						<lb/>Phone: 845-575-5217
+						<lb/>Fax: 845-575-3150
+						<lb/>Email: library.archives@marist.edu<lb/>Website:
+						https://archives.marist.edu/</addressline>
+        </address>
+        <date type="publication" normal="2003-02-14">February 14, 2003</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Monish M. Singh<date>2003</date>
+			</creation>
+      <langusage>Finding aid written in <language langcode="eng" scriptcode="Latn">English</language></langusage>
+      <descrules><abbr>DACS</abbr>Describing Archives: A Content Standard. Chicago: Society of
+				American Archivists, 2013.</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <list>
+        <item>Feburary 2022, EAD updated by Connor Johnson</item>
+      </list>
+    </revisiondesc>
+  </eadheader>
+  <!-- Archival Description portion of EAD -->
+  <archdesc level="collection">
+    <did>
+      <unittitle>Stewart Newburgh Airport Collection</unittitle>
+      <unitid countrycode="US" repositorycode="US-NPkMC">NPkMC-222-216</unitid>
+      <unitdate type="inclusive" normal="1992/1998">1992 - 1998</unitdate>
+      <physdesc>
+        <extent type="size">4.5 Linear Feet</extent>
+      </physdesc>
+      <repository>
+        <corpname>Marist College Archives and Special Collections</corpname>
+      </repository>
+      <origination label="creator">
+        <corpname>Stewart Newburgh Airport</corpname>
+      </origination>
+      <abstract>Although Stewart International Airport was originally an air force base, it
+				was deactivated in 1970 and began running commercial airlines in 1989. This called
+				for changes and an administration to oversee the running of the airport; thus the
+				Stewart Master Plan and Stewart Airport Commission were born. This collection
+				contains various papers, reports, correspondence, and clippings from these two
+				areas.</abstract>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <physloc>Please contact the Marist College Archives and Special Collections for
+				information regarding use and access of this collection.</physloc>
+    </did>
+    <scopecontent>
+      <head>Collection Overview</head>
+      <p>The Stewart Newburgh Airport Collection contains various papers, correspondence,
+				reports, and clippings from the ‘90s regarding changes and the upkeep of the
+				airport. Included are documents concerning airport terminal expansion and
+				privatization of the airport.</p>
+    </scopecontent>
+    <acqinfo>
+      <head>Acquisitions Information</head>
+      <p>The collection was donated to Marist College in memory of Geraldine Geller. </p>
+    </acqinfo>
+    <bioghist encodinganalog="545">
+      <head>Historical Note</head>
+      <p>In 1930, Archie Stewart gave 220 acres of land to Newburgh in order to begin an
+				airport. By 1948, the airport had changed to Stewart Air Force Base. Even though it
+				was deactivated in 1970 as an air force base, hostages in Iran returned home to this
+				air space in January of 1981. Later, it was handed over to the State of New York and
+				started scheduling passenger flights in 1989. The year of 1993 began the first
+				meeting of the Airport Master Plan Update Working Group, and then in 2000 Stewart
+				International Airport became officially privatized. Today, the airport services
+				people everyday, with a new expanded terminal.</p>
+    </bioghist>
+    <accessrestrict>
+      <head>Restrictions to Access</head>
+      <p>There are no restrictions on this collection</p>
+    </accessrestrict>
+    <userestrict>
+      <head>Notice of Copyright</head>
+      <p>Individuals requesting reproductions expressly assume the responsibility for
+				compliance with all pertinent provisions of the Copyright Act, 17 U.S.C. ss101 et
+				seq. Patrons further agree to indemnify and hold harmless the Marist College
+				Archives and Special Collections and its staff in connection with any disputes
+				arising from the Copyright Act, over the reproduction of material at the request of
+				patrons. For more information please visit the following website:
+				http://www.loc.gov/copyright/title17/.</p>
+    </userestrict>
+    <prefercite>
+      <head>Preferred Citation</head>
+      <p>[Description of item, date, location of item in order of series, box number, folder
+				number ], in the Stewart Newburgh Airport Collection, Archives and Special
+				Collections, James A. Cannavino Library, Marist College.</p>
+    </prefercite>
+    <arrangement>
+      <p>Collection is arranged into two subseries: 1) Stewart Master Plan, with five subseries, and 2) Stewart Airport Commission, with six subseries.</p>
+    </arrangement>
+    <dsc type="combined">
+      <c01 level="series">
+        <did>
+          <unitid>1</unitid>
+          <unittitle>1. Stewart Master Plan</unittitle>
+          <physdesc>
+            <extent type="boxes">Boxes: 1 - 5</extent>
+          </physdesc>
+        </did>
+        <scopecontent>
+          <p>Series contains reports and regional planning</p>
+        </scopecontent>
+        <arrangement>
+          <p>Chronological</p>
+        </arrangement>
+        <c02 level="subseries">
+          <did>
+            <unitid>1.1</unitid>
+            <unittitle>Subseries 1.1: General Reports</unittitle>
+            <physdesc>
+              <extent type="boxes">Box: 1</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Series contains reports and regional planning</p>
+          </scopecontent>
+          <arrangement>
+            <p>Chronological</p>
+          </arrangement>
+          <c03 level="file">
+            <did>
+              <container type="folder">1</container>
+              <unittitle>Airport Master Plan Update - Draft Technical Report. New
+								York: New York State Department of Transportation, February 1995
+								(attached correspondence). </unittitle>
+              <container type="box">1</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">2 </container>
+              <unittitle>Airport Master Plan Update - Draft Technical Report, Chapter
+								Eight: Implementation Program. New York: New York State Department
+								of Transportation, March 1995. </unittitle>
+              <container type="box">1</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid>1.2</unitid>
+            <unittitle>Subseries 1.2: Environmental Reports</unittitle>
+            <physdesc>
+              <extent type="boxes">Boxes: 2 - 3</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Series contains reports and regional planning</p>
+          </scopecontent>
+          <arrangement>
+            <p>Chronological</p>
+          </arrangement>
+          <c03 level="file">
+            <did>
+              <container type="folder">1</container>
+              <unittitle>correspondence, reports, and meeting agendas and summaries (1992)
+							</unittitle>
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">3</container>
+              <unittitle>Final Federal Environmental Impact Statement - Vol. I.  New York: New York State Department of Transportation, United States Department of Transportation, and Federal Aviation Administration, July 1992 (attached correspondence).
+							</unittitle>
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">4</container>
+              <unittitle>Final Federal Environmental Impact Statement - Vol. II.  New York: New York State Department of Transportation, United States Department of Transportation, and Federal Aviation Administration, July 1992.
+							</unittitle>
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">5</container>
+              <unittitle>Final Federal Environmental Impact Statement - Vol. III.  New York: New York State Department of Transportation, United States Department of Transportation, and Federal Aviation Administration, July 1992 (attached notice).
+							</unittitle>
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">6</container>
+              <unittitle>Final Federal Environmental Impact Statement - Vol. IV. New
+								York: New York State Department of Transportation, United States
+								Department of Transportation, and Federal Aviation Administration,
+								July 1992. </unittitle>
+              <container type="box">3</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">7</container>
+              <unittitle>FAR Part 150 Noise Study - Draft Technical Report; Part One:
+								Noise Exposure Maps, Part Two: Airport Noise Compatibility Plan. New
+								York: New York State Department of Transportation, February 1995. </unittitle>
+              <container type="box">3</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">8</container>
+              <unittitle>FAR Part 150 Noise Study Technical Report. New York: New York
+								State Department of Transportation, July 1996. </unittitle>
+              <container type="box">3</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid>1.3</unitid>
+            <unittitle>Subseries 1.3: Airport Planning</unittitle>
+            <physdesc>
+              <extent type="boxes">Box: 4</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Series contains reports and regional planning</p>
+          </scopecontent>
+          <arrangement>
+            <p>Chronological</p>
+          </arrangement>
+          <c03 level="file">
+            <did>
+              <container type="folder">2</container>
+              <unittitle> terminal expansion (1994) </unittitle>
+              <container type="box">4</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">3</container>
+              <unittitle> Working Group (1992- 1993) </unittitle>
+              <container type="box">4</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">9</container>
+              <unittitle>Advisory Circular - Airport Master Plans. Washington, D.C.:
+								US Department of Transportation - Federal Aviation Administration,
+								June 1985. </unittitle>
+              <container type="box">4</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">10</container>
+              <unittitle>Airport Master Plan - Draft Chapter Four: Forecasts of
+								Aviation Demand. New York: New York State Department of
+								Transportation, September 1993 (attached correspondences). </unittitle>
+              <container type="box">4</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">11</container>
+              <unittitle>Airport Master Plan - Draft Chapter Five: Facility Analysis.
+								New York: New York State Department of Transportation, March 1994
+								(attached correspondence). </unittitle>
+              <container type="box">4</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">12</container>
+              <unittitle>The Tri- State Competitive Region Initiative. Regional Plan
+								Association, March 24, 1994 (date from attached correspondence). </unittitle>
+              <container type="box">4</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">13</container>
+              <unittitle>Airport Master Plan - Draft Chapter Six: Alternatives
+								Analysis. New York: New York State Department of Transportation,
+								July 1994 (attached correspondence and working group packet). </unittitle>
+              <container type="box">4</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid>1.4</unitid>
+            <unittitle>Subseries 1.4: Airport Proposals</unittitle>
+            <unitdate type="inclusive" normal="1992/1995">1992 - 1995</unitdate>
+            <physdesc>
+              <extent type="boxes">Box: 4</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Series contains reports and regional planning</p>
+          </scopecontent>
+          <arrangement>
+            <p>Chronological</p>
+          </arrangement>
+          <c03 level="file">
+            <did>
+              <container type="folder">4</container>
+              <unittitle>management and hotel proposals (1992- 1995) </unittitle>
+              <container type="box">5</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">14</container>
+              <unittitle>Proposals for the Provision of Business Development, Public
+								Affairs and Lease Negotiation Services at Stewart International
+								Airport. New Jersey: airport Corporation of America, April 25, 1994. </unittitle>
+              <container type="box">5</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">15</container>
+              <unittitle>A Proposal for the Operation, Management and Continued
+								Development of Stewart International Airport - Vol. I. New York:
+								Stewart Work Force - Technical/Management, April 25, 1994. </unittitle>
+              <container type="box">5</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">16</container>
+              <unittitle>A Proposal for the Operation, Management and Continued
+								Development of Stewart International Airport - Vol. II. New York:
+								Stewart Work Force - Technical/Management, April 25, 1994. </unittitle>
+              <container type="box">5</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">17</container>
+              <unittitle>Proposal to Provide Management Services to Stewart
+								International Airport. California: Lockheed Air Terminal, Inc.,
+								April 25, 1994 (separate). </unittitle>
+              <container type="box">5</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid>1.5</unitid>
+            <unittitle>Subseries 1.5: Miscellaneous</unittitle>
+            <physdesc>
+              <extent type="boxes">Box: 5</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Series contains reports and regional planning</p>
+          </scopecontent>
+          <arrangement>
+            <p>Chronological</p>
+          </arrangement>
+          <c03 level="file">
+            <did>
+              <container type="folder">5</container>
+              <unittitle>various papers, notes, and articles (1992) </unittitle>
+              <container type="box">5</container>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unitid>2</unitid>
+          <unittitle>2. Stewart Airport Commission</unittitle>
+          <unitdate type="inclusive" normal="1994/1998">1994 - 1998</unitdate>
+          <physdesc>
+            <extent type="boxes">Boxes: 6 - 13</extent>
+          </physdesc>
+        </did>
+        <scopecontent>
+          <p>Series contains meeting minutes and documents</p>
+        </scopecontent>
+        <arrangement>
+          <p>Chronological</p>
+        </arrangement>
+        <c02 level="subseries">
+          <did>
+            <unitid>2.1</unitid>
+            <unittitle>Subseries 2.1: Meetings</unittitle>
+            <unitdate type="inclusive" normal="1996/1998">1996 - 1998</unitdate>
+            <physdesc>
+              <extent type="boxes">Boxes: 6 - 11</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Series contains seeting minutes and documents</p>
+          </scopecontent>
+          <arrangement>
+            <p>Chronological</p>
+          </arrangement>
+          <c03 level="file">
+            <did>
+              <container type="folder">6</container>
+              <unittitle>January 30, 1996 </unittitle>
+              <container type="box">6</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">7</container>
+              <unittitle>February 27, 1996 </unittitle>
+              <container type="box">6</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">8</container>
+              <unittitle>March 26, 1996 </unittitle>
+              <container type="box">6</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">9</container>
+              <unittitle>April 26, 1996 </unittitle>
+              <container type="box">6</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">10</container>
+              <unittitle>May 28, 1996 </unittitle>
+              <container type="box">6</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">11</container>
+              <unittitle>June 25, 1996 </unittitle>
+              <container type="box">6</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">12</container>
+              <unittitle>July 30, 1996 </unittitle>
+              <container type="box">6</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">13</container>
+              <unittitle>August 27, 1996 </unittitle>
+              <container type="box">7</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">14</container>
+              <unittitle>September 24, 1996 </unittitle>
+              <container type="box">7</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">15</container>
+              <unittitle>October 29, 1996 </unittitle>
+              <container type="box">7</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">16</container>
+              <unittitle>November 26, 1996 </unittitle>
+              <container type="box">8</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">17</container>
+              <unittitle>December 17, 1996 </unittitle>
+              <container type="box">8</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">18</container>
+              <unittitle>January 28, 1997 </unittitle>
+              <container type="box">8</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">19</container>
+              <unittitle>February 25, 1997 </unittitle>
+              <container type="box">8</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">20</container>
+              <unittitle>March 25, 1997 </unittitle>
+              <container type="box">8</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">21</container>
+              <unittitle>April 29, 1997 </unittitle>
+              <container type="box">8</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">22</container>
+              <unittitle>May 27, 1997 </unittitle>
+              <container type="box">8</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">23</container>
+              <unittitle>June 24, 1997 </unittitle>
+              <container type="box">9</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">24</container>
+              <unittitle>July 29, 1997 </unittitle>
+              <container type="box">9</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">25</container>
+              <unittitle>August 26, 1997 </unittitle>
+              <container type="box">9</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">26</container>
+              <unittitle>September 30, 1997 </unittitle>
+              <container type="box">9</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">27</container>
+              <unittitle>October 28, 1997 </unittitle>
+              <container type="box">10</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">28</container>
+              <unittitle>November 25, 1997 </unittitle>
+              <container type="box">10</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">29</container>
+              <unittitle>December 30, 1997 </unittitle>
+              <container type="box">10</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">30</container>
+              <unittitle>January 27, 1998 </unittitle>
+              <container type="box">10</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">31</container>
+              <unittitle>February 24, 1998</unittitle>
+              <container type="box">10</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">32</container>
+              <unittitle>March 31, 1998 </unittitle>
+              <container type="box">11</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">33</container>
+              <unittitle>April 28, 1998 </unittitle>
+              <container type="box">11</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">34</container>
+              <unittitle>May 26, 1998 </unittitle>
+              <container type="box">11</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">35</container>
+              <unittitle>June 30, 1998 </unittitle>
+              <container type="box">11</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">36</container>
+              <unittitle>July 28, 1998 </unittitle>
+              <container type="box">11</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">37</container>
+              <unittitle>August 25, 1998 </unittitle>
+              <container type="box">11</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">38</container>
+              <unittitle>September 29, 1998 </unittitle>
+              <container type="box">11</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">39</container>
+              <unittitle>October 1998 </unittitle>
+              <container type="box">11</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid>2.2</unitid>
+            <unittitle>Subseries 2.2: Business Development</unittitle>
+            <unitdate type="inclusive" normal="1995/1997">1995 - 1997</unitdate>
+            <physdesc>
+              <extent type="boxes">Box: 12</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Series contains seeting minutes and documents</p>
+          </scopecontent>
+          <arrangement>
+            <p>Chronological</p>
+          </arrangement>
+          <c03 level="file">
+            <did>
+              <container type="folder">40</container>
+              <unittitle>documents from 1995- 1996 </unittitle>
+              <container type="box">12</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">18</container>
+              <unittitle>NYS Department of Transportation Agreement with Lockheed Air
+								Terminal of New York, Inc. for Operational Services, Business
+								Development Public Affairs and Lease Negotiations at Stewart
+								International Airport. New York: New York State Department of
+								Transportation, 1995. </unittitle>
+              <container type="box">12</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">19</container>
+              <unittitle>Airport Strategic Plan for Business Development Public
+								Affairs and Lease Negotiations. New York: Airport Group, New York,
+								Inc., 1996- 1997. </unittitle>
+              <container type="box">12</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid>2.3</unitid>
+            <unittitle>Subseries 2.3: Privatization</unittitle>
+            <unitdate type="inclusive" normal="1994/1996">1994 - 1996</unitdate>
+            <physdesc>
+              <extent type="boxes">Box: 12</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Series contains seeting minutes and documents</p>
+          </scopecontent>
+          <arrangement>
+            <p>Chronological</p>
+          </arrangement>
+          <c03 level="file">
+            <did>
+              <container type="folder">41</container>
+              <unittitle>correspondence and attached documents (1995- 1996) </unittitle>
+              <container type="box">12</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">42</container>
+              <unittitle>clippings (1994- 1996) </unittitle>
+              <container type="box">12</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">43</container>
+              <unittitle>various notes, reports, and flyers </unittitle>
+              <container type="box">12</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">20</container>
+              <unittitle>Airport Privatization: Issues Related to the Sale or Lease of
+								U.S. Commercial Airports. Washington, D.C.: United States General
+								Accounting Office, November 1996. </unittitle>
+              <container type="box">12</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid>2.4</unitid>
+            <unittitle>Subseries 2.4: State Comptroller’s Audit of Selected Capital
+							Projects</unittitle>
+            <unitdate type="inclusive" normal="1995">1995</unitdate>
+            <physdesc>
+              <extent type="boxes">Box: 12</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Series contains seeting minutes and documents</p>
+          </scopecontent>
+          <arrangement>
+            <p>Chronological</p>
+          </arrangement>
+          <c03 level="file">
+            <did>
+              <container type="folder">44</container>
+              <unittitle>comments on audit recommendations with attached
+								correspondence (1995) </unittitle>
+              <container type="box">12</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">21</container>
+              <unittitle>Department of Transportation: Capital Program at Stewart
+								Airport, Report 94- S- 51. New York: State of New York Office of the
+								State Comptroller Division of Management Audit, May 30, 1995
+								(attached correspondence). </unittitle>
+              <container type="box">12</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid>2.5</unitid>
+            <unittitle>Subseries 2.5: Stewart Raceway</unittitle>
+            <unitdate type="inclusive" normal="1994/1995">1994 - 1995</unitdate>
+            <physdesc>
+              <extent type="boxes">Box: 12</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Series contains seeting minutes and documents</p>
+          </scopecontent>
+          <arrangement>
+            <p>Chronological</p>
+          </arrangement>
+          <c03 level="file">
+            <did>
+              <container type="folder">Folder 45</container>
+              <unittitle>general correspondence with attached documents (1995) </unittitle>
+              <container type="box">12</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">46</container>
+              <unittitle>Empire Motorsports Proposal correspondence (1994- 1995) </unittitle>
+              <container type="box">12</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">47</container>
+              <unittitle>clippings (1994- 1995) </unittitle>
+              <container type="box">12</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">48</container>
+              <unittitle>various notes, reports, and flyers </unittitle>
+              <container type="box">12</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid>2.6</unitid>
+            <unittitle>Subseries 2.6: Miscellaneous</unittitle>
+            <unitdate type="inclusive" normal="1991/1998">1991 - 1998</unitdate>
+            <physdesc>
+              <extent type="boxes">Box: 13</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Series contains seeting minutes and documents</p>
+          </scopecontent>
+          <arrangement>
+            <p>Chronological</p>
+          </arrangement>
+          <c03 level="file">
+            <did>
+              <container type="folder">49</container>
+              <unittitle>Friends of the Hudson Valley Report, August 1995 </unittitle>
+              <container type="box">13</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">50</container>
+              <unittitle>clippings with attached correspondence (1995) </unittitle>
+              <container type="box">13</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">51</container>
+              <unittitle>correspondence with attachments (1991- 1998) </unittitle>
+              <container type="box">13</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">52</container>
+              <unittitle>various notes and papers </unittitle>
+              <container type="box">13</container>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

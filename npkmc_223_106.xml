@@ -1,247 +1,237 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:isbn:1-931666-22-9" xmlns:ns2="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
-
-	<!--Header portion of EAD -->
-	<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
-		<eadid countrycode="US" mainagencycode="US-NPkMC" url="http://www.marist.edu">npkmc_223_106</eadid>
-		<filedesc>
-			<titlestmt>
-				<titleproper>Stanley Becchetti Collection</titleproper>
-				<author>Erin Kelly <![CDATA[&]]> John Ansley, PhD, 2007; Finding Aid Encoded by:
+  <!--Header portion of EAD -->
+  <eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+    <eadid countrycode="US" mainagencycode="US-NPkMC" url="http://www.marist.edu">npkmc_223_106</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Stanley Becchetti Collection</titleproper>
+        <author>Erin Kelly <![CDATA[&amp;]]> John Ansley, PhD, 2007; Finding Aid Encoded by:
 					Monish M. Singh, 2007; Finding Aid Encoding updated by: Abigail Bowen,
 					2022</author>
-			</titlestmt>
-			<publicationstmt>
-				<publisher>Marist College <lb/>Archives and Special Collections </publisher>
-				<address>
-					<addressline>3399 North Road <lb/>Poughkeepsie, NY 12601 <lb/>Phone:
-						845-575-5217 <lb/>Fax: 845-575-3150 <lb/>&gt;Email:
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Marist College <lb/>Archives and Special Collections </publisher>
+        <address>
+          <addressline>3399 North Road <lb/>Poughkeepsie, NY 12601 <lb/>Phone:
+						845-575-5217 <lb/>Fax: 845-575-3150 <lb/>&amp;gt;Email:
 						library.archives@marist.edu<lb/>Website:
 						https://archives.marist.edu/</addressline>
-				</address>
-				<date type="publication" normal="2007-01">January 2007</date>
-			</publicationstmt>
-		</filedesc>
-		<profiledesc>
-			<creation>Monish M. Singh <date>2007</date>
+        </address>
+        <date type="publication" normal="2007-01">January 2007</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Monish M. Singh <date>2007</date>
 			</creation>
-			<langusage> Finding aid written in <language langcode="eng">English.</language>
+      <langusage> Finding aid written in <language langcode="eng">English.</language>
 			</langusage>
-			<descrules><abbr>DACS</abbr>Describing Archives: A Content Standard. Chicago: Society of
+      <descrules><abbr>DACS</abbr>Describing Archives: A Content Standard. Chicago: Society of
 				American Archivists, 2013.</descrules>
-		</profiledesc>
-		<revisiondesc>
-			<list>
-				<item>March 2022, EAD updated by Abigail Bowen</item>
-			</list>
-		</revisiondesc>
-	</eadheader>
-
-	<!-- Archival Description portion of EAD -->
-
-	<archdesc level="collection">
-		<did>
-			<unittitle>Stanley Becchetti Collection</unittitle>
-			<unitid countrycode="US" repositorycode="US-NPkMC">NPKMC-223-106</unitid>
-			<unitdate type="inclusive" normal="1962/1977">1962 - 1977 </unitdate>
-			<physdesc>
-				<extent type="size">1.5 Linear Feet</extent>
-			</physdesc>
-			<repository>
-				<corpname>Marist College Archives and Special Collections</corpname>
-			</repository>
-			<origination label="creator"><persname>Stanley Becchetti</persname></origination>
-			<abstract>Stanley Becchetti entered Marist College as a freshman in 1962 and graduated
+    </profiledesc>
+    <revisiondesc>
+      <list>
+        <item>March 2022, EAD updated by Abigail Bowen</item>
+      </list>
+    </revisiondesc>
+  </eadheader>
+  <!-- Archival Description portion of EAD -->
+  <archdesc level="collection">
+    <did>
+      <unittitle>Stanley Becchetti Collection</unittitle>
+      <unitid countrycode="US" repositorycode="US-NPkMC">NPKMC-223-106</unitid>
+      <unitdate type="inclusive" normal="1962/1977">1962 - 1977 </unitdate>
+      <physdesc>
+        <extent type="size">1.5 Linear Feet</extent>
+      </physdesc>
+      <repository>
+        <corpname>Marist College Archives and Special Collections</corpname>
+      </repository>
+      <origination label="creator">
+        <persname>Stanley Becchetti</persname>
+      </origination>
+      <abstract>Stanley Becchetti entered Marist College as a freshman in 1962 and graduated
 				in 1966. The Stanley Becchetti collection consists of memorabilia from his years as
 				a student at Marist, such as newspapers, admissions material and student resident
 				handbook. Also included in the collection are a Marist College beanie and a rock to
 				be carried at all times as a requirement for freshman by upperclassmen as a form of
 				hazing. The collection includes materials spanning from the years 1962 to
 				1977.</abstract>
-			<langmaterial>
-				<language langcode="eng">English</language>
-			</langmaterial>
-			<physloc>Please contact the Marist College Archives and Special Collections for
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <physloc>Please contact the Marist College Archives and Special Collections for
 				information regarding use and access of this collection.</physloc>
-		</did>
-
-		<scopecontent>
-			<head>Collection Overview</head>
-			<p>The Stanley Becchetti collection consists of personal possessions from Marist College
+    </did>
+    <scopecontent>
+      <head>Collection Overview</head>
+      <p>The Stanley Becchetti collection consists of personal possessions from Marist College
 				including admissions letters, class grades, student newspapers, alumni newsletters,
 				and articles on the completed McCann Center, as well as physical memorabilia from
 				his college years. The collection is organized by subject.</p>
-		</scopecontent>
-
-		<acqinfo>
-			<p>The collection was donated to Marist College from Stanley Becchetti, a Marist College
+    </scopecontent>
+    <acqinfo>
+      <p>The collection was donated to Marist College from Stanley Becchetti, a Marist College
 				alumni, who entered the college as a freshman in 1962.</p>
-		</acqinfo>
-
-		<bioghist encodinganalog="545">
-			<head>Historical Note</head>
-			<p>Stanley Becchetti entered Marist College as a freshman in 1962. During Stanley
+    </acqinfo>
+    <bioghist encodinganalog="545">
+      <head>Historical Note</head>
+      <p>Stanley Becchetti entered Marist College as a freshman in 1962. During Stanley
 				Becchetti’s undergraduate years at Marist College, the college was continuously
 				evolving and many substantial renovations were made. In 1962, the Brothers built
 				Donnelly Hall and named it for Brother Nilus Donnelly and Sheahan Hall was opened as
 				the first campus dormitory building. In 1966, women were accepted into the evening
 				division at Marist College.</p>
-		</bioghist>
-
-		<accessrestrict>
-			<p>There are no restrictions on this collections</p>
-		</accessrestrict>
-		<userestrict>
-			<head>Notice of Copyright</head>
-			<p>Individuals requesting reproductions expressly assume the responsibility for
+    </bioghist>
+    <accessrestrict>
+      <p>There are no restrictions on this collections</p>
+    </accessrestrict>
+    <userestrict>
+      <head>Notice of Copyright</head>
+      <p>Individuals requesting reproductions expressly assume the responsibility for
 				compliance with all pertinent provisions of the Copyright Act, 17 U.S.C. ss101 et
 				seq. Patrons further agree to indemnify and hold harmless the Marist College
 				Archives and Special Collections and its staff in connection with any disputes
 				arising from the Copyright Act, over the reproduction of material at the request of
 				patrons. For more information please visit the following website:
 				http://www.loc.gov/copyright/title17/.</p>
-		</userestrict>
-		<prefercite>
-			<head>Preferred Citation</head>
-			<p>[Description of item, date, location of item in order of series, box number, folder
+    </userestrict>
+    <prefercite>
+      <head>Preferred Citation</head>
+      <p>[Description of item, date, location of item in order of series, box number, folder
 				number ], in the Stanley Becchetti Collection, Archives and Special Collections,
 				James A. Cannavino Library, Marist College.</p>
-		</prefercite>
-		<arrangement>
-			<head>Arrangement of the Collection</head>
-			<p>These records are organized into one series, Marist Memorabilia. Materials are arranged by subject</p>
-		</arrangement>
-
-
-		<dsc type="combined">
-			<c01 level="series">
-				<did>
-					<unitid>1</unitid>
-					<unittitle>1. Marist Memorabilia</unittitle>
-
-					<physdesc>
-						<extent type="boxes">Boxes: 1 - 2</extent>
-						<extent type="folders">Folders: 1 - 7</extent>
-						<extent type="size">Items 8 - 15</extent>
-					</physdesc>
-				</did>
-				<scopecontent>
-					<p>Documents for Admission, resident student and academic life, varsity
+    </prefercite>
+    <arrangement>
+      <head>Arrangement of the Collection</head>
+      <p>These records are organized into one series, Marist Memorabilia. Materials are arranged by subject</p>
+    </arrangement>
+    <dsc type="combined">
+      <c01 level="series">
+        <did>
+          <unitid>1</unitid>
+          <unittitle>1. Marist Memorabilia</unittitle>
+          <physdesc>
+            <extent type="boxes">Boxes: 1 - 2</extent>
+            <extent type="folders">Folders: 1 - 7</extent>
+            <extent type="size">Items 8 - 15</extent>
+          </physdesc>
+        </did>
+        <scopecontent>
+          <p>Documents for Admission, resident student and academic life, varsity
 						athletics, the dedication of the McCann Center, the twentieth commencement
 						ceremony, as well as student newpapers, alumni material and personal Marist
 						memorabilia.</p>
-				</scopecontent>
-				
-				<arrangement>
-					<p>Subject</p>
-				</arrangement>
-				<c02 level="file">
-					<did>
-						<container type="folder">1</container>
-						<unittitle>Admissions</unittitle>
-						<container type="box">1</container>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container type="folder">2</container>
-						<unittitle>Resident student/ Academic Life</unittitle>
-						<container type="box">1</container>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container type="folder">3</container>
-						<unittitle>Varsity Athletics/ Crew</unittitle>
-						<container type="box">1</container>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container type="folder">4</container>
-						<unittitle>McCann Center</unittitle>
-						<container type="box">1</container>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container type="folder">5</container>
-						<unittitle>Student Newspapers</unittitle>
-						<container type="box">1</container>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container type="folder">6</container>
-						<unittitle>Twentieth Commencement</unittitle>
-						<container type="box">1</container>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container type="folder">7</container>
-						<unittitle>Alumni Material</unittitle>
-						<container type="box">1</container>
-					</did>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitid>Item 8</unitid>
-						<unittitle>Marist College bumper sticker</unittitle>
-						<container type="box">2</container>
-					</did>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitid>Item 9</unitid>
-						<unittitle>Marist College stickers</unittitle>
-						<container type="box">2</container>
-					</did>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitid>Item 10</unitid>
-						<unittitle>Booster club pin</unittitle>
-						<container type="box">2</container>
-					</did>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitid>Item 11</unitid>
-						<unittitle>Football club pin</unittitle>
-						<container type="box">2</container>
-					</did>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitid>Item 12</unitid>
-						<unittitle>Marist College banner</unittitle>
-						<container type="box">2</container>
-					</did>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitid>Item 13</unitid>
-						<unittitle>Marist College beanie</unittitle>
-						<container type="box">2</container>
-					</did>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitid>Item 14</unitid>
-						<unittitle>Rock</unittitle>
-						<container type="box">2</container>
-					</did>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitid>Item 15</unitid>
-						<unittitle>Marist College jacket</unittitle>
-						<container type="box">2</container>
-					</did>
-				</c02>
-			</c01>
-
-		</dsc>
-	</archdesc>
+        </scopecontent>
+        <arrangement>
+          <p>Subject</p>
+        </arrangement>
+        <c02 level="file">
+          <did>
+            <container type="folder">1</container>
+            <unittitle>Admissions</unittitle>
+            <container type="box">1</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">2</container>
+            <unittitle>Resident student/ Academic Life</unittitle>
+            <container type="box">1</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">3</container>
+            <unittitle>Varsity Athletics/ Crew</unittitle>
+            <container type="box">1</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">4</container>
+            <unittitle>McCann Center</unittitle>
+            <container type="box">1</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">5</container>
+            <unittitle>Student Newspapers</unittitle>
+            <container type="box">1</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">6</container>
+            <unittitle>Twentieth Commencement</unittitle>
+            <container type="box">1</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">7</container>
+            <unittitle>Alumni Material</unittitle>
+            <container type="box">1</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container>Item 8</container>
+            <unittitle>Marist College bumper sticker</unittitle>
+            <container type="box">2</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container>Item 9</container>
+            <unittitle>Marist College stickers</unittitle>
+            <container type="box">2</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container>Item 10</container>
+            <unittitle>Booster club pin</unittitle>
+            <container type="box">2</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container>Item 11</container>
+            <unittitle>Football club pin</unittitle>
+            <container type="box">2</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container>Item 12</container>
+            <unittitle>Marist College banner</unittitle>
+            <container type="box">2</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container>Item 13</container>
+            <unittitle>Marist College beanie</unittitle>
+            <container type="box">2</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container>Item 14</container>
+            <unittitle>Rock</unittitle>
+            <container type="box">2</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container>Item 15</container>
+            <unittitle>Marist College jacket</unittitle>
+            <container type="box">2</container>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
 </ead>

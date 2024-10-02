@@ -1,89 +1,84 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
 <ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:isbn:1-931666-22-9" xmlns:ns2="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
-
-	<!--Header portion of EAD -->
-	<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
-		<eadid countrycode="US" mainagencycode="US-NPkMC" url="http://www.marist.edu">npkmc_223_158</eadid>
-		<filedesc>
-			<titlestmt>
-				<titleproper>Brother Cornelius Russell Papers</titleproper>
-				<author>Alexandra Bickel <![CDATA[&]]> John Ansley, PhD, 2010; Finding Aid Encoded
+  <!--Header portion of EAD -->
+  <eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+    <eadid countrycode="US" mainagencycode="US-NPkMC" url="http://www.marist.edu">npkmc_223_158</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Brother Cornelius Russell Papers</titleproper>
+        <author>Alexandra Bickel <![CDATA[&amp;]]> John Ansley, PhD, 2010; Finding Aid Encoded
 					by: Monish M. Singh, 2010; Finding Aid Encoding updated by: Abigail Bowen,
 					2022</author>
-			</titlestmt>
-			<publicationstmt>
-				<publisher>Marist College <lb/>Archives and Special Collections </publisher>
-				<address>
-					<addressline>3399 North Road <lb/>Poughkeepsie, NY 12601 <lb/>Phone:
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Marist College <lb/>Archives and Special Collections </publisher>
+        <address>
+          <addressline>3399 North Road <lb/>Poughkeepsie, NY 12601 <lb/>Phone:
 						845-575-5217 <lb/>Fax: 845-575-3150 <lb/><lb/>Email:
 						library.archives@marist.edu<lb/>Website:
 						https://archives.marist.edu/</addressline>
-				</address>
-				<date type="publication" normal="2010-05-03">May 3, 2010</date>
-			</publicationstmt>
-		</filedesc>
-		<profiledesc>
-			<creation>Monish M. Singh <date>2010</date>
+        </address>
+        <date type="publication" normal="2010-05-03">May 3, 2010</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Monish M. Singh <date>2010</date>
 			</creation>
-			<langusage> Finding aid written in <language langcode="eng">English.</language>
+      <langusage> Finding aid written in <language langcode="eng">English.</language>
 			</langusage>
-			<descrules><abbr>DACS</abbr>Describing Archives: A Content Standard. Chicago: Society of
+      <descrules><abbr>DACS</abbr>Describing Archives: A Content Standard. Chicago: Society of
 				American Archivists, 2013.</descrules>
-		</profiledesc>
-		<revisiondesc>
-			<list>
-				<item>March 2022, EAD updated by Abigail Bowen</item>
-			</list>
-		</revisiondesc>
-	</eadheader>
-
-	<!-- Archival Description portion of EAD -->
-
-	<archdesc level="collection">
-		<did>
-			<unittitle>Brother Cornelius Russell Papers</unittitle>
-			<unitid countrycode="US" repositorycode="US-NPkMC">NPKMC-223-158</unitid>
-			<unitdate type="inclusive" normal="1900/2009">1900 – 2009</unitdate>
-			<physdesc>
-				<extent type="size">8.5 linear feet</extent>
-			</physdesc>
-			<repository>
-				<corpname>Marist College Archives and Special Collections</corpname>
-			</repository>
-			<origination label="creator"><persname>Brother Cornelius Russell</persname></origination>
-			<abstract>This collection contains materials from Brother Russell's time in the US Army
+    </profiledesc>
+    <revisiondesc>
+      <list>
+        <item>March 2022, EAD updated by Abigail Bowen</item>
+      </list>
+    </revisiondesc>
+  </eadheader>
+  <!-- Archival Description portion of EAD -->
+  <archdesc level="collection">
+    <did>
+      <unittitle>Brother Cornelius Russell Papers</unittitle>
+      <unitid countrycode="US" repositorycode="US-NPkMC">NPKMC-223-158</unitid>
+      <unitdate type="inclusive" normal="1900/2009">1900 – 2009</unitdate>
+      <physdesc>
+        <extent type="size">8.5 Linear Feet</extent>
+      </physdesc>
+      <repository>
+        <corpname>Marist College Archives and Special Collections</corpname>
+      </repository>
+      <origination label="creator">
+        <persname>Brother Cornelius Russell</persname>
+      </origination>
+      <abstract>This collection contains materials from Brother Russell's time in the US Army
 				during World War II and his time as a Novitate and Marist Brother. John J. Russell
 				was born on February 29, 1920 to Joseph Russell and Genevieve Toner in Manhattan,
-				New York. John was drafted into the Air Force dring World War II. At the end of
+				New York. John was drafted into the Air Force during World War II. At the end of
 				John’s Army career in 1946, he heeded his late calling to join the Order of Marist
 				Brothers. Brother Cornelius was a humble person who lived by the Marist Principle to
 				“do good quietly.”</abstract>
-			<langmaterial>
-				<language langcode="eng">English</language>
-			</langmaterial>
-			<physloc>Please contact the Marist College Archives and Special Collections for
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <physloc>Please contact the Marist College Archives and Special Collections for
 				information regarding use and access of this collection.</physloc>
-		</did>
-
-		<scopecontent>
-			<head>Collection Overview</head>
-			<p>The Brother Cornelius Russell Papers contains correspondence to his family from his
+    </did>
+    <scopecontent>
+      <head>Collection Overview</head>
+      <p>The Brother Cornelius Russell Papers contains correspondence to his family from his
 				three year tour in the United States Army during World War II and from his Novitiate
 				years as a Marist Brother. This collection also includes photos of his family and
 				friends, diplomas from various schools, awards Brother Cornelius received throughout
 				his life, and his World War II uniform.</p>
-		</scopecontent>
-
-		<acqinfo>
-			<p>The Brother Cornelius Russell Papers was donated to Marist College Archives and
+    </scopecontent>
+    <acqinfo>
+      <p>The Brother Cornelius Russell Papers was donated to Marist College Archives and
 				Special Collections by the family of Brother Cornelius Russell in 2009.</p>
-
-		</acqinfo>
-
-		<bioghist encodinganalog="545">
-			<head>Historical Note</head>
-			<p>John J. Russell was born on February 29, 1920 to Joseph Russell and Genevieve Toner
+    </acqinfo>
+    <bioghist encodinganalog="545">
+      <head>Historical Note</head>
+      <p>John J. Russell was born on February 29, 1920 to Joseph Russell and Genevieve Toner
 				in Manhattan, New York. He was the oldest of three siblings; he had two younger
 				sisters, Genevieve and Mary Russell. Because he was color blind John was not able to
 				enlist in the United States Army in the early stages of World War II. When the war
@@ -93,1299 +88,1275 @@
 				without his signature on the departure form, no plane could leave the hanger. His
 				major assignment was in Tindouf, Algeria at the weather station. John advanced in
 				the ranks throughout his three year tour to Technical Sergeant.</p>
-			<p>At the end of John’s Army career in 1946, he heeded his late calling to join the
+      <p>At the end of John’s Army career in 1946, he heeded his late calling to join the
 				Order of Marist Brothers. John’s first experience with the Brothers was during his
 				elementary school days when they acted as his teachers. He also had connections to
 				this order through his Aunt Tess, who was a Sister in a related order. After serving
-				as a Novitiate for two years John received the Marist Habit and also during this
-				time, graduated from Marian College (now Marist College) with a degree in history in
-				1950. In 1953 John made his final vows to join the Marist Brotherhood for life, and
+				as a Novitiate for two years, John received the Marist Habit and graduated from Marian College (now Marist College) with a degree in history in
+				1950. In 1953, John made his final vows to join the Marist Brotherhood for life, and
 				was renamed Brother J. Cornelius Russell.</p>
-			<p>Brother Cornelius was a humble person who lived by the Marist Principle to “do good
+      <p>Brother Cornelius was a humble person who lived by the Marist Principle to “do good
 				quietly.” Before he returned to Marist College, Brother Cornelius taught at other
 				Marist Brother Schools, including schools in the Bronx and Briarwood in New York,
-				Lawrence, Massachusetts, and Augusta, Georgia. During this time, he received an MBA,
+				Lawrence, Massachusetts, and Augusta, Georgia. During this time, he received an MBA
 				from Columbia University. In 1962 Brother Cornelius was brought to Marist College to
 				incorporate a business major to help widen the school’s curriculum and to draw in
 				more prospective students. He was the first full-time business faculty member and
-				first business department chairman at Marist College. In 1964 President Foy
+				first business department chairman at Marist College. In 1964, President Foy
 				appointed him Controller, a position he held for several years. As the Controller
 				Brother Cornelius had the responsibility of overseeing Marist College’s financial
 				planning. On May 20th, 1995 Brother Cornelius was given the President’s Award by
 				President Murray for his diligence while at Marist College and after his retirement.
-				During his retirement he was also able to devote more of himself to the Marist
-				Brotherhood and on March 3, 1996 he was given Pope John Paul II Apostolic Blessing.
+				During his retirement he was able to devote more of himself to the Marist
+				Brotherhood and on March 3, 1996 he was given an Apostolic Blessing by Pope John Paul II.
 				Brother Cornelius’s long and excellent teaching record was recognized on October
 				10th, 2003 when he was named one of Marist’s Heritage Professors. </p>
-			<p>Brother Cornelius was a vibrant, but humble person who left his mark on not only
+      <p>Brother Cornelius was a vibrant, but humble person who left his mark on not only
 				Marist College, but on the lives and hearts of many other people he met throughout
 				his travels.</p>
-		</bioghist>
-
-		<accessrestrict>
-			<p>There are no restrictions on this collection</p>
-		</accessrestrict>
-
-		<userestrict>
-			<head>Notice of Copyright</head>
-			<p>Individuals requesting reproductions expressly assume the responsibility for
+    </bioghist>
+    <accessrestrict>
+      <p>There are no restrictions on this collection</p>
+    </accessrestrict>
+    <userestrict>
+      <head>Notice of Copyright</head>
+      <p>Individuals requesting reproductions expressly assume the responsibility for
 				compliance with all pertinent provisions of the Copyright Act, 17 U.S.C. ss101 et
 				seq. Patrons further agree to indemnify and hold harmless the Marist College
 				Archives and Special Collections and its staff in connection with any disputes
 				arising from the Copyright Act, over the reproduction of material at the request of
 				patrons. For more information please visit the following website:
 				http://www.loc.gov/copyright/title17/.</p>
-		</userestrict>
-		<prefercite>
-			<head>Preferred Citation</head>
-			<p>[Description of item, date, location of item in order of series, box number, folder
+    </userestrict>
+    <prefercite>
+      <head>Preferred Citation</head>
+      <p>[Description of item, date, location of item in order of series, box number, folder
 				number ], in the Brother Cornelius Russell Papers, Archives and Special Collections,
 				James A. Cannavino Library, Marist College.</p>
-		</prefercite>
-		<arrangement>
-			<p>These records are arranged into four series: 1. Textual Material, had six suberies,
-				subseries 1.3 has two subseries, and subseries 1.5 had secen subseries, 2.
-				Photographic Material, 3. Textile Material, 4. Personal Materials</p>
-			<p>Series are arranged by subject.</p>
-		</arrangement>
-
-		<dsc type="combined">
-			<c01 level="series">
-				<did>
-					<unitid>1</unitid>
-					<unittitle>1. Textual Material</unittitle>
-					<unitdate normal="2000">1942 - 2007</unitdate>
-					<physdesc>
-						<extent type="boxes">Boxes: 1 - 6</extent>
-						<extent type="folders">Folders: 1 - 79</extent>
-					</physdesc>
-				</did>
-				<scopecontent>
-					<p>Series contains WWII textual material, WWII correspondence, oversized
+    </prefercite>
+    <arrangement>
+      <p>These records are arranged into four series: 1. Textual Material, has six suberies,
+				subseries 1.3 has two subseries, and subseries 1.5 has seven subseries, 2.
+				Photographic Material, 3. Textile Material, and 4. Personal Materials</p>
+      <p>Series are arranged by subject.</p>
+    </arrangement>
+    <dsc type="combined">
+      <c01 level="series">
+        <did>
+          <unitid>1</unitid>
+          <unittitle>1. Textual Material</unittitle>
+          <unitdate normal="2000">1942 - 2007</unitdate>
+          <physdesc>
+            <extent type="boxes">Boxes: 1 - 6</extent>
+            <extent type="folders">Folders: 1 - 79</extent>
+          </physdesc>
+        </did>
+        <scopecontent>
+          <p>Series contains WWII textual material, WWII correspondence, oversized
 						materials, Marist Brotherhood correspondence, variety textual material, amd
 						awards.</p>
-				</scopecontent>
-				<arrangement>
-					<p>Subject</p>
-				</arrangement>
-				<c02 level="subseries">
-					<did>
-						<unitid>1.1</unitid>
-						<unittitle>Subseries 1.1: WWII Textual material</unittitle>
-						<unitdate normal="1942/1943">1942 - 1943</unitdate>
-						<physdesc>
-							<extent type="boxes">Box: 1</extent>
-							<extent type="folders">Folders: 1 - 27</extent>
-						</physdesc>
-					</did>
-					<c03 level="file">
-						<did>
-							<container type="folder">1</container>
-							<unittitle>Letters to immediate family detailing schedule, how he is
+        </scopecontent>
+        <arrangement>
+          <p>Subject</p>
+        </arrangement>
+        <c02 level="subseries">
+          <did>
+            <unitid>1.1</unitid>
+            <unittitle>Subseries 1.1: WWII Textual material</unittitle>
+            <unitdate normal="1942/1943">1942 - 1943</unitdate>
+            <physdesc>
+              <extent type="boxes">Box: 1</extent>
+              <extent type="folders">Folders: 1 - 27</extent>
+            </physdesc>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="folder">1</container>
+              <unittitle>Letters to immediate family detailing schedule, how he is
 								settling in and if there will be any changes to mailing address when
 								moving to different stations and day to day activity.</unittitle>
-							<unitdate label="Date">1942 April 7- 1942 April, 30</unitdate>
-							<container type="box">1</container>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container type="folder">2</container>
-							<unittitle>Letters to immediate family detailing schedule, how he is
+              <unitdate label="Date">1942 April 7- 1942 April, 30</unitdate>
+              <container type="box">1</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">2</container>
+              <unittitle>Letters to immediate family detailing schedule, how he is
 								settling in and if there will be any changes to mailing address when
 								moving to different stations and day to day activity.</unittitle>
-							<unitdate label="Date">1942 May 1- 1942- May 31</unitdate>
-							<container type="box">1</container>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container type="folder">3</container>
-							<unittitle>Letters to immediate family detailing schedule, how he is
+              <unitdate label="Date">1942 May 1- 1942- May 31</unitdate>
+              <container type="box">1</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">3</container>
+              <unittitle>Letters to immediate family detailing schedule, how he is
 								settling in and if there will be any changes to mailing address when
 								moving to different stations and day to day activity.</unittitle>
-							<unitdate label="Date">1942 June1-1942- June 29</unitdate>
-							<container type="box">1</container>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container type="folder">4</container>
-							<unittitle>Letters to immediate family detailing schedule, how he is
+              <unitdate label="Date">1942 June1-1942- June 29</unitdate>
+              <container type="box">1</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">4</container>
+              <unittitle>Letters to immediate family detailing schedule, how he is
 								settling in and if there will be any changes to mailing address when
 								moving to different stations and day to day activity.</unittitle>
-							<unitdate label="Date">1942 July 1- 1942 July 31</unitdate>
-							<container type="box">1</container>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container type="folder">5</container>
-							<unittitle>Letters to immediate family detailing schedule, how he is
+              <unitdate label="Date">1942 July 1- 1942 July 31</unitdate>
+              <container type="box">1</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">5</container>
+              <unittitle>Letters to immediate family detailing schedule, how he is
 								settling in and if there will be any changes to mailing address when
 								moving to different stations and day to day activity.</unittitle>
-							<unitdate label="Date">1942 August 1- 1942 August 29</unitdate>
-							<container type="box">1</container>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container type="folder">6</container>
-							<unittitle>Letters to immediate family detailing schedule, how he is
+              <unitdate label="Date">1942 August 1- 1942 August 29</unitdate>
+              <container type="box">1</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">6</container>
+              <unittitle>Letters to immediate family detailing schedule, how he is
 								settling in and if there will be any changes to mailing address when
 								moving to different stations and day to day activity.</unittitle>
-							<unitdate label="Date">1942 September1- 1942 September 30</unitdate>
-							<container type="box">1</container>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container type="folder">7</container>
-							<unittitle>Letters to immediate family detailing schedule, how he is
+              <unitdate label="Date">1942 September1- 1942 September 30</unitdate>
+              <container type="box">1</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">7</container>
+              <unittitle>Letters to immediate family detailing schedule, how he is
 								settling in and if there will be any changes to mailing address when
 								moving to different stations and day to day activity.</unittitle>
-							<unitdate label="Date">1942 October 2 -1942 October 25 1942</unitdate>
-							<container type="box">1</container>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container type="folder">8</container>
-							<unittitle>Letters to immediate family detailing schedule, how he is
+              <unitdate label="Date">1942 October 2 -1942 October 25 1942</unitdate>
+              <container type="box">1</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">8</container>
+              <unittitle>Letters to immediate family detailing schedule, how he is
 								settling in and if there will be any changes to mailing address when
 								moving to different stations and day to day activity.</unittitle>
-							<unitdate label="Date">1942 November 5- 1942 November 29</unitdate>
-							<container type="box">1</container>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container type="folder">9</container>
-							<unittitle>Letters to immediate family detailing schedule, how he is
+              <unitdate label="Date">1942 November 5- 1942 November 29</unitdate>
+              <container type="box">1</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">9</container>
+              <unittitle>Letters to immediate family detailing schedule, how he is
 								settling in and if there will be any changes to mailing address when
 								moving to different stations and day to day activity.</unittitle>
-							<unitdate label="Date">1942 December 1- 1942 December 31</unitdate>
-							<container type="box">1</container>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container type="folder">10</container>
-							<unittitle>Letter to John Russell from his friend Bob giving John and
+              <unitdate label="Date">1942 December 1- 1942 December 31</unitdate>
+              <container type="box">1</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">10</container>
+              <unittitle>Letter to John Russell from his friend Bob giving John and
 								updates on his life and to thank John for birthday
 								wishes.</unittitle>
-							<unitdate label="Date">1942 February 26</unitdate>
-							<container type="box">1</container>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container type="folder">11</container>
-							<unittitle>Letter to John Russell from Father S. Pishul, inviting John
+              <unitdate label="Date">1942 February 26</unitdate>
+              <container type="box">1</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">11</container>
+              <unittitle>Letter to John Russell from Father S. Pishul, inviting John
 								to Dinner before his departure overseas.</unittitle>
-							<unitdate label="Date">1942 April 7</unitdate>
-							<container type="box">1</container>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container type="folder">12</container>
-							<unittitle>Letters to immediate family detailing schedule, how he is
+              <unitdate label="Date">1942 April 7</unitdate>
+              <container type="box">1</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">12</container>
+              <unittitle>Letters to immediate family detailing schedule, how he is
 								settling in and if there will be any changes to mailing address when
 								moving to different stations and day to day activity.</unittitle>
-							<unitdate label="Date">1943 January 1-1943 January 30</unitdate>
-							<container type="box">1</container>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container type="folder">13</container>
-							<unittitle>Letters to immediate family detailing schedule, how he is
+              <unitdate label="Date">1943 January 1-1943 January 30</unitdate>
+              <container type="box">1</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">13</container>
+              <unittitle>Letters to immediate family detailing schedule, how he is
 								settling in and if there will be any changes to mailing address when
 								moving to different stations and day to day activity.</unittitle>
-							<unitdate label="Date">1943 February 1 -1943 February 28</unitdate>
-							<container type="box">1</container>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container type="folder">14</container>
-							<unittitle>Letters to immediate family detailing schedule, how he is
+              <unitdate label="Date">1943 February 1 -1943 February 28</unitdate>
+              <container type="box">1</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">14</container>
+              <unittitle>Letters to immediate family detailing schedule, how he is
 								settling in and if there will be any changes to mailing address when
 								moving to different stations and day to day activity.</unittitle>
-							<unitdate label="Date">1943 March 2-1943March 30</unitdate>
-							<container type="box">1</container>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container type="folder">15</container>
-							<unittitle>Letters to immediate family detailing schedule, how he is
+              <unitdate label="Date">1943 March 2-1943March 30</unitdate>
+              <container type="box">1</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">15</container>
+              <unittitle>Letters to immediate family detailing schedule, how he is
 								settling in and if there will be any changes to mailing address when
 								moving to different stations and day to day activity.</unittitle>
-							<unitdate label="Date">1943April 1-1943April 30</unitdate>
-							<container type="box">1</container>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container type="folder">16</container>
-							<unittitle>Letters to immediate family detailing schedule, how he is
+              <unitdate label="Date">1943April 1-1943April 30</unitdate>
+              <container type="box">1</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">16</container>
+              <unittitle>Letters to immediate family detailing schedule, how he is
 								settling in and if there will be any changes to mailing address when
 								moving to different stations and day to day activity.</unittitle>
-							<unitdate label="Date">1943 May 2-1943 May 31</unitdate>
-							<container type="box">1</container>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container type="folder">17</container>
-							<unittitle>Letters to immediate family detailing schedule, how he is
+              <unitdate label="Date">1943 May 2-1943 May 31</unitdate>
+              <container type="box">1</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">17</container>
+              <unittitle>Letters to immediate family detailing schedule, how he is
 								settling in and if there will be any changes to mailing address when
 								moving to different stations and day to day activity.</unittitle>
-							<unitdate label="Date">1943 June 2- 1943 June 30</unitdate>
-							<container type="box">1</container>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container type="folder">18</container>
-							<unittitle>Letters to immediate family detailing schedule, how he is
+              <unitdate label="Date">1943 June 2- 1943 June 30</unitdate>
+              <container type="box">1</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">18</container>
+              <unittitle>Letters to immediate family detailing schedule, how he is
 								settling in and if there will be any changes to mailing address when
 								moving to different stations and day to day activity.</unittitle>
-							<unitdate label="Date">1943 July 2 - 1943 July 30</unitdate>
-							<container type="box">1</container>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container type="folder">19</container>
-							<unittitle>Letters to his immediate family detailing his schedule, how
+              <unitdate label="Date">1943 July 2 - 1943 July 30</unitdate>
+              <container type="box">1</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">19</container>
+              <unittitle>Letters to his immediate family detailing his schedule, how
 								he is settling in and if there will be any changes to his mailing
 								address when moving to different stations and day to day
 								activity.</unittitle>
-							<unitdate label="Date">1943August 1- 1943 August 31</unitdate>
-							<container type="box">1</container>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container type="folder">20</container>
-							<unittitle>Letters to immediate family detailing schedule, how he is
+              <unitdate label="Date">1943August 1- 1943 August 31</unitdate>
+              <container type="box">1</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">20</container>
+              <unittitle>Letters to immediate family detailing schedule, how he is
 								settling in and if there will be any changes to mailing address when
 								moving to different stations and day to day activity.</unittitle>
-							<unitdate label="Date">1943 September 1 -1943 September 30</unitdate>
-							<container type="box">1</container>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container type="folder">21</container>
-							<unittitle>Letters to immediate family detailing schedule, how he is
+              <unitdate label="Date">1943 September 1 -1943 September 30</unitdate>
+              <container type="box">1</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">21</container>
+              <unittitle>Letters to immediate family detailing schedule, how he is
 								settling in and if there will be any changes to mailing address when
 								moving to different stations and day to day activity.</unittitle>
-							<unitdate label="Date">1943 October 2-1943 October 31</unitdate>
-							<container type="box">1</container>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container type="folder">22</container>
-							<unittitle>Letters to immediate family detailing schedule, how he is
+              <unitdate label="Date">1943 October 2-1943 October 31</unitdate>
+              <container type="box">1</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">22</container>
+              <unittitle>Letters to immediate family detailing schedule, how he is
 								settling in and if there will be any changes to mailing address when
 								moving to different stations and day to day activity.</unittitle>
-							<unitdate label="Date">1943 November 1 -1943 November 16</unitdate>
-							<container type="box">1</container>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container type="folder">23</container>
-							<unittitle>Letters to immediate family detailing schedule, how he is
+              <unitdate label="Date">1943 November 1 -1943 November 16</unitdate>
+              <container type="box">1</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">23</container>
+              <unittitle>Letters to immediate family detailing schedule, how he is
 								settling in and if there will be any changes to mailing address when
 								moving to different stations and day to day activity.</unittitle>
-							<unitdate label="Date">1943 December 1 - 1943 December 30</unitdate>
-							<container type="box">1</container>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container type="folder">24</container>
-							<unittitle>Letter to Jack (aka John) from Val, giving details of what
+              <unitdate label="Date">1943 December 1 - 1943 December 30</unitdate>
+              <container type="box">1</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">24</container>
+              <unittitle>Letter to Jack (aka John) from Val, giving details of what
 								has been happening overseas in the African areas where Val is
 								stationed.</unittitle>
-							<unitdate label="Date">1943 April 11</unitdate>
-							<container type="box">1</container>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container type="folder">25</container>
-							<unittitle>Detailed typed documents detailing the promotion of John
+              <unitdate label="Date">1943 April 11</unitdate>
+              <container type="box">1</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">25</container>
+              <unittitle>Detailed typed documents detailing the promotion of John
 								Russell from private to Staff Sergeant and second promotion to
 								Technical Sergeant</unittitle>
-							<unitdate label="Date">1943May 1; 1943 June 1</unitdate>
-							<container type="box">1</container>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container type="folder">26</container>
-							<unittitle>Letter to John Russell’s father from Captain Jurell T. Baily
+              <unitdate label="Date">1943May 1; 1943 June 1</unitdate>
+              <container type="box">1</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">26</container>
+              <unittitle>Letter to John Russell’s father from Captain Jurell T. Baily
 								stating return of John Russell’s letters, and boasting of John
 								Russell’s virtue as a weatherman.</unittitle>
-							<unitdate label="Date">1943 July 4</unitdate>
-							<container type="box">1</container>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container type="folder">27</container>
-							<unittitle>Letter to Mrs. Russell from Orpha D. Wissler, Protestant
+              <unitdate label="Date">1943 July 4</unitdate>
+              <container type="box">1</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">27</container>
+              <unittitle>Letter to Mrs. Russell from Orpha D. Wissler, Protestant
 								Chaplain and Joseph J Walsh Catholic Chaplain assuring Mrs. Russell
 								that John Russell arrived in North Africa safely, and may not be in
 								tough foe a few days because the group is only at a temporary Army
 								Post.</unittitle>
-							<unitdate label="Date">1943 November 30</unitdate>
-							<container type="box">1</container>
-						</did>
-					</c03>
-				</c02>
-
-				<c02 level="subseries">
-					<did>
-						<unitid>1.2</unitid>
-						<unittitle>Subseries 1.2: World War II Correspondences</unittitle>
-						<unitdate normal="1944/1945">1944 - 1945</unitdate>
-						<physdesc>
-							<extent type="boxes">Box: 2</extent>
-							<extent type="folders">Folders: 28 - 49</extent>
-						</physdesc>
-					</did>
-					<c03 level="file">
-						<did>
-							<container type="folder">28</container>
-							<unittitle>V-MAIL to immediate family detailing schedule, how he is
+              <unitdate label="Date">1943 November 30</unitdate>
+              <container type="box">1</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid>1.2</unitid>
+            <unittitle>Subseries 1.2: World War II Correspondences</unittitle>
+            <unitdate normal="1944/1945">1944 - 1945</unitdate>
+            <physdesc>
+              <extent type="boxes">Box: 2</extent>
+              <extent type="folders">Folders: 28 - 49</extent>
+            </physdesc>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="folder">28</container>
+              <unittitle>V-MAIL to immediate family detailing schedule, how he is
 								settling in and if there will be any changes to mailing address when
 								moving to different stations and day to day activity.</unittitle>
-							<unitdate label="Date">1944 January 1, - 1944 January 6</unitdate>
-							<container type="box">2</container>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container type="folder">29</container>
-							<unittitle>Letters to immediate family detailing schedule, how he is
+              <unitdate label="Date">1944 January 1, - 1944 January 6</unitdate>
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">29</container>
+              <unittitle>Letters to immediate family detailing schedule, how he is
 								settling in and if there will be any changes to mailing address when
 								moving to different stations and day to day activity.</unittitle>
-							<unitdate label="Date">1944 February 1, -1944 February 28</unitdate>
-							<container type="box">2</container>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container type="folder">30</container>
-							<unittitle>Letters to immediate family detailing schedule, how he is
+              <unitdate label="Date">1944 February 1, -1944 February 28</unitdate>
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">30</container>
+              <unittitle>Letters to immediate family detailing schedule, how he is
 								settling in and if there will be any changes to mailing address when
 								moving to different stations and day to day activity.</unittitle>
-							<unitdate label="Date">1944 March 4, - 1944March 30</unitdate>
-							<container type="box">2</container>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container type="folder">31</container>
-							<unittitle>Letters to immediate family detailing schedule, how he is
+              <unitdate label="Date">1944 March 4, - 1944March 30</unitdate>
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">31</container>
+              <unittitle>Letters to immediate family detailing schedule, how he is
 								settling in and if there will be any changes to mailing address when
 								moving to different stations and day to day activity.</unittitle>
-							<unitdate label="Date">1944 April 2, - 1944 April 30</unitdate>
-							<container type="box">2</container>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container type="folder">32</container>
-							<unittitle>Letters to immediate family detailing schedule, how he is
+              <unitdate label="Date">1944 April 2, - 1944 April 30</unitdate>
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">32</container>
+              <unittitle>Letters to immediate family detailing schedule, how he is
 								settling in and if there will be any changes to mailing address when
 								moving to different stations and day to day activity.</unittitle>
-							<unitdate label="Date">1944May 3,- 1944 May 30</unitdate>
-							<container type="box">2</container>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container type="folder">33</container>
-							<unittitle>Letters to immediate family detailing schedule, how he is
+              <unitdate label="Date">1944May 3,- 1944 May 30</unitdate>
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">33</container>
+              <unittitle>Letters to immediate family detailing schedule, how he is
 								settling in and if there will be any changes to mailing address when
 								moving to different stations and day to day activity.</unittitle>
-							<unitdate label="Date">1944 June 1, - 1944 June 25</unitdate>
-							<container type="box">2</container>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container type="folder">34</container>
-							<unittitle>Letters to immediate family detailing schedule, how he is
+              <unitdate label="Date">1944 June 1, - 1944 June 25</unitdate>
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">34</container>
+              <unittitle>Letters to immediate family detailing schedule, how he is
 								settling in and if there will be any changes to mailing address when
 								moving to different stations and day to day activity.</unittitle>
-							<unitdate label="Date">1944 September 2, -1944 September 25</unitdate>
-							<container type="box">2</container>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container type="folder">35</container>
-							<unittitle>Letters to immediate family detailing schedule, how he is
+              <unitdate label="Date">1944 September 2, -1944 September 25</unitdate>
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">35</container>
+              <unittitle>Letters to immediate family detailing schedule, how he is
 								settling in and if there will be any changes to mailing address when
 								moving to different stations and day to day activity.</unittitle>
-							<unitdate label="Date">October 5, 1944- October 20, 1944</unitdate>
-							<container type="box">2</container>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container type="folder">36</container>
-							<unittitle>Letters to immediate family detailing schedule, how he is
+              <unitdate label="Date">October 5, 1944- October 20, 1944</unitdate>
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">36</container>
+              <unittitle>Letters to immediate family detailing schedule, how he is
 								settling in and if there will be any changes to mailing address when
 								moving to different stations and day to day activity.</unittitle>
-							<unitdate label="Date">1944 November 2, - 1944 November 29</unitdate>
-							<container type="box">2</container>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container type="folder">37</container>
-							<unittitle>Letters to immediate family detailing schedule, how he is
+              <unitdate label="Date">1944 November 2, - 1944 November 29</unitdate>
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">37</container>
+              <unittitle>Letters to immediate family detailing schedule, how he is
 								settling in and if there will be any changes to mailing address when
 								moving to different stations and day to day activity.</unittitle>
-							<unitdate label="Date">1944 December 2, - 1944 December 31</unitdate>
-							<container type="box">2</container>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container type="folder">38</container>
-							<unittitle>Letters to immediate family detailing schedule, how he is
+              <unitdate label="Date">1944 December 2, - 1944 December 31</unitdate>
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">38</container>
+              <unittitle>Letters to immediate family detailing schedule, how he is
 								settling in and if there will be any changes to mailing address when
 								moving to different stations and day to day activity</unittitle>
-							<unitdate label="Date">1945 January 2-1945 January 28</unitdate>
-							<container type="box">2</container>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container type="folder">39</container>
-							<unittitle>Letters to immediate family detailing schedule, how he is
+              <unitdate label="Date">1945 January 2-1945 January 28</unitdate>
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">39</container>
+              <unittitle>Letters to immediate family detailing schedule, how he is
 								settling in and if there will be any changes to mailing address when
 								moving to different stations and day to day activity.</unittitle>
-							<unitdate label="Date">1945 February 1, - 1945 February 28</unitdate>
-							<container type="box">2</container>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container type="folder">40</container>
-							<unittitle>Letters to immediate family detailing schedule, how he is
+              <unitdate label="Date">1945 February 1, - 1945 February 28</unitdate>
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">40</container>
+              <unittitle>Letters to immediate family detailing schedule, how he is
 								settling in and if there will be any changes to mailing address when
 								moving to different stations and day to day activity.</unittitle>
-							<unitdate label="Date">1945 March 2, - 1945 March 31</unitdate>
-							<container type="box">2</container>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container type="folder">41</container>
-							<unittitle>Letters to immediate family detailing schedule, how he is
+              <unitdate label="Date">1945 March 2, - 1945 March 31</unitdate>
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">41</container>
+              <unittitle>Letters to immediate family detailing schedule, how he is
 								settling in and if there will be any changes to mailing address when
 								moving to different stations and day to day activity.</unittitle>
-							<unitdate label="Date">1945April 2, - 1945April 30</unitdate>
-							<container type="box">2</container>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container type="folder">42</container>
-							<unittitle>Letters to immediate family detailing schedule, how he is
+              <unitdate label="Date">1945April 2, - 1945April 30</unitdate>
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">42</container>
+              <unittitle>Letters to immediate family detailing schedule, how he is
 								settling in and if there will be any changes to mailing address when
 								moving to different stations and day to day activity.</unittitle>
-							<unitdate label="Date">1945 May 15, - 1945 May 29</unitdate>
-							<container type="box">2</container>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container type="folder">43</container>
-							<unittitle>Letters to immediate family detailing schedule, how he is
+              <unitdate label="Date">1945 May 15, - 1945 May 29</unitdate>
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">43</container>
+              <unittitle>Letters to immediate family detailing schedule, how he is
 								settling in and if there will be any changes to mailing address when
 								moving to different stations and day to day activity.</unittitle>
-							<unitdate label="Date">1945 June 12, - 1945 June 27</unitdate>
-							<container type="box">2</container>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container type="folder">44</container>
-							<unittitle>Letters to immediate family detailing schedule, how he is
+              <unitdate label="Date">1945 June 12, - 1945 June 27</unitdate>
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">44</container>
+              <unittitle>Letters to immediate family detailing schedule, how he is
 								settling in and if there will be any changes to mailing address when
 								moving to different stations and day to day activity.</unittitle>
-							<unitdate label="Date">1945 July 3, - 1945 July 30</unitdate>
-							<container type="box">2</container>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container type="folder">45</container>
-							<unittitle>Letters to immediate family detailing schedule, how he is
+              <unitdate label="Date">1945 July 3, - 1945 July 30</unitdate>
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">45</container>
+              <unittitle>Letters to immediate family detailing schedule, how he is
 								settling in and if there will be any changes to mailing address when
 								moving to different stations and day to day activity.</unittitle>
-							<unitdate label="Date">1945 August 1, - 1945 August 31</unitdate>
-							<container type="box">2</container>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container type="folder">46</container>
-							<unittitle>Letters to immediate family detailing schedule, how he is
+              <unitdate label="Date">1945 August 1, - 1945 August 31</unitdate>
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">46</container>
+              <unittitle>Letters to immediate family detailing schedule, how he is
 								settling in and if there will be any changes to mailing address when
 								moving to different stations and day to day activity.</unittitle>
-							<unitdate label="Date">1945 September 2, - 1945 September 21</unitdate>
-							<container type="box">2</container>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container type="folder">47</container>
-							<unittitle>Letters to immediate family detailing schedule, how he is
+              <unitdate label="Date">1945 September 2, - 1945 September 21</unitdate>
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">47</container>
+              <unittitle>Letters to immediate family detailing schedule, how he is
 								settling in and if there will be any changes to mailing address when
 								moving to different stations and day to day activity.</unittitle>
-							<unitdate label="Date">1945 October 3, -1945 October 29</unitdate>
-							<container type="box">2</container>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container type="folder">48</container>
-							<unittitle>Letters to immediate family detailing schedule, how he is
+              <unitdate label="Date">1945 October 3, -1945 October 29</unitdate>
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">48</container>
+              <unittitle>Letters to immediate family detailing schedule, how he is
 								settling in and if there will be any changes to mailing address when
 								moving to different stations and day to day activity.</unittitle>
-							<unitdate label="Date">1945 November 4, - 1945 November 20</unitdate>
-							<container type="box">2</container>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container type="folder">49</container>
-							<unittitle>Letters to immediate family detailing schedule, how he is
+              <unitdate label="Date">1945 November 4, - 1945 November 20</unitdate>
+              <container type="box">2</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">49</container>
+              <unittitle>Letters to immediate family detailing schedule, how he is
 								settling in and if there will be any changes to mailing address when
 								moving to different stations and day to day activity.</unittitle>
-							<unitdate label="Date">1945 December 1, - 1945 December 12</unitdate>
-							<container type="box">2</container>
-						</did>
-					</c03>
-				</c02>
-
-				<c02 level="subseries">
-					<did>
-						<unitid>1.3</unitid>
-						<unittitle>Subseries 1.3: Oversized Material</unittitle>
-						<unitdate normal="1944/1958">1944 - 1958</unitdate>
-						<physdesc>
-							<extent type="boxes">Box: 3</extent>
-							<extent type="folders">Folders: 50 - 51</extent>
-						</physdesc>
-					</did>
-					<scopecontent>
-						<p>Series contains diplomas and preservation photocopies of damaged
+              <unitdate label="Date">1945 December 1, - 1945 December 12</unitdate>
+              <container type="box">2</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid>1.3</unitid>
+            <unittitle>Subseries 1.3: Oversized Material</unittitle>
+            <unitdate normal="1944/1958">1944 - 1958</unitdate>
+            <physdesc>
+              <extent type="boxes">Box: 3</extent>
+              <extent type="folders">Folders: 50 - 51</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Series contains diplomas and preservation photocopies of damaged
 							correspondences.</p>
-					</scopecontent>
-					<arrangement>
-						<p>Subject</p>
-					</arrangement>
-					<c03 level="subseries">
-						<did>
-							<unitid>1.3.1</unitid>
-							<unittitle>Subseries 1.3.1: Diplomas</unittitle>
-							<unitdate normal="1950/1956">1950 - 1956</unitdate>
-							<physdesc>
-								<extent type="boxes">Box: 3</extent>
-								<extent type="folders">Folder: 50</extent>
-							</physdesc>
-						</did>
-						<c04 level="file">
-							<did>
-								<container type="folder">50</container>
-								<unittitle>Diplomas from the United state Army Air Force Technical
+          </scopecontent>
+          <arrangement>
+            <p>Subject</p>
+          </arrangement>
+          <c03 level="subseries">
+            <did>
+              <unitid>1.3.1</unitid>
+              <unittitle>Subseries 1.3.1: Diplomas</unittitle>
+              <unitdate normal="1950/1956">1950 - 1956</unitdate>
+              <physdesc>
+                <extent type="boxes">Box: 3</extent>
+                <extent type="folders">Folder: 50</extent>
+              </physdesc>
+            </did>
+            <c04 level="file">
+              <did>
+                <container type="folder">50</container>
+                <unittitle>Diplomas from the United state Army Air Force Technical
 									school (enlisted Weather Forecaster); Marian College (BA: Cum
 									Lauda); Columbia University in New York City (Master of Arts) </unittitle>
-								<unitdate label="Date">1943 April 17, 1950 September 15, 1956
+                <unitdate label="Date">1943 April 17, 1950 September 15, 1956
 									December 19 </unitdate>
-								<container type="box">3</container>
-							</did>
-						</c04>
-					</c03>
-
-					<c03 level="subseries">
-						<did>
-							<unitid>1.3.2</unitid>
-							<unittitle>Subseries 1.3.2: Preservation Photocopies of Damaged
+                <container type="box">3</container>
+              </did>
+            </c04>
+          </c03>
+          <c03 level="subseries">
+            <did>
+              <unitid>1.3.2</unitid>
+              <unittitle>Subseries 1.3.2: Preservation Photocopies of Damaged
 								Correspondences</unittitle>
-							<unitdate normal="1944/1958">1944 - 1958</unitdate>
-							<physdesc>
-								<extent type="boxes">Box: 3</extent>
-								<extent type="folders">Folder: 51</extent>
-							</physdesc>
-						</did>
-						<c04 level="file">
-							<did>
-								<container type="folder">51</container>
-								<unittitle>Letters to immediate family detailing schedule, how he is
+              <unitdate normal="1944/1958">1944 - 1958</unitdate>
+              <physdesc>
+                <extent type="boxes">Box: 3</extent>
+                <extent type="folders">Folder: 51</extent>
+              </physdesc>
+            </did>
+            <c04 level="file">
+              <did>
+                <container type="folder">51</container>
+                <unittitle>Letters to immediate family detailing schedule, how he is
 									settling in and if there will be any changes to mailing address
 									when moving to different stations and day to day activity.
 									Original correspondences attached to photocopy. </unittitle>
-								<unitdate label="Date">1944 September 23, 1958 November
+                <unitdate label="Date">1944 September 23, 1958 November
 									16</unitdate>
-								<container type="box">3</container>
-							</did>
-						</c04>
-					</c03>
-
-				</c02>
-
-				<c02 level="subseries">
-					<did>
-						<unitid>1.4</unitid>
-						<unittitle>Subseries 1.4: Correspondences while in the Marist Brotherhood
+                <container type="box">3</container>
+              </did>
+            </c04>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid>1.4</unitid>
+            <unittitle>Subseries 1.4: Correspondences while in the Marist Brotherhood
 							1950 - 1959</unittitle>
-						<unitdate normal="1950/1959">1950 - 1959</unitdate>
-						<physdesc>
-							<extent type="boxes">Box: 4</extent>
-							<extent type="folders">Folders: 52 - 46</extent>
-						</physdesc>
-					</did>
-					<c03 level="file">
-						<did>
-							<container type="folder">52</container>
-							<unittitle>Letter to father from John Russell for Father’s Day from
+            <unitdate normal="1950/1959">1950 - 1959</unitdate>
+            <physdesc>
+              <extent type="boxes">Box: 4</extent>
+              <extent type="folders">Folders: 52 - 46</extent>
+            </physdesc>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="folder">52</container>
+              <unittitle>Letter to father from John Russell for Father’s Day from
 								Marian College that is run by the Marist brothers. Thanking his
 								father for all that he had done for him throughout his life. Letter
 								also gives updates on how the semester and classes are
 								going.</unittitle>
-							<unitdate label="Date">1950 June 18</unitdate>
-							<container type="box">4</container>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container type="folder">53</container>
-							<unittitle>Letter from the United States Treasury Department in New
+              <unitdate label="Date">1950 June 18</unitdate>
+              <container type="box">4</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">53</container>
+              <unittitle>Letter from the United States Treasury Department in New
 								York, NY to Genevieve from Brother Cornelius Russell. Giving his
 								sister Birthday wishes and reminiscing of child hood with his
 								sister.</unittitle>
-							<unitdate label="Date">1950 June 29</unitdate>
-							<container type="box">4</container>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container type="folder">54</container>
-							<unittitle>Letter to Brother Cornelius from fellow Marist Brother.
+              <unitdate label="Date">1950 June 29</unitdate>
+              <container type="box">4</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">54</container>
+              <unittitle>Letter to Brother Cornelius from fellow Marist Brother.
 								Letter contains sympathy regarding the death of Brother Cornelius’s
 								father.</unittitle>
-							<unitdate label="Date">1953 October 24</unitdate>
-							<container type="box">4</container>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container type="folder">55</container>
-							<unittitle>Letter to John from Aunt Helen. Letter contains updates on
+              <unitdate label="Date">1953 October 24</unitdate>
+              <container type="box">4</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">55</container>
+              <unittitle>Letter to John from Aunt Helen. Letter contains updates on
 								moving from one Chapel to another that is closer to family in New
 								York. Details continue about religious life and concern over
 								health.</unittitle>
-							<unitdate label="Date">1957 July 16</unitdate>
-							<container type="box">4</container>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container type="folder">56</container>
-							<unittitle>Correspondences to his family while training for the Marist
+              <unitdate label="Date">1957 July 16</unitdate>
+              <container type="box">4</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">56</container>
+              <unittitle>Correspondences to his family while training for the Marist
 								Brotherhood in Paris with other novices from around the world.
 								Letters contain information such as day to day activity and updates
 								on personal health.</unittitle>
-							<unitdate label="Date">1958 October - 1959 January 4</unitdate>
-							<container type="box">4</container>
-						</did>
-					</c03>
-
-				</c02>
-
-				<c02 level="subseries">
-					<did>
-						<unitid>1.5</unitid>
-						<unittitle>Subseries 1.5: Variety textual Material</unittitle>
-						<unitdate normal="1942/2007">1942 - 2007</unitdate>
-						<physdesc>
-							<extent type="boxes">Box: 5 </extent>
-							<extent type="folders">Folders: 57 - 76</extent>
-						</physdesc>
-					</did>
-					<scopecontent>
-						<p>Series contains correspondence, miscellaneous material, apologia, Gregory
+              <unitdate label="Date">1958 October - 1959 January 4</unitdate>
+              <container type="box">4</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid>1.5</unitid>
+            <unittitle>Subseries 1.5: Variety textual Material</unittitle>
+            <unitdate normal="1942/2007">1942 - 2007</unitdate>
+            <physdesc>
+              <extent type="boxes">Box: 5 </extent>
+              <extent type="folders">Folders: 57 - 76</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Series contains correspondence, miscellaneous material, apologia, Gregory
 							Bridge Club Notes, papers, envelopes, and a journal </p>
-					</scopecontent>
-					<arrangement>
-						<p>Subject</p>
-					</arrangement>
-					<c03 level="subseries">
-						<did>
-							<unitid>1.5.1</unitid>
-							<unittitle>Subseries 1.5.1: Correspondences with Missing
+          </scopecontent>
+          <arrangement>
+            <p>Subject</p>
+          </arrangement>
+          <c03 level="subseries">
+            <did>
+              <unitid>1.5.1</unitid>
+              <unittitle>Subseries 1.5.1: Correspondences with Missing
 								Pages</unittitle>
-							<unitdate normal="1942/1945">1942 - 1945</unitdate>
-							<physdesc>
-								<extent type="boxes">Box: 5</extent>
-								<extent type="folders">Folder: 57</extent>
-							</physdesc>
-						</did>
-						<c04 level="file">
-							<did>
-								<container type="foldaer">57</container>
-								<unittitle>World War II correspondences that have missing pages that
+              <unitdate normal="1942/1945">1942 - 1945</unitdate>
+              <physdesc>
+                <extent type="boxes">Box: 5</extent>
+                <extent type="folders">Folder: 57</extent>
+              </physdesc>
+            </did>
+            <c04 level="file">
+              <did>
+                <container type="foldaer">57</container>
+                <unittitle>World War II correspondences that have missing pages that
 									contain details his schedule, how he is settling in and if there
 									will be any changes to his mailing address when moving to
 									different stations and day to day activity.</unittitle>
-								<unitdate label="Date">Circa 1942 - 1945</unitdate>
-								<container type="box">5</container>
-							</did>
-						</c04>
-					</c03>
-
-					<c03 level="subseries">
-						<did>
-							<unitid>1.5.2</unitid>
-							<unittitle>Subseries 1.5.2: Miscellaneous Material</unittitle>
-							<unitdate normal="1942/2007">1942 - 2007</unitdate>
-							<physdesc>
-								<extent type="boxes">Box: 5</extent>
-								<extent type="folders">Folders: 58 - 70</extent>
-							</physdesc>
-						</did>
-						<c04 level="file">
-							<did>
-								<container type="folder">58</container>
-								<unittitle>contains a weather region map drawn my John
+                <unitdate label="Date">Circa 1942 - 1945</unitdate>
+                <container type="box">5</container>
+              </did>
+            </c04>
+          </c03>
+          <c03 level="subseries">
+            <did>
+              <unitid>1.5.2</unitid>
+              <unittitle>Subseries 1.5.2: Miscellaneous Material</unittitle>
+              <unitdate normal="1942/2007">1942 - 2007</unitdate>
+              <physdesc>
+                <extent type="boxes">Box: 5</extent>
+                <extent type="folders">Folders: 58 - 70</extent>
+              </physdesc>
+            </did>
+            <c04 level="file">
+              <did>
+                <container type="folder">58</container>
+                <unittitle>contains a weather region map drawn my John
 									Russell</unittitle>
-								<unitdate label="Date">Circa 1942</unitdate>
-								<container type="box">5</container>
-							</did>
-						</c04>
-						<c04 level="file">
-							<did>
-								<container type="folder">59</container>
-								<unittitle>An Early edition of the Marist College News paper “
+                <unitdate label="Date">Circa 1942</unitdate>
+                <container type="box">5</container>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="folder">59</container>
+                <unittitle>An Early edition of the Marist College News paper “
 									Reynard’s Record” that mentions brother Cornelius coming to
 									Marist College</unittitle>
-								<unitdate label="Date">1961, February 14</unitdate>
-								<container type="box">5</container>
-							</did>
-						</c04>
-						<c04 level="file">
-							<did>
-								<container type="folder">60</container>
-								<unittitle>A list of Names (possibly army friends)</unittitle>
-								<unitdate label="Date">Circa 1943</unitdate>
-								<container type="box">5</container>
-							</did>
-						</c04>
-						<c04 level="file">
-							<did>
-								<container type="folder">61</container>
-								<unittitle>A brief outline of the lives and death of Brother
+                <unitdate label="Date">1961, February 14</unitdate>
+                <container type="box">5</container>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="folder">60</container>
+                <unittitle>A list of Names (possibly army friends)</unittitle>
+                <unitdate label="Date">Circa 1943</unitdate>
+                <container type="box">5</container>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="folder">61</container>
+                <unittitle>A brief outline of the lives and death of Brother
 									Cornelius family</unittitle>
-								<unitdate label="Date">Circa 1960</unitdate>
-								<container type="box">5</container>
-							</did>
-						</c04>
-						<c04 level="file">
-							<did>
-								<container type="folder">62</container>
-								<unittitle>A letter Brother Cornelius wrote to a Michelle about
+                <unitdate label="Date">Circa 1960</unitdate>
+                <container type="box">5</container>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="folder">62</container>
+                <unittitle>A letter Brother Cornelius wrote to a Michelle about
 									having a birthday on leap year and its difficulties</unittitle>
-								<unitdate label="Date">Circa 1990</unitdate>
-								<container type="box">5</container>
-							</did>
-						</c04>
-						<c04 level="file">
-							<did>
-								<container type="folder">63</container>
-								<unittitle>A birthday card from the Marist Brothers</unittitle>
-								<unitdate label="Date">2007</unitdate>
-								<container type="box">5</container>
-							</did>
-						</c04>
-						<c04 level="file">
-							<did>
-								<container type="folder">64</container>
-								<unittitle>the back of a notebook with football players clearly
+                <unitdate label="Date">Circa 1990</unitdate>
+                <container type="box">5</container>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="folder">63</container>
+                <unittitle>A birthday card from the Marist Brothers</unittitle>
+                <unitdate label="Date">2007</unitdate>
+                <container type="box">5</container>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="folder">64</container>
+                <unittitle>the back of a notebook with football players clearly
 									labeled “Fordham” and “Notre Dame”</unittitle>
-								<unitdate label="Date">Circa 1945</unitdate>
-								<container type="box">5</container>
-							</did>
-						</c04>
-						<c04 level="file">
-							<did>
-								<container type="folder">65</container>
-								<unittitle>A typed letter to the office of President Elect Barack
+                <unitdate label="Date">Circa 1945</unitdate>
+                <container type="box">5</container>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="folder">65</container>
+                <unittitle>A typed letter to the office of President Elect Barack
 									Obama from the archbishop of Chicago, Francis Cardinal
 									George.</unittitle>
-								<unitdate label="Date">2008</unitdate>
-								<container type="box">5</container>
-							</did>
-						</c04>
-						<c04 level="file">
-							<did>
-								<container type="folder">66</container>
-								<unittitle>Unknown Hand written Correspondence</unittitle>
-								<unitdate label="Date">Circa 1950</unitdate>
-								<container type="box">5</container>
-							</did>
-						</c04>
-						<c04 level="file">
-							<did>
-								<container type="folder">67</container>
-								<unittitle>Passport of Mary A. Russell (Contains
+                <unitdate label="Date">2008</unitdate>
+                <container type="box">5</container>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="folder">66</container>
+                <unittitle>Unknown Hand written Correspondence</unittitle>
+                <unitdate label="Date">Circa 1950</unitdate>
+                <container type="box">5</container>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="folder">67</container>
+                <unittitle>Passport of Mary A. Russell (Contains
 									Picture)</unittitle>
-								<unitdate label="Date">Issued 1975 July 15</unitdate>
-								<container type="box">5</container>
-							</did>
-						</c04>
-						<c04 level="file">
-							<did>
-								<container type="folder">68</container>
-								<unittitle>Prayer Book</unittitle>
-								<unitdate label="Date">2007</unitdate>
-								<container type="box">5</container>
-							</did>
-						</c04>
-						<c04 level="file">
-							<did>
-								<container type="folder">69</container>
-								<unittitle>Funeral Program for Brother Cornelius</unittitle>
-								<unitdate label="Date">2009</unitdate>
-								<container type="box">5</container>
-							</did>
-						</c04>
-						<c04 level="file">
-							<did>
-								<container type="folder">70</container>
-								<unittitle>News letter from the Cabrini Nursing Home containing an
+                <unitdate label="Date">Issued 1975 July 15</unitdate>
+                <container type="box">5</container>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="folder">68</container>
+                <unittitle>Prayer Book</unittitle>
+                <unitdate label="Date">2007</unitdate>
+                <container type="box">5</container>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="folder">69</container>
+                <unittitle>Funeral Program for Brother Cornelius</unittitle>
+                <unitdate label="Date">2009</unitdate>
+                <container type="box">5</container>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="folder">70</container>
+                <unittitle>News letter from the Cabrini Nursing Home containing an
 									article about Brother Cornelius</unittitle>
-								<unitdate label="Date">2007</unitdate>
-								<container type="box">5</container>
-							</did>
-						</c04>
-					</c03>
-
-					<c03 level="subseries">
-						<did>
-							<unitid>1.5.3</unitid>
-							<unittitle>Subseries 1.5.3: Apologia</unittitle>
-							<unitdate normal="2001/2004">2001 - 2004</unitdate>
-							<physdesc>
-								<extent type="boxes">Box: 5</extent>
-								<extent type="folders">Folder: 71</extent>
-							</physdesc>
-						</did>
-						<c04 level="file">
-							<did>
-								<container type="folder">71</container>
-								<unittitle>Friend and Classmate of Brother Cornelius; Brother Joe’s
+                <unitdate label="Date">2007</unitdate>
+                <container type="box">5</container>
+              </did>
+            </c04>
+          </c03>
+          <c03 level="subseries">
+            <did>
+              <unitid>1.5.3</unitid>
+              <unittitle>Subseries 1.5.3: Apologia</unittitle>
+              <unitdate normal="2001/2004">2001 - 2004</unitdate>
+              <physdesc>
+                <extent type="boxes">Box: 5</extent>
+                <extent type="folders">Folder: 71</extent>
+              </physdesc>
+            </did>
+            <c04 level="file">
+              <did>
+                <container type="folder">71</container>
+                <unittitle>Friend and Classmate of Brother Cornelius; Brother Joe’s
 									Apologia consist of a detailed rendition of his life and an
 									explanation on why Brother Joe chose the Marist brotherhood and
 									devoted himself to God.</unittitle>
-								<unitdate label="Date">Begun: 2001 August, Completed: 2004
+                <unitdate label="Date">Begun: 2001 August, Completed: 2004
 									August</unitdate>
-								<container type="box">5</container>
-							</did>
-						</c04>
-					</c03>
-
-					<c03 level="subseries">
-						<did>
-							<unitid>1.5.4</unitid>
-							<unittitle>Subseries 1.5.4: Gregory Bridge Club Notes</unittitle>
-							<unitdate normal="1971/1977">1971 - 1977</unitdate>
-							<physdesc>
-								<extent type="boxes">Box: 5</extent>
-								<extent type="folders">Folder: 72</extent>
-							</physdesc>
-						</did>
-						<c04 level="file">
-							<did>
-								<container type="folder">72</container>
-								<unittitle>The Gregory Bridge Club Meeting Notes taken by the
+                <container type="box">5</container>
+              </did>
+            </c04>
+          </c03>
+          <c03 level="subseries">
+            <did>
+              <unitid>1.5.4</unitid>
+              <unittitle>Subseries 1.5.4: Gregory Bridge Club Notes</unittitle>
+              <unitdate normal="1971/1977">1971 - 1977</unitdate>
+              <physdesc>
+                <extent type="boxes">Box: 5</extent>
+                <extent type="folders">Folder: 72</extent>
+              </physdesc>
+            </did>
+            <c04 level="file">
+              <did>
+                <container type="folder">72</container>
+                <unittitle>The Gregory Bridge Club Meeting Notes taken by the
 									secretary of the club; Brother Cornelius.</unittitle>
-								<unitdate label="Date">Circa 1971-1977</unitdate>
-								<container type="box">5</container>
-							</did>
-						</c04>
-					</c03>
-
-					<c03 level="subseries">
-						<did>
-							<unitid>1.5.5</unitid>
-							<unittitle>Subseries 1.5.5: Papers</unittitle>
-							<physdesc>
-								<extent type="boxes">Box: 5</extent>
-								<extent type="folders">Folders: 73 - 74</extent>
-							</physdesc>
-						</did>
-						<c04 level="file">
-							<did>
-								<container type="folder">73</container>
-								<unittitle>Genealogical analysis of “The Russell’s” using censuses,
+                <unitdate label="Date">Circa 1971-1977</unitdate>
+                <container type="box">5</container>
+              </did>
+            </c04>
+          </c03>
+          <c03 level="subseries">
+            <did>
+              <unitid>1.5.5</unitid>
+              <unittitle>Subseries 1.5.5: Papers</unittitle>
+              <physdesc>
+                <extent type="boxes">Box: 5</extent>
+                <extent type="folders">Folders: 73 - 74</extent>
+              </physdesc>
+            </did>
+            <c04 level="file">
+              <did>
+                <container type="folder">73</container>
+                <unittitle>Genealogical analysis of “The Russell’s” using censuses,
 									death, birth, and marriage records to trace an ancestral
 									line.</unittitle>
-								<unitdate label="Date">Circa 1861- 1906</unitdate>
-								<container type="box">5</container>
-							</did>
-						</c04>
-						<c04 level="file">
-							<did>
-								<container type="folder">74</container>
-								<unittitle>Veterans History project for the Library of Congress.
+                <unitdate label="Date">Circa 1861- 1906</unitdate>
+                <container type="box">5</container>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="folder">74</container>
+                <unittitle>Veterans History project for the Library of Congress.
 									John Russell is interviews about his years in World War II by
 									second cousin.</unittitle>
-								<unitdate label="Date">2006 October 2</unitdate>
-								<container type="box">5</container>
-							</did>
-						</c04>
-					</c03>
-
-					<c03 level="subseries">
-						<did>
-							<unitid>1.5.6</unitid>
-							<unittitle>Subseries 1.5.6: Envelopes</unittitle>
-							<unitdate normal="1942/2007">1942 - 2007</unitdate>
-							<physdesc>
-								<extent type="boxes">Box: 5</extent>
-								<extent type="folders">Folder: 75</extent>
-							</physdesc>
-						</did>
-						<c04 level="file">
-							<did>
-								<container type="folder">75</container>
-								<unittitle>Envelopes that do not correspond to
+                <unitdate label="Date">2006 October 2</unitdate>
+                <container type="box">5</container>
+              </did>
+            </c04>
+          </c03>
+          <c03 level="subseries">
+            <did>
+              <unitid>1.5.6</unitid>
+              <unittitle>Subseries 1.5.6: Envelopes</unittitle>
+              <unitdate normal="1942/2007">1942 - 2007</unitdate>
+              <physdesc>
+                <extent type="boxes">Box: 5</extent>
+                <extent type="folders">Folder: 75</extent>
+              </physdesc>
+            </did>
+            <c04 level="file">
+              <did>
+                <container type="folder">75</container>
+                <unittitle>Envelopes that do not correspond to
 									correspondences</unittitle>
-								<unitdate label="Date">Circa 1942 -2007</unitdate>
-								<container type="box">5</container>
-							</did>
-						</c04>
-					</c03>
-
-					<c03 level="subseries">
-						<did>
-							<unitid>1.5.7</unitid>
-							<unittitle>Subseries 1.5.7: Journal</unittitle>
-							<unitdate normal="1972/1975">1972 - 1975</unitdate>
-							<physdesc>
-								<extent type="boxes">Box: 5</extent>
-								<extent type="folders">Folder: 76</extent>
-							</physdesc>
-						</did>
-						<c04 level="file">
-							<did>
-								<container type="folder">76</container>
-								<unittitle>A small journal kept by brother Cornelius of two trips
+                <unitdate label="Date">Circa 1942 -2007</unitdate>
+                <container type="box">5</container>
+              </did>
+            </c04>
+          </c03>
+          <c03 level="subseries">
+            <did>
+              <unitid>1.5.7</unitid>
+              <unittitle>Subseries 1.5.7: Journal</unittitle>
+              <unitdate normal="1972/1975">1972 - 1975</unitdate>
+              <physdesc>
+                <extent type="boxes">Box: 5</extent>
+                <extent type="folders">Folder: 76</extent>
+              </physdesc>
+            </did>
+            <c04 level="file">
+              <did>
+                <container type="folder">76</container>
+                <unittitle>A small journal kept by brother Cornelius of two trips
 									taken in Europe with his sisters, May and Genevieve.</unittitle>
-								<unitdate label="Date">First trip: 1972 May 28- June 18, Second
+                <unitdate label="Date">First trip: 1972 May 28- June 18, Second
 									trip: 1975 August 1- August 27</unitdate>
-								<container type="box">5</container>
-							</did>
-						</c04>
-					</c03>
-				</c02>
-
-				<c02 level="subseries">
-					<did>
-						<unitid>1.6</unitid>
-						<unittitle>Subseries 1.6: Awards</unittitle>
-						<unitdate normal="1955/2003">1955 - 2003</unitdate>
-						<physdesc>
-							<extent type="boxes">Box: 6</extent>
-							<extent type="folders">Folders: 77 - 79</extent>
-						</physdesc>
-					</did>
-					<c03 level="file">
-						<did>
-							<container type="folder">77</container>
-							<unittitle>Marist College Presidents Award</unittitle>
-							<unitdate label="Date">1955 May 20</unitdate>
-							<container type="box">6</container>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container type="folder">78</container>
-							<unittitle>Pope John Paul II Apostolic Blessing of Brother Cornelius
+                <container type="box">5</container>
+              </did>
+            </c04>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid>1.6</unitid>
+            <unittitle>Subseries 1.6: Awards</unittitle>
+            <unitdate normal="1955/2003">1955 - 2003</unitdate>
+            <physdesc>
+              <extent type="boxes">Box: 6</extent>
+              <extent type="folders">Folders: 77 - 79</extent>
+            </physdesc>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="folder">77</container>
+              <unittitle>Marist College Presidents Award</unittitle>
+              <unitdate label="Date">1955 May 20</unitdate>
+              <container type="box">6</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">78</container>
+              <unittitle>Pope John Paul II Apostolic Blessing of Brother Cornelius
 								Russell</unittitle>
-							<unitdate label="Date">1996 March 3</unitdate>
-							<container type="box">6</container>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container type="folder">79</container>
-							<unittitle>Heritage Professor Title to Brother Cornelius
+              <unitdate label="Date">1996 March 3</unitdate>
+              <container type="box">6</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">79</container>
+              <unittitle>Heritage Professor Title to Brother Cornelius
 								Russell</unittitle>
-							<unitdate label="Date">2003 October 10</unitdate>
-							<container type="box">6</container>
-						</did>
-					</c03>
-				</c02>
-
-			</c01>
-
-			<c01 level="series">
-				<did>
-					<unitid>2</unitid>
-					<unittitle>2. Photographic Material</unittitle>
-					<unitdate normal="1900/2009">1900 - 2009</unitdate>
-					<physdesc>
-						<extent type="boxes">Box: 7</extent>
-						<extent type="folders">Folders: 80 - 95</extent>
-					</physdesc>
-				</did>
-				<scopecontent>
-					<p>Series contains photographic materials</p>
-				</scopecontent>
-				<arrangement>
-					<p>Subject</p>
-				</arrangement>
-
-
-				<c02 level="file">
-					<did>
-						<container type="folder">80</container>
-						<unittitle>Early years of Brother Cornelius and immediate family</unittitle>
-						<unitdate label="Date">1900- 1947</unitdate>
-						<container type="box">7</container>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container type="folder">81</container>
-						<unittitle>United States Army Photos: Brother Cornelius in full uniform; and
+              <unitdate label="Date">2003 October 10</unitdate>
+              <container type="box">6</container>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unitid>2</unitid>
+          <unittitle>2. Photographic Material</unittitle>
+          <unitdate normal="1900/2009">1900 - 2009</unitdate>
+          <physdesc>
+            <extent type="boxes">Box: 7</extent>
+            <extent type="folders">Folders: 80 - 95</extent>
+          </physdesc>
+        </did>
+        <scopecontent>
+          <p>Series contains photographic materials</p>
+        </scopecontent>
+        <arrangement>
+          <p>Subject</p>
+        </arrangement>
+        <c02 level="file">
+          <did>
+            <container type="folder">80</container>
+            <unittitle>Early years of Brother Cornelius and immediate family</unittitle>
+            <unitdate label="Date">1900- 1947</unitdate>
+            <container type="box">7</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">81</container>
+            <unittitle>United States Army Photos: Brother Cornelius in full uniform; and
 							Army friends.</unittitle>
-						<unitdate label="Date">1940- 1943</unitdate>
-						<container type="box">7</container>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container type="folder">82</container>
-						<unittitle>Marist brother Photos: Novitiate years; Official Marist
+            <unitdate label="Date">1940- 1943</unitdate>
+            <container type="box">7</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">82</container>
+            <unittitle>Marist brother Photos: Novitiate years; Official Marist
 							Brother.</unittitle>
-						<unitdate label="Date">1948- 1958</unitdate>
-						<container type="box">7</container>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container type="folder">83</container>
-						<unittitle>Later Family Photos: Brother Cornelius later in life with
+            <unitdate label="Date">1948- 1958</unitdate>
+            <container type="box">7</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">83</container>
+            <unittitle>Later Family Photos: Brother Cornelius later in life with
 							Sisters.</unittitle>
-						<unitdate label="Date">1983- 1991</unitdate>
-						<container type="box">7</container>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container type="folder">84</container>
-						<unittitle>Papal Blessing Ceremony Photos: Cornelius receiving the Papal
+            <unitdate label="Date">1983- 1991</unitdate>
+            <container type="box">7</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">84</container>
+            <unittitle>Papal Blessing Ceremony Photos: Cornelius receiving the Papal
 							Blessing.</unittitle>
-						<unitdate label="Date">1988 March</unitdate>
-						<container type="box">7</container>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container type="folder">85</container>
-						<unittitle>Commencement Ceremony Photos: Brother Cornelius being recognized
+            <unitdate label="Date">1988 March</unitdate>
+            <container type="box">7</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">85</container>
+            <unittitle>Commencement Ceremony Photos: Brother Cornelius being recognized
 							for his work at Marist College before he retires. Receiving Presidents
 							Award.</unittitle>
-						<unitdate label="Date">Circa 1995</unitdate>
-						<container type="box">7</container>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container type="folder">86</container>
-						<unittitle>Graduation Ceremony Photos: Brother Cornelius taking part in
+            <unitdate label="Date">Circa 1995</unitdate>
+            <container type="box">7</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">86</container>
+            <unittitle>Graduation Ceremony Photos: Brother Cornelius taking part in
 							graduation ceremony.</unittitle>
-						<unitdate label="Date">Circa 1996</unitdate>
-						<container type="box">7</container>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container type="folder">87</container>
-						<unittitle>Marist College Campus photos: Brother Cornelius and his sisters
+            <unitdate label="Date">Circa 1996</unitdate>
+            <container type="box">7</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">87</container>
+            <unittitle>Marist College Campus photos: Brother Cornelius and his sisters
 							visit Holy Trinity Church at Marist College.</unittitle>
-						<unitdate label="Date">1994 December - 1995 August</unitdate>
-						<container type="box">7</container>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container type="folder">88</container>
-						<unittitle>Spring Lake Photos: Brother Cornelius and family vacationing at
+            <unitdate label="Date">1994 December - 1995 August</unitdate>
+            <container type="box">7</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">88</container>
+            <unittitle>Spring Lake Photos: Brother Cornelius and family vacationing at
 							Spring Lake in New Jersey.</unittitle>
-						<unitdate label="Date">Circa 1995</unitdate>
-						<container type="box">7</container>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container type="folder">89</container>
-						<unittitle>Jubilee Photos: Brother Cornelius, family and other guests at
+            <unitdate label="Date">Circa 1995</unitdate>
+            <container type="box">7</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">89</container>
+            <unittitle>Jubilee Photos: Brother Cornelius, family and other guests at
 							spring Jubilee.</unittitle>
-						<unitdate label="Date">Circa 1997</unitdate>
-						<container type="box">7</container>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container type="folder">90</container>
-						<unittitle>Brother Cornelius and other Marist Brothers at Nursing home and
+            <unitdate label="Date">Circa 1997</unitdate>
+            <container type="box">7</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">90</container>
+            <unittitle>Brother Cornelius and other Marist Brothers at Nursing home and
 							other outings.</unittitle>
-						<unitdate label="Date">1993- 2000</unitdate>
-						<container type="box">7</container>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container type="folder">91</container>
-						<unittitle>Heritage Professors Photos: Brother Cornelius and other
+            <unitdate label="Date">1993- 2000</unitdate>
+            <container type="box">7</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">91</container>
+            <unittitle>Heritage Professors Photos: Brother Cornelius and other
 							recipients receiving the Heritage Professor Award.</unittitle>
-						<unitdate label="Date">2003 October 10</unitdate>
-						<container type="box">7</container>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container type="folder">92</container>
-						<unittitle>Brother Cornelius, Family and close friend Prayer
+            <unitdate label="Date">2003 October 10</unitdate>
+            <container type="box">7</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">92</container>
+            <unittitle>Brother Cornelius, Family and close friend Prayer
 							cards.</unittitle>
-						<unitdate label="Date">1900 November - 2009 October</unitdate>
-						<container type="box">7</container>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container type="folder">93</container>
-						<unittitle>Marist Brother Prayer Cards</unittitle>
-						<unitdate label="Date">1959 July - 2008 April</unitdate>
-						<container type="box">7</container>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container type="folder">94</container>
-						<unittitle>Prayer Cards</unittitle>
-						<unitdate label="Date">Undated</unitdate>
-						<container type="box">7</container>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container type="folder">95</container>
-						<unittitle>Miscellaneous Photos: Nursing home Photos, Family
+            <unitdate label="Date">1900 November - 2009 October</unitdate>
+            <container type="box">7</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">93</container>
+            <unittitle>Marist Brother Prayer Cards</unittitle>
+            <unitdate label="Date">1959 July - 2008 April</unitdate>
+            <container type="box">7</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">94</container>
+            <unittitle>Prayer Cards</unittitle>
+            <unitdate label="Date">Undated</unitdate>
+            <container type="box">7</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">95</container>
+            <unittitle>Miscellaneous Photos: Nursing home Photos, Family
 							members</unittitle>
-						<unitdate label="Date">1977-2007</unitdate>
-						<container type="box">7</container>
-					</did>
-				</c02>
-			</c01>
-
-			<c01 level="series">
-				<did>
-					<unitid>3</unitid>
-					<unittitle>3. Textile Material</unittitle>
-					<unitdate normal="1942">1942</unitdate>
-					<physdesc>
-						<extent type="boxes">Box: 8</extent>
-						<extent type="folders">Folder: 96</extent>
-					</physdesc>
-				</did>
-				<c02 level="file">
-					<did>
-						<container type="folder">96</container>
-						<unittitle>WWII uniform jacket and shirt</unittitle>
-						<unitdate label="Date">Circa 1942</unitdate>
-						<container type="box">8</container>
-					</did>
-				</c02>
-			</c01>
-
-			<c01 level="series">
-				<did>
-					<unitid>4</unitid>
-					<unittitle>4. Personal Materials</unittitle>
-					<physdesc>
-						<extent type="boxes">Box: 9</extent>
-						<extent type="folders">Folders: 97 - 101</extent>
-					</physdesc>
-				</did>
-				<scopecontent>
-					<p>Series contains physical personal materials including VHS tapes, a plate,
+            <unitdate label="Date">1977-2007</unitdate>
+            <container type="box">7</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unitid>3</unitid>
+          <unittitle>3. Textile Material</unittitle>
+          <unitdate normal="1942">1942</unitdate>
+          <physdesc>
+            <extent type="boxes">Box: 8</extent>
+            <extent type="folders">Folder: 96</extent>
+          </physdesc>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="folder">96</container>
+            <unittitle>WWII uniform jacket and shirt</unittitle>
+            <unitdate label="Date">Circa 1942</unitdate>
+            <container type="box">8</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unitid>4</unitid>
+          <unittitle>4. Personal Materials</unittitle>
+          <physdesc>
+            <extent type="boxes">Box: 9</extent>
+            <extent type="folders">Folders: 97 - 101</extent>
+          </physdesc>
+        </did>
+        <scopecontent>
+          <p>Series contains physical personal materials including VHS tapes, a plate,
 						uniform pins, an American flad, and an anitque frame.</p>
-				</scopecontent>
-				<arrangement>
-					<p>Subject</p>
-				</arrangement>
-				<c02 level="file">
-					<did>
-						<container type="folder">97</container>
-						<unittitle>Heritage Professors VHS</unittitle>
-						<unitdate label="Date">Circa 2003</unitdate>
-						<container type="box">9</container>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container type="folder">98</container>
-						<unittitle>Brother Cornelius name plate</unittitle>
-						<unitdate label="Date">Undated</unitdate>
-						<container type="box">9</container>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container type="folder">99</container>
-						<unittitle>Pins from Uniform: Rank Stripes (Tec. Sergeant)</unittitle>
-						<unitdate label="Date">Circa 1943</unitdate>
-						<container type="box">9</container>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container type="folder">100</container>
-						<unittitle>Small American Flag</unittitle>
-						<unitdate label="Date">Undated</unitdate>
-						<container type="box">9</container>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container type="folder">101</container>
-						<unittitle>Antique Frame ( see box 6)</unittitle>
-						<unitdate label="Date">Circa 1900</unitdate>
-						<container type="box">9</container>
-					</did>
-				</c02>
-			</c01>
-		</dsc>
-	</archdesc>
+        </scopecontent>
+        <arrangement>
+          <p>Subject</p>
+        </arrangement>
+        <c02 level="file">
+          <did>
+            <container type="folder">97</container>
+            <unittitle>Heritage Professors VHS</unittitle>
+            <unitdate label="Date">Circa 2003</unitdate>
+            <container type="box">9</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">98</container>
+            <unittitle>Brother Cornelius name plate</unittitle>
+            <unitdate label="Date">Undated</unitdate>
+            <container type="box">9</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">99</container>
+            <unittitle>Pins from Uniform: Rank Stripes (Tec. Sergeant)</unittitle>
+            <unitdate label="Date">Circa 1943</unitdate>
+            <container type="box">9</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">100</container>
+            <unittitle>Small American Flag</unittitle>
+            <unitdate label="Date">Undated</unitdate>
+            <container type="box">9</container>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">101</container>
+            <unittitle>Antique Frame ( see box 6)</unittitle>
+            <unitdate label="Date">Circa 1900</unitdate>
+            <container type="box">9</container>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
 </ead>
