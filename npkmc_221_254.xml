@@ -11,7 +11,7 @@
 					Aid Encoding updated by: Abigail Bowen, 2022</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>Marist College <lb/>Archives and Special Collections </publisher>
+        <publisher>Marist University <lb/>Archives and Special Collections </publisher>
         <address>
           <addressline>3399 North Road <lb/>Poughkeepsie, NY 12601 <lb/>Phone:
 						845-575-5217 <lb/>Fax: 845-575-3150 <lb/>Email:
@@ -50,7 +50,7 @@
         <language langcode="eng">English</language>
       </langmaterial>
       <repository>
-        <corpname>Marist College Archives and Special Collections</corpname>
+        <corpname>Marist University Archives and Special Collections</corpname>
       </repository>
       <abstract>The Scenic Hudson, Inc. Administrative History Collection documents the
 				development of the environmental group from their landmark achievement of preserving
@@ -62,12 +62,12 @@
 				variety of other printed materials. Also included in the collection are files
 				dealing with such topics as dredging, air pollution, Danskammer, the Marcy-South
 				transmission lines, as well as a variety of other subjects. </abstract>
-      <physloc>Please contact the Marist College Archives and Special Collections for
+      <physloc>Please contact the Marist University Archives and Special Collections for
 				information regarding use and access of this collection.</physloc>
     </did>
     <acqinfo>
       <p>Scenic Hudson, Inc. donated The Scenic Hudson, Inc. Administrative History Collection
-				to the Marist College Library in 2003.</p>
+				to the Marist University Library in 2003.</p>
     </acqinfo>
     <accessrestrict>
       <p>There are no restrictions on this collection</p>
@@ -153,12 +153,12 @@
       <head>Preferred Citation</head>
       <p>[Description of item, date, location of item in order of series, box number, folder
 				number ], in the The Scenic Hudson, Inc. Administrative History Collection, Archives
-				and Special Collections, James A. Cannavino Library, Marist College.</p>
+				and Special Collections, James A. Cannavino Library, Marist University.</p>
     </prefercite>
     <userestrict>
       <p>Individuals requesting reproductions expressly assume the responsibility for
 				compliance with all pertinent provisions of the Copyright Act, 17 U.S.C. ss101 et
-				seq. Patrons further agree to indemnify and hold harmless the Marist College
+				seq. Patrons further agree to indemnify and hold harmless the Marist University
 				Archives and Special Collections and its staff in connection with any disputes
 				arising from the Copyright Act, over the reproduction of material at the request of
 				patrons. For more information please visit the following website:
@@ -276,7 +276,7 @@
         <c02 level="file">
           <did>
             <container type="folder">1</container>
-            <unittitle>Marist College Seminar</unittitle>
+            <unittitle>Marist University Seminar</unittitle>
             <container type="box">2</container>
           </did>
         </c02>
@@ -3127,7 +3127,7 @@
           <c03 level="file">
             <did>
               <container type="folder">4</container>
-              <unittitle>Marist College Report of Gifts, 1998</unittitle>
+              <unittitle>Marist University Report of Gifts, 1998</unittitle>
               <container type="box">39</container>
             </did>
           </c03>
@@ -3286,7 +3286,7 @@
           <c03 level="file">
             <did>
               <container type="folder">8</container>
-              <unittitle>Visitor’s Guide to Marist College and The Historic Hudson
+              <unittitle>Visitor’s Guide to Marist University and The Historic Hudson
 								Valley</unittitle>
               <container type="box">40</container>
             </did>
@@ -4018,7 +4018,7 @@
           <c03 level="file">
             <did>
               <container type="folder">5</container>
-              <unittitle>Marist College Report</unittitle>
+              <unittitle>Marist University Report</unittitle>
               <container type="box">43</container>
             </did>
           </c03>

@@ -11,7 +11,7 @@
 					Bowen, 2022</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>Marist College <lb/>Archives and Special Collections </publisher>
+        <publisher>Marist University <lb/>Archives and Special Collections </publisher>
         <address>
           <addressline>3399 North Road <lb/>Poughkeepsie, NY 12601 <lb/>Phone:
 						845-575-5217 <lb/>Fax: 845-575-3150 <lb/>Email: library.archives@marist.edu<lb/>Website:
@@ -46,7 +46,7 @@
         <extent type="size">42 Linear Feet</extent>
       </physdesc>
       <repository>
-        <corpname>Marist College <lb/>Archives and Special Collections </corpname>
+        <corpname>Marist University <lb/>Archives and Special Collections </corpname>
       </repository>
       <origination label="creator">
         <persname>The Reese Family</persname>
@@ -59,7 +59,7 @@
 				Mesier Reese. The papers contain indentures, personal, political, and business
 				correspondence, military documents, manuscripts, scrapbooks, invoices, promissory notes, canceled checks, financial ledgers,
 				diaries, passports, newspaper clippings, and photographs.</abstract>
-      <physloc>Please contact the Marist College Archives and Special Collections for
+      <physloc>Please contact the Marist University Archives and Special Collections for
 				information regarding use and access of this collection.</physloc>
     </did>
     <scopecontent>
@@ -92,7 +92,7 @@
     </scopecontent>
     <acqinfo>
       <head>Acquisitions Information</head>
-      <p>The Reese Family Papers were donated to Marist College by the Reese family in
+      <p>The Reese Family Papers were donated to Marist University by the Reese family in
 				2006.</p>
     </acqinfo>
     <bioghist encodinganalog="545">
@@ -164,7 +164,7 @@
       <head>Notice of Copyright</head>
       <p>Individuals requesting reproductions expressly assume the responsibility for
 				compliance with all pertinent provisions of the Copyright Act, 17 U.S.C. ss101 et
-				seq. Patrons further agree to indemnify and hold harmless the Marist College
+				seq. Patrons further agree to indemnify and hold harmless the Marist University
 				Archives and Special Collections and its staff in connection with any disputes
 				arising from the Copyright Act, over the reproduction of material at the request of
 				patrons. For more information please visit the following website:
@@ -174,7 +174,7 @@
       <head>Preferred Citation</head>
       <p>[Description of item, date, location of item in order of series, box number, folder
 				number ], in the Reese Family Papers, Archives and Special Collections, James A.
-				Cannavino Library, Marist College.</p>
+				Cannavino Library, Marist University.</p>
     </prefercite>
     <arrangement>
       <head>Arrangement of the Collection</head>
@@ -2137,7 +2137,7 @@
             <c04 level="file">
               <did>
                 <container type="folder">17</container>
-                <unittitle>Marist College - association and awarding of a Doctor of
+                <unittitle>Marist University - association and awarding of a Doctor of
 									Humane Letters</unittitle>
                 <unitdate label="Date">2000 - 2003</unitdate>
                 <container type="box">7</container>

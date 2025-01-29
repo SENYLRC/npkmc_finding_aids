@@ -12,7 +12,7 @@
 					2022</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>Marist College <lb/>Archives and Special Collections </publisher>
+        <publisher>Marist University <lb/>Archives and Special Collections </publisher>
         <address>
           <addressline>3399 North Road <lb/>Poughkeepsie, NY 12601 <lb/>Phone:
 						845-575-5217 <lb/>Fax: 845-575-3150 Email:
@@ -46,7 +46,7 @@
         <extent type="size">0.75 Linear Feet</extent>
       </physdesc>
       <repository>
-        <corpname>Marist College Archives and Special Collections</corpname>
+        <corpname>Marist University Archives and Special Collections</corpname>
       </repository>
       <origination label="creator">
         <persname>Thomas Steininger</persname>
@@ -67,7 +67,7 @@
 				mementos from Thomas Steininger’s years with the Marist Brothers.</p>
     </scopecontent>
     <acqinfo>
-      <p>The collection was donated to Marist College from Jo Steininger, widow of the late
+      <p>The collection was donated to Marist University from Jo Steininger, widow of the late
 				Thomas Steininger.</p>
     </acqinfo>
     <bioghist encodinganalog="545">
@@ -90,7 +90,7 @@
       <head>Notice of Copyright</head>
       <p>Individuals requesting reproductions expressly assume the responsibility for
 				compliance with all pertinent provisions of the Copyright Act, 17 U.S.C. ss101 et
-				seq. Patrons further agree to indemnify and hold harmless the Marist College
+				seq. Patrons further agree to indemnify and hold harmless the Marist University
 				Archives and Special Collections and its staff in connection with any disputes
 				arising from the Copyright Act, over the reproduction of material at the request of
 				patrons. For more information please visit the following website:
@@ -100,7 +100,7 @@
       <head>Preferred Citation</head>
       <p>[Description of item, date, location of item in order of series, box number, folder
 				number ], in the Thomas Steininger Collection, Archives and Special Collections,
-				James A. Cannavino Library, Marist College.</p>
+				James A. Cannavino Library, Marist University.</p>
     </prefercite>
     <dsc type="combined">
       <c01 level="series">
@@ -183,7 +183,7 @@
         <c02 level="file">
           <did>
             <container type="folder">10</container>
-            <unittitle>Marist College catalog</unittitle>
+            <unittitle>Marist University catalog</unittitle>
             <container type="box">1</container>
           </did>
         </c02>

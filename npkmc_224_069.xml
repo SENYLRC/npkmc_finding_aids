@@ -11,7 +11,7 @@
                     2022</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>Marist College <lb/>Archives and Special Collections </publisher>
+        <publisher>Marist University <lb/>Archives and Special Collections </publisher>
         <address>
           <addressline>3399 North Road <lb/>Poughkeepsie, NY 12601 <lb/>Phone:
                         845-575-5217 <lb/>Fax: 845-575-3150 Email:
@@ -45,7 +45,7 @@
         <extent type="size">11 Linear Feet</extent>
       </physdesc>
       <repository>
-        <corpname>Marist College Archives and Special Collections</corpname>
+        <corpname>Marist University Archives and Special Collections</corpname>
       </repository>
       <origination label="creator">
         <persname>Gerard A. Cox</persname>
@@ -68,20 +68,20 @@
       <p>The Student Theatre Collection consists of plays, both amateur (student) written
                 plays and professional theatre productions. The student written plays were developed
                 under the direction of Gerard A. Cox. Also included are several videotapes of the
-                Marist College Council on Theatre Arts productions and the annual Spring Festival
+                Marist University Council on Theatre Arts productions and the annual Spring Festival
                 featuring productions of student written plays, theatre production programs, and a
                 manuscript by Gerard A. Cox covering the history of the theatre program at Marist
                 College from its inception in 1960 through 2008.</p>
     </scopecontent>
     <acqinfo>
-      <p>The Student Theatre Collection was developed and donated to the Marist College
+      <p>The Student Theatre Collection was developed and donated to the Marist University
                 Library by Gerard A. Cox. The manuscript written by Gerard A. Cox was donated by
-                Marist College President Dennis J. Murray.</p>
+                Marist University President Dennis J. Murray.</p>
     </acqinfo>
     <bioghist encodinganalog="545" id="historical">
       <head>Historical Note</head>
-      <p>Gerard A. Cox was a graduate of Marist College. After completing his graduate degree
-                at Hunter College, he joined the Marist College English Faculty in 1966. In 1969
+      <p>Gerard A. Cox was a graduate of Marist University. After completing his graduate degree
+                at Hunter College, he joined the Marist University English Faculty in 1966. In 1969
                 Professor Cox was also appointed Associate Dean under the Academic Dean, then the
                 chief academic officer at the college while continuing to work with departmental
                 colleagues on designing and teaching a variety of new courses. Ten years later, in
@@ -104,13 +104,13 @@
       <head>Arrangement of the Collection</head>
       <p>These records are organized into two series: 1. Reports, 2.
                 Student Plays, 3. Videos, and 4. Theatre Program at
-                Marist College</p>
+                Marist University</p>
     </arrangement>
     <userestrict>
       <head>Notice of Copyright</head>
       <p>Individuals requesting reproductions expressly assume the responsibility for
                 compliance with all pertinent provisions of the Copyright Act, 17 U.S.C. ss101 et
-                seq. Patrons further agree to indemnify and hold harmless the Marist College
+                seq. Patrons further agree to indemnify and hold harmless the Marist University
                 Archives and Special Collections and its staff in connection with any disputes
                 arising from the Copyright Act, over the reproduction of material at the request of
                 patrons. For more information please visit the following website:
@@ -1974,7 +1974,7 @@
       <c01 level="series">
         <did>
           <unitid>4</unitid>
-          <unittitle>4. Theatre Program at Marist College </unittitle>
+          <unittitle>4. Theatre Program at Marist University </unittitle>
           <physdesc>
             <extent type="boxes">Box: 25</extent>
             <extent type="folders">Folders: 1 - 5</extent>
@@ -1998,7 +1998,7 @@
         <c02 level="file">
           <did>
             <container type="folder">3</container>
-            <unittitle>From the Top: A Short History of Theatre at Marist College, with
+            <unittitle>From the Top: A Short History of Theatre at Marist University, with
                             the records of student productions from 1960 to 2008 - Cox, Gerard
                             A.</unittitle>
             <container type="box">25</container>

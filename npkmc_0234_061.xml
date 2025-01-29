@@ -11,7 +11,7 @@
           </author>
       </titlestmt>
       <publicationstmt>
-        <publisher>Marist College <lb/>Archives and Special Collections </publisher>
+        <publisher>Marist University <lb/>Archives and Special Collections </publisher>
         <address>
           <addressline>3399 North Road <lb/>Poughkeepsie, NY 12601 <lb/>Phone: 845-575-5217
             <lb/>Fax: 845-575-3150 <lb/>Email: library.archives@marist.edu<lb/>Website:
@@ -48,17 +48,17 @@
         <language>Material is in English</language>
       </langmaterial>
       <repository>
-        <corpname>Marist College <lb/>Archives and Special Collections </corpname>
+        <corpname>Marist University <lb/>Archives and Special Collections </corpname>
       </repository>
       <abstract> Published in 2017, The Voice of America: Lowell Thomas and the Invention of 20th Century Journalism by Mitchell Stephens is the first completed biography ever written on Lowell Thomas, an innovative journalist of the 20th century. The Mitchell Stephens Papers Collection includes research materials and drafts for the biography.</abstract>
-      <physloc>Please contact the Marist College Archives and Special Collections for information
+      <physloc>Please contact the Marist University Archives and Special Collections for information
         regarding use and access of this collection.</physloc>
     </did>
     <!--description looks realy good! I added two small things in (see comments above). But everything looks really good and is well described!-->
     <acqinfo>
       <head>Acquisitions Information</head>
       <!--missing Acquisitions information. Mitch donated the collection to ASC in December 2022. -->
-      <p>Collection was donated to Marist College Archives and Special Collections by Mitchell Stephens on December 1, 2022.</p>
+      <p>Collection was donated to Marist University Archives and Special Collections by Mitchell Stephens on December 1, 2022.</p>
     </acqinfo>
     <accruals>
       <head>Accruals Information</head>
@@ -76,7 +76,7 @@
       <head>Notice of Copyright</head>
       <p>Individuals requesting reproductions expressly assume the responsibility for compliance
         with all pertinent provisions of the Copyright Act, 17 U.S.C. ss101 et seq. Patrons further
-        agree to indemnify and hold harmless the Marist College Archives and Special Collections and
+        agree to indemnify and hold harmless the Marist University Archives and Special Collections and
         its staff in connection with any disputes arising from the Copyright Act, over the
         reproduction of material at the request of patrons. For more information please visit the
         following website: http://www.loc.gov/copyright/title17/.</p>
@@ -85,7 +85,7 @@
       <head>Preferred Citation</head>
       <p>[Description of item, date, location of item in order of series, box number, folder number
         ], in the Mitchell Stephens Papers, Archives and Special Collections, James A. Cannavino Library,
-        Marist College.</p>
+        Marist University.</p>
     </prefercite>
     <!--<relatedmaterial>
       <head>Related Collections</head>
@@ -96,7 +96,7 @@
     </relatedmaterial>-->
     <bioghist>
       <head>Historical Note</head>
-      <p>Mitchell Stephens was born on August 16, 1949 in New York City. Stephens is a NYU Professor of Journalism and Mass Communication and author of numerous articles and 8 books including The New York Times "Notable Book of the Year,” A History of News. Before working on The Voice of America, Mitchell Stephens was interviewed by director Richard Moulton on a documentary he was doing on Lowell Thomas. Mitchell Stephens would work with Moulton again on the documentary Voice of America: Lowell Thomas and the Rise of Broadcast News (2019) in which Anne T. Donaghy, the granddaughter of Lowell Thomas, was an executive producer. While conducting projects with Richard Moulton, Mitchell Stephens began researching and writing The Voice of America. Stephens began researching and drafting the Lowell Thomas biography in 2014. While researching for the Lowell Thomas biography, Mitchell Stephens traveled to Ohio, Colorado, Yukon, Alaska and many of the same places Lowell Thomas visited and reported. Although Stephens did not read the manuscript drafts, he would consult the outline of the unfinished Lowell Thomas biography by Fred Crawford as the basis for his own book. Stephens would also consult many original materials including journals, travelogues, correspondences, photographs, and footage within the Lowell Thomas Collection at the Archives and Special Collections at Marist College.</p>
+      <p>Mitchell Stephens was born on August 16, 1949 in New York City. Stephens is a NYU Professor of Journalism and Mass Communication and author of numerous articles and 8 books including The New York Times "Notable Book of the Year,” A History of News. Before working on The Voice of America, Mitchell Stephens was interviewed by director Richard Moulton on a documentary he was doing on Lowell Thomas. Mitchell Stephens would work with Moulton again on the documentary Voice of America: Lowell Thomas and the Rise of Broadcast News (2019) in which Anne T. Donaghy, the granddaughter of Lowell Thomas, was an executive producer. While conducting projects with Richard Moulton, Mitchell Stephens began researching and writing The Voice of America. Stephens began researching and drafting the Lowell Thomas biography in 2014. While researching for the Lowell Thomas biography, Mitchell Stephens traveled to Ohio, Colorado, Yukon, Alaska and many of the same places Lowell Thomas visited and reported. Although Stephens did not read the manuscript drafts, he would consult the outline of the unfinished Lowell Thomas biography by Fred Crawford as the basis for his own book. Stephens would also consult many original materials including journals, travelogues, correspondences, photographs, and footage within the Lowell Thomas Collection at the Archives and Special Collections at Marist University.</p>
     </bioghist>
     <arrangement>
       <head>Arrangement of the Collection</head>
@@ -105,7 +105,7 @@
     <scopecontent>
       <!-- missing scope and content note-->
       <head>Collection Overview</head>
-      <p>This collection consists of materials created or saved by Mitchell Stephens, including his manuscript drafts and notes for The Voice of America: Lowell Thomas and the Invention of 20th Century Journalism, as well as articles on journalism and communication. Much of the collection consists of copies from the Lowell Thomas Collection at Marist College that have been annotated by Stephens. The collection also includes correspondence between Stephens and Richard Moulton and Anne T. Donaghy.</p>
+      <p>This collection consists of materials created or saved by Mitchell Stephens, including his manuscript drafts and notes for The Voice of America: Lowell Thomas and the Invention of 20th Century Journalism, as well as articles on journalism and communication. Much of the collection consists of copies from the Lowell Thomas Collection at Marist University that have been annotated by Stephens. The collection also includes correspondence between Stephens and Richard Moulton and Anne T. Donaghy.</p>
     </scopecontent>
     <dsc type="combined">
       <head>Deatiled Description of the Collection</head>
@@ -1650,7 +1650,7 @@
             </physdesc>
           </did>
           <scopecontent>
-            <p>Series contains information regarding the Fred Crawford papers at Marist College includes a copy of Crawfords list of Books by Lowell Thomas. Also included is a copy of Good Evening Everybody by Lowell Thomas.</p>
+            <p>Series contains information regarding the Fred Crawford papers at Marist University includes a copy of Crawfords list of Books by Lowell Thomas. Also included is a copy of Good Evening Everybody by Lowell Thomas.</p>
           </scopecontent>
           <arrangement>
             <p>Alphabetical</p>

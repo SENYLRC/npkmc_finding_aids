@@ -11,7 +11,7 @@
 					2022</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>Marist College<lb/>Archives and Special Collections</publisher>
+        <publisher>Marist University<lb/>Archives and Special Collections</publisher>
         <address>
           <addressline>3399 North Road 
 						<lb/>Poughkeepsie, NY 12601 
@@ -47,7 +47,7 @@
         <extent type="size">98 Linear Feet</extent>
       </physdesc>
       <repository>
-        <corpname>Marist College Archives and Special Collections</corpname>
+        <corpname>Marist University Archives and Special Collections</corpname>
       </repository>
       <origination label="creator">
         <persname>Fred Crawford</persname>
@@ -67,7 +67,7 @@
 				maintained in an orderly fashion by Fred Crawford. The lone exception to this is
 				Series 2 which may have been the material Crawford was currently working on as well
 				as assorted on-hand and reference material. While the order within most of the file
-				series was not maintained during the transport to Marist College, the original order
+				series was not maintained during the transport to Marist University, the original order
 				was recreated during processing based on the detail of Crawford’s original folder
 				descriptions. These descriptions were maintained when possible with alterations made
 				only for consistency and completion. Misfiles that appeared to be organic were
@@ -82,7 +82,7 @@
 				collection to another researcher that would take up the challenge of a Thomas
 				biography. She may or may not have contributed to the comprehensive labeling and
 				organization of the collection. After she was unable to find a buyer, she donated
-				the collection to Marist College in 2012.</p>
+				the collection to Marist University in 2012.</p>
     </acqinfo>
     <bioghist id="historical" encodinganalog="545">
       <head>Historical Note</head>
@@ -97,7 +97,7 @@
       <head>Notice of Copyright</head>
       <p>Individuals requesting reproductions expressly assume the responsibility for
 				compliance with all pertinent provisions of the Copyright Act, 17 U.S.C. ss101 et
-				seq. Patrons further agree to indemnify and hold harmless the Marist College
+				seq. Patrons further agree to indemnify and hold harmless the Marist University
 				Archives and Special Collections and its staff in connection with any disputes
 				arising from the Copyright Act, over the reproduction of material at the request of
 				patrons. For more information please visit the following website:
@@ -106,7 +106,7 @@
     <prefercite>
       <head>Preferred Citation</head>
       <p>[Description of item, date, location of item in order of series, box number, folder
-			    number ], in the Fred Crawford Papers, Archives and Special Collections, James A. Cannavino Library, Marist College.</p>
+			    number ], in the Fred Crawford Papers, Archives and Special Collections, James A. Cannavino Library, Marist University.</p>
     </prefercite>
     <arrangement>
       <p>Collection is arranged into thirteen series: 1) Original Material from Lowell Thomas Papers, has three subseries, 2) Fred Crawford mixed research and reference file, 3) IOC File: Individual research correspondence, 4) AC: Administrative Correspondence, 5) External research file, 6) Lowell Thomas papers research file, 7) AMT File, 8) Marianna Munn Thomas file, 9) Boxed chronological materials, has four subseries, 10) Photographs, 11) Objects, 12) Audio Recordings, has eight subseries, and 13) Video Tapes</p>
@@ -10524,7 +10524,7 @@
         <c02 level="file">
           <did>
             <container type="folder">11</container>
-            <unittitle>Marist College</unittitle>
+            <unittitle>Marist University</unittitle>
             <unitdate label="Date">1997</unitdate>
             <container type="box">42</container>
           </did>
@@ -40101,7 +40101,7 @@
           <c03 level="file">
             <did>
               <container type="folder">5</container>
-              <unittitle>Cataloging of Marist College Collection - Lowell Jackson Thomas
+              <unittitle>Cataloging of Marist University Collection - Lowell Jackson Thomas
 			                (By Bill Booker 11/95) #1 of 2</unittitle>
               <unitdate label="Date">1995</unitdate>
               <container type="box">195</container>
@@ -40110,7 +40110,7 @@
           <c03 level="file">
             <did>
               <container type="folder">6</container>
-              <unittitle>Cataloging of Marist College Collection - Lowell Jackson Thomas
+              <unittitle>Cataloging of Marist University Collection - Lowell Jackson Thomas
 			                (By Bill Booker 11/95) #2 of 2</unittitle>
               <unitdate label="Date">1995</unitdate>
               <container type="box">195</container>

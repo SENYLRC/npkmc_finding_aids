@@ -10,7 +10,7 @@
 					Singh, 20XX; Finding Aid Encoding updated by: Abigail Bowen, 2022</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>Marist College <lb/>Archives and Special Collections </publisher>
+        <publisher>Marist University <lb/>Archives and Special Collections </publisher>
         <address>
           <addressline>3399 North Road <lb/>Poughkeepsie, NY 12601 <lb/>Phone:
 						845-575-5217 <lb/>Fax: 845-575-3150 <lb/><lb/>Email: library.archives@marist.edu<lb/>Website:
@@ -43,7 +43,7 @@
         <extent type="size">1 Linear Foot</extent>
       </physdesc>
       <repository>
-        <corpname>Marist College Archives and Special Collections</corpname>
+        <corpname>Marist University Archives and Special Collections</corpname>
       </repository>
       <origination label="creator">
         <persname>Brother Gerard Matthew
@@ -56,7 +56,7 @@
       <langmaterial>
         <language langcode="eng">English</language>
       </langmaterial>
-      <physloc>Please contact the Marist College Archives and Special Collections for
+      <physloc>Please contact the Marist University Archives and Special Collections for
 				information regarding use and access of this collection.</physloc>
     </did>
     <scopecontent>
@@ -66,7 +66,7 @@
 				and newspaper articles on Marist and local historical sites.</p>
     </scopecontent>
     <acqinfo>
-      <p>The Weiss Papers was donated to Marist College Library in memory of Brother Gerard
+      <p>The Weiss Papers was donated to Marist University Library in memory of Brother Gerard
 				Matthew Weiss.</p>
     </acqinfo>
     <bioghist encodinganalog="545">
@@ -74,7 +74,7 @@
       <p>Brother Gerard Matthew Weiss was a long-time Spanish language professor at Marist
 				College. He received his Bachelor of Arts Degree from Marian College (now Marist
 				College) in 1949 and his Masters Degree from St. John’s University. From 1957-1975
-				Brother Gerard was Professor of Spanish at Marist College and during that period of
+				Brother Gerard was Professor of Spanish at Marist University and during that period of
 				time he founded the Department of Modern Languages. In 1973, he left the Marist
 				Order, but continued on at Marist. Because of Brother Gerard’s dedication to the
 				teaching of modern languages, a Modern Language Lab in the James A. Cannavino
@@ -91,7 +91,7 @@
       <head>Notice of Copyright</head>
       <p>Individuals requesting reproductions expressly assume the responsibility for
 				compliance with all pertinent provisions of the Copyright Act, 17 U.S.C. ss101 et
-				seq. Patrons further agree to indemnify and hold harmless the Marist College
+				seq. Patrons further agree to indemnify and hold harmless the Marist University
 				Archives and Special Collections and its staff in connection with any disputes
 				arising from the Copyright Act, over the reproduction of material at the request of
 				patrons. For more information please visit the following website:
@@ -101,7 +101,7 @@
       <head>Preferred Citation</head>
       <p>[Description of item, date, location of item in order of series, box number, folder
 				number ], in the Brother Gerard Matthew Weiss Papers, Archives and Special
-				Collections, James A. Cannavino Library, Marist College.</p>
+				Collections, James A. Cannavino Library, Marist University.</p>
     </prefercite>
     <arrangement>
       <head>Arrangement of the Collection</head>
@@ -2164,7 +2164,7 @@
         <c02 level="file">
           <did>
             <container type="folder">21</container>
-            <unittitle>Newspaper clippings on Marist College not numbered for
+            <unittitle>Newspaper clippings on Marist University not numbered for
 							inventory</unittitle>
             <container type="box">3</container>
           </did>
